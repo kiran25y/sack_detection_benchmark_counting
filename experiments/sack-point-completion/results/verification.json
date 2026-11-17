@@ -1,0 +1,10 @@
+{
+  "state": "verified",
+  "optimizer_steps": [
+    420,
+    420
+  ],
+  "features": 65,
+  "archive": "3193113cf85aff2813b4f2524ba69aac477175813078084f0c2e3903c68933bc",
+  "verified_at": "2026-11-09T13:49:39.704389+09:00"
+}

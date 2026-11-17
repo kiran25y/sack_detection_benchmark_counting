@@ -1,0 +1,41 @@
+{
+  "client_kst": "2026-11-05T13:23:13.454296+09:00",
+  "checks": {
+    "native_labels_and_input_fields_unchanged": true,
+    "all195_arrays_count_and_GAME1_2_3_independently_recomputed": true,
+    "all_development_MAE_RMSE_bias_recomputed": true,
+    "positive_sparse_and_empty_spatial_spotchecks": true
+  },
+  "maximum_arithmetic_difference": 5.009326287108706e-13,
+  "spots": {
+    "dev_00": {
+      "prediction": 16.24974425160741,
+      "error": 16.24974425160741,
+      "AE": 16.24974425160741,
+      "GAME1": 16.24974425160741,
+      "GAME2": 16.24974425160741,
+      "GAME3": 16.249744251607407
+    },
+    "dev_01": {
+      "prediction": 21.079652725170888,
+      "error": 0.07965272517088806,
+      "AE": 0.07965272517088806,
+      "GAME1": 6.286022027281084,
+      "GAME2": 10.585207363306447,
+      "GAME3": 17.861308118748614,
+      "spatial_precision": 0.08486116191130981,
+      "spatial_recall": 0.08518303918785285
+    },
+    "D12_00": {
+      "prediction": 15.86219346422688,
+      "error": 13.86219346422688,
+      "AE": 13.86219346422688,
+      "GAME1": 13.862193464226879,
+      "GAME2": 14.944416087895954,
+      "GAME3": 16.636531723864078,
+      "spatial_precision": 0.0042152582053745806,
+      "spatial_recall": 0.0334316205776607
+    }
+  },
+  "model_or_optimizer_calls": 0
+}

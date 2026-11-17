@@ -1,0 +1,29 @@
+{
+  "time_kst": "2026-11-09T11:57:11.179166+09:00",
+  "completed": true,
+  "forwards": 65,
+  "optimizer_updates": 0,
+  "params_unchanged": true,
+  "archive_sha256": "2545c5cdfa17924955b80a805e790151b934f921fbfa8642d4a19d171778505c",
+  "report_sha256": "200e5e88ddfbdfed78600750937341f098223e9ae804425f2d329fa7fe3d88b3",
+  "runtime": {
+    "state": "completed",
+    "host_time": 1794221851.6841888,
+    "exit_code": 0,
+    "docker_state": {
+      "Status": "exited",
+      "Running": false,
+      "Paused": false,
+      "Restarting": false,
+      "OOMKilled": false,
+      "Dead": false,
+      "Pid": 0,
+      "ExitCode": 0,
+      "Error": "",
+      "StartedAt": "2026-11-09T10:57:11.77796104Z",
+      "FinishedAt": "2026-11-09T10:57:31.474243376Z"
+    },
+    "guard_stop": null,
+    "elapsed_seconds": 20.016468975925818
+  }
+}

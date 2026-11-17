@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "frozen_kst": "2026-11-04T15:09:04.036464+09:00",
+  "purpose": "Missing pretrained predictions on the fixed23 native development frames; no experiment replay or model update",
+  "query_ids": [
+    "dev_00",
+    "dev_01",
+    "dev_02",
+    "dev_03",
+    "dev_04",
+    "dev_05",
+    "dev_06",
+    "dev_07",
+    "dev_08",
+    "dev_09",
+    "dev_10",
+    "D27_00",
+    "D27_01",
+    "D27_02",
+    "D27_03",
+    "D27_04",
+    "D27_05",
+    "D27_06",
+    "D27_07",
+    "D12_00",
+    "D12_01",
+    "D12_02",
+    "D12_03"
+  ],
+  "calls": {
+    "countgd_preflight": 4,
+    "geco_preflight": 8,
+    "countgd_bank": 23,
+    "geco_bank": 23
+  },
+  "max_model_calls": 58,
+  "optimizer_steps": 0,
+  "persistent_steps": 0,
+  "truth_transferred": false,
+  "full_cohort_scoring": "Withheld until all12 new development labels are exhaustive. Original11 may be scored separately, explicitly reused development.",
+  "references": [
+    {
+      "reference_id": "sack_004",
+      "image": "inputs/assets/sack_004.png",
+      "sha256": "f2da79f1c01d1e74210d987f5847fae0b21ecfadbeec2e3a93f1c76649ad966e",
+      "source_image_sha256": "40bcb1064377a87791ab6569ca51becb5db86a8d0b4461e4cae09e4c5d6c8adb",
+      "source_frame": "004",
+      "source_box_xyxy": [
+        952,
+        801,
+        1077,
+        905
+      ],
+      "split": "train",
+      "dependency_group": "ipic_dependency_b778d9b86516",
+      "target": "filled_sack"
+    },
+    {
+      "reference_id": "sack_017",
+      "image": "inputs/assets/sack_017.png",
+      "sha256": "2bb833a9db5cc0fa30307328e5e62104f3d869504cae6d4a2d57a815280517ff",
+      "source_image_sha256": "4d6f4b905e24a46db090e0b79266dd40314d9db9b7e4abb2f9fb8084e0d0a6ff",
+      "source_frame": "017",
+      "source_box_xyxy": [
+        873,
+        724,
+        992,
+        812
+      ],
+      "split": "train",
+      "dependency_group": "ipic_dependency_b778d9b86516",
+      "target": "filled_sack"
+    }
+  ],
+  "reference_atlas": {
+    "boxes": [
+      [
+        32,
+        32,
+        157,
+        136
+      ],
+      [
+        189,
+        32,
+        308,
+        120
+      ]
+    ],
+    "size": [
+      340,
+      168
+    ],
+    "sha256": "a5d65102cacc436f0619c54cd4e334113dfec60672fe158b8144b158f90dd69f",
+    "pixels_preserved": true,
+    "padding_rgb": [
+      124,
+      116,
+      104
+    ],
+    "packing": "32pixel outer and between-crop gaps, no resizing"
+  },
+  "countgd": "Unchanged author visual-only external-exemplar API, empty text, no negatives, original.23 threshold, no enhanced cropping/SAM normalization; two refs packed without resizing.",
+  "geco": "Disclosed external-reference adapter, not official native GeCo2: reference atlas at native query scale, frozen separate backbone, substitute three ROI levels; native query/head/refinement/postprocess. Native same-image identity parity is required. Context/packing differs from in-image native prompts.",
+  "comparator_limits": "Same reference pixels/ROI/images, but different pretraining, model size, preprocessing and inference cost; not matched capacity. These are frozen pretrained references, not target-adapted baselines.",
+  "scope": "Full native query; count/localize centers in the same fixed camera ROI. No GT mask/point filtering.",
+  "repeat_tolerance": {
+    "rtol": 1e-05,
+    "atol": 1e-06
+  },
+  "guards": {
+    "admission_GiB": 48,
+    "checks": 2,
+    "interval_seconds": 30,
+    "stop_GiB": 32,
+    "disk_GiB": 100,
+    "container_GiB": 24,
+    "cpus": 2,
+    "extra_swap": 0,
+    "hours": 4,
+    "automatic_retry": false
+  },
+  "prior_audit_sha256": "c07a0dfcdde02f4cfef1362d37cf33bac2741e2d6072a2392037c5ba1cea4a9f",
+  "no_reserved_images": true,
+  "no_threshold_search": true,
+  "no_novelty_claim": true
+}

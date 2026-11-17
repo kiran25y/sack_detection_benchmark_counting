@@ -1,0 +1,10 @@
+{
+  "client_kst": "2026-11-06T12:44:25.897970+09:00",
+  "frozen_analyzer_preserved": true,
+  "original_sha256": "6d206ea62d9063a87f807b94ca3be47479ac703b1210bfbdf7e607b148275ba1",
+  "amended_analyzer_sha256": "ebc91bc72c2c96ecf44808786181639120667c4fbdf5dd6cd5a3526340fc5a4d",
+  "reason": "One float32 summation unit across platform implementations: T04_05 final reported149.0764617919922, local32 149.07647705078125, reference64 149.07646866390132. Old relative tolerance1e-7 failed by 2.36%; this is not a primary count or accuracy metric.",
+  "change": "Only diagnostic sum cross-check uses float64 reference and maximum two float32 ULP error. No count/F1/GAME/threshold/gate or model/result change. All original files preserved.",
+  "original_failure": "AssertionError at diagnostic np.isclose(q.sum(),e[soft_count],rtol=1e-7,atol=1e-7)",
+  "scientific_outcome_not_rescued": true
+}

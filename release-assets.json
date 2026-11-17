@@ -1,0 +1,26 @@
+[
+  {
+    "file": "visible-sack-counting-v1.zip",
+    "bytes": 197961170,
+    "sha256": "86fec08d523fadcbab6f18bdb14c33657374243e5d02a7a91c9b703a781c2242",
+    "download": "https://github.com/kiran25y/sack_detection_benchmark_counting/releases/download/sack-benchmark-v1/visible-sack-counting-v1.zip"
+  },
+  {
+    "file": "Sackdetection.v1i.yolo26.zip",
+    "bytes": 1606451383,
+    "sha256": "560817da67352371e895d7bc96977c5e6b0e04391ae628abe1c1f8d7f725996f",
+    "download": "https://github.com/kiran25y/sack_detection_benchmark_counting/releases/download/sack-benchmark-v1/Sackdetection.v1i.yolo26.zip"
+  },
+  {
+    "file": "sack-experiment-outputs.zip",
+    "bytes": 815174193,
+    "sha256": "e794247649afae0c970e41b4bc3397e75d2e6a59819fdef0e207338245e68ab8",
+    "download": "https://github.com/kiran25y/sack_detection_benchmark_counting/releases/download/sack-benchmark-v1/sack-experiment-outputs.zip"
+  },
+  {
+    "file": "banks.tar",
+    "bytes": 193392640,
+    "sha256": "e3e5dec40166426d0c6db75b20a435d6899bdc625671e586783eb25383505855",
+    "download": "https://github.com/kiran25y/sack_detection_benchmark_counting/releases/download/sack-benchmark-v1/banks.tar"
+  }
+]

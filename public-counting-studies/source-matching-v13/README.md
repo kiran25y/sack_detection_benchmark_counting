@@ -1,0 +1,69 @@
+# Source matching adaptation V13
+
+## October 20 completed frozen decoder sensitivity audit
+
+The owner authorized the previously prepared diagnostic, which has now completed96/96 probes on the same48 fitting queries per checkpoint, zero optimization, no GPU, and unchanged model weights. All94 release-file hashes and96 saved-array hashes verify. Native decoder replay is exact; prior CPU counts are reproduced exactly. Complete findings and limits, result receipt.
+
+Only one extra point shares a native128-grid cell among5,267 points; this does not support a broad target-bin collision explanation in these rows. Dense decoder count sensitivity remains nonzero at all three matching levels, with L2 means2.9976/3.4770/2.1042 for V11 versus2.8027/2.7552/2.0498 for V13. Infinitesimal KL-descent directions favor lower absolute count error on only6/16,6/16,8/16 V13 dense rows by level, despite favorable mean derivatives. Alignment and count correction are not consistently coupled. These are local partial derivatives with other inputs fixed, at each checkpoint's own activations, not a causal explanation or demonstrated repair.
+
+Retain V11 and preserve V13's negative validation result. The proposal-only wording below is historical and superseded for this completed diagnostic. No new fit, sweep, seed or reserved scoring is launched or authorized. The two-hour heartbeat remains active and quiet on unchanged results.
+
+## October 17 completed V13 outcome
+
+V13 completed all 56 epochs and all 1,286 unchanged native validation queries; Docker exited 0. MAE **15.8180040460** exceeds V11 **12.4936851324** by **3.3243189136**, CountGD++ global **8.8367029549** by **6.9813010911**, and GeCo2 global **9.4167962675** by **6.4012077785**. V13-minus-V11 paired image-group 95% CI is [1.5633117746, 5.2651804863], category-component CI [0.3939671796, 6.6967041047]. Both global comparisons also have strictly positive grouped intervals.
+
+The useful-gain gate fails. RMSE rose 52.7660 to 68.3560; GAME1/2 rose 14.1883/17.0852 to 17.2857/19.4113; class-macro MAE rose 11.9028 to 13.4468. Sparse MAE improved 2.5605 to 2.0249, but dense MAE worsened 86.1754 to 113.5891, with dense bias -92.9356. Overall bias is -12.1408. Training epochs total 18.1567 hours under shared GPU activity; this is not exclusive end-to-end timing. Training MAE 6.4128 is not native accuracy.
+
+Retain V11 and preserve V13 as a negative result. The authorized zero-optimization CPU diagnostic completed 96 probes successfully in fresh release `matching-outcome-audit-v13-v1`, container `source-matching-outcome-audit-v13`, on the exact V12 48 fitting rows per checkpoint, one CPU and 6 GiB, with no GPU allocation. No replacement fit, sweep, extra seed or reserved scoring is launched. Complete measured result and grouped intervals. Reused validation and exact-image/category groups do not establish independent generalization or scene independence.
+
+The completed CPU audit uses exactly 48 prior fitting rows per checkpoint. Mean matching KL improved in all nine level/stratum combinations. Middle-level point-location AUROC worsened in every stratum; dense decoded AUROC fell 0.98307 to 0.97340 and normalized decoded KL rose 1.43341 to 1.79691. Dense fitting MAE improved 28.06213 to 19.58922, but signed bias changed +28.06213 to -19.58922; this small seen-data cohort does not override worse native validation. Overall fitting MAE is 12.70154 versus 9.49829, and decoded AUROC 0.93447 versus 0.93986. These are location/fitting diagnostics, not classification accuracy or independent evidence. Audit receipt.
+
+One next proposal is prepared: on these same 48 fitting rows, measure frozen-model derivatives of count and regional mass with respect to the three existing matching fields, together with point-cell multiplicity and mass residuals. Use zero optimization and both checkpoints, aggregate by the fixed strata, and avoid tuning or selecting a favorable subset. This could distinguish sensitivity to matching distribution from count-amplitude behavior; it cannot prove a causal failure from association alone. The proposal is not launched. No replacement fit, coefficient sweep, failed-arm repetition or reserved scoring follows automatically.
+
+The owner authorized one audit-informed matched adaptation on October 16. Preserve the useful V11 fine-matching gain: native source-validation MAE12.4936851324, RMSE52.7660160755, all1,286 queries. CountGD++ global8.8367 and GeCo2 global9.4168 remain better. This experiment tests a bounded hypothesis; it does not claim a proven cause, novelty or an independent gain.
+
+## Evidence and selected hypothesis
+
+V12 completed96 fitting probes:48 fixed source-fitting rows per V11 model, with no optimization and no held selection rows. Candidate decoded point-location AUROC averages0.93447, with dense0.98307; dense fitting-probe MAE remains28.06. Intermediate matching is uneven: dense level0/1/2 AUROCs approximately0.854/0.928/0.846. A good decoded ranking does not establish correct instance amplitude or semantic discrimination. These are CPU FP32 fitting probes from full-source refits, not held-class accuracy, classification AUROC or instanceAP.
+
+A supplementary CPU derivative audit on the same48 fitting rows tested whether the local density loss opposes count correction under uniform predicted-mass scaling. It did so in only4/48 examples (2sparse,2middle,0dense); the complete objective opposed count correction in0/48. Therefore the proposed count-normalized local-loss repair was **not selected or trained**. Its diagnostic formula and receipts are preserved. Radial output derivatives do not establish full parameter-gradient behavior.
+
+The selected test adds direct location-distribution supervision to the three **existing actual matching score fields**, aiming to make their signal less dependent on the final decoder. This is a limited hypothesis motivated by uneven intermediate alignment; the audit does not prove that it will improve unseen-class counts. No new encoder, adapter, gate or count multiplier is added. All existing trainable adapters and decoder remain trainable as in V11; the frozen SAM2 encoder stays frozen.
+
+## Frozen intervention
+
+Retain V11 fine128 matching,128/64/32 cached query grids, byte-preserved native exemplar fields and the470,359-parameter model. A read-only forward hook collects the three average part-score channels already measured by V12. The ordinary forward and inference outputs are unchanged.
+
+Native point multiplicity is retained. The existing mass-conserving3x3 blur forms a per-image target location distribution. At each matching level, spatial softmax of four times the score produces a predicted distribution. Average KL(target distribution || predicted distribution) across levels and positive-count images is added with coefficient1 to the **unchanged** V11 count/regional/CDF/local-mass objective. Empty images contribute zero auxiliary loss and retain their original count loss. Scale4 reuses the existing part-matching logit scale; weight1 is frozen before native evaluation. No sweep is authorized. This location distribution does not provide semantic background-object masks or inference count labels.
+
+Supervised similarity and representation matching already have close precedents: [BMNet](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_Represent_Compare_and_Learn_A_Similarity-Aware_Framework_for_Class-Agnostic_Counting_CVPR_2022_paper.html) and [URM](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Single_Domain_Generalization_for_Few-Shot_Counting_via_Universal_Representation_Matching_CVPR_2025_paper.html). Normalized density/count decompositions also predate this work, including [DM-Count](https://arxiv.org/abs/2009.13077). None of these ingredients alone is a novelty claim.
+
+## Matched exposure and preserved control
+
+Both arms use all3,653 eligible source-training rows, identical native labels/exemplars/cache, model capacity, fresh seed2027 initialization, source-count initialization, batch ordering/batch8, AdamW5e-4 with weight decay1e-4, gradient clipping1, BF16 autocast with FP32 mass/loss and TF32 disabled.
+
+The common refit budget is **56 epochs**, the epoch selected by V11's original source class-held procedure. The new candidate has no additional epoch search. This deliberately supersedes the earlier conditional plan's allowance for different selected refit durations: both compared checkpoints now have204,568 source-image exposures and25,592 optimizer steps. The budget is inherited from source-training class-held selection, not selected using native validation or target labels. No claim is made that this is the optimal budget for the candidate.
+
+The completed V11 fine128 model is reused as the exact protocol control, avoiding an unnecessary duplicate fit. Its checkpointSHA is `b68575c2f8a5db826eed1964dffbccc7d98449823a19822fba5578185c3c6af5`, predictionSHA `874a7a75a85137e8520793918ad9720a002c25bc38bbdab32ed75d3e2786ea18`. Hashes, training identity, cache identity and the source-selected epoch are guarded before optimization. The auxiliary adds training computation; equal exposure/capacity is not a measured equal-wall-time claim. A repeated-seed stochastic estimate and independent confirmation remain absent.
+
+Before the run, real fitting-row CPU/CUDA forward, auxiliary-gradient, original-training-update and optimizer/RNG recovery guards must pass. The first guard failed because the harness omitted the captured seed; the second rejected bitwise CUDA update equality. Both releases/outputs remain intact. The next guard measures unchanged-original repeats as well as original-versus-wrapper differences with explicit numerical tolerances; it must not call numerical agreement bitwise identity. No failed guard supplies accuracy evidence.
+
+Final guard V13d passed. V13c first rejected a recovery-step difference1.59e-6 under an overly strict1e-6 absolute tolerance; this failure is preserved. V13d verifies serialization/model/optimizer/RNG **exactly before the next step**, then separately measures CUDA update variability: original-to-wrapper weights differ5.82e-11, unchanged-original repeats1.16e-10; restored next-step weights differ6.26e-7, in-memory repeats1.34e-6. All satisfy the recorded numerical limits. CUDA `grid_sample` backward can be nondeterministic, as documented by [PyTorch](https://docs.pytorch.org/docs/2.14/generated/torch.nn.functional.grid_sample.html); this explains why post-update bitwise identity is not the recovery contract. These are two-row engineering checks, not accuracy or all-data reproducibility.
+
+The guarded launcher started `full-matching-adaptation-v13` after the successful guard container exited. The immutable release contains89Python files, including63 unchanged V11 files. The input/cache hashes passed, and the initial refit0/56 recoverable state exists. Original and unrelated jobs remain untouched. Four focused tests also passed, including candidate-minus-control reporting direction and rejection of altered native labels. See launch receipt.
+
+## Evaluation and stopping rule
+
+After56 refit epochs, evaluate all1,286 unchanged reused native source-validation queries once. Report MAE/RMSE/bias, GAME1/2, class-macro and four count strata, plus paired exact-image and linked-category-component MAE intervals versus the56-epoch V11 control, CountGD++ global, GeCo2 global and native-unit. Native point conventions are unchanged; no fabricated AP or classification AUROC.
+
+The conservative useful-gain gate requires both candidate-minus-V11 MAE interval upper bounds belowzero and no point-estimate regression in RMSE, GAME1, class-macro or sparse MAE. All tradeoffs remain visible even if this gate fails. No automatic additional seed, second repair, target adaptation or reserved confirmation follows a failure. Inspect the completed comparison first. Even a pass remains reused-source development evidence.
+
+Code: `study/matching_adaptation_v13.py`, `study/matching_preflight_v13.py`, `study/run_matching_adaptation_v13.py`. Immutable release/output and launch receipts are recorded in the associated October16 protocol receipt. The existing two-hour heartbeat should notify only for a completed comparison, meaningful failure/diagnosis or required decision.
+
+## October 16 runtime inspection
+
+The owner requested continued training, notification with the three MAE comparisons, and preparation for either outcome. The outcome decision plan records the completion checks, useful-gain/tradeoff/failure branches and a compatible fitting-only follow-up diagnostic. It launches no additional fit and changes no active training settings.
+
+At 05:35 UTC (14:35 KST), V13 was running with two recoverably completed epochs. Each took approximately 1,118.4 seconds (18.64 minutes); the first epoch was representative. Status updates occur at epoch boundaries. The training process had 6,543 MiB GPU allocation and 19–25% SM activity in five samples while other jobs also used the GPU. Overall 95% GPU utilization cannot be attributed solely to this fit. CPU quota throttling totaled only 0.264 seconds; no OOM kill occurred. Eight CPU-only compressed-feature reads/copies averaged 57.5 ms each, suggesting nontrivial serial loading overhead but not establishing the dominant bottleneck.
+
+At the observed rate, 56 training epochs take about 17.4 hours total. Comparable V11 post-checkpoint training-metric and validation work took about 8.2 minutes. Estimated completion is around October 17 07:30 KST, allowing through approximately 09:30 for changing shared load; this is a two-epoch extrapolation, not a guaranteed window. Training and unrelated jobs were left unchanged. Native validation MAE remains pending. Full evidence and limitations: runtime receipt.

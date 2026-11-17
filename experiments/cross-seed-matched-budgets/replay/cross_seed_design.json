@@ -1,0 +1,19 @@
+{
+  "design": "Retrospective reviewer-requested analysis of saved anchor banks, fixed before computing this extension.",
+  "seeds": [
+    "1729",
+    "1730",
+    "1731"
+  ],
+  "splits": [
+    "development",
+    "test"
+  ],
+  "geometry": [
+    "each adapted seed",
+    "crowd-coordinate sensitivity"
+  ],
+  "ranking": "Crowd vs same-seed adapted score aligned by original anchor index. Stable descending score. Tie by native index. Use prior frozen development thresholds for frame counts. Pair rankings at exactly the same count within each frame.",
+  "budget_comparison": "Use two count rules from the verifier as practical quotas: A (raw count) and C (learned count). Also use the entire verifier bank size in each frame (seeds plus all eligible). Verifier keeps mandatory seeds then ranks eligible additions by raw or learned score. P2P uses the same per-frame total quotas and ranks by crowd or adapted score on each seed's coordinates. Also report crowd scores on crowd coordinates. Compute maximum-cardinality matching at 8 px after truncation. No truth in point selection.",
+  "uncertainty": "Paired total match differences under all ordered recording-group bootstrap resamples, 95% percentile, descriptive. Keep all per-group directions. Seeds share recordings. No new data, threshold selection, or fitting."
+}

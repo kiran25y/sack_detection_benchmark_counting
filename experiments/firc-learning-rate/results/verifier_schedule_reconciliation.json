@@ -1,0 +1,60 @@
+{
+  "reason": "Windows and DGX libm cosine rounding differs at three steps per arm. Exact DGX stdlib recomputation matches all 300 logged rates. No tolerance relaxation, training change, metric change or scientific gate change.",
+  "original_analysis_sha256": "fda094a6513e671c52964064463178f071ccb72acb2c55db58d2c4a4a8ea424f",
+  "frozen_analyzer_sha256": "2bc96863050983ba30e1f793f29b4398141269d8684aa33387a29d5c6c536271",
+  "schedule_receipt_sha256": "d6314cfe53c7136dfa45a37f02a6419eec1a29fa2f51ec1cc4ecb807d21ab7c3",
+  "reconciler_sha256": "843304fc479922c0d142edbf8347058acfc158ea0c54c0fc99ee6bb614834eb9",
+  "mismatches": [
+    {
+      "arm": "reference_lr",
+      "step": 49,
+      "logged_and_dgx_expected": 0.00017059512468514055,
+      "windows_expected": 0.00017059512468514052,
+      "absolute_difference": 2.710505431213761e-20,
+      "ulp_difference": 1
+    },
+    {
+      "arm": "reference_lr",
+      "step": 116,
+      "logged_and_dgx_expected": 3.140487531485949e-05,
+      "windows_expected": 3.14048753148595e-05,
+      "absolute_difference": 1.3552527156068805e-20,
+      "ulp_difference": 2
+    },
+    {
+      "arm": "reference_lr",
+      "step": 139,
+      "logged_and_dgx_expected": 5.225893273176484e-06,
+      "windows_expected": 5.225893273176473e-06,
+      "absolute_difference": 1.1011428314305904e-20,
+      "ulp_difference": 13
+    },
+    {
+      "arm": "lower_lr",
+      "step": 49,
+      "logged_and_dgx_expected": 1.7059512468514056e-05,
+      "windows_expected": 1.7059512468514053e-05,
+      "absolute_difference": 3.3881317890172014e-21,
+      "ulp_difference": 1
+    },
+    {
+      "arm": "lower_lr",
+      "step": 116,
+      "logged_and_dgx_expected": 3.1404875314859488e-06,
+      "windows_expected": 3.14048753148595e-06,
+      "absolute_difference": 1.2705494208814505e-21,
+      "ulp_difference": 3
+    },
+    {
+      "arm": "lower_lr",
+      "step": 139,
+      "logged_and_dgx_expected": 5.225893273176485e-07,
+      "windows_expected": 5.225893273176473e-07,
+      "absolute_difference": 1.164670302474663e-21,
+      "ulp_difference": 11
+    }
+  ],
+  "metrics_unchanged": true,
+  "scientific_decision_unchanged": true,
+  "no_new_model_or_optimizer_calls": true
+}

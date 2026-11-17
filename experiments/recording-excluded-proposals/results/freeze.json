@@ -1,0 +1,13 @@
+{
+  "time": "2026-11-09T14:03:20.616067+09:00",
+  "release": "f41f64c7be0ee846ca3030cfdb74943cd4a23cc5c458108d5bf4889f994bccbb",
+  "release_hashes": {
+    "controller.py": "cfd6c8a42f613ff351ea7ed389eca01e4e3c82e0870eda16b9a2db8eb943ede5",
+    "previous_code_hashes.json": "65c28e3c97ab34be70a90d9f2bfa8da61785c9ddb82e79d1fa8b979e099195f0",
+    "worker/point_utils.py": "7c55ab99e1bdc33f81ac6b4851fb2f70e379194c5d3a916a845ace5a20b9c874",
+    "worker/detector.py": "278174e5568a2c51940e51a2bcffbba652c794ea5b72616b7878234dde6188c7",
+    "worker/plan.json": "59b8334149ae7ce4e0a89dc6c02f6361bbb0a7fdb5b36cc7bdc5861b0c94f417"
+  },
+  "labels": "dfa95f1421e4b3c635e18880d95244ebf7af38c827706cb31b20f32d27c7253d",
+  "controls": "959238cc2195e427099be755a8adfb7c89250f0725a21df5888b2b7f06b344d7"
+}

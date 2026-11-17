@@ -1,0 +1,3544 @@
+{
+  "state": "verified_saved_prediction_rescore",
+  "verified_kst": "2026-11-04T16:15:38.812045+09:00",
+  "scored_queries": 23,
+  "true_sack_points": 355,
+  "development_groups": 2,
+  "source_manifest_sha256": "b3bdc6c619c5c59d6fa564857b081ba3da2b327e279860320bf596691581332c",
+  "owner_export_sha256": "462d33df495a4f43abdb37af8f429b16394abe1cadfe5e532b75411642d148fb",
+  "prior_analysis_sha256": "f5fef08458b43c181ca1698278780f0a9b1458408a8b046cdde0e914f5164c33",
+  "prediction_hashes": {
+    "countgd": "9dc38bf8e9245b7b478cfdff80f244b3ce628f348e22e03e67377e83807762b9",
+    "geco": "c9b3e0d4ab70698213f9ddecdb64a6a431af4d72a32be9a2ff100aeedbb33747"
+  },
+  "results": {
+    "countgd": {
+      "all": {
+        "n": 23,
+        "MAE": 11.73913043478261,
+        "RMSE": 14.986950845724888,
+        "bias": 2.782608695652174,
+        "GAME1": 17.47826086956522,
+        "GAME2": 20.434782608695652,
+        "macro_F1_8": 0.08669707135231418,
+        "pooled_F1_8": 0.14470284237726097,
+        "TP": 56,
+        "FP": 363,
+        "FN": 299
+      },
+      "positive": {
+        "n": 18,
+        "MAE": 13.722222222222221,
+        "RMSE": 16.718253497300488,
+        "bias": 2.2777777777777777,
+        "GAME1": 21.055555555555557,
+        "GAME2": 24.833333333333332,
+        "macro_F1_8": 0.11077959117240146,
+        "pooled_F1_8": 0.14913448735019974,
+        "TP": 56,
+        "FP": 340,
+        "FN": 299
+      },
+      "empty": {
+        "n": 5,
+        "MAE": 4.6,
+        "RMSE": 5.196152422706632,
+        "bias": 4.6,
+        "GAME1": 4.6,
+        "GAME2": 4.6,
+        "macro_F1_8": 0.0,
+        "pooled_F1_8": 0.0,
+        "TP": 0,
+        "FP": 23,
+        "FN": 0
+      },
+      "low_1_11": {
+        "n": 3,
+        "MAE": 8.0,
+        "RMSE": 9.092121131323903,
+        "bias": 8.0,
+        "GAME1": 14.0,
+        "GAME2": 15.333333333333334,
+        "macro_F1_8": 0.0,
+        "pooled_F1_8": 0.0,
+        "TP": 0,
+        "FP": 35,
+        "FN": 11
+      },
+      "higher_12_plus": {
+        "n": 15,
+        "MAE": 14.866666666666667,
+        "RMSE": 17.856838092637418,
+        "bias": 1.1333333333333333,
+        "GAME1": 22.466666666666665,
+        "GAME2": 26.733333333333334,
+        "macro_F1_8": 0.13293550940688173,
+        "pooled_F1_8": 0.15886524822695036,
+        "TP": 56,
+        "FP": 305,
+        "FN": 288
+      },
+      "per_image": [
+        {
+          "query_id": "dev_00",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 9,
+          "truth": 0,
+          "error": 9,
+          "AE": 9,
+          "GAME1": 9,
+          "GAME2": 9,
+          "point_4": {
+            "TP": 0,
+            "FP": 9,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 9,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 9,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "dev_01",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 34,
+          "truth": 21,
+          "error": 13,
+          "AE": 13,
+          "GAME1": 15,
+          "GAME2": 27,
+          "point_4": {
+            "TP": 3,
+            "FP": 31,
+            "FN": 18,
+            "precision": 0.08823529411764706,
+            "recall": 0.14285714285714285,
+            "F1": 0.10909090909090909
+          },
+          "point_8": {
+            "TP": 7,
+            "FP": 27,
+            "FN": 14,
+            "precision": 0.20588235294117646,
+            "recall": 0.3333333333333333,
+            "F1": 0.2545454545454545
+          },
+          "point_16": {
+            "TP": 13,
+            "FP": 21,
+            "FN": 8,
+            "precision": 0.38235294117647056,
+            "recall": 0.6190476190476191,
+            "F1": 0.4727272727272727
+          }
+        },
+        {
+          "query_id": "dev_02",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 49,
+          "truth": 33,
+          "error": 16,
+          "AE": 16,
+          "GAME1": 20,
+          "GAME2": 32,
+          "point_4": {
+            "TP": 1,
+            "FP": 48,
+            "FN": 32,
+            "precision": 0.02040816326530612,
+            "recall": 0.030303030303030304,
+            "F1": 0.024390243902439025
+          },
+          "point_8": {
+            "TP": 9,
+            "FP": 40,
+            "FN": 24,
+            "precision": 0.1836734693877551,
+            "recall": 0.2727272727272727,
+            "F1": 0.21951219512195122
+          },
+          "point_16": {
+            "TP": 14,
+            "FP": 35,
+            "FN": 19,
+            "precision": 0.2857142857142857,
+            "recall": 0.42424242424242425,
+            "F1": 0.34146341463414637
+          }
+        },
+        {
+          "query_id": "dev_03",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 26,
+          "truth": 27,
+          "error": -1,
+          "AE": 1,
+          "GAME1": 21,
+          "GAME2": 25,
+          "point_4": {
+            "TP": 4,
+            "FP": 22,
+            "FN": 23,
+            "precision": 0.15384615384615385,
+            "recall": 0.14814814814814814,
+            "F1": 0.1509433962264151
+          },
+          "point_8": {
+            "TP": 9,
+            "FP": 17,
+            "FN": 18,
+            "precision": 0.34615384615384615,
+            "recall": 0.3333333333333333,
+            "F1": 0.33962264150943394
+          },
+          "point_16": {
+            "TP": 12,
+            "FP": 14,
+            "FN": 15,
+            "precision": 0.46153846153846156,
+            "recall": 0.4444444444444444,
+            "F1": 0.4528301886792453
+          }
+        },
+        {
+          "query_id": "dev_04",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 2,
+          "truth": 30,
+          "error": -28,
+          "AE": 28,
+          "GAME1": 28,
+          "GAME2": 30,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 30,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 30,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 30,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "dev_05",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 47,
+          "truth": 21,
+          "error": 26,
+          "AE": 26,
+          "GAME1": 48,
+          "GAME2": 48,
+          "point_4": {
+            "TP": 2,
+            "FP": 45,
+            "FN": 19,
+            "precision": 0.0425531914893617,
+            "recall": 0.09523809523809523,
+            "F1": 0.058823529411764705
+          },
+          "point_8": {
+            "TP": 5,
+            "FP": 42,
+            "FN": 16,
+            "precision": 0.10638297872340426,
+            "recall": 0.23809523809523808,
+            "F1": 0.14705882352941177
+          },
+          "point_16": {
+            "TP": 9,
+            "FP": 38,
+            "FN": 12,
+            "precision": 0.19148936170212766,
+            "recall": 0.42857142857142855,
+            "F1": 0.2647058823529412
+          }
+        },
+        {
+          "query_id": "dev_06",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 37,
+          "truth": 18,
+          "error": 19,
+          "AE": 19,
+          "GAME1": 23,
+          "GAME2": 27,
+          "point_4": {
+            "TP": 1,
+            "FP": 36,
+            "FN": 17,
+            "precision": 0.02702702702702703,
+            "recall": 0.05555555555555555,
+            "F1": 0.03636363636363636
+          },
+          "point_8": {
+            "TP": 5,
+            "FP": 32,
+            "FN": 13,
+            "precision": 0.13513513513513514,
+            "recall": 0.2777777777777778,
+            "F1": 0.18181818181818182
+          },
+          "point_16": {
+            "TP": 8,
+            "FP": 29,
+            "FN": 10,
+            "precision": 0.21621621621621623,
+            "recall": 0.4444444444444444,
+            "F1": 0.2909090909090909
+          }
+        },
+        {
+          "query_id": "dev_07",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 35,
+          "truth": 23,
+          "error": 12,
+          "AE": 12,
+          "GAME1": 28,
+          "GAME2": 28,
+          "point_4": {
+            "TP": 3,
+            "FP": 32,
+            "FN": 20,
+            "precision": 0.08571428571428572,
+            "recall": 0.13043478260869565,
+            "F1": 0.10344827586206896
+          },
+          "point_8": {
+            "TP": 8,
+            "FP": 27,
+            "FN": 15,
+            "precision": 0.22857142857142856,
+            "recall": 0.34782608695652173,
+            "F1": 0.27586206896551724
+          },
+          "point_16": {
+            "TP": 11,
+            "FP": 24,
+            "FN": 12,
+            "precision": 0.3142857142857143,
+            "recall": 0.4782608695652174,
+            "F1": 0.3793103448275862
+          }
+        },
+        {
+          "query_id": "dev_08",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 52,
+          "truth": 18,
+          "error": 34,
+          "AE": 34,
+          "GAME1": 34,
+          "GAME2": 50,
+          "point_4": {
+            "TP": 2,
+            "FP": 50,
+            "FN": 16,
+            "precision": 0.038461538461538464,
+            "recall": 0.1111111111111111,
+            "F1": 0.05714285714285714
+          },
+          "point_8": {
+            "TP": 3,
+            "FP": 49,
+            "FN": 15,
+            "precision": 0.057692307692307696,
+            "recall": 0.16666666666666666,
+            "F1": 0.08571428571428572
+          },
+          "point_16": {
+            "TP": 5,
+            "FP": 47,
+            "FN": 13,
+            "precision": 0.09615384615384616,
+            "recall": 0.2777777777777778,
+            "F1": 0.14285714285714285
+          }
+        },
+        {
+          "query_id": "dev_09",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 17,
+          "truth": 19,
+          "error": -2,
+          "AE": 2,
+          "GAME1": 22,
+          "GAME2": 22,
+          "point_4": {
+            "TP": 0,
+            "FP": 17,
+            "FN": 19,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 17,
+            "FN": 19,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 1,
+            "FP": 16,
+            "FN": 18,
+            "precision": 0.058823529411764705,
+            "recall": 0.05263157894736842,
+            "F1": 0.05555555555555555
+          }
+        },
+        {
+          "query_id": "dev_10",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 20,
+          "truth": 34,
+          "error": -14,
+          "AE": 14,
+          "GAME1": 26,
+          "GAME2": 26,
+          "point_4": {
+            "TP": 5,
+            "FP": 15,
+            "FN": 29,
+            "precision": 0.25,
+            "recall": 0.14705882352941177,
+            "F1": 0.18518518518518517
+          },
+          "point_8": {
+            "TP": 6,
+            "FP": 14,
+            "FN": 28,
+            "precision": 0.3,
+            "recall": 0.17647058823529413,
+            "F1": 0.2222222222222222
+          },
+          "point_16": {
+            "TP": 8,
+            "FP": 12,
+            "FN": 26,
+            "precision": 0.4,
+            "recall": 0.23529411764705882,
+            "F1": 0.2962962962962963
+          }
+        },
+        {
+          "query_id": "D27_00",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 3,
+          "truth": 0,
+          "error": 3,
+          "AE": 3,
+          "GAME1": 3,
+          "GAME2": 3,
+          "point_4": {
+            "TP": 0,
+            "FP": 3,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 3,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 3,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_01",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 5,
+          "truth": 0,
+          "error": 5,
+          "AE": 5,
+          "GAME1": 5,
+          "GAME2": 5,
+          "point_4": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_02",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 4,
+          "truth": 0,
+          "error": 4,
+          "AE": 4,
+          "GAME1": 4,
+          "GAME2": 4,
+          "point_4": {
+            "TP": 0,
+            "FP": 4,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 4,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 4,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_03",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 2,
+          "truth": 0,
+          "error": 2,
+          "AE": 2,
+          "GAME1": 2,
+          "GAME2": 2,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_04",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 8,
+          "truth": 36,
+          "error": -28,
+          "AE": 28,
+          "GAME1": 28,
+          "GAME2": 28,
+          "point_4": {
+            "TP": 1,
+            "FP": 7,
+            "FN": 35,
+            "precision": 0.125,
+            "recall": 0.027777777777777776,
+            "F1": 0.045454545454545456
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 7,
+            "FN": 35,
+            "precision": 0.125,
+            "recall": 0.027777777777777776,
+            "F1": 0.045454545454545456
+          },
+          "point_16": {
+            "TP": 2,
+            "FP": 6,
+            "FN": 34,
+            "precision": 0.25,
+            "recall": 0.05555555555555555,
+            "F1": 0.09090909090909091
+          }
+        },
+        {
+          "query_id": "D27_05",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 7,
+          "truth": 18,
+          "error": -11,
+          "AE": 11,
+          "GAME1": 13,
+          "GAME2": 17,
+          "point_4": {
+            "TP": 0,
+            "FP": 7,
+            "FN": 18,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 7,
+            "FN": 18,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 2,
+            "FP": 5,
+            "FN": 16,
+            "precision": 0.2857142857142857,
+            "recall": 0.1111111111111111,
+            "F1": 0.16
+          }
+        },
+        {
+          "query_id": "D27_06",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 11,
+          "truth": 16,
+          "error": -5,
+          "AE": 5,
+          "GAME1": 7,
+          "GAME2": 13,
+          "point_4": {
+            "TP": 0,
+            "FP": 11,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 10,
+            "FN": 15,
+            "precision": 0.09090909090909091,
+            "recall": 0.0625,
+            "F1": 0.07407407407407407
+          },
+          "point_16": {
+            "TP": 4,
+            "FP": 7,
+            "FN": 12,
+            "precision": 0.36363636363636365,
+            "recall": 0.25,
+            "F1": 0.2962962962962963
+          }
+        },
+        {
+          "query_id": "D27_07",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 11,
+          "truth": 16,
+          "error": -5,
+          "AE": 5,
+          "GAME1": 7,
+          "GAME2": 9,
+          "point_4": {
+            "TP": 1,
+            "FP": 10,
+            "FN": 15,
+            "precision": 0.09090909090909091,
+            "recall": 0.0625,
+            "F1": 0.07407407407407407
+          },
+          "point_8": {
+            "TP": 2,
+            "FP": 9,
+            "FN": 14,
+            "precision": 0.18181818181818182,
+            "recall": 0.125,
+            "F1": 0.14814814814814814
+          },
+          "point_16": {
+            "TP": 3,
+            "FP": 8,
+            "FN": 13,
+            "precision": 0.2727272727272727,
+            "recall": 0.1875,
+            "F1": 0.2222222222222222
+          }
+        },
+        {
+          "query_id": "D12_00",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 14,
+          "truth": 2,
+          "error": 12,
+          "AE": 12,
+          "GAME1": 14,
+          "GAME2": 16,
+          "point_4": {
+            "TP": 0,
+            "FP": 14,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 14,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 14,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_01",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 12,
+          "truth": 2,
+          "error": 10,
+          "AE": 10,
+          "GAME1": 12,
+          "GAME2": 14,
+          "point_4": {
+            "TP": 0,
+            "FP": 12,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 12,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 12,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_02",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 9,
+          "truth": 7,
+          "error": 2,
+          "AE": 2,
+          "GAME1": 16,
+          "GAME2": 16,
+          "point_4": {
+            "TP": 0,
+            "FP": 9,
+            "FN": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 9,
+            "FN": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 9,
+            "FN": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_03",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 5,
+          "truth": 14,
+          "error": -9,
+          "AE": 9,
+          "GAME1": 17,
+          "GAME2": 19,
+          "point_4": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 14,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 14,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 14,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        }
+      ],
+      "groups": {
+        "ipic_dependency_483475312362": {
+          "all": {
+            "n": 15,
+            "MAE": 13.8,
+            "RMSE": 16.647322106973643,
+            "bias": 6.6,
+            "GAME1": 22.2,
+            "GAME2": 25.933333333333334,
+            "macro_F1_8": 0.11509039156176387,
+            "pooled_F1_8": 0.16326530612244897,
+            "TP": 52,
+            "FP": 316,
+            "FN": 217
+          },
+          "positive": {
+            "n": 14,
+            "MAE": 14.142857142857142,
+            "RMSE": 17.06290881247559,
+            "bias": 6.428571428571429,
+            "GAME1": 23.142857142857142,
+            "GAME2": 27.142857142857142,
+            "macro_F1_8": 0.12331113381617562,
+            "pooled_F1_8": 0.16560509554140126,
+            "TP": 52,
+            "FP": 307,
+            "FN": 217
+          },
+          "empty": {
+            "n": 1,
+            "MAE": 9.0,
+            "RMSE": 9.0,
+            "bias": 9.0,
+            "GAME1": 9.0,
+            "GAME2": 9.0,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 9,
+            "FN": 0
+          },
+          "low_1_11": {
+            "n": 3,
+            "MAE": 8.0,
+            "RMSE": 9.092121131323903,
+            "bias": 8.0,
+            "GAME1": 14.0,
+            "GAME2": 15.333333333333334,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 35,
+            "FN": 11
+          },
+          "higher_12_plus": {
+            "n": 11,
+            "MAE": 15.818181818181818,
+            "RMSE": 18.65475810617763,
+            "bias": 6.0,
+            "GAME1": 25.636363636363637,
+            "GAME2": 30.363636363636363,
+            "macro_F1_8": 0.15694144303876897,
+            "pooled_F1_8": 0.17869415807560138,
+            "TP": 52,
+            "FP": 272,
+            "FN": 206
+          },
+          "per_image": [
+            {
+              "query_id": "dev_00",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 9,
+              "truth": 0,
+              "error": 9,
+              "AE": 9,
+              "GAME1": 9,
+              "GAME2": 9,
+              "point_4": {
+                "TP": 0,
+                "FP": 9,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 9,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 9,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "dev_01",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 34,
+              "truth": 21,
+              "error": 13,
+              "AE": 13,
+              "GAME1": 15,
+              "GAME2": 27,
+              "point_4": {
+                "TP": 3,
+                "FP": 31,
+                "FN": 18,
+                "precision": 0.08823529411764706,
+                "recall": 0.14285714285714285,
+                "F1": 0.10909090909090909
+              },
+              "point_8": {
+                "TP": 7,
+                "FP": 27,
+                "FN": 14,
+                "precision": 0.20588235294117646,
+                "recall": 0.3333333333333333,
+                "F1": 0.2545454545454545
+              },
+              "point_16": {
+                "TP": 13,
+                "FP": 21,
+                "FN": 8,
+                "precision": 0.38235294117647056,
+                "recall": 0.6190476190476191,
+                "F1": 0.4727272727272727
+              }
+            },
+            {
+              "query_id": "dev_02",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 49,
+              "truth": 33,
+              "error": 16,
+              "AE": 16,
+              "GAME1": 20,
+              "GAME2": 32,
+              "point_4": {
+                "TP": 1,
+                "FP": 48,
+                "FN": 32,
+                "precision": 0.02040816326530612,
+                "recall": 0.030303030303030304,
+                "F1": 0.024390243902439025
+              },
+              "point_8": {
+                "TP": 9,
+                "FP": 40,
+                "FN": 24,
+                "precision": 0.1836734693877551,
+                "recall": 0.2727272727272727,
+                "F1": 0.21951219512195122
+              },
+              "point_16": {
+                "TP": 14,
+                "FP": 35,
+                "FN": 19,
+                "precision": 0.2857142857142857,
+                "recall": 0.42424242424242425,
+                "F1": 0.34146341463414637
+              }
+            },
+            {
+              "query_id": "dev_03",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 26,
+              "truth": 27,
+              "error": -1,
+              "AE": 1,
+              "GAME1": 21,
+              "GAME2": 25,
+              "point_4": {
+                "TP": 4,
+                "FP": 22,
+                "FN": 23,
+                "precision": 0.15384615384615385,
+                "recall": 0.14814814814814814,
+                "F1": 0.1509433962264151
+              },
+              "point_8": {
+                "TP": 9,
+                "FP": 17,
+                "FN": 18,
+                "precision": 0.34615384615384615,
+                "recall": 0.3333333333333333,
+                "F1": 0.33962264150943394
+              },
+              "point_16": {
+                "TP": 12,
+                "FP": 14,
+                "FN": 15,
+                "precision": 0.46153846153846156,
+                "recall": 0.4444444444444444,
+                "F1": 0.4528301886792453
+              }
+            },
+            {
+              "query_id": "dev_04",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 2,
+              "truth": 30,
+              "error": -28,
+              "AE": 28,
+              "GAME1": 28,
+              "GAME2": 30,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 30,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 30,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 30,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "dev_05",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 47,
+              "truth": 21,
+              "error": 26,
+              "AE": 26,
+              "GAME1": 48,
+              "GAME2": 48,
+              "point_4": {
+                "TP": 2,
+                "FP": 45,
+                "FN": 19,
+                "precision": 0.0425531914893617,
+                "recall": 0.09523809523809523,
+                "F1": 0.058823529411764705
+              },
+              "point_8": {
+                "TP": 5,
+                "FP": 42,
+                "FN": 16,
+                "precision": 0.10638297872340426,
+                "recall": 0.23809523809523808,
+                "F1": 0.14705882352941177
+              },
+              "point_16": {
+                "TP": 9,
+                "FP": 38,
+                "FN": 12,
+                "precision": 0.19148936170212766,
+                "recall": 0.42857142857142855,
+                "F1": 0.2647058823529412
+              }
+            },
+            {
+              "query_id": "dev_06",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 37,
+              "truth": 18,
+              "error": 19,
+              "AE": 19,
+              "GAME1": 23,
+              "GAME2": 27,
+              "point_4": {
+                "TP": 1,
+                "FP": 36,
+                "FN": 17,
+                "precision": 0.02702702702702703,
+                "recall": 0.05555555555555555,
+                "F1": 0.03636363636363636
+              },
+              "point_8": {
+                "TP": 5,
+                "FP": 32,
+                "FN": 13,
+                "precision": 0.13513513513513514,
+                "recall": 0.2777777777777778,
+                "F1": 0.18181818181818182
+              },
+              "point_16": {
+                "TP": 8,
+                "FP": 29,
+                "FN": 10,
+                "precision": 0.21621621621621623,
+                "recall": 0.4444444444444444,
+                "F1": 0.2909090909090909
+              }
+            },
+            {
+              "query_id": "dev_07",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 35,
+              "truth": 23,
+              "error": 12,
+              "AE": 12,
+              "GAME1": 28,
+              "GAME2": 28,
+              "point_4": {
+                "TP": 3,
+                "FP": 32,
+                "FN": 20,
+                "precision": 0.08571428571428572,
+                "recall": 0.13043478260869565,
+                "F1": 0.10344827586206896
+              },
+              "point_8": {
+                "TP": 8,
+                "FP": 27,
+                "FN": 15,
+                "precision": 0.22857142857142856,
+                "recall": 0.34782608695652173,
+                "F1": 0.27586206896551724
+              },
+              "point_16": {
+                "TP": 11,
+                "FP": 24,
+                "FN": 12,
+                "precision": 0.3142857142857143,
+                "recall": 0.4782608695652174,
+                "F1": 0.3793103448275862
+              }
+            },
+            {
+              "query_id": "dev_08",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 52,
+              "truth": 18,
+              "error": 34,
+              "AE": 34,
+              "GAME1": 34,
+              "GAME2": 50,
+              "point_4": {
+                "TP": 2,
+                "FP": 50,
+                "FN": 16,
+                "precision": 0.038461538461538464,
+                "recall": 0.1111111111111111,
+                "F1": 0.05714285714285714
+              },
+              "point_8": {
+                "TP": 3,
+                "FP": 49,
+                "FN": 15,
+                "precision": 0.057692307692307696,
+                "recall": 0.16666666666666666,
+                "F1": 0.08571428571428572
+              },
+              "point_16": {
+                "TP": 5,
+                "FP": 47,
+                "FN": 13,
+                "precision": 0.09615384615384616,
+                "recall": 0.2777777777777778,
+                "F1": 0.14285714285714285
+              }
+            },
+            {
+              "query_id": "dev_09",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 17,
+              "truth": 19,
+              "error": -2,
+              "AE": 2,
+              "GAME1": 22,
+              "GAME2": 22,
+              "point_4": {
+                "TP": 0,
+                "FP": 17,
+                "FN": 19,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 17,
+                "FN": 19,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 1,
+                "FP": 16,
+                "FN": 18,
+                "precision": 0.058823529411764705,
+                "recall": 0.05263157894736842,
+                "F1": 0.05555555555555555
+              }
+            },
+            {
+              "query_id": "dev_10",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 20,
+              "truth": 34,
+              "error": -14,
+              "AE": 14,
+              "GAME1": 26,
+              "GAME2": 26,
+              "point_4": {
+                "TP": 5,
+                "FP": 15,
+                "FN": 29,
+                "precision": 0.25,
+                "recall": 0.14705882352941177,
+                "F1": 0.18518518518518517
+              },
+              "point_8": {
+                "TP": 6,
+                "FP": 14,
+                "FN": 28,
+                "precision": 0.3,
+                "recall": 0.17647058823529413,
+                "F1": 0.2222222222222222
+              },
+              "point_16": {
+                "TP": 8,
+                "FP": 12,
+                "FN": 26,
+                "precision": 0.4,
+                "recall": 0.23529411764705882,
+                "F1": 0.2962962962962963
+              }
+            },
+            {
+              "query_id": "D12_00",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 14,
+              "truth": 2,
+              "error": 12,
+              "AE": 12,
+              "GAME1": 14,
+              "GAME2": 16,
+              "point_4": {
+                "TP": 0,
+                "FP": 14,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 14,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 14,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D12_01",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 12,
+              "truth": 2,
+              "error": 10,
+              "AE": 10,
+              "GAME1": 12,
+              "GAME2": 14,
+              "point_4": {
+                "TP": 0,
+                "FP": 12,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 12,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 12,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D12_02",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 9,
+              "truth": 7,
+              "error": 2,
+              "AE": 2,
+              "GAME1": 16,
+              "GAME2": 16,
+              "point_4": {
+                "TP": 0,
+                "FP": 9,
+                "FN": 7,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 9,
+                "FN": 7,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 9,
+                "FN": 7,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D12_03",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 5,
+              "truth": 14,
+              "error": -9,
+              "AE": 9,
+              "GAME1": 17,
+              "GAME2": 19,
+              "point_4": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 14,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 14,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 14,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            }
+          ]
+        },
+        "ipic_dependency_b8c3dda6893f": {
+          "all": {
+            "n": 8,
+            "MAE": 7.875,
+            "RMSE": 11.2305387226081,
+            "bias": -4.375,
+            "GAME1": 8.625,
+            "GAME2": 10.125,
+            "macro_F1_8": 0.03345959595959596,
+            "pooled_F1_8": 0.058394160583941604,
+            "TP": 4,
+            "FP": 47,
+            "FN": 82
+          },
+          "positive": {
+            "n": 4,
+            "MAE": 12.25,
+            "RMSE": 15.451537140362444,
+            "bias": -12.25,
+            "GAME1": 13.75,
+            "GAME2": 16.75,
+            "macro_F1_8": 0.06691919191919192,
+            "pooled_F1_8": 0.06504065040650407,
+            "TP": 4,
+            "FP": 33,
+            "FN": 82
+          },
+          "empty": {
+            "n": 4,
+            "MAE": 3.5,
+            "RMSE": 3.6742346141747673,
+            "bias": 3.5,
+            "GAME1": 3.5,
+            "GAME2": 3.5,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 14,
+            "FN": 0
+          },
+          "low_1_11": null,
+          "higher_12_plus": {
+            "n": 4,
+            "MAE": 12.25,
+            "RMSE": 15.451537140362444,
+            "bias": -12.25,
+            "GAME1": 13.75,
+            "GAME2": 16.75,
+            "macro_F1_8": 0.06691919191919192,
+            "pooled_F1_8": 0.06504065040650407,
+            "TP": 4,
+            "FP": 33,
+            "FN": 82
+          },
+          "per_image": [
+            {
+              "query_id": "D27_00",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 3,
+              "truth": 0,
+              "error": 3,
+              "AE": 3,
+              "GAME1": 3,
+              "GAME2": 3,
+              "point_4": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_01",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 5,
+              "truth": 0,
+              "error": 5,
+              "AE": 5,
+              "GAME1": 5,
+              "GAME2": 5,
+              "point_4": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_02",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 4,
+              "truth": 0,
+              "error": 4,
+              "AE": 4,
+              "GAME1": 4,
+              "GAME2": 4,
+              "point_4": {
+                "TP": 0,
+                "FP": 4,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 4,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 4,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_03",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 2,
+              "truth": 0,
+              "error": 2,
+              "AE": 2,
+              "GAME1": 2,
+              "GAME2": 2,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_04",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 8,
+              "truth": 36,
+              "error": -28,
+              "AE": 28,
+              "GAME1": 28,
+              "GAME2": 28,
+              "point_4": {
+                "TP": 1,
+                "FP": 7,
+                "FN": 35,
+                "precision": 0.125,
+                "recall": 0.027777777777777776,
+                "F1": 0.045454545454545456
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 7,
+                "FN": 35,
+                "precision": 0.125,
+                "recall": 0.027777777777777776,
+                "F1": 0.045454545454545456
+              },
+              "point_16": {
+                "TP": 2,
+                "FP": 6,
+                "FN": 34,
+                "precision": 0.25,
+                "recall": 0.05555555555555555,
+                "F1": 0.09090909090909091
+              }
+            },
+            {
+              "query_id": "D27_05",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 7,
+              "truth": 18,
+              "error": -11,
+              "AE": 11,
+              "GAME1": 13,
+              "GAME2": 17,
+              "point_4": {
+                "TP": 0,
+                "FP": 7,
+                "FN": 18,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 7,
+                "FN": 18,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 2,
+                "FP": 5,
+                "FN": 16,
+                "precision": 0.2857142857142857,
+                "recall": 0.1111111111111111,
+                "F1": 0.16
+              }
+            },
+            {
+              "query_id": "D27_06",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 11,
+              "truth": 16,
+              "error": -5,
+              "AE": 5,
+              "GAME1": 7,
+              "GAME2": 13,
+              "point_4": {
+                "TP": 0,
+                "FP": 11,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 10,
+                "FN": 15,
+                "precision": 0.09090909090909091,
+                "recall": 0.0625,
+                "F1": 0.07407407407407407
+              },
+              "point_16": {
+                "TP": 4,
+                "FP": 7,
+                "FN": 12,
+                "precision": 0.36363636363636365,
+                "recall": 0.25,
+                "F1": 0.2962962962962963
+              }
+            },
+            {
+              "query_id": "D27_07",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 11,
+              "truth": 16,
+              "error": -5,
+              "AE": 5,
+              "GAME1": 7,
+              "GAME2": 9,
+              "point_4": {
+                "TP": 1,
+                "FP": 10,
+                "FN": 15,
+                "precision": 0.09090909090909091,
+                "recall": 0.0625,
+                "F1": 0.07407407407407407
+              },
+              "point_8": {
+                "TP": 2,
+                "FP": 9,
+                "FN": 14,
+                "precision": 0.18181818181818182,
+                "recall": 0.125,
+                "F1": 0.14814814814814814
+              },
+              "point_16": {
+                "TP": 3,
+                "FP": 8,
+                "FN": 13,
+                "precision": 0.2727272727272727,
+                "recall": 0.1875,
+                "F1": 0.2222222222222222
+              }
+            }
+          ]
+        }
+      }
+    },
+    "geco": {
+      "all": {
+        "n": 23,
+        "MAE": 13.565217391304348,
+        "RMSE": 17.1793607210108,
+        "bias": -13.130434782608695,
+        "GAME1": 14.26086956521739,
+        "GAME2": 15.217391304347826,
+        "macro_F1_8": 0.08971847150958681,
+        "pooled_F1_8": 0.06862745098039216,
+        "TP": 14,
+        "FP": 39,
+        "FN": 341
+      },
+      "positive": {
+        "n": 18,
+        "MAE": 17.055555555555557,
+        "RMSE": 19.409333379130317,
+        "bias": -17.055555555555557,
+        "GAME1": 17.944444444444443,
+        "GAME2": 19.166666666666668,
+        "macro_F1_8": 0.059084713595583156,
+        "pooled_F1_8": 0.06947890818858561,
+        "TP": 14,
+        "FP": 34,
+        "FN": 341
+      },
+      "empty": {
+        "n": 5,
+        "MAE": 1.0,
+        "RMSE": 1.1832159566199232,
+        "bias": 1.0,
+        "GAME1": 1.0,
+        "GAME2": 1.0,
+        "macro_F1_8": 0.2,
+        "pooled_F1_8": 0.0,
+        "TP": 0,
+        "FP": 5,
+        "FN": 0
+      },
+      "low_1_11": {
+        "n": 3,
+        "MAE": 3.0,
+        "RMSE": 4.203173404306164,
+        "bias": -3.0,
+        "GAME1": 4.333333333333333,
+        "GAME2": 4.333333333333333,
+        "macro_F1_8": 0.0,
+        "pooled_F1_8": 0.0,
+        "TP": 0,
+        "FP": 2,
+        "FN": 11
+      },
+      "higher_12_plus": {
+        "n": 15,
+        "MAE": 19.866666666666667,
+        "RMSE": 21.178605556866422,
+        "bias": -19.866666666666667,
+        "GAME1": 20.666666666666668,
+        "GAME2": 22.133333333333333,
+        "macro_F1_8": 0.07090165631469979,
+        "pooled_F1_8": 0.07179487179487179,
+        "TP": 14,
+        "FP": 32,
+        "FN": 330
+      },
+      "per_image": [
+        {
+          "query_id": "dev_00",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 0,
+          "truth": 0,
+          "error": 0,
+          "AE": 0,
+          "GAME1": 0,
+          "GAME2": 0,
+          "point_4": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "F1": 1.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "F1": 1.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "F1": 1.0
+          }
+        },
+        {
+          "query_id": "dev_01",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 2,
+          "truth": 21,
+          "error": -19,
+          "AE": 19,
+          "GAME1": 21,
+          "GAME2": 21,
+          "point_4": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 20,
+            "precision": 0.5,
+            "recall": 0.047619047619047616,
+            "F1": 0.08695652173913043
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 20,
+            "precision": 0.5,
+            "recall": 0.047619047619047616,
+            "F1": 0.08695652173913043
+          },
+          "point_16": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 20,
+            "precision": 0.5,
+            "recall": 0.047619047619047616,
+            "F1": 0.08695652173913043
+          }
+        },
+        {
+          "query_id": "dev_02",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 2,
+          "truth": 33,
+          "error": -31,
+          "AE": 31,
+          "GAME1": 31,
+          "GAME2": 33,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 33,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 32,
+            "precision": 0.5,
+            "recall": 0.030303030303030304,
+            "F1": 0.05714285714285714
+          },
+          "point_16": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 32,
+            "precision": 0.5,
+            "recall": 0.030303030303030304,
+            "F1": 0.05714285714285714
+          }
+        },
+        {
+          "query_id": "dev_03",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 5,
+          "truth": 27,
+          "error": -22,
+          "AE": 22,
+          "GAME1": 22,
+          "GAME2": 22,
+          "point_4": {
+            "TP": 1,
+            "FP": 4,
+            "FN": 26,
+            "precision": 0.2,
+            "recall": 0.037037037037037035,
+            "F1": 0.0625
+          },
+          "point_8": {
+            "TP": 3,
+            "FP": 2,
+            "FN": 24,
+            "precision": 0.6,
+            "recall": 0.1111111111111111,
+            "F1": 0.1875
+          },
+          "point_16": {
+            "TP": 5,
+            "FP": 0,
+            "FN": 22,
+            "precision": 1.0,
+            "recall": 0.18518518518518517,
+            "F1": 0.3125
+          }
+        },
+        {
+          "query_id": "dev_04",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 5,
+          "truth": 30,
+          "error": -25,
+          "AE": 25,
+          "GAME1": 25,
+          "GAME2": 25,
+          "point_4": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 30,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 4,
+            "FN": 29,
+            "precision": 0.2,
+            "recall": 0.03333333333333333,
+            "F1": 0.05714285714285714
+          },
+          "point_16": {
+            "TP": 4,
+            "FP": 1,
+            "FN": 26,
+            "precision": 0.8,
+            "recall": 0.13333333333333333,
+            "F1": 0.22857142857142856
+          }
+        },
+        {
+          "query_id": "dev_05",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 2,
+          "truth": 21,
+          "error": -19,
+          "AE": 19,
+          "GAME1": 21,
+          "GAME2": 21,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "dev_06",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 5,
+          "truth": 18,
+          "error": -13,
+          "AE": 13,
+          "GAME1": 15,
+          "GAME2": 17,
+          "point_4": {
+            "TP": 0,
+            "FP": 5,
+            "FN": 18,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 4,
+            "FN": 17,
+            "precision": 0.2,
+            "recall": 0.05555555555555555,
+            "F1": 0.08695652173913043
+          },
+          "point_16": {
+            "TP": 2,
+            "FP": 3,
+            "FN": 16,
+            "precision": 0.4,
+            "recall": 0.1111111111111111,
+            "F1": 0.17391304347826086
+          }
+        },
+        {
+          "query_id": "dev_07",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 2,
+          "truth": 23,
+          "error": -21,
+          "AE": 21,
+          "GAME1": 23,
+          "GAME2": 23,
+          "point_4": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 22,
+            "precision": 0.5,
+            "recall": 0.043478260869565216,
+            "F1": 0.08
+          },
+          "point_8": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 22,
+            "precision": 0.5,
+            "recall": 0.043478260869565216,
+            "F1": 0.08
+          },
+          "point_16": {
+            "TP": 1,
+            "FP": 1,
+            "FN": 22,
+            "precision": 0.5,
+            "recall": 0.043478260869565216,
+            "F1": 0.08
+          }
+        },
+        {
+          "query_id": "dev_08",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 7,
+          "truth": 18,
+          "error": -11,
+          "AE": 11,
+          "GAME1": 13,
+          "GAME2": 15,
+          "point_4": {
+            "TP": 2,
+            "FP": 5,
+            "FN": 16,
+            "precision": 0.2857142857142857,
+            "recall": 0.1111111111111111,
+            "F1": 0.16
+          },
+          "point_8": {
+            "TP": 2,
+            "FP": 5,
+            "FN": 16,
+            "precision": 0.2857142857142857,
+            "recall": 0.1111111111111111,
+            "F1": 0.16
+          },
+          "point_16": {
+            "TP": 2,
+            "FP": 5,
+            "FN": 16,
+            "precision": 0.2857142857142857,
+            "recall": 0.1111111111111111,
+            "F1": 0.16
+          }
+        },
+        {
+          "query_id": "dev_09",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 4,
+          "truth": 19,
+          "error": -15,
+          "AE": 15,
+          "GAME1": 15,
+          "GAME2": 15,
+          "point_4": {
+            "TP": 3,
+            "FP": 1,
+            "FN": 16,
+            "precision": 0.75,
+            "recall": 0.15789473684210525,
+            "F1": 0.2608695652173913
+          },
+          "point_8": {
+            "TP": 4,
+            "FP": 0,
+            "FN": 15,
+            "precision": 1.0,
+            "recall": 0.21052631578947367,
+            "F1": 0.34782608695652173
+          },
+          "point_16": {
+            "TP": 4,
+            "FP": 0,
+            "FN": 15,
+            "precision": 1.0,
+            "recall": 0.21052631578947367,
+            "F1": 0.34782608695652173
+          }
+        },
+        {
+          "query_id": "dev_10",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 3,
+          "truth": 34,
+          "error": -31,
+          "AE": 31,
+          "GAME1": 31,
+          "GAME2": 31,
+          "point_4": {
+            "TP": 0,
+            "FP": 3,
+            "FN": 34,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 3,
+            "FN": 34,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 1,
+            "FP": 2,
+            "FN": 33,
+            "precision": 0.3333333333333333,
+            "recall": 0.029411764705882353,
+            "F1": 0.05405405405405406
+          }
+        },
+        {
+          "query_id": "D27_00",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 2,
+          "truth": 0,
+          "error": 2,
+          "AE": 2,
+          "GAME1": 2,
+          "GAME2": 2,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_01",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 1,
+          "truth": 0,
+          "error": 1,
+          "AE": 1,
+          "GAME1": 1,
+          "GAME2": 1,
+          "point_4": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_02",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 1,
+          "truth": 0,
+          "error": 1,
+          "AE": 1,
+          "GAME1": 1,
+          "GAME2": 1,
+          "point_4": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_03",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 1,
+          "truth": 0,
+          "error": 1,
+          "AE": 1,
+          "GAME1": 1,
+          "GAME2": 1,
+          "point_4": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_04",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 1,
+          "truth": 36,
+          "error": -35,
+          "AE": 35,
+          "GAME1": 35,
+          "GAME2": 37,
+          "point_4": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 36,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 36,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 36,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_05",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 2,
+          "truth": 18,
+          "error": -16,
+          "AE": 16,
+          "GAME1": 16,
+          "GAME2": 20,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 18,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 18,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 18,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_06",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 1,
+          "truth": 16,
+          "error": -15,
+          "AE": 15,
+          "GAME1": 15,
+          "GAME2": 17,
+          "point_4": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D27_07",
+          "dependency_group": "ipic_dependency_b8c3dda6893f",
+          "prediction": 4,
+          "truth": 16,
+          "error": -12,
+          "AE": 12,
+          "GAME1": 12,
+          "GAME2": 20,
+          "point_4": {
+            "TP": 0,
+            "FP": 4,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 4,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 4,
+            "FN": 16,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_00",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 2,
+          "truth": 2,
+          "error": 0,
+          "AE": 0,
+          "GAME1": 4,
+          "GAME2": 4,
+          "point_4": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 2,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_01",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 0,
+          "truth": 2,
+          "error": -2,
+          "AE": 2,
+          "GAME1": 2,
+          "GAME2": 2,
+          "point_4": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 2,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_02",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 0,
+          "truth": 7,
+          "error": -7,
+          "AE": 7,
+          "GAME1": 7,
+          "GAME2": 7,
+          "point_4": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 0,
+            "FN": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        },
+        {
+          "query_id": "D12_03",
+          "dependency_group": "ipic_dependency_483475312362",
+          "prediction": 1,
+          "truth": 14,
+          "error": -13,
+          "AE": 13,
+          "GAME1": 15,
+          "GAME2": 15,
+          "point_4": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 14,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_8": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 14,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          },
+          "point_16": {
+            "TP": 0,
+            "FP": 1,
+            "FN": 14,
+            "precision": 0.0,
+            "recall": 0.0,
+            "F1": 0.0
+          }
+        }
+      ],
+      "groups": {
+        "ipic_dependency_483475312362": {
+          "all": {
+            "n": 15,
+            "MAE": 15.266666666666667,
+            "RMSE": 18.13100475244914,
+            "bias": -15.266666666666667,
+            "GAME1": 16.333333333333332,
+            "GAME2": 16.733333333333334,
+            "macro_F1_8": 0.13756832298136645,
+            "pooled_F1_8": 0.09061488673139159,
+            "TP": 14,
+            "FP": 26,
+            "FN": 255
+          },
+          "positive": {
+            "n": 14,
+            "MAE": 16.357142857142858,
+            "RMSE": 18.767372903906548,
+            "bias": -16.357142857142858,
+            "GAME1": 17.5,
+            "GAME2": 17.928571428571427,
+            "macro_F1_8": 0.07596606033717834,
+            "pooled_F1_8": 0.09061488673139159,
+            "TP": 14,
+            "FP": 26,
+            "FN": 255
+          },
+          "empty": {
+            "n": 1,
+            "MAE": 0.0,
+            "RMSE": 0.0,
+            "bias": 0.0,
+            "GAME1": 0.0,
+            "GAME2": 0.0,
+            "macro_F1_8": 1.0,
+            "pooled_F1_8": 1.0,
+            "TP": 0,
+            "FP": 0,
+            "FN": 0
+          },
+          "low_1_11": {
+            "n": 3,
+            "MAE": 3.0,
+            "RMSE": 4.203173404306164,
+            "bias": -3.0,
+            "GAME1": 4.333333333333333,
+            "GAME2": 4.333333333333333,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 2,
+            "FN": 11
+          },
+          "higher_12_plus": {
+            "n": 11,
+            "MAE": 20.0,
+            "RMSE": 21.058360464541046,
+            "bias": -20.0,
+            "GAME1": 21.09090909090909,
+            "GAME2": 21.636363636363637,
+            "macro_F1_8": 0.09668407679277244,
+            "pooled_F1_8": 0.0945945945945946,
+            "TP": 14,
+            "FP": 24,
+            "FN": 244
+          },
+          "per_image": [
+            {
+              "query_id": "dev_00",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 0,
+              "truth": 0,
+              "error": 0,
+              "AE": 0,
+              "GAME1": 0,
+              "GAME2": 0,
+              "point_4": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "precision": 1.0,
+                "recall": 1.0,
+                "F1": 1.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "precision": 1.0,
+                "recall": 1.0,
+                "F1": 1.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "precision": 1.0,
+                "recall": 1.0,
+                "F1": 1.0
+              }
+            },
+            {
+              "query_id": "dev_01",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 2,
+              "truth": 21,
+              "error": -19,
+              "AE": 19,
+              "GAME1": 21,
+              "GAME2": 21,
+              "point_4": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 20,
+                "precision": 0.5,
+                "recall": 0.047619047619047616,
+                "F1": 0.08695652173913043
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 20,
+                "precision": 0.5,
+                "recall": 0.047619047619047616,
+                "F1": 0.08695652173913043
+              },
+              "point_16": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 20,
+                "precision": 0.5,
+                "recall": 0.047619047619047616,
+                "F1": 0.08695652173913043
+              }
+            },
+            {
+              "query_id": "dev_02",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 2,
+              "truth": 33,
+              "error": -31,
+              "AE": 31,
+              "GAME1": 31,
+              "GAME2": 33,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 33,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 32,
+                "precision": 0.5,
+                "recall": 0.030303030303030304,
+                "F1": 0.05714285714285714
+              },
+              "point_16": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 32,
+                "precision": 0.5,
+                "recall": 0.030303030303030304,
+                "F1": 0.05714285714285714
+              }
+            },
+            {
+              "query_id": "dev_03",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 5,
+              "truth": 27,
+              "error": -22,
+              "AE": 22,
+              "GAME1": 22,
+              "GAME2": 22,
+              "point_4": {
+                "TP": 1,
+                "FP": 4,
+                "FN": 26,
+                "precision": 0.2,
+                "recall": 0.037037037037037035,
+                "F1": 0.0625
+              },
+              "point_8": {
+                "TP": 3,
+                "FP": 2,
+                "FN": 24,
+                "precision": 0.6,
+                "recall": 0.1111111111111111,
+                "F1": 0.1875
+              },
+              "point_16": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 22,
+                "precision": 1.0,
+                "recall": 0.18518518518518517,
+                "F1": 0.3125
+              }
+            },
+            {
+              "query_id": "dev_04",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 5,
+              "truth": 30,
+              "error": -25,
+              "AE": 25,
+              "GAME1": 25,
+              "GAME2": 25,
+              "point_4": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 30,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 4,
+                "FN": 29,
+                "precision": 0.2,
+                "recall": 0.03333333333333333,
+                "F1": 0.05714285714285714
+              },
+              "point_16": {
+                "TP": 4,
+                "FP": 1,
+                "FN": 26,
+                "precision": 0.8,
+                "recall": 0.13333333333333333,
+                "F1": 0.22857142857142856
+              }
+            },
+            {
+              "query_id": "dev_05",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 2,
+              "truth": 21,
+              "error": -19,
+              "AE": 19,
+              "GAME1": 21,
+              "GAME2": 21,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 21,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 21,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 21,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "dev_06",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 5,
+              "truth": 18,
+              "error": -13,
+              "AE": 13,
+              "GAME1": 15,
+              "GAME2": 17,
+              "point_4": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 18,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 4,
+                "FN": 17,
+                "precision": 0.2,
+                "recall": 0.05555555555555555,
+                "F1": 0.08695652173913043
+              },
+              "point_16": {
+                "TP": 2,
+                "FP": 3,
+                "FN": 16,
+                "precision": 0.4,
+                "recall": 0.1111111111111111,
+                "F1": 0.17391304347826086
+              }
+            },
+            {
+              "query_id": "dev_07",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 2,
+              "truth": 23,
+              "error": -21,
+              "AE": 21,
+              "GAME1": 23,
+              "GAME2": 23,
+              "point_4": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 22,
+                "precision": 0.5,
+                "recall": 0.043478260869565216,
+                "F1": 0.08
+              },
+              "point_8": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 22,
+                "precision": 0.5,
+                "recall": 0.043478260869565216,
+                "F1": 0.08
+              },
+              "point_16": {
+                "TP": 1,
+                "FP": 1,
+                "FN": 22,
+                "precision": 0.5,
+                "recall": 0.043478260869565216,
+                "F1": 0.08
+              }
+            },
+            {
+              "query_id": "dev_08",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 7,
+              "truth": 18,
+              "error": -11,
+              "AE": 11,
+              "GAME1": 13,
+              "GAME2": 15,
+              "point_4": {
+                "TP": 2,
+                "FP": 5,
+                "FN": 16,
+                "precision": 0.2857142857142857,
+                "recall": 0.1111111111111111,
+                "F1": 0.16
+              },
+              "point_8": {
+                "TP": 2,
+                "FP": 5,
+                "FN": 16,
+                "precision": 0.2857142857142857,
+                "recall": 0.1111111111111111,
+                "F1": 0.16
+              },
+              "point_16": {
+                "TP": 2,
+                "FP": 5,
+                "FN": 16,
+                "precision": 0.2857142857142857,
+                "recall": 0.1111111111111111,
+                "F1": 0.16
+              }
+            },
+            {
+              "query_id": "dev_09",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 4,
+              "truth": 19,
+              "error": -15,
+              "AE": 15,
+              "GAME1": 15,
+              "GAME2": 15,
+              "point_4": {
+                "TP": 3,
+                "FP": 1,
+                "FN": 16,
+                "precision": 0.75,
+                "recall": 0.15789473684210525,
+                "F1": 0.2608695652173913
+              },
+              "point_8": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 15,
+                "precision": 1.0,
+                "recall": 0.21052631578947367,
+                "F1": 0.34782608695652173
+              },
+              "point_16": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 15,
+                "precision": 1.0,
+                "recall": 0.21052631578947367,
+                "F1": 0.34782608695652173
+              }
+            },
+            {
+              "query_id": "dev_10",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 3,
+              "truth": 34,
+              "error": -31,
+              "AE": 31,
+              "GAME1": 31,
+              "GAME2": 31,
+              "point_4": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 34,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 34,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 1,
+                "FP": 2,
+                "FN": 33,
+                "precision": 0.3333333333333333,
+                "recall": 0.029411764705882353,
+                "F1": 0.05405405405405406
+              }
+            },
+            {
+              "query_id": "D12_00",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 2,
+              "truth": 2,
+              "error": 0,
+              "AE": 0,
+              "GAME1": 4,
+              "GAME2": 4,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D12_01",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 0,
+              "truth": 2,
+              "error": -2,
+              "AE": 2,
+              "GAME1": 2,
+              "GAME2": 2,
+              "point_4": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 2,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D12_02",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 0,
+              "truth": 7,
+              "error": -7,
+              "AE": 7,
+              "GAME1": 7,
+              "GAME2": 7,
+              "point_4": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 7,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 7,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 7,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D12_03",
+              "dependency_group": "ipic_dependency_483475312362",
+              "prediction": 1,
+              "truth": 14,
+              "error": -13,
+              "AE": 13,
+              "GAME1": 15,
+              "GAME2": 15,
+              "point_4": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 14,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 14,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 14,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            }
+          ]
+        },
+        "ipic_dependency_b8c3dda6893f": {
+          "all": {
+            "n": 8,
+            "MAE": 10.375,
+            "RMSE": 15.23564898519259,
+            "bias": -9.125,
+            "GAME1": 10.375,
+            "GAME2": 12.375,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 13,
+            "FN": 86
+          },
+          "positive": {
+            "n": 4,
+            "MAE": 19.5,
+            "RMSE": 21.50581316760657,
+            "bias": -19.5,
+            "GAME1": 19.5,
+            "GAME2": 23.5,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 8,
+            "FN": 86
+          },
+          "empty": {
+            "n": 4,
+            "MAE": 1.25,
+            "RMSE": 1.3228756555322954,
+            "bias": 1.25,
+            "GAME1": 1.25,
+            "GAME2": 1.25,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 5,
+            "FN": 0
+          },
+          "low_1_11": null,
+          "higher_12_plus": {
+            "n": 4,
+            "MAE": 19.5,
+            "RMSE": 21.50581316760657,
+            "bias": -19.5,
+            "GAME1": 19.5,
+            "GAME2": 23.5,
+            "macro_F1_8": 0.0,
+            "pooled_F1_8": 0.0,
+            "TP": 0,
+            "FP": 8,
+            "FN": 86
+          },
+          "per_image": [
+            {
+              "query_id": "D27_00",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 2,
+              "truth": 0,
+              "error": 2,
+              "AE": 2,
+              "GAME1": 2,
+              "GAME2": 2,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_01",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 1,
+              "truth": 0,
+              "error": 1,
+              "AE": 1,
+              "GAME1": 1,
+              "GAME2": 1,
+              "point_4": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_02",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 1,
+              "truth": 0,
+              "error": 1,
+              "AE": 1,
+              "GAME1": 1,
+              "GAME2": 1,
+              "point_4": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_03",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 1,
+              "truth": 0,
+              "error": 1,
+              "AE": 1,
+              "GAME1": 1,
+              "GAME2": 1,
+              "point_4": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_04",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 1,
+              "truth": 36,
+              "error": -35,
+              "AE": 35,
+              "GAME1": 35,
+              "GAME2": 37,
+              "point_4": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 36,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 36,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 36,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_05",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 2,
+              "truth": 18,
+              "error": -16,
+              "AE": 16,
+              "GAME1": 16,
+              "GAME2": 20,
+              "point_4": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 18,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 18,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 18,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_06",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 1,
+              "truth": 16,
+              "error": -15,
+              "AE": 15,
+              "GAME1": 15,
+              "GAME2": 17,
+              "point_4": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 1,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            },
+            {
+              "query_id": "D27_07",
+              "dependency_group": "ipic_dependency_b8c3dda6893f",
+              "prediction": 4,
+              "truth": 16,
+              "error": -12,
+              "AE": 12,
+              "GAME1": 12,
+              "GAME2": 20,
+              "point_4": {
+                "TP": 0,
+                "FP": 4,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_8": {
+                "TP": 0,
+                "FP": 4,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              },
+              "point_16": {
+                "TP": 0,
+                "FP": 4,
+                "FN": 16,
+                "precision": 0.0,
+                "recall": 0.0,
+                "F1": 0.0
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "new_inference_calls": 0,
+  "new_optimizer_calls": 0,
+  "threshold_or_reference_changes": false,
+  "prior11_metrics_preserved": true,
+  "pilot_plan_sha256": "fc9266aea4ff1f4473804599ee6b7b16c01ec0aab16f8e2a9f50ae5b69e9ee52",
+  "limitations": "Repeatedly used development recordings, not independent test. CountGD++ native external prompts; GeCo2 disclosed external-reference adapter, not official native external accuracy. Different training supervision/capacity/compute from IPIC. Do not retune the frozen pilot from these metrics."
+}

@@ -1,0 +1,1877 @@
+{
+  "frames": [
+    {
+      "id": "dev_00",
+      "group": "ipic_dependency_483475312362",
+      "truth": 0,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "dev_01",
+      "group": "ipic_dependency_483475312362",
+      "truth": 21,
+      "count": 18,
+      "start": 7,
+      "end": 7,
+      "moves": [
+        {
+          "slot": 1,
+          "removed_native": [
+            687.1907640821685,
+            489.7859566599471
+          ],
+          "destination_native": [
+            390.39558127634564,
+            950.582226208278
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 6.190426801597406,
+          "new_gt_distance": 9.240855820070136,
+          "old_confidence": 0.3775406777858734,
+          "new_confidence": 0.2751297354698181,
+          "modeled_gain": 0.021110820979263586,
+          "modeled_loss": 0.002932002646707083
+        },
+        {
+          "slot": 9,
+          "removed_native": [
+            906.7138004152223,
+            769.6214987050117
+          ],
+          "destination_native": [
+            541.900481821498,
+            551.9789953231812
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 160.01114416231457,
+          "new_gt_distance": 16.475037849779614,
+          "old_confidence": 0.32766830921173096,
+          "new_confidence": 0.19682618975639343,
+          "modeled_gain": 0.016015415651242648,
+          "modeled_loss": 0.015891682507646023
+        }
+      ],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 29,
+      "bank_cardinality_upper_bound": 10,
+      "tolerance_curve": {
+        "4": 3,
+        "8": 7,
+        "16": 12,
+        "32": 14
+      }
+    },
+    {
+      "id": "dev_02",
+      "group": "ipic_dependency_483475312362",
+      "truth": 33,
+      "count": 42,
+      "start": 16,
+      "end": 16,
+      "moves": [
+        {
+          "slot": 16,
+          "removed_native": [
+            544.5937824277544,
+            643.7390594134396
+          ],
+          "destination_native": [
+            404.1466515685797,
+            715.7040213176182
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 14.61048377788974,
+          "new_gt_distance": 13.212717615852588,
+          "old_confidence": 0.36296918988227844,
+          "new_confidence": 0.22270013391971588,
+          "modeled_gain": 0.010890486892631635,
+          "modeled_loss": 0.0012701274800079236
+        },
+        {
+          "slot": 5,
+          "removed_native": [
+            645.292587473498,
+            495.5876228569584
+          ],
+          "destination_native": [
+            440.9662243636511,
+            691.9240630013602
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 5.3533524354900655,
+          "new_gt_distance": 22.56513176992724,
+          "old_confidence": 0.5,
+          "new_confidence": 0.16885694861412048,
+          "modeled_gain": 0.008323068260536137,
+          "modeled_loss": 0.0013071208882523533
+        },
+        {
+          "slot": 12,
+          "removed_native": [
+            494.6005834548073,
+            524.9533695646796
+          ],
+          "destination_native": [
+            396.527342483382,
+            885.2116835457938
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 9.515772229296289,
+          "new_gt_distance": 16.931936493501652,
+          "old_confidence": 0.4843800365924835,
+          "new_confidence": 0.1919327825307846,
+          "modeled_gain": 0.00815130812952728,
+          "modeled_loss": 0.0016009813589408768
+        },
+        {
+          "slot": 10,
+          "removed_native": [
+            426.0421275138372,
+            534.0191772909437
+          ],
+          "destination_native": [
+            379.7717196492988,
+            565.6532616615295
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 7.086155771155656,
+          "new_gt_distance": 2.476270763437383,
+          "old_confidence": 0.37022536993026733,
+          "new_confidence": 0.2628418207168579,
+          "modeled_gain": 0.007308778378703887,
+          "modeled_loss": 0.00165373938625033
+        },
+        {
+          "slot": 18,
+          "removed_native": [
+            553.6343848197143,
+            657.9934084856654
+          ],
+          "destination_native": [
+            393.8875838501135,
+            951.0213135310581
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 22.07008431009996,
+          "new_gt_distance": 16.021266415938943,
+          "old_confidence": 0.3557748794555664,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.006936702267519804,
+          "modeled_loss": 0.0032138704472501264
+        },
+        {
+          "slot": 35,
+          "removed_native": [
+            539.4777327999761,
+            303.1740886229358
+          ],
+          "destination_native": [
+            537.0080113590304,
+            493.3632767541068
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 76.21236752602267,
+          "new_gt_distance": 15.724045453273947,
+          "old_confidence": 0.29421496391296387,
+          "new_confidence": 0.1561049073934555,
+          "modeled_gain": 0.006766986678171199,
+          "modeled_loss": 0.003850910452411486
+        },
+        {
+          "slot": 3,
+          "removed_native": [
+            575.7536495655921,
+            468.1639898499866
+          ],
+          "destination_native": [
+            604.0500402784533,
+            635.7181615829468
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 24.75251615567089,
+          "new_gt_distance": 11.296931761816385,
+          "old_confidence": 0.37022536993026733,
+          "new_confidence": 0.2018132209777832,
+          "modeled_gain": 0.006707397040640261,
+          "modeled_loss": 0.003930386558108365
+        },
+        {
+          "slot": 8,
+          "removed_native": [
+            588.1939673712001,
+            509.7662791846056
+          ],
+          "destination_native": [
+            704.1634659229086,
+            555.1699330466133
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 8.44831094014131,
+          "new_gt_distance": 17.710546967955132,
+          "old_confidence": 0.39981165528297424,
+          "new_confidence": 0.25091278553009033,
+          "modeled_gain": 0.006617878616896352,
+          "modeled_loss": 0.003938665549619455
+        },
+        {
+          "slot": 36,
+          "removed_native": [
+            694.9552526357035,
+            495.6566783203941
+          ],
+          "destination_native": [
+            650.7461938128242,
+            576.8102671759468
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 6.594483443042689,
+          "new_gt_distance": 8.866636310762695,
+          "old_confidence": 0.29421496391296387,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.006415296744692763,
+          "modeled_loss": 0.005053389092481618
+        },
+        {
+          "slot": 6,
+          "removed_native": [
+            383.7747095054806,
+            504.3361968953012
+          ],
+          "destination_native": [
+            479.505721946944,
+            464.4585846492223
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 5.05067513198252,
+          "new_gt_distance": 3.365974858225893,
+          "old_confidence": 0.39233678579330444,
+          "new_confidence": 0.14033624529838562,
+          "modeled_gain": 0.006188081496822696,
+          "modeled_loss": 0.0054405326472810175
+        },
+        {
+          "slot": 19,
+          "removed_native": [
+            404.6610579030837,
+            648.825023827962
+          ],
+          "destination_native": [
+            498.70774625587717,
+            653.1640746252876
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 10.014141727606221,
+          "new_gt_distance": 14.246850672433796,
+          "old_confidence": 0.3775406777858734,
+          "new_confidence": 0.13660839200019836,
+          "modeled_gain": 0.006108302596626636,
+          "modeled_loss": 0.005767530007668117
+        },
+        {
+          "slot": 40,
+          "removed_native": [
+            482.7710226002799,
+            492.38794896974713
+          ],
+          "destination_native": [
+            388.99959404892184,
+            605.5876866749354
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 19.161847166189197,
+          "new_gt_distance": 8.144380827411947,
+          "old_confidence": 0.28140559792518616,
+          "new_confidence": 0.25091278553009033,
+          "modeled_gain": 0.005972062353835519,
+          "modeled_loss": 0.005926589403373299
+        }
+      ],
+      "lost": 2,
+      "gained": 2,
+      "bank_size": 46,
+      "bank_cardinality_upper_bound": 22,
+      "tolerance_curve": {
+        "4": 10,
+        "8": 16,
+        "16": 27,
+        "32": 32
+      }
+    },
+    {
+      "id": "dev_03",
+      "group": "ipic_dependency_483475312362",
+      "truth": 27,
+      "count": 9,
+      "start": 6,
+      "end": 6,
+      "moves": [
+        {
+          "slot": 5,
+          "removed_native": [
+            601.0661293654296,
+            493.4482158118376
+          ],
+          "destination_native": [
+            393.0000170993434,
+            922.7310649326869
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 5.006503481730005,
+          "new_gt_distance": 2.508628174289423,
+          "old_confidence": 0.3007456064224243,
+          "new_confidence": 0.2751297354698181,
+          "modeled_gain": 0.01908805801518722,
+          "modeled_loss": 0.013570480761231723
+        },
+        {
+          "slot": 1,
+          "removed_native": [
+            393.66400669188965,
+            1061.657960592703
+          ],
+          "destination_native": [
+            500.1040343050827,
+            453.4985380853925
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 0.8172341887296412,
+          "new_gt_distance": 5.93139081098764,
+          "old_confidence": 0.42250463366508484,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.01906853612008464,
+          "modeled_loss": 0.016328772899456327
+        }
+      ],
+      "lost": 2,
+      "gained": 2,
+      "bank_size": 48,
+      "bank_cardinality_upper_bound": 9,
+      "tolerance_curve": {
+        "4": 2,
+        "8": 6,
+        "16": 8,
+        "32": 9
+      }
+    },
+    {
+      "id": "dev_04",
+      "group": "ipic_dependency_483475312362",
+      "truth": 30,
+      "count": 13,
+      "start": 6,
+      "end": 8,
+      "moves": [
+        {
+          "slot": 0,
+          "removed_native": [
+            705.2970344601678,
+            504.0967302710172
+          ],
+          "destination_native": [
+            442.6243856902562,
+            789.5432920455933
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 9.788385032605929,
+          "new_gt_distance": 3.8416478231136737,
+          "old_confidence": 0.39981165528297424,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.01441307676007296,
+          "modeled_loss": 0.004826993650087679
+        },
+        {
+          "slot": 5,
+          "removed_native": [
+            539.7672057742222,
+            302.89096066984166
+          ],
+          "destination_native": [
+            389.05937841986866,
+            801.6692228317261
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 73.40800862840663,
+          "new_gt_distance": 8.436642576107724,
+          "old_confidence": 0.32766830921173096,
+          "new_confidence": 0.25091278553009033,
+          "modeled_gain": 0.014030090681162864,
+          "modeled_loss": 0.008170581494684059
+        },
+        {
+          "slot": 3,
+          "removed_native": [
+            362.8106486335541,
+            739.5592843244905
+          ],
+          "destination_native": [
+            388.1803613407912,
+            917.9673064095633
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 6.731840123019827,
+          "new_gt_distance": 4.195740180834465,
+          "old_confidence": 0.3345894515514374,
+          "new_confidence": 0.2120688259601593,
+          "modeled_gain": 0.013093416594731372,
+          "modeled_loss": 0.009355959127907786
+        },
+        {
+          "slot": 6,
+          "removed_native": [
+            358.14289416650587,
+            612.7267241516677
+          ],
+          "destination_native": [
+            504.5922636237435,
+            447.94634192330494
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 8.863244384731324,
+          "new_gt_distance": 5.182190055640029,
+          "old_confidence": 0.32766830921173096,
+          "new_confidence": 0.25091278553009033,
+          "modeled_gain": 0.011649884301529023,
+          "modeled_loss": 0.01044197177675746
+        },
+        {
+          "slot": 7,
+          "removed_native": [
+            367.3277439885314,
+            670.750270728187
+          ],
+          "destination_native": [
+            412.99076445464493,
+            568.9769518715995
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 4.512154511581665,
+          "new_gt_distance": 7.148919256874978,
+          "old_confidence": 0.32082128524780273,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.01089371621405881,
+          "modeled_loss": 0.010584800932756626
+        }
+      ],
+      "lost": 2,
+      "gained": 4,
+      "bank_size": 60,
+      "bank_cardinality_upper_bound": 13,
+      "tolerance_curve": {
+        "4": 3,
+        "8": 8,
+        "16": 12,
+        "32": 13
+      }
+    },
+    {
+      "id": "dev_05",
+      "group": "ipic_dependency_483475312362",
+      "truth": 21,
+      "count": 17,
+      "start": 5,
+      "end": 7,
+      "moves": [
+        {
+          "slot": 15,
+          "removed_native": [
+            1029.4932472246312,
+            515.6293657989337
+          ],
+          "destination_native": [
+            574.8738739765727,
+            447.66214833940774
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 128.99888762084836,
+          "new_gt_distance": 3.8327772828666156,
+          "old_confidence": 0.28140559792518616,
+          "new_confidence": 0.2568320035934448,
+          "modeled_gain": 0.013354953679870486,
+          "modeled_loss": 0.009653745725191844
+        },
+        {
+          "slot": 6,
+          "removed_native": [
+            678.5137575187257,
+            491.71443348319013
+          ],
+          "destination_native": [
+            396.6651821903372,
+            709.5880943025861
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 30.906974035909357,
+          "new_gt_distance": 7.987061207978545,
+          "old_confidence": 0.3345894515514374,
+          "new_confidence": 0.21733753383159637,
+          "modeled_gain": 0.01259311252858509,
+          "modeled_loss": 0.01062193751719803
+        },
+        {
+          "slot": 0,
+          "removed_native": [
+            635.9892420525557,
+            386.4131719518109
+          ],
+          "destination_native": [
+            561.9263461616407,
+            356.9405528817858
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 26.32831198852051,
+          "new_gt_distance": 30.640617187788326,
+          "old_confidence": 0.4378235340118408,
+          "new_confidence": 0.1919327825307846,
+          "modeled_gain": 0.012434970944232772,
+          "modeled_loss": 0.010882892923946653
+        }
+      ],
+      "lost": 0,
+      "gained": 2,
+      "bank_size": 45,
+      "bank_cardinality_upper_bound": 13,
+      "tolerance_curve": {
+        "4": 4,
+        "8": 7,
+        "16": 10,
+        "32": 11
+      }
+    },
+    {
+      "id": "dev_06",
+      "group": "ipic_dependency_483475312362",
+      "truth": 18,
+      "count": 6,
+      "start": 3,
+      "end": 4,
+      "moves": [
+        {
+          "slot": 5,
+          "removed_native": [
+            393.344187214125,
+            837.1799586808985
+          ],
+          "destination_native": [
+            579.3157134099383,
+            402.64206140381947
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 2.0361020478584133,
+          "new_gt_distance": 2.2161862142582525,
+          "old_confidence": 0.28776782751083374,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.01767843026341756,
+          "modeled_loss": 0.010139424284531096
+        },
+        {
+          "slot": 3,
+          "removed_native": [
+            573.3979101415578,
+            534.7547936535669
+          ],
+          "destination_native": [
+            400.15216579016703,
+            419.92175667626515
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 54.25857336898372,
+          "new_gt_distance": 13.969883413187526,
+          "old_confidence": 0.32766830921173096,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.01564862082599825,
+          "modeled_loss": 0.012160217132368145
+        },
+        {
+          "slot": 2,
+          "removed_native": [
+            575.4482126111835,
+            636.8656280064615
+          ],
+          "destination_native": [
+            560.980467483382,
+            353.56557985714505
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 7.230703385603199,
+          "new_gt_distance": 7.400095251705058,
+          "old_confidence": 0.3486451208591461,
+          "new_confidence": 0.22270013391971588,
+          "modeled_gain": 0.014938922164797915,
+          "modeled_loss": 0.01260554299608331
+        },
+        {
+          "slot": 4,
+          "removed_native": [
+            444.83223696123264,
+            463.8789531539263
+          ],
+          "destination_native": [
+            396.419743281858,
+            676.9393766266959
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 17.44768828647216,
+          "new_gt_distance": 0.6759469594312403,
+          "old_confidence": 0.3073579967021942,
+          "new_confidence": 0.23934932053089142,
+          "modeled_gain": 0.014602262553904479,
+          "modeled_loss": 0.012650986827129932
+        },
+        {
+          "slot": 0,
+          "removed_native": [
+            369.10798506799256,
+            475.09308284055294
+          ],
+          "destination_native": [
+            392.0995466774076,
+            727.9083809171403
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 7.086433901995993,
+          "new_gt_distance": 4.194065054581518,
+          "old_confidence": 0.4148988425731659,
+          "new_confidence": 0.23370636999607086,
+          "modeled_gain": 0.013942807098001091,
+          "modeled_loss": 0.013016741135750695
+        }
+      ],
+      "lost": 3,
+      "gained": 4,
+      "bank_size": 54,
+      "bank_cardinality_upper_bound": 6,
+      "tolerance_curve": {
+        "4": 2,
+        "8": 4,
+        "16": 5,
+        "32": 5
+      }
+    },
+    {
+      "id": "dev_07",
+      "group": "ipic_dependency_483475312362",
+      "truth": 23,
+      "count": 13,
+      "start": 5,
+      "end": 7,
+      "moves": [
+        {
+          "slot": 0,
+          "removed_native": [
+            644.423107357659,
+            484.6421932515686
+          ],
+          "destination_native": [
+            508.35863149521725,
+            719.0515632629395
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 60.94652865710002,
+          "new_gt_distance": 10.699333563404759,
+          "old_confidence": 0.3557748794555664,
+          "new_confidence": 0.2628418207168579,
+          "modeled_gain": 0.009294125093187127,
+          "modeled_loss": 0.003887049110143056
+        },
+        {
+          "slot": 8,
+          "removed_native": [
+            640.5993359161154,
+            381.024083117454
+          ],
+          "destination_native": [
+            392.0995466774076,
+            793.8965979984828
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 34.25355835305043,
+          "new_gt_distance": 13.296745806316938,
+          "old_confidence": 0.29421496391296387,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.008733491585347083,
+          "modeled_loss": 0.006691923554288154
+        },
+        {
+          "slot": 7,
+          "removed_native": [
+            488.54354267722766,
+            352.57782985450666
+          ],
+          "destination_native": [
+            492.33888998662457,
+            625.3934961046491
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 42.14637410596697,
+          "new_gt_distance": 9.287614563445924,
+          "old_confidence": 0.3007456064224243,
+          "new_confidence": 0.2120688259601593,
+          "modeled_gain": 0.008666864875554481,
+          "modeled_loss": 0.00732022872348519
+        },
+        {
+          "slot": 1,
+          "removed_native": [
+            651.8874325196309,
+            499.95387668310366
+          ],
+          "destination_native": [
+            408.77862620075393,
+            506.0871797289167
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 67.71711328844934,
+          "new_gt_distance": 13.005530227361138,
+          "old_confidence": 0.4843800365924835,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.00837167535873611,
+          "modeled_loss": 0.007472485251747066
+        },
+        {
+          "slot": 12,
+          "removed_native": [
+            688.3380797596084,
+            468.2774417323582
+          ],
+          "destination_native": [
+            450.2677288525453,
+            685.6279651096888
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 51.16365396374781,
+          "new_gt_distance": 3.850026466025451,
+          "old_confidence": 0.28140559792518616,
+          "new_confidence": 0.28140559792518616,
+          "modeled_gain": 0.008214382331724588,
+          "modeled_loss": 0.007676561671995167
+        },
+        {
+          "slot": 2,
+          "removed_native": [
+            528.4519008609717,
+            566.3424555980157
+          ],
+          "destination_native": [
+            354.8535748393928,
+            556.2103501728602
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 23.89588057372115,
+          "new_gt_distance": 5.742205156714044,
+          "old_confidence": 0.3557748794555664,
+          "new_confidence": 0.2628418207168579,
+          "modeled_gain": 0.008214332850312912,
+          "modeled_loss": 0.007748577809310123
+        }
+      ],
+      "lost": 0,
+      "gained": 2,
+      "bank_size": 70,
+      "bank_cardinality_upper_bound": 13,
+      "tolerance_curve": {
+        "4": 2,
+        "8": 7,
+        "16": 11,
+        "32": 13
+      }
+    },
+    {
+      "id": "dev_08",
+      "group": "ipic_dependency_483475312362",
+      "truth": 18,
+      "count": 24,
+      "start": 5,
+      "end": 3,
+      "moves": [
+        {
+          "slot": 0,
+          "removed_native": [
+            672.4301031938008,
+            425.8125264407062
+          ],
+          "destination_native": [
+            670.4879873946174,
+            538.7033032008579
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 59.82555292722686,
+          "new_gt_distance": 9.761994746393585,
+          "old_confidence": 0.39981165528297424,
+          "new_confidence": 0.2751297354698181,
+          "modeled_gain": 0.011549617247270808,
+          "modeled_loss": 0.0014563719058612635
+        },
+        {
+          "slot": 3,
+          "removed_native": [
+            577.3490928574009,
+            768.130583070989
+          ],
+          "destination_native": [
+            749.1158347519455,
+            573.1287375858851
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 9.115054453271798,
+          "new_gt_distance": 5.395953296267622,
+          "old_confidence": 0.39233678579330444,
+          "new_confidence": 0.2568320035934448,
+          "modeled_gain": 0.01048136347247119,
+          "modeled_loss": 0.0027684245493253285
+        },
+        {
+          "slot": 14,
+          "removed_native": [
+            687.4345935601,
+            451.24769195668176
+          ],
+          "destination_native": [
+            478.47816223857,
+            643.6051987239292
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 47.18676239140324,
+          "new_gt_distance": 61.46488039953895,
+          "old_confidence": 0.314050555229187,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.010479763133044764,
+          "modeled_loss": 0.005974353768072812
+        },
+        {
+          "slot": 16,
+          "removed_native": [
+            707.2540111977356,
+            749.019814233649
+          ],
+          "destination_native": [
+            470.36596458029345,
+            609.1587317330496
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 4.202627954818117,
+          "new_gt_distance": 46.59631540112951,
+          "old_confidence": 0.3073579967021942,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.009805672968616128,
+          "modeled_loss": 0.007281769501238068
+        },
+        {
+          "slot": 4,
+          "removed_native": [
+            573.6976227080752,
+            780.0862665921755
+          ],
+          "destination_native": [
+            655.2788497588359,
+            826.0605204445975
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 6.209549095297416,
+          "new_gt_distance": 10.129676571030982,
+          "old_confidence": 0.3775406777858734,
+          "new_confidence": 0.2751297354698181,
+          "modeled_gain": 0.009494187476956822,
+          "modeled_loss": 0.008039619859229137
+        },
+        {
+          "slot": 22,
+          "removed_native": [
+            393.7453512613954,
+            885.4257379047826
+          ],
+          "destination_native": [
+            752.1078081934987,
+            627.0379988125392
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 6.868562252284966,
+          "new_gt_distance": 35.01712168926407,
+          "old_confidence": 0.28776782751083374,
+          "new_confidence": 0.19682618975639343,
+          "modeled_gain": 0.009336650555587285,
+          "modeled_loss": 0.00808816794632126
+        },
+        {
+          "slot": 23,
+          "removed_native": [
+            395.90894734311416,
+            433.68181490445
+          ],
+          "destination_native": [
+            364.12677041534937,
+            723.1953033719743
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 100.82097940677104,
+          "new_gt_distance": 61.82236907247819,
+          "old_confidence": 0.2751297354698181,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.009268583868466325,
+          "modeled_loss": 0.008504698612117369
+        }
+      ],
+      "lost": 3,
+      "gained": 1,
+      "bank_size": 72,
+      "bank_cardinality_upper_bound": 10,
+      "tolerance_curve": {
+        "4": 2,
+        "8": 3,
+        "16": 9,
+        "32": 9
+      }
+    },
+    {
+      "id": "dev_09",
+      "group": "ipic_dependency_483475312362",
+      "truth": 19,
+      "count": 13,
+      "start": 5,
+      "end": 3,
+      "moves": [
+        {
+          "slot": 4,
+          "removed_native": [
+            359.4616558559872,
+            545.8309692320689
+          ],
+          "destination_native": [
+            583.2363395245623,
+            814.4782064982822
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 33.556792989325956,
+          "new_gt_distance": 21.959651228365225,
+          "old_confidence": 0.3073579967021942,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.008634292449165169,
+          "modeled_loss": 0.0060078926963336
+        },
+        {
+          "slot": 9,
+          "removed_native": [
+            468.9436892534509,
+            585.3371440457928
+          ],
+          "destination_native": [
+            578.6217017266538,
+            381.77169803210666
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 4.874744351774207,
+          "new_gt_distance": 47.44716262045794,
+          "old_confidence": 0.28140559792518616,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.007536511015929285,
+          "modeled_loss": 0.006171040668876087
+        },
+        {
+          "slot": 7,
+          "removed_native": [
+            583.9029057047034,
+            570.6892530052464
+          ],
+          "destination_native": [
+            491.6020191157993,
+            684.0783942086356
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 27.098637645457128,
+          "new_gt_distance": 38.70259187047933,
+          "old_confidence": 0.3007456064224243,
+          "new_confidence": 0.25091278553009033,
+          "modeled_gain": 0.00751886992079853,
+          "modeled_loss": 0.006218549375702009
+        },
+        {
+          "slot": 10,
+          "removed_native": [
+            481.9002902694083,
+            648.5568482506623
+          ],
+          "destination_native": [
+            549.0673866123541,
+            709.8741884231567
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 36.593532625644144,
+          "new_gt_distance": 3.578364043742305,
+          "old_confidence": 0.2751297354698181,
+          "new_confidence": 0.2628418207168579,
+          "modeled_gain": 0.007128925883721452,
+          "modeled_loss": 0.006242706642842156
+        },
+        {
+          "slot": 6,
+          "removed_native": [
+            575.6944721605113,
+            534.5692946786872
+          ],
+          "destination_native": [
+            595.2390652865597,
+            428.0646377290998
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 24.26678256768458,
+          "new_gt_distance": 18.493454362304885,
+          "old_confidence": 0.3007456064224243,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.007031393462555055,
+          "modeled_loss": 0.006248869506302436
+        },
+        {
+          "slot": 0,
+          "removed_native": [
+            386.35654564152696,
+            855.5599679907859
+          ],
+          "destination_native": [
+            521.1176232166018,
+            851.2743703297206
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 15.019987415702717,
+          "new_gt_distance": 8.851460131254916,
+          "old_confidence": 0.39981165528297424,
+          "new_confidence": 0.2018132209777832,
+          "modeled_gain": 0.006918267097130369,
+          "modeled_loss": 0.0064195495952921585
+        },
+        {
+          "slot": 11,
+          "removed_native": [
+            616.8631778330846,
+            676.0024311388648
+          ],
+          "destination_native": [
+            778.8414282891537,
+            744.1881246566772
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 4.291180672571503,
+          "new_gt_distance": 31.98687192933833,
+          "old_confidence": 0.2751297354698181,
+          "new_confidence": 0.2568320035934448,
+          "modeled_gain": 0.006799357188873293,
+          "modeled_loss": 0.006555160487480722
+        },
+        {
+          "slot": 12,
+          "removed_native": [
+            474.2426577465409,
+            873.704409447705
+          ],
+          "destination_native": [
+            407.7151578712711,
+            498.3886124747139
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 2.1708504246040463,
+          "new_gt_distance": 30.391110714389196,
+          "old_confidence": 0.2751297354698181,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.006777632480228991,
+          "modeled_loss": 0.00671488029993913
+        }
+      ],
+      "lost": 3,
+      "gained": 1,
+      "bank_size": 90,
+      "bank_cardinality_upper_bound": 13,
+      "tolerance_curve": {
+        "4": 2,
+        "8": 3,
+        "16": 5,
+        "32": 8
+      }
+    },
+    {
+      "id": "dev_10",
+      "group": "ipic_dependency_483475312362",
+      "truth": 34,
+      "count": 16,
+      "start": 3,
+      "end": 3,
+      "moves": [
+        {
+          "slot": 1,
+          "removed_native": [
+            724.0078986354667,
+            515.6534673712752
+          ],
+          "destination_native": [
+            570.3363415511511,
+            381.64458380426674
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 27.60808267171629,
+          "new_gt_distance": 16.664665286813676,
+          "old_confidence": 0.4378235340118408,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.007723885322674803,
+          "modeled_loss": 0.0027536723290704605
+        },
+        {
+          "slot": 15,
+          "removed_native": [
+            704.601667143763,
+            484.81146227294755
+          ],
+          "destination_native": [
+            487.3583737384485,
+            684.1254008156913
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 6.0607174387768055,
+          "new_gt_distance": 43.52368589884697,
+          "old_confidence": 0.2751297354698181,
+          "new_confidence": 0.2568320035934448,
+          "modeled_gain": 0.00747743347440868,
+          "modeled_loss": 0.0052353402180254855
+        },
+        {
+          "slot": 0,
+          "removed_native": [
+            713.7391930220346,
+            504.816709255374
+          ],
+          "destination_native": [
+            505.2720891851086,
+            771.2502464566911
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 18.939721968879518,
+          "new_gt_distance": 21.483430438494512,
+          "old_confidence": 0.39233678579330444,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.007410643942520583,
+          "modeled_loss": 0.005548401264440205
+        },
+        {
+          "slot": 12,
+          "removed_native": [
+            674.643052055144,
+            431.6838802696416
+          ],
+          "destination_native": [
+            400.19884066451846,
+            461.22276258468634
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 30.21116849251521,
+          "new_gt_distance": 34.04760373008788,
+          "old_confidence": 0.28140559792518616,
+          "new_confidence": 0.18713268637657166,
+          "modeled_gain": 0.007181433986140703,
+          "modeled_loss": 0.005934073792165874
+        },
+        {
+          "slot": 4,
+          "removed_native": [
+            358.12255364218123,
+            548.8499572052317
+          ],
+          "destination_native": [
+            449.20386470492866,
+            502.444484438215
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 13.17301744859169,
+          "new_gt_distance": 25.54565426041148,
+          "old_confidence": 0.32766830921173096,
+          "new_confidence": 0.2018132209777832,
+          "modeled_gain": 0.0070757413214754435,
+          "modeled_loss": 0.00606140982459714
+        },
+        {
+          "slot": 10,
+          "removed_native": [
+            721.459967194281,
+            815.2736668577094
+          ],
+          "destination_native": [
+            412.1653569836252,
+            527.1000833511353
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 11.580414296197624,
+          "new_gt_distance": 5.709561262160231,
+          "old_confidence": 0.3007456064224243,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.0069518562913261925,
+          "modeled_loss": 0.006334581117874736
+        },
+        {
+          "slot": 3,
+          "removed_native": [
+            787.2784351865599,
+            700.462976116063
+          ],
+          "destination_native": [
+            713.5884973350358,
+            788.1400624683924
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 14.980486726625875,
+          "new_gt_distance": 22.02077852624331,
+          "old_confidence": 0.3486451208591461,
+          "new_confidence": 0.23934932053089142,
+          "modeled_gain": 0.006731658426728772,
+          "modeled_loss": 0.006671393001407601
+        }
+      ],
+      "lost": 1,
+      "gained": 1,
+      "bank_size": 105,
+      "bank_cardinality_upper_bound": 16,
+      "tolerance_curve": {
+        "4": 1,
+        "8": 3,
+        "16": 8,
+        "32": 12
+      }
+    },
+    {
+      "id": "D27_00",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 0,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D27_01",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 0,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D27_02",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 0,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D27_03",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 0,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D27_04",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 36,
+      "count": 16,
+      "start": 5,
+      "end": 3,
+      "moves": [
+        {
+          "slot": 10,
+          "removed_native": [
+            855.7447260266235,
+            1029.0921228066777
+          ],
+          "destination_native": [
+            813.5347378594535,
+            871.4806767369175
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 26.955892723748175,
+          "new_gt_distance": 19.06078757830474,
+          "old_confidence": 0.37022536993026733,
+          "new_confidence": 0.23934932053089142,
+          "modeled_gain": 0.019368764097837075,
+          "modeled_loss": 0.0008283202342883216
+        },
+        {
+          "slot": 1,
+          "removed_native": [
+            884.1523007855268,
+            561.0816597693822
+          ],
+          "destination_native": [
+            932.8014181682041,
+            814.8491932636983
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 4.874780211022215,
+          "new_gt_distance": 24.48995463849134,
+          "old_confidence": 0.5156199336051941,
+          "new_confidence": 0.20689405500888824,
+          "modeled_gain": 0.01913568223706301,
+          "modeled_loss": 0.0014148451182137629
+        },
+        {
+          "slot": 14,
+          "removed_native": [
+            838.9162442164096,
+            568.7930268213637
+          ],
+          "destination_native": [
+            818.5532786505562,
+            925.2458609503668
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 13.50958243703491,
+          "new_gt_distance": 17.656988909844735,
+          "old_confidence": 0.3073579967021942,
+          "new_confidence": 0.24508501589298248,
+          "modeled_gain": 0.018754306791086868,
+          "modeled_loss": 0.008679789520037536
+        },
+        {
+          "slot": 11,
+          "removed_native": [
+            834.1580012281236,
+            632.864881573278
+          ],
+          "destination_native": [
+            749.9465477807181,
+            781.7927468102257
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 12.50662755182795,
+          "new_gt_distance": 9.027293519323061,
+          "old_confidence": 0.3415825068950653,
+          "new_confidence": 0.28776782751083374,
+          "modeled_gain": 0.01830509319606393,
+          "modeled_loss": 0.010930745959702101
+        },
+        {
+          "slot": 4,
+          "removed_native": [
+            761.3878494440328,
+            713.6414080578234
+          ],
+          "destination_native": [
+            937.5394526890346,
+            934.5125142690298
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 6.640056985985128,
+          "new_gt_distance": 11.053732368158155,
+          "old_confidence": 0.37022536993026733,
+          "new_confidence": 0.16026602685451508,
+          "modeled_gain": 0.01657894291165011,
+          "modeled_loss": 0.011564544674484048
+        },
+        {
+          "slot": 2,
+          "removed_native": [
+            763.3177589163373,
+            607.6351453214733
+          ],
+          "destination_native": [
+            980.4630189623151,
+            944.4275564932608
+          ],
+          "lost": 1,
+          "gained": 1,
+          "old_gt_distance": 6.8294825465087055,
+          "new_gt_distance": 5.974237507223884,
+          "old_confidence": 0.3849121630191803,
+          "new_confidence": 0.22815649211406708,
+          "modeled_gain": 0.0157494940618311,
+          "modeled_loss": 0.011676510395974667
+        },
+        {
+          "slot": 0,
+          "removed_native": [
+            871.1062659278741,
+            562.7371497862881
+          ],
+          "destination_native": [
+            971.9144526890346,
+            993.8604209831169
+          ],
+          "lost": 1,
+          "gained": 0,
+          "old_gt_distance": 0.4634048595521482,
+          "new_gt_distance": 10.62138458955461,
+          "old_confidence": 0.46101677417755127,
+          "new_confidence": 0.23934932053089142,
+          "modeled_gain": 0.01561456475258536,
+          "modeled_loss": 0.012935391855554647
+        },
+        {
+          "slot": 5,
+          "removed_native": [
+            671.7467630028608,
+            751.0569424601588
+          ],
+          "destination_native": [
+            896.9087544849941,
+            742.0792353862041
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 8.786333011788992,
+          "new_gt_distance": 11.740628385105321,
+          "old_confidence": 0.42250463366508484,
+          "new_confidence": 0.25091278553009033,
+          "modeled_gain": 0.015021638397379324,
+          "modeled_loss": 0.012958753648478108
+        },
+        {
+          "slot": 6,
+          "removed_native": [
+            920.0539814672231,
+            861.2880437333181
+          ],
+          "destination_native": [
+            1055.0130209241595,
+            905.0530548095703
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 21.434973666666515,
+          "new_gt_distance": 13.994807720957747,
+          "old_confidence": 0.39981165528297424,
+          "new_confidence": 0.2628418207168579,
+          "modeled_gain": 0.014834495612115282,
+          "modeled_loss": 0.014304118831010095
+        }
+      ],
+      "lost": 3,
+      "gained": 1,
+      "bank_size": 46,
+      "bank_cardinality_upper_bound": 16,
+      "tolerance_curve": {
+        "4": 1,
+        "8": 3,
+        "16": 11,
+        "32": 16
+      }
+    },
+    {
+      "id": "D27_05",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 18,
+      "count": 3,
+      "start": 0,
+      "end": 0,
+      "moves": [
+        {
+          "slot": 2,
+          "removed_native": [
+            730.9429530391177,
+            1214.7583183482204
+          ],
+          "destination_native": [
+            1073.98216847011,
+            600.9244761767688
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 13.652297004232873,
+          "new_gt_distance": 19.827890316700962,
+          "old_confidence": 0.37022536993026733,
+          "new_confidence": 0.2689414322376251,
+          "modeled_gain": 0.0585093995955207,
+          "modeled_loss": 0.0006974442626444619
+        },
+        {
+          "slot": 0,
+          "removed_native": [
+            794.3244006807575,
+            589.7547374967331
+          ],
+          "destination_native": [
+            810.1709105627876,
+            933.7164969229483
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 22.531782852621348,
+          "new_gt_distance": 18.199573782297612,
+          "old_confidence": 0.39981165528297424,
+          "new_confidence": 0.16451646387577057,
+          "modeled_gain": 0.04751581444561292,
+          "modeled_loss": 0.03971668523617489
+        }
+      ],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 28,
+      "bank_cardinality_upper_bound": 3,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 1,
+        "32": 3
+      }
+    },
+    {
+      "id": "D27_06",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 16,
+      "count": 5,
+      "start": 1,
+      "end": 1,
+      "moves": [
+        {
+          "slot": 3,
+          "removed_native": [
+            395.4838129866181,
+            1260.4071795828609
+          ],
+          "destination_native": [
+            1015.551367350987,
+            839.2135423539994
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 150.29795192415665,
+          "new_gt_distance": 11.117041822982983,
+          "old_confidence": 0.3849121630191803,
+          "new_confidence": 0.2120688259601593,
+          "modeled_gain": 0.09712987891915464,
+          "modeled_loss": 0.01463349520254208
+        }
+      ],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 13,
+      "bank_cardinality_upper_bound": 3,
+      "tolerance_curve": {
+        "4": 1,
+        "8": 1,
+        "16": 2,
+        "32": 2
+      }
+    },
+    {
+      "id": "D27_07",
+      "group": "ipic_dependency_b8c3dda6893f",
+      "truth": 16,
+      "count": 4,
+      "start": 1,
+      "end": 1,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 9,
+      "bank_cardinality_upper_bound": 3,
+      "tolerance_curve": {
+        "4": 1,
+        "8": 1,
+        "16": 3,
+        "32": 4
+      }
+    },
+    {
+      "id": "D12_00",
+      "group": "ipic_dependency_483475312362",
+      "truth": 2,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D12_01",
+      "group": "ipic_dependency_483475312362",
+      "truth": 2,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D12_02",
+      "group": "ipic_dependency_483475312362",
+      "truth": 7,
+      "count": 0,
+      "start": 0,
+      "end": 0,
+      "moves": [],
+      "lost": 0,
+      "gained": 0,
+      "bank_size": 0,
+      "bank_cardinality_upper_bound": 0,
+      "tolerance_curve": {
+        "4": 0,
+        "8": 0,
+        "16": 0,
+        "32": 0
+      }
+    },
+    {
+      "id": "D12_03",
+      "group": "ipic_dependency_483475312362",
+      "truth": 14,
+      "count": 14,
+      "start": 7,
+      "end": 9,
+      "moves": [
+        {
+          "slot": 8,
+          "removed_native": [
+            396.89328162112736,
+            1065.2015482718368
+          ],
+          "destination_native": [
+            541.0647039153696,
+            611.4036773272923
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 3.651312859784336,
+          "new_gt_distance": 12.107518585042797,
+          "old_confidence": 0.4455295205116272,
+          "new_confidence": 0.21733753383159637,
+          "modeled_gain": 0.0329602041281332,
+          "modeled_loss": 0.004068128395714589
+        },
+        {
+          "slot": 1,
+          "removed_native": [
+            575.696967569987,
+            587.9574461886817
+          ],
+          "destination_native": [
+            396.46591150899803,
+            856.5894111905778
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 9.794036797561148,
+          "new_gt_distance": 4.717152630063765,
+          "old_confidence": 0.5234203934669495,
+          "new_confidence": 0.22270013391971588,
+          "modeled_gain": 0.032769652098965374,
+          "modeled_loss": 0.012213593864959172
+        },
+        {
+          "slot": 5,
+          "removed_native": [
+            384.7418207920458,
+            1029.0605532843495
+          ],
+          "destination_native": [
+            394.9917581164883,
+            987.9960644585747
+          ],
+          "lost": 0,
+          "gained": 1,
+          "old_gt_distance": 17.615860808779217,
+          "new_gt_distance": 7.496439204452413,
+          "old_confidence": 0.4843800365924835,
+          "new_confidence": 0.2568320035934448,
+          "modeled_gain": 0.032200561253331386,
+          "modeled_loss": 0.013919217943350343
+        },
+        {
+          "slot": 9,
+          "removed_native": [
+            902.4941576910759,
+            768.5955889841917
+          ],
+          "destination_native": [
+            415.32647143016374,
+            619.5699666568211
+          ],
+          "lost": 0,
+          "gained": 0,
+          "old_gt_distance": 172.99131716569673,
+          "new_gt_distance": 8.856223249026788,
+          "old_confidence": 0.32082128524780273,
+          "new_confidence": 0.23370636999607086,
+          "modeled_gain": 0.03088063659874784,
+          "modeled_loss": 0.019587006247651292
+        }
+      ],
+      "lost": 0,
+      "gained": 2,
+      "bank_size": 15,
+      "bank_cardinality_upper_bound": 11,
+      "tolerance_curve": {
+        "4": 4,
+        "8": 9,
+        "16": 11,
+        "32": 12
+      }
+    }
+  ],
+  "groups": {
+    "ipic_dependency_483475312362": {
+      "truth": 269,
+      "count": 185,
+      "start": 68,
+      "end": 73,
+      "lost": 16,
+      "gained": 21,
+      "bank_cardinality_upper_bound": 136,
+      "moves": 61,
+      "tolerances": {
+        "4": 35,
+        "8": 73,
+        "16": 118,
+        "32": 138
+      }
+    },
+    "ipic_dependency_b8c3dda6893f": {
+      "truth": 86,
+      "count": 28,
+      "start": 7,
+      "end": 5,
+      "lost": 3,
+      "gained": 1,
+      "bank_cardinality_upper_bound": 25,
+      "moves": 12,
+      "tolerances": {
+        "4": 3,
+        "8": 5,
+        "16": 17,
+        "32": 25
+      }
+    }
+  },
+  "prior_sha256": "48949c75e45262d4a32f252065834a87600dcd84a7ed07f0680f46274c420b6e"
+}

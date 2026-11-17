@@ -1,0 +1,18 @@
+{
+  "repo": "TencentYoutuResearch/CrowdCounting-P2PNet",
+  "commit": "5c91a81ca062b1c7fd3db3ad1c55b1c21f0a7455",
+  "files": {
+    "LICENSE": "21eac805db37a50a2db0594e577d7c6b6a7fb53adbf00f050a35cae7dd495979",
+    "README.md": "4afeaa24d431d6aaf11bbc2f5ba1cac62ff26b78ce4907cbe514c0eaf01e77a0",
+    "models/__init__.py": "dad01c6bd92f1251ed430ad2e7e305da4581da0c05fbae78a3e0bfa66642b4ab",
+    "models/backbone.py": "3c61ad83d763fb96c71e80fd7cfed801aba587921e43ea7416789f7200730e39",
+    "models/matcher.py": "4426df389f763510d9879b858ddc15f8d6aae935d0812e5b957b281bcf549bc2",
+    "models/p2pnet.py": "a3705b70b9253f37babe437fc79f1be8a7a05563ac2f2430a4dfbda3f21546a0",
+    "models/vgg_.py": "2e4d08e1b04d549b414fd4fc3034399224f8140cf0d6f628a1a68c92507175e7",
+    "run_test.py": "d5c25ec3d3045425ae7c3e761747c49af2b146b723f674c2fb2db9e7eff9e395",
+    "train.py": "bbd19597b342dba87c552f91140241748c8f3286a39fece2a95a20b3084836bc",
+    "util/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "util/misc.py": "b94a5d962e88bd2deb330f10187e396083d58c17599532a9672b2882fbe8bbf3",
+    "weights/SHTechA.pth": "506047732b128ff09efef18e94bfacbe35fcfef300e5e9eeeece259b0488c63f"
+  }
+}

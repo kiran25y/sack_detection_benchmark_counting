@@ -1,0 +1,18 @@
+{
+  "time_kst": "2026-11-09T11:22:35.950047+09:00",
+  "sources": {
+    "study_protocols/firc_uncovered_reallocation_20261109.json": "fbda172ea4e5dc2f59e451723adbc5e16c3644745d070dfd41b751fc38508ca6",
+    "scripts/run_firc_uncovered_reallocation.py": "d1bd25ce0d74c8ac1593c621d51ee040eed0095c49cfc475df821b0459eec106",
+    "artifacts/firc_center_voting_v1_20261109/result.json": "e5a9929f592b98f40a08fc7a7ea4e633d4b49046f21bc5b96244a1ad08959819",
+    "artifacts/firc_center_voting_v1_20261109/predictions.jsonl": "959238cc2195e427099be755a8adfb7c89250f0725a21df5888b2b7f06b344d7",
+    "artifacts/firc_ordinary_evaluation_v1_20261106/data/plan.json": "b4341686a4e53281cf099d385a8930ecccb72d9d2235184a7b8a59c380597cc9",
+    "artifacts/firc_ordinary_evaluation_v1_20261106/collected/result/report.json": "fe3b5e606f5f43a86e7f0d08ad7bc2c9baac89ab998aa7fc4195ffe64d9c8045",
+    "artifacts/countr_sack_train_v1_20261105/collected/collection_verification.json": "768fad53271910e54a1b1f6da0353eefb19784f2b29c0c57ac9a068db77b6d82",
+    "artifacts/ipic_transfer_pilot_data_v1_20261104/sack_manifest.json": "dfa95f1421e4b3c635e18880d95244ebf7af38c827706cb31b20f32d27c7253d",
+    "scripts/analyze_firc_tiny.py": "773ff92bf5e1612104bfd4435d0e866ed876a3b4c2d5bad7b4b3befd3c1d9373",
+    "scripts/audit_firc_countr_misses.py": "12933642ca94473b9d43fedcde78f35b4aa5cf49700ad8c903a42e3321c4b460",
+    "scripts/firc_countr_support.py": "f556d1ebba957099acf4b3e20215295185c60d5f52db93dfa2284121c4e63a56",
+    "scripts/run_firc_center_voting.py": "77475b9b61cc8fd4bb10323914ccff1c0af15c2a349facc7404205a83fc4faca"
+  },
+  "primary": "joint_coverage"
+}

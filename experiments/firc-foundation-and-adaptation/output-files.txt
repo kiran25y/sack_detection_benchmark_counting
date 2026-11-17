@@ -1,0 +1,9 @@
+collected/bootstrap.json
+collected/result/adaptation.pt
+collected/result/adaptation_resume.pt
+collected/result/foundation.pt
+collected/result/foundation_resume.pt
+collected/result/report.json
+collected/result/result_hashes.json
+collected/result/updates.jsonl
+collected/verification.json

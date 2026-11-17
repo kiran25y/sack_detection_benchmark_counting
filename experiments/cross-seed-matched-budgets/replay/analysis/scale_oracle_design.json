@@ -1,0 +1,70 @@
+{
+  "oracle": {
+    "development": {
+      "truth": 355,
+      "all_hits": 186,
+      "min_gt_quota_oracle": 186,
+      "feasible": 21,
+      "seed_over": 2,
+      "too_few": 0,
+      "feasible_truth": 304,
+      "feasible_oracle": 157,
+      "feasible_seed_constrained_matches": 156,
+      "unlimited_recall": 0.523943661971831,
+      "native_countgd_gt_cap_hits": 221,
+      "native_countgd_cannot_fill_truth_frames": 1,
+      "native_countgd_unfillable_truth_slots": 14
+    },
+    "test": {
+      "truth": 644,
+      "all_hits": 368,
+      "min_gt_quota_oracle": 368,
+      "feasible": 50,
+      "seed_over": 1,
+      "too_few": 0,
+      "feasible_truth": 619,
+      "feasible_oracle": 362,
+      "feasible_seed_constrained_matches": 346,
+      "unlimited_recall": 0.5714285714285714,
+      "native_countgd_gt_cap_hits": 351,
+      "native_countgd_cannot_fill_truth_frames": 1,
+      "native_countgd_unfillable_truth_slots": 2
+    }
+  },
+  "external": {
+    "aux_encoded_test_overlap": 0,
+    "aux_encoded_all_overlap": 0,
+    "unique_aux_images": 21156,
+    "all_roboflow_export": 24007,
+    "all_export_exact64": 0
+  },
+  "size": {
+    "count": 226,
+    "width_q": [
+      86.60000000000001,
+      107.6,
+      131.2
+    ],
+    "height_q": [
+      110.60000000000001,
+      138.8,
+      169.2
+    ],
+    "gmean_q": [
+      106.12791978844558,
+      122.1865737463533,
+      139.11949635628417
+    ]
+  },
+  "design": {
+    "mean": 0.2,
+    "sd": 0.6388765649999399,
+    "iid_n": 81,
+    "groups": 24,
+    "positive_per_group": 12,
+    "assumed_icc": 0.1,
+    "p_group_positive": 0.7728698787165906,
+    "required_positive_groups": 17,
+    "marginal_rank_power": 0.8416307671197604
+  }
+}

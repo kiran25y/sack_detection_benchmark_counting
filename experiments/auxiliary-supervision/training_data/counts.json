@@ -1,0 +1,5102 @@
+[
+  {
+    "id": "train/images/frame0-00-16-61_jpg.rf.876c68a174d0b14f9241667cd532fcd7.jpg",
+    "path": "/rf/train/images/frame0-00-16-61_jpg.rf.876c68a174d0b14f9241667cd532fcd7.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "69366e78eb3bc03a93f0115635d0a545f2546f91de3a7f6f9d75d1a7a06a3118",
+    "count": 37,
+    "review_id": "sack_003"
+  },
+  {
+    "id": "train/images/frame0-00-16-81_jpg.rf.b75ea3749050d1f22bb774d1475f7efe.jpg",
+    "path": "/rf/train/images/frame0-00-16-81_jpg.rf.b75ea3749050d1f22bb774d1475f7efe.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "52f1b81e09946aed2940c1e4da7223d4469d07952c015341549a154515695e7d",
+    "count": 9,
+    "review_id": "sack_068"
+  },
+  {
+    "id": "train/images/frame0-00-31-41_jpg.rf.af6d199a718d03dbe06abc7cd11f2f3f.jpg",
+    "path": "/rf/train/images/frame0-00-31-41_jpg.rf.af6d199a718d03dbe06abc7cd11f2f3f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ecfdf6693131b283d66a50653e8d3b89c863d93be6e364a32fb8c4d771a763ba",
+    "count": 36,
+    "review_id": "sack_063"
+  },
+  {
+    "id": "train/images/frame0-00-32-42_jpg.rf.4c0df535886b7cd8585c7ebde260dcfc.jpg",
+    "path": "/rf/train/images/frame0-00-32-42_jpg.rf.4c0df535886b7cd8585c7ebde260dcfc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3514922d2fc423762c9520f4c6f8a7ec376afaa257b9037c46cc88e3ddc534d9",
+    "count": 41,
+    "review_id": "sack_069"
+  },
+  {
+    "id": "train/images/frame0-00-46-03_jpg.rf.3aa526f4532ce0850a2ecd4561b6d8b0.jpg",
+    "path": "/rf/train/images/frame0-00-46-03_jpg.rf.3aa526f4532ce0850a2ecd4561b6d8b0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ae1d66561316b3ffd9002994a3b23e54a9ae9bd050d13ff7178dfcf3bd242e0c",
+    "count": 9,
+    "review_id": "sack_057"
+  },
+  {
+    "id": "train/images/frame0-01-06-21_jpg.rf.3900d1a0ba3cfe137ee91432f2dddb22.jpg",
+    "path": "/rf/train/images/frame0-01-06-21_jpg.rf.3900d1a0ba3cfe137ee91432f2dddb22.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f37f87260e9f7146e9ab59c3334bb608b23bf0ce96223724aa5b97110a033407",
+    "count": 3,
+    "review_id": "sack_088"
+  },
+  {
+    "id": "train/images/frame0-01-06-64_jpg.rf.23fa0d6245677e38455141b88b767539.jpg",
+    "path": "/rf/train/images/frame0-01-06-64_jpg.rf.23fa0d6245677e38455141b88b767539.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "12c5286b0ede6f124b2c8530a1366f68c1b851217139b9bb4c5966fe85650ce5",
+    "count": 12,
+    "review_id": "sack_115"
+  },
+  {
+    "id": "train/images/frame0-01-09-05_jpg.rf.dfc92aeac7a5147e5e6ca15bd52a227a.jpg",
+    "path": "/rf/train/images/frame0-01-09-05_jpg.rf.dfc92aeac7a5147e5e6ca15bd52a227a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7118f30223e96bb65850a323d66ccc7b98e0148e599c60e3f3f2a19e9938131c",
+    "count": 12,
+    "review_id": "sack_084"
+  },
+  {
+    "id": "train/images/frame0-01-57-81_jpg.rf.16e1d46c4f4f995b6af2d4853777db80.jpg",
+    "path": "/rf/train/images/frame0-01-57-81_jpg.rf.16e1d46c4f4f995b6af2d4853777db80.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "860d183ae1db761dbde400c65d3d235cc41d80cd262c3ff801edd8fea957b49a",
+    "count": 10,
+    "review_id": "sack_035"
+  },
+  {
+    "id": "train/images/frame0-02-01-44_jpg.rf.093d1c4b16df7a78322d04d22ab7bd44.jpg",
+    "path": "/rf/train/images/frame0-02-01-44_jpg.rf.093d1c4b16df7a78322d04d22ab7bd44.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "30f254a76c4e2f8dbea62cd9aa882cd6ce8f7604f29c4be295b1373f166d5dc8",
+    "count": 5,
+    "review_id": "sack_149"
+  },
+  {
+    "id": "train/images/frame0-02-01-64_jpg.rf.80b5654d109eb7b6e9e24d6bfd4e4b0f.jpg",
+    "path": "/rf/train/images/frame0-02-01-64_jpg.rf.80b5654d109eb7b6e9e24d6bfd4e4b0f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "2c6e1fcf99402f3127e510d0512004752250b6f3b90c7ecf8644173bf413079b",
+    "count": 5,
+    "review_id": "sack_132"
+  },
+  {
+    "id": "train/images/frame0-02-05-21_jpg.rf.35ef5c3d6294bd29099a0c1609ef8a5b.jpg",
+    "path": "/rf/train/images/frame0-02-05-21_jpg.rf.35ef5c3d6294bd29099a0c1609ef8a5b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a39babe6aa38f41745a77bf5a4fcb1b9c4db739391a24c7c78bef6edd5317d68",
+    "count": 9,
+    "review_id": "sack_016"
+  },
+  {
+    "id": "train/images/frame0-02-07-01_jpg.rf.bc4d128b124eb0b6015d3030cc41acf2.jpg",
+    "path": "/rf/train/images/frame0-02-07-01_jpg.rf.bc4d128b124eb0b6015d3030cc41acf2.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "df783f7d19f4ff1367c598b1797875acf717e6cedda076f57ff3859f83cad5b7",
+    "count": 8,
+    "review_id": "sack_053"
+  },
+  {
+    "id": "train/images/frame0-02-14-65_jpg.rf.8b430173bad89f47dffb5751fe95ee81.jpg",
+    "path": "/rf/train/images/frame0-02-14-65_jpg.rf.8b430173bad89f47dffb5751fe95ee81.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9c90922d7d380d05dfa61dbc0cd0682a177b31952d382a82a35ddf82b5c2a1bd",
+    "count": 6,
+    "review_id": "sack_048"
+  },
+  {
+    "id": "train/images/frame0-02-15-03_jpg.rf.e9fa44840c333dbc9e5fe6c8224a588a.jpg",
+    "path": "/rf/train/images/frame0-02-15-03_jpg.rf.e9fa44840c333dbc9e5fe6c8224a588a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "db9a688af135ea395d01feac8447ca74a13e234604be6b847da0ed55ee1b3eff",
+    "count": 7,
+    "review_id": "sack_086"
+  },
+  {
+    "id": "train/images/frame0-02-21-63_jpg.rf.5bd48fcc6ee571d44d343bc926547dcf.jpg",
+    "path": "/rf/train/images/frame0-02-21-63_jpg.rf.5bd48fcc6ee571d44d343bc926547dcf.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a8268558abdfafea03720e56c8c774b50cc0146e14203a95aab6abf6780b9190",
+    "count": 8,
+    "review_id": "sack_013"
+  },
+  {
+    "id": "train/images/frame0-02-24-82_jpg.rf.a26b4354ce08fbb9d58c06757dac9de0.jpg",
+    "path": "/rf/train/images/frame0-02-24-82_jpg.rf.a26b4354ce08fbb9d58c06757dac9de0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "182ff04064692134da29aede9d8d41cb81bc655b0b6476b8ac8017d6a23d2a3f",
+    "count": 8,
+    "review_id": "sack_049"
+  },
+  {
+    "id": "train/images/frame0-02-27-02_jpg.rf.ad1ff31d0f4fb93e67dd743e4de7ff2f.jpg",
+    "path": "/rf/train/images/frame0-02-27-02_jpg.rf.ad1ff31d0f4fb93e67dd743e4de7ff2f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cf1d6ce058c9f5ad570e935d369701f19f8af0eb990265799c3f3a13e7c2e9c5",
+    "count": 3,
+    "review_id": "sack_002"
+  },
+  {
+    "id": "train/images/frame0-02-46-80_jpg.rf.90f72c2e0ac6bfdbbc7a02cb1f921705.jpg",
+    "path": "/rf/train/images/frame0-02-46-80_jpg.rf.90f72c2e0ac6bfdbbc7a02cb1f921705.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a4ba7ae8221758326a33d3787cb7ad0d0f9d6cf0ebceacd702e23cfedb9389b7",
+    "count": 12,
+    "review_id": "sack_045"
+  },
+  {
+    "id": "train/images/frame0-02-47-81_jpg.rf.32b49c1ce7d3044a20d8446b9dd2d388.jpg",
+    "path": "/rf/train/images/frame0-02-47-81_jpg.rf.32b49c1ce7d3044a20d8446b9dd2d388.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b792b7b709b2e16ac8278b36db8b26da8b08aeea3ef6e18dec9167345995c9cf",
+    "count": 5,
+    "review_id": "sack_061"
+  },
+  {
+    "id": "train/images/frame0-02-58-23_jpg.rf.f0543a138724d8ce5545bb658963a046.jpg",
+    "path": "/rf/train/images/frame0-02-58-23_jpg.rf.f0543a138724d8ce5545bb658963a046.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "02f009ef30ffa99c362713cf67fa09a89f7d13d5a15dde019cb1842fa63efc02",
+    "count": 11,
+    "review_id": "sack_040"
+  },
+  {
+    "id": "train/images/frame0-02-59-43_jpg.rf.5158f18ba4e5ecc2c87ed830af70e85a.jpg",
+    "path": "/rf/train/images/frame0-02-59-43_jpg.rf.5158f18ba4e5ecc2c87ed830af70e85a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "481c8b4918aac441b6472fe2deb66b2446375982dd231f26d697238a6f16dcae",
+    "count": 42,
+    "review_id": "sack_113"
+  },
+  {
+    "id": "train/images/frame0-03-15-43_jpg.rf.211ca4ddc2aabba561aed14e6edd238c.jpg",
+    "path": "/rf/train/images/frame0-03-15-43_jpg.rf.211ca4ddc2aabba561aed14e6edd238c.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "74abaf6c137ae27e6e2216cde0a116364fc441600a697d967109bd300b1b0ea4",
+    "count": 10,
+    "review_id": "sack_000"
+  },
+  {
+    "id": "train/images/frame0-03-27-04_jpg.rf.978b1711ce3b66dc0cd2d68cace45600.jpg",
+    "path": "/rf/train/images/frame0-03-27-04_jpg.rf.978b1711ce3b66dc0cd2d68cace45600.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5b6ad2f9c8597899f99645768e32dcec3437b2e35aaf85863dd4056465df1ed2",
+    "count": 12,
+    "review_id": "sack_058"
+  },
+  {
+    "id": "train/images/frame0-03-32-25_jpg.rf.08b2b4f64d31c44f118f05e034eddaca.jpg",
+    "path": "/rf/train/images/frame0-03-32-25_jpg.rf.08b2b4f64d31c44f118f05e034eddaca.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5b81945bea909c03f7ed400f2cd997c9de45d142ed83c78804d500b98e15416c",
+    "count": 15,
+    "review_id": "sack_130"
+  },
+  {
+    "id": "train/images/frame0-03-32-40_jpg.rf.cc4180729f797fb45803be73bc90f0d0.jpg",
+    "path": "/rf/train/images/frame0-03-32-40_jpg.rf.cc4180729f797fb45803be73bc90f0d0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3212c1ef29011e72e0102febd4f33c876e399495967c48e729ca64a1bfdd89c5",
+    "count": 14,
+    "review_id": "sack_124"
+  },
+  {
+    "id": "train/images/frame0-03-32-61_jpg.rf.9dfa4723b84fba8a9ba93ccaceaf36ca.jpg",
+    "path": "/rf/train/images/frame0-03-32-61_jpg.rf.9dfa4723b84fba8a9ba93ccaceaf36ca.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "53a1d48f75e534ac44c371388f24496ab5582730b3c8001aefa6e9ed9dcaec11",
+    "count": 14,
+    "review_id": "sack_134"
+  },
+  {
+    "id": "train/images/frame0-03-32-81_jpg.rf.42d9ad73a0992b3e44dc34c962124754.jpg",
+    "path": "/rf/train/images/frame0-03-32-81_jpg.rf.42d9ad73a0992b3e44dc34c962124754.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "20ffdbb86cb5be3386397a6ae5826c5f17fa9c568e57807c142d90f35e0ae6ae",
+    "count": 14,
+    "review_id": "sack_143"
+  },
+  {
+    "id": "train/images/frame0-03-33-22_jpg.rf.1c398fefd31049a8936284a64b1133a4.jpg",
+    "path": "/rf/train/images/frame0-03-33-22_jpg.rf.1c398fefd31049a8936284a64b1133a4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7d5c6e3c11521cba6f305c115f690885737f1252db1f7a9166838800bcebfa68",
+    "count": 13,
+    "review_id": "sack_064"
+  },
+  {
+    "id": "train/images/frame0-03-34-60_jpg.rf.d2b8f12d0bce99b61a356437a031bef0.jpg",
+    "path": "/rf/train/images/frame0-03-34-60_jpg.rf.d2b8f12d0bce99b61a356437a031bef0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1555a8ab3de5fc33795823efc56ac20c26603680adff037a7e44b578da11c17d",
+    "count": 11,
+    "review_id": "sack_129"
+  },
+  {
+    "id": "train/images/frame0-03-35-01_jpg.rf.f8aab135d5991396f1fc4c2b5f594c40.jpg",
+    "path": "/rf/train/images/frame0-03-35-01_jpg.rf.f8aab135d5991396f1fc4c2b5f594c40.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4dec676c8e5b8be62eca43fad309e6021bffce48ca212764cf25d02cebe368d7",
+    "count": 13,
+    "review_id": "sack_141"
+  },
+  {
+    "id": "train/images/frame0-03-35-22_jpg.rf.da44f268cd1c32b230c24c9acc38a7fd.jpg",
+    "path": "/rf/train/images/frame0-03-35-22_jpg.rf.da44f268cd1c32b230c24c9acc38a7fd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "d3e0c7222c1018d43cdc1ff6ff219a310fb78bc993302bd0cbf75f99a3ad50aa",
+    "count": 12,
+    "review_id": "sack_127"
+  },
+  {
+    "id": "train/images/frame0-03-37-00_jpg.rf.b0b2941c3d45afd79cdf1cedf387fae4.jpg",
+    "path": "/rf/train/images/frame0-03-37-00_jpg.rf.b0b2941c3d45afd79cdf1cedf387fae4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "39be49dd2701b225070c9301b5ed23778a8aa69424ebcc7f63ed58cb6fb304f7",
+    "count": 13,
+    "review_id": "sack_033"
+  },
+  {
+    "id": "train/images/frame0-03-39-05_jpg.rf.cb6788f03bfae52ac69709e5d5e22bf4.jpg",
+    "path": "/rf/train/images/frame0-03-39-05_jpg.rf.cb6788f03bfae52ac69709e5d5e22bf4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e41f9cc0709d9714e65e33f15342337132ffe0284f498091d8d922efd7dc22e5",
+    "count": 14,
+    "review_id": "sack_125"
+  },
+  {
+    "id": "train/images/frame0-03-39-20_jpg.rf.1704880ff450f58121b6327c78acf224.jpg",
+    "path": "/rf/train/images/frame0-03-39-20_jpg.rf.1704880ff450f58121b6327c78acf224.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7de9ad3af0d1da25aeb0da098992796a35bfac525fc0e4ce469295dbce29e053",
+    "count": 12,
+    "review_id": "sack_133"
+  },
+  {
+    "id": "train/images/frame0-03-39-41_jpg.rf.bb3aa1826e7638f69216d48902ae980f.jpg",
+    "path": "/rf/train/images/frame0-03-39-41_jpg.rf.bb3aa1826e7638f69216d48902ae980f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "69da6641202b848ae7ea7ab1e1e2f0eee4d5610108cc4b445332ab947728a956",
+    "count": 13,
+    "review_id": "sack_145"
+  },
+  {
+    "id": "train/images/frame0-03-39-61_jpg.rf.b3bda55b529159ae7058cc2e847582e8.jpg",
+    "path": "/rf/train/images/frame0-03-39-61_jpg.rf.b3bda55b529159ae7058cc2e847582e8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bd732dd17fd6cf60e7cc808fc2715081ab4edadbe4d5a568d5eebe105c893a68",
+    "count": 14,
+    "review_id": "sack_140"
+  },
+  {
+    "id": "train/images/frame0-03-50-44_jpg.rf.39a4d23ad9aa5dbf3bcaf2a8e2ffb43f.jpg",
+    "path": "/rf/train/images/frame0-03-50-44_jpg.rf.39a4d23ad9aa5dbf3bcaf2a8e2ffb43f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "36eebb09aee422986d2205a0e37014321ffae98109d8b79b03105aa84aee206f",
+    "count": 12,
+    "review_id": "sack_065"
+  },
+  {
+    "id": "train/images/frame0-04-30-22_jpg.rf.c657f946b4d8a0cef0432ebf64cfa3f7.jpg",
+    "path": "/rf/train/images/frame0-04-30-22_jpg.rf.c657f946b4d8a0cef0432ebf64cfa3f7.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "091c52cd9707f117988c42fe8e2ce4210e40ba32469b2df2d95dfef03a5e1e70",
+    "count": 9,
+    "review_id": "sack_022"
+  },
+  {
+    "id": "train/images/frame0-04-43-40_jpg.rf.784e500e3619333361729cbd73bcf3db.jpg",
+    "path": "/rf/train/images/frame0-04-43-40_jpg.rf.784e500e3619333361729cbd73bcf3db.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "61ca80356d9f7754e43ae539147b21e2bd8927b83b26a67de9475d73c5a66749",
+    "count": 56,
+    "review_id": "sack_029"
+  },
+  {
+    "id": "train/images/frame0-04-50-24_jpg.rf.c26b3e921cbfd04fae331c3f73910440.jpg",
+    "path": "/rf/train/images/frame0-04-50-24_jpg.rf.c26b3e921cbfd04fae331c3f73910440.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1c821558cdaf608f751705ce091c42222d86b2b05c655812ecb46d9ddf36151e",
+    "count": 57,
+    "review_id": "sack_100"
+  },
+  {
+    "id": "train/images/frame0-05-09-62_jpg.rf.60840c45513ec7f1f7f70d4303f8ce87.jpg",
+    "path": "/rf/train/images/frame0-05-09-62_jpg.rf.60840c45513ec7f1f7f70d4303f8ce87.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b822e1e7f10f3b8dac56326349fb4f6da3ad40397c8e7371737e9e4363277291",
+    "count": 48,
+    "review_id": "sack_046"
+  },
+  {
+    "id": "train/images/frame0-05-13-22_jpg.rf.8e36157fef70a40bc7ac2abcf4af8b1b.jpg",
+    "path": "/rf/train/images/frame0-05-13-22_jpg.rf.8e36157fef70a40bc7ac2abcf4af8b1b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "925fbcfd3f20dd749819e0e1a6ea45b838033bda40f4fb8575fe57f3c3e098d3",
+    "count": 48,
+    "review_id": "sack_010"
+  },
+  {
+    "id": "train/images/frame0-05-14-44_jpg.rf.9605fa352bb8378d6c5fd7b73b306fab.jpg",
+    "path": "/rf/train/images/frame0-05-14-44_jpg.rf.9605fa352bb8378d6c5fd7b73b306fab.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ced6538df7f18d21b7e71fbf0aa7caaa5d659a90cecddc4af75212195f10e72b",
+    "count": 13,
+    "review_id": "sack_008"
+  },
+  {
+    "id": "train/images/frame0-05-18-63_jpg.rf.69461db93a0f3a250bef0f7f14d729bd.jpg",
+    "path": "/rf/train/images/frame0-05-18-63_jpg.rf.69461db93a0f3a250bef0f7f14d729bd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "15e0fb537b172a555160a7e7e7e318c10ad15481d355c3df5b97472e9607a610",
+    "count": 22,
+    "review_id": "sack_144"
+  },
+  {
+    "id": "train/images/frame0-05-18-84_jpg.rf.9f2af4fe4aaf498a70a157ed887186a4.jpg",
+    "path": "/rf/train/images/frame0-05-18-84_jpg.rf.9f2af4fe4aaf498a70a157ed887186a4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "0c46895f9bb4368f9492bc22f6f93ba32ffbfa3ec5da2320b54a0d73aa1938ef",
+    "count": 22,
+    "review_id": "sack_122"
+  },
+  {
+    "id": "train/images/frame0-05-19-04_jpg.rf.68e5202bbac29e8bdf845133a8542074.jpg",
+    "path": "/rf/train/images/frame0-05-19-04_jpg.rf.68e5202bbac29e8bdf845133a8542074.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ada3e60412beb381796abdbefd1ffc9f4b501527b6643c155167dd4ce609e3bd",
+    "count": 20,
+    "review_id": "sack_135"
+  },
+  {
+    "id": "train/images/frame0-05-19-24_jpg.rf.04c0bce72e23e32a484d7c2ab414356a.jpg",
+    "path": "/rf/train/images/frame0-05-19-24_jpg.rf.04c0bce72e23e32a484d7c2ab414356a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "48c3a274c061bbbcab215db7e3b1befc891ec543c7357447d4f0d34160de73ee",
+    "count": 20,
+    "review_id": "sack_139"
+  },
+  {
+    "id": "train/images/frame0-05-19-45_jpg.rf.41c30b60a37711af546702347b870ff3.jpg",
+    "path": "/rf/train/images/frame0-05-19-45_jpg.rf.41c30b60a37711af546702347b870ff3.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b255a2caf9bb96875f7d2062044773f2a620c8f5104af7c83983bb8110bd4e51",
+    "count": 16,
+    "review_id": "sack_147"
+  },
+  {
+    "id": "train/images/frame0-05-19-81_jpg.rf.9289214e5d5bef395df909698f485887.jpg",
+    "path": "/rf/train/images/frame0-05-19-81_jpg.rf.9289214e5d5bef395df909698f485887.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "76b649813781618029077053bf2b7251776a69dbb93851f58389c492e0dbd218",
+    "count": 14,
+    "review_id": "sack_137"
+  },
+  {
+    "id": "train/images/frame0-05-20-01_jpg.rf.87f1e82cf5e5f0d3477a957db4a31770.jpg",
+    "path": "/rf/train/images/frame0-05-20-01_jpg.rf.87f1e82cf5e5f0d3477a957db4a31770.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9a8a6c064e1d72a1c368403b07bcd89ccfa5a8ff16d8120178296e90afc78f3b",
+    "count": 14,
+    "review_id": "sack_126"
+  },
+  {
+    "id": "train/images/frame0-05-20-22_jpg.rf.9ac2af7b881a230739a1d848f5aa2236.jpg",
+    "path": "/rf/train/images/frame0-05-20-22_jpg.rf.9ac2af7b881a230739a1d848f5aa2236.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7b83939eaf4d317ccb7eb6ea71ff346c6f2f65eaa7a737cf70d3b96af64da63b",
+    "count": 16,
+    "review_id": "sack_142"
+  },
+  {
+    "id": "train/images/frame0-05-20-62_jpg.rf.a807b0b1af9b13737eb62072f75a29a3.jpg",
+    "path": "/rf/train/images/frame0-05-20-62_jpg.rf.a807b0b1af9b13737eb62072f75a29a3.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7152cf3c9e4f4eec350eff46a165fe18080180d3ea310b8bf998b54fe96aee8e",
+    "count": 16,
+    "review_id": "sack_138"
+  },
+  {
+    "id": "train/images/frame0-05-22-00_jpg.rf.c47ab0664d4ea8f52921f939a2965717.jpg",
+    "path": "/rf/train/images/frame0-05-22-00_jpg.rf.c47ab0664d4ea8f52921f939a2965717.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bbfae2a18b561a6b357b0620dbf0c12ba71273192cd9f873a28cf670e93f4aea",
+    "count": 11,
+    "review_id": "sack_006"
+  },
+  {
+    "id": "train/images/frame0-05-24-02_jpg.rf.63e77f3f4e86a1515fc62e8f5a2b0a21.jpg",
+    "path": "/rf/train/images/frame0-05-24-02_jpg.rf.63e77f3f4e86a1515fc62e8f5a2b0a21.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "25487bc3d44b04cbf5b5662b1d18e4c911730c8acf1e7d81b29c797dd098f2a8",
+    "count": 46,
+    "review_id": "sack_096"
+  },
+  {
+    "id": "train/images/frame0-05-28-03_jpg.rf.81cbf8112977aa13511abb3e5f038044.jpg",
+    "path": "/rf/train/images/frame0-05-28-03_jpg.rf.81cbf8112977aa13511abb3e5f038044.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cd0fade30b5bde4d17a31cb1e48207728c30b47ed8d4f3e395f5371fd4acb1bb",
+    "count": 53,
+    "review_id": "sack_107"
+  },
+  {
+    "id": "train/images/frame0-05-30-03_jpg.rf.c073d01e44f1c5515549333d9d6ba44d.jpg",
+    "path": "/rf/train/images/frame0-05-30-03_jpg.rf.c073d01e44f1c5515549333d9d6ba44d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "73e2dd7eb776c8cf5a2ae61d8633b59701ace4037b5f4703af4201dbf721d28a",
+    "count": 15,
+    "review_id": "sack_123"
+  },
+  {
+    "id": "train/images/frame0-05-30-64_jpg.rf.bd171349955561ce2d6016628e22e2c1.jpg",
+    "path": "/rf/train/images/frame0-05-30-64_jpg.rf.bd171349955561ce2d6016628e22e2c1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "70abdad5e746b431826ce3fcffe5f53d8c0e3ac02106f20dfed6d29276bf6493",
+    "count": 19,
+    "review_id": "sack_131"
+  },
+  {
+    "id": "train/images/frame0-05-30-85_jpg.rf.80c4d6d0fa6bc6aac2bd9156ef9a7e42.jpg",
+    "path": "/rf/train/images/frame0-05-30-85_jpg.rf.80c4d6d0fa6bc6aac2bd9156ef9a7e42.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "396a6ad5be3176b00be5b6670d07ad4e740d6b56de5edf7482abcb7291521bb9",
+    "count": 16,
+    "review_id": "sack_148"
+  },
+  {
+    "id": "train/images/frame0-05-31-00_jpg.rf.a91c5e63d24c39e32465adfa6d038b25.jpg",
+    "path": "/rf/train/images/frame0-05-31-00_jpg.rf.a91c5e63d24c39e32465adfa6d038b25.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "d517fc7d5a4cc3cee60a9fc0c560a827c0b5691f36146a6fda9dc30a0c8bea25",
+    "count": 18,
+    "review_id": "sack_146"
+  },
+  {
+    "id": "train/images/frame0-05-33-00_jpg.rf.b6388520ceade52f87e4be9549e5d696.jpg",
+    "path": "/rf/train/images/frame0-05-33-00_jpg.rf.b6388520ceade52f87e4be9549e5d696.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1c416ca8e8992bcc74d1e8db4706f8d0ffca6fbaf34cf0c465ebca54a6a104fc",
+    "count": 47,
+    "review_id": "sack_083"
+  },
+  {
+    "id": "train/images/frame0-05-40-20_jpg.rf.b5125777b42852a3ea939f930d26c629.jpg",
+    "path": "/rf/train/images/frame0-05-40-20_jpg.rf.b5125777b42852a3ea939f930d26c629.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "52f3ca91967e692b6d093af55c5bab3ed8f2597cdbd70423c801a9131f3fe756",
+    "count": 53,
+    "review_id": "sack_034"
+  },
+  {
+    "id": "train/images/frame0-06-13-20_jpg.rf.84b86b4603cbb8602da68e7d4bbfa93f.jpg",
+    "path": "/rf/train/images/frame0-06-13-20_jpg.rf.84b86b4603cbb8602da68e7d4bbfa93f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "65b724d2ec97d3c22385a76c0db79c54b58cea3c716e5a3404cc91d72d9cc4dc",
+    "count": 18,
+    "review_id": "sack_078"
+  },
+  {
+    "id": "train/images/frame0-06-13-21_jpg.rf.bdad9d62c123d614e18c344628886342.jpg",
+    "path": "/rf/train/images/frame0-06-13-21_jpg.rf.bdad9d62c123d614e18c344628886342.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "868d3d396c48ca2187a674aa405453c3b71f9f303f972b383d43b8392e69d7bf",
+    "count": 46,
+    "review_id": "sack_079"
+  },
+  {
+    "id": "train/images/frame0-06-29-02_jpg.rf.fbb97f117c7b269571d4ca5e06fdbc24.jpg",
+    "path": "/rf/train/images/frame0-06-29-02_jpg.rf.fbb97f117c7b269571d4ca5e06fdbc24.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "57eccfc6427bb1ac02754aa4ba0f8aed018ea8ea61c67a1b94d2c546ea0b0b2d",
+    "count": 17,
+    "review_id": "sack_056"
+  },
+  {
+    "id": "train/images/frame0-06-32-63_jpg.rf.cbcf22aa15b7e234bfa92ecc81d11914.jpg",
+    "path": "/rf/train/images/frame0-06-32-63_jpg.rf.cbcf22aa15b7e234bfa92ecc81d11914.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7dd7f867b20a510ffec859067316bdd2c369e5aae31295fa87152226fc389a1b",
+    "count": 44,
+    "review_id": "sack_025"
+  },
+  {
+    "id": "train/images/frame0-06-48-45_jpg.rf.b47e193d588939f2c56989f7d5e7b924.jpg",
+    "path": "/rf/train/images/frame0-06-48-45_jpg.rf.b47e193d588939f2c56989f7d5e7b924.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a49381508815ae8d052a20ccd29acf29967de78b8fd47d7d0f9b661e3d8895ab",
+    "count": 23,
+    "review_id": "sack_021"
+  },
+  {
+    "id": "train/images/frame0-06-50-81_jpg.rf.bec354549e995817b77038069c228bd7.jpg",
+    "path": "/rf/train/images/frame0-06-50-81_jpg.rf.bec354549e995817b77038069c228bd7.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9b0445ce7ff9d88da01a33626f8b9f0dbf1dbc7c65ab285346b0105224684355",
+    "count": 53,
+    "review_id": "sack_055"
+  },
+  {
+    "id": "train/images/frame0-06-59-84_jpg.rf.a622f6bc1bf3e63e5a05b3ce9d776acc.jpg",
+    "path": "/rf/train/images/frame0-06-59-84_jpg.rf.a622f6bc1bf3e63e5a05b3ce9d776acc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3c5a5b0be471359205cce48f6e479cccba26b79138e43e05e5a863ad3185773b",
+    "count": 50,
+    "review_id": "sack_095"
+  },
+  {
+    "id": "train/images/frame0-07-24-41_jpg.rf.0232efd67f3be1fbdd8ef5f22e36f6e8.jpg",
+    "path": "/rf/train/images/frame0-07-24-41_jpg.rf.0232efd67f3be1fbdd8ef5f22e36f6e8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "63e93fe2fb9eaef833485f0bc33c26c1bdb0cf34a7de3b29d2f5f04296ac95ce",
+    "count": 49,
+    "review_id": "sack_112"
+  },
+  {
+    "id": "train/images/frame0-07-31-20_jpg.rf.0e6d8cd3f190f1e58bed66180e2ea488.jpg",
+    "path": "/rf/train/images/frame0-07-31-20_jpg.rf.0e6d8cd3f190f1e58bed66180e2ea488.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "33df5730cbc8152b4d9dde125914ad03ba1c599488eedef7f110870a2592ea0e",
+    "count": 53,
+    "review_id": "sack_087"
+  },
+  {
+    "id": "train/images/frame0-07-37-63_jpg.rf.080529744fe47f494e0285e3ff0c8c98.jpg",
+    "path": "/rf/train/images/frame0-07-37-63_jpg.rf.080529744fe47f494e0285e3ff0c8c98.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c2b6f9268cc297b0d6e12c40074bd759e0d0fc4c13b0b20d98313663db10e818",
+    "count": 50,
+    "review_id": "sack_017"
+  },
+  {
+    "id": "train/images/frame0-07-38-22_jpg.rf.f74efad264afcaebb9fbbb0b59ba4799.jpg",
+    "path": "/rf/train/images/frame0-07-38-22_jpg.rf.f74efad264afcaebb9fbbb0b59ba4799.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c0ad2aa333239736598749219f376878980485a5ab6dd80aa0912a1b5a5a0a68",
+    "count": 46,
+    "review_id": "sack_018"
+  },
+  {
+    "id": "train/images/frame0-07-48-62_jpg.rf.54bc5ccaaa081d094d41204107359340.jpg",
+    "path": "/rf/train/images/frame0-07-48-62_jpg.rf.54bc5ccaaa081d094d41204107359340.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4b72dfd208cff028327c2b2423a4792002b09cac0d84c001631f911ded9a4ce2",
+    "count": 47,
+    "review_id": "sack_038"
+  },
+  {
+    "id": "train/images/frame0-09-51-62_jpg.rf.c96ce434ce83607974c9b39d44daf3b5.jpg",
+    "path": "/rf/train/images/frame0-09-51-62_jpg.rf.c96ce434ce83607974c9b39d44daf3b5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "200941e9708e5af0edf8a8e3c8d1807ffeda0ca7670ec4efdeb9b7d7cf0ef18f",
+    "count": 51,
+    "review_id": "sack_106"
+  },
+  {
+    "id": "train/images/frame0-10-09-04_jpg.rf.c524249c24fdb62b4733f5230b172a2d.jpg",
+    "path": "/rf/train/images/frame0-10-09-04_jpg.rf.c524249c24fdb62b4733f5230b172a2d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "020b3b4711939873f5478eb774309f7130f6b50625cef51fc4db682884a0415e",
+    "count": 20,
+    "review_id": "sack_047"
+  },
+  {
+    "id": "train/images/frame0-10-10-00_jpg.rf.4c6fa5f95b4c5b38c92f35d072f5e1c1.jpg",
+    "path": "/rf/train/images/frame0-10-10-00_jpg.rf.4c6fa5f95b4c5b38c92f35d072f5e1c1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a78397050752a3bcb96a535ef0d69f8107d1f1789e7e31448febe99827554c39",
+    "count": 31,
+    "review_id": "sack_041"
+  },
+  {
+    "id": "train/images/frame0-10-20-61_jpg.rf.57d464b01c9176abd9a4483deaf50118.jpg",
+    "path": "/rf/train/images/frame0-10-20-61_jpg.rf.57d464b01c9176abd9a4483deaf50118.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "45b88d9030b029264ba80023e79e3e1320be0fcfaec3e0faa8dc94cbe1f4546d",
+    "count": 46,
+    "review_id": "sack_011"
+  },
+  {
+    "id": "train/images/frame0-15-13-84_jpg.rf.5aca8dcd54fbc5e201815c5961408551.jpg",
+    "path": "/rf/train/images/frame0-15-13-84_jpg.rf.5aca8dcd54fbc5e201815c5961408551.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "2d37e13616a48814350f6ae6b127b7a06126a56c3844c00bec1ad087b222ee8c",
+    "count": 45,
+    "review_id": "sack_012"
+  },
+  {
+    "id": "train/images/frame0-15-29-04_jpg.rf.b5a00dfd26f11b7f2ce33b0a874b3d35.jpg",
+    "path": "/rf/train/images/frame0-15-29-04_jpg.rf.b5a00dfd26f11b7f2ce33b0a874b3d35.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "44bcc90c99b564fdec347eaef40dced8e884bdeef305bc3c0588bde62232a642",
+    "count": 47,
+    "review_id": "sack_108"
+  },
+  {
+    "id": "train/images/frame0-15-53-23_jpg.rf.f0d324a9289ceb3e352d9f8df843eefa.jpg",
+    "path": "/rf/train/images/frame0-15-53-23_jpg.rf.f0d324a9289ceb3e352d9f8df843eefa.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1240b873e9fdb6df8326d16ca8f18e6e9f04b6bb51ed2375aace2bf93b95f71c",
+    "count": 39,
+    "review_id": "sack_015"
+  },
+  {
+    "id": "train/images/frame0-15-57-83_jpg.rf.23d8c192e0ff8689ff55e67d0f292825.jpg",
+    "path": "/rf/train/images/frame0-15-57-83_jpg.rf.23d8c192e0ff8689ff55e67d0f292825.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "50fcd762fc9812432087723672d110d97ba76328b498e3899772458001533734",
+    "count": 50,
+    "review_id": "sack_059"
+  },
+  {
+    "id": "train/images/frame0-16-25-60_jpg.rf.329e4e22f8a32328e69bf9fa1ca67f01.jpg",
+    "path": "/rf/train/images/frame0-16-25-60_jpg.rf.329e4e22f8a32328e69bf9fa1ca67f01.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1692fca435e24d18ae06039619a3aa3520259c5a786d3f0082feb86ad76c88a0",
+    "count": 42,
+    "review_id": "sack_114"
+  },
+  {
+    "id": "train/images/frame0-18-15-04_jpg.rf.57a7e22a030e063436b935863117fd40.jpg",
+    "path": "/rf/train/images/frame0-18-15-04_jpg.rf.57a7e22a030e063436b935863117fd40.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "83a70838e1b2e8b7c808c53e3de632d61dfcf7cbc2e40527036b72561688071b",
+    "count": 34,
+    "review_id": "sack_032"
+  },
+  {
+    "id": "train/images/frame0-18-35-85_jpg.rf.54d44b2920a220971353fc02e53aa7ee.jpg",
+    "path": "/rf/train/images/frame0-18-35-85_jpg.rf.54d44b2920a220971353fc02e53aa7ee.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7c9d166bbd0637cf7a691b87fe1a93f7e11c170834238044de11bd44789b1df0",
+    "count": 22,
+    "review_id": "sack_004"
+  },
+  {
+    "id": "train/images/frame0-18-46-23_jpg.rf.78db5de65e2f4a29bbf9e4b73ea843a2.jpg",
+    "path": "/rf/train/images/frame0-18-46-23_jpg.rf.78db5de65e2f4a29bbf9e4b73ea843a2.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "02c1ded283c3062a25fe780776901feb9236b7a4fe17b74005ec944162025715",
+    "count": 37,
+    "review_id": "sack_036"
+  },
+  {
+    "id": "train/images/frame0-18-49-04_jpg.rf.10aeaa55e9fb133f017d9752fc403d41.jpg",
+    "path": "/rf/train/images/frame0-18-49-04_jpg.rf.10aeaa55e9fb133f017d9752fc403d41.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "d9d89ef1ba71d5606952ef18c45d90f25edbdfc73736d769dc778ac900339a3b",
+    "count": 34,
+    "review_id": "sack_128"
+  },
+  {
+    "id": "train/images/frame0-18-49-45_jpg.rf.205f9f1b480c6877449b75ad564c5824.jpg",
+    "path": "/rf/train/images/frame0-18-49-45_jpg.rf.205f9f1b480c6877449b75ad564c5824.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "484c661c9b6af84cbade15e1af2c9203dcf5292eb67945237572ad7b331bf901",
+    "count": 26,
+    "review_id": "sack_121"
+  },
+  {
+    "id": "train/images/frame0-18-50-21_jpg.rf.7832b0fbe1636ca953672f3d0ebbcf9a.jpg",
+    "path": "/rf/train/images/frame0-18-50-21_jpg.rf.7832b0fbe1636ca953672f3d0ebbcf9a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "311e08b62436f55a71ec4b028ff15e0109c76cabaa49171a0cf3866bb30ae18e",
+    "count": 27,
+    "review_id": "sack_120"
+  },
+  {
+    "id": "train/images/frame0-18-50-42_jpg.rf.ca109612a99ca1f0b743c1cb20fcd8f9.jpg",
+    "path": "/rf/train/images/frame0-18-50-42_jpg.rf.ca109612a99ca1f0b743c1cb20fcd8f9.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a2532285881bd14efdbbb8bfddda6afb7d0f7572f97858d7de1cb79b039c8c20",
+    "count": 27,
+    "review_id": "sack_136"
+  },
+  {
+    "id": "train/images/frame0-19-12-81_jpg.rf.a1a93bcad22b4461a8abf23522d1c8a3.jpg",
+    "path": "/rf/train/images/frame0-19-12-81_jpg.rf.a1a93bcad22b4461a8abf23522d1c8a3.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "85c232aa2c80a94f33cc0938c704db45ad2c18287b09c8ba522394223a749748",
+    "count": 32,
+    "review_id": "sack_077"
+  },
+  {
+    "id": "train/images/frame0-19-14-44_jpg.rf.22ac55b330d815b2e9c16c17869dae8a.jpg",
+    "path": "/rf/train/images/frame0-19-14-44_jpg.rf.22ac55b330d815b2e9c16c17869dae8a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4ea5efc794aff7275e1dc08f23aebce20072e1a2f768f32af9c27a7d48a3bb44",
+    "count": 30,
+    "review_id": "sack_072"
+  },
+  {
+    "id": "train/images/frame0-19-15-01_jpg.rf.22be0e390e01ab03f9837f33dc10aa10.jpg",
+    "path": "/rf/train/images/frame0-19-15-01_jpg.rf.22be0e390e01ab03f9837f33dc10aa10.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b4b3738e9f6d75df7e61e3c386376021bf8befa2023d4dbc84998e3194b265f9",
+    "count": 35,
+    "review_id": "sack_105"
+  },
+  {
+    "id": "train/images/frame0-19-22-21_jpg.rf.a10eebbb63d61cc506620562d034edb5.jpg",
+    "path": "/rf/train/images/frame0-19-22-21_jpg.rf.a10eebbb63d61cc506620562d034edb5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "51969863ad9d53136f55ed9984695d99729123e149ffb621ace1c503c2432e1e",
+    "count": 46,
+    "review_id": "sack_066"
+  },
+  {
+    "id": "train/images/frame0-19-23-64_jpg.rf.ec37f2e7afb9443eadf5a827f1e8b3bc.jpg",
+    "path": "/rf/train/images/frame0-19-23-64_jpg.rf.ec37f2e7afb9443eadf5a827f1e8b3bc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4e0f932a390a64d564049a9077f26a235a186b6159abff5e840f04f6a78ee2b3",
+    "count": 38,
+    "review_id": "sack_023"
+  },
+  {
+    "id": "train/images/frame0-19-31-21_jpg.rf.7f58d533cc8296298b6f778fa5148eba.jpg",
+    "path": "/rf/train/images/frame0-19-31-21_jpg.rf.7f58d533cc8296298b6f778fa5148eba.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3945c473c990900e36195624c9902a29f97000f8acf6700fbc0d81742c666586",
+    "count": 39,
+    "review_id": "sack_101"
+  },
+  {
+    "id": "train/images/frame0-19-32-03_jpg.rf.b7d7ce833ef1718f6b26bdad77b3fc10.jpg",
+    "path": "/rf/train/images/frame0-19-32-03_jpg.rf.b7d7ce833ef1718f6b26bdad77b3fc10.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6e9f3f4825db50bebd86c7967f829400288595fb4e12573c1ff3af169e44fc59",
+    "count": 46,
+    "review_id": "sack_119"
+  },
+  {
+    "id": "train/images/frame0-19-36-42_jpg.rf.62652c6386cc9c2d1dab9613244a6430.jpg",
+    "path": "/rf/train/images/frame0-19-36-42_jpg.rf.62652c6386cc9c2d1dab9613244a6430.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5b8270f301b7f4b0d7efec9d451ec1c5fa39951f11281e686dd6784a03aa838f",
+    "count": 38,
+    "review_id": "sack_014"
+  },
+  {
+    "id": "train/images/frame0-19-48-85_jpg.rf.848b2d097c1126d903c85bf10c1570a1.jpg",
+    "path": "/rf/train/images/frame0-19-48-85_jpg.rf.848b2d097c1126d903c85bf10c1570a1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e9ddf210a03cd955934a2582165fef9d38af0e91f6d9596e5d207e23086a315f",
+    "count": 34,
+    "review_id": "sack_024"
+  },
+  {
+    "id": "train/images/frame0-19-53-45_jpg.rf.97798109d634a5a8535d252ecbe9e9ca.jpg",
+    "path": "/rf/train/images/frame0-19-53-45_jpg.rf.97798109d634a5a8535d252ecbe9e9ca.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "55b6a6d2a8811277591161246f7099be00b18517d26af83c78ffcbf24488e54b",
+    "count": 38,
+    "review_id": "sack_009"
+  },
+  {
+    "id": "train/images/frame0-20-16-81_jpg.rf.656e3370de464e2ee84b1f4d48b6ec9b.jpg",
+    "path": "/rf/train/images/frame0-20-16-81_jpg.rf.656e3370de464e2ee84b1f4d48b6ec9b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a51646c124f8d2be93210a1e7f2c5924c2449d95b38a8718b97b18a791825a3d",
+    "count": 35,
+    "review_id": "sack_090"
+  },
+  {
+    "id": "train/images/frame0-22-23-63_jpg.rf.67a4455ab877a8f1b678f65f7562e65f.jpg",
+    "path": "/rf/train/images/frame0-22-23-63_jpg.rf.67a4455ab877a8f1b678f65f7562e65f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b34db613b0269ea9be9a9456ae36bbe0ec19255de29726ed3ff4689e943698d5",
+    "count": 60,
+    "review_id": "sack_080"
+  },
+  {
+    "id": "train/images/frame0-24-03-84_jpg.rf.d47770e5f452b7d3e3489ecdf7a0fc5e.jpg",
+    "path": "/rf/train/images/frame0-24-03-84_jpg.rf.d47770e5f452b7d3e3489ecdf7a0fc5e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "0378a8a04aa996b9fe228b98952292c384753860ecfd5d9384dfb78677db2a20",
+    "count": 26,
+    "review_id": "sack_031"
+  },
+  {
+    "id": "train/images/frame0-24-07-03_jpg.rf.187d90df471556d2c327b3cd54de0f67.jpg",
+    "path": "/rf/train/images/frame0-24-07-03_jpg.rf.187d90df471556d2c327b3cd54de0f67.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "0bcbc4121b55872b2dca11783dbe310dab0ee225afb51a733ef655de1e917f52",
+    "count": 26,
+    "review_id": "sack_099"
+  },
+  {
+    "id": "train/images/frame0-24-12-04_jpg.rf.7ec255d23ce4cd2c76503ba629bf42b2.jpg",
+    "path": "/rf/train/images/frame0-24-12-04_jpg.rf.7ec255d23ce4cd2c76503ba629bf42b2.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "79b7c5ce4080fdc3a4d5af762426fc7700c2ebbe01cd50fd134f766cba5016cc",
+    "count": 39,
+    "review_id": "sack_081"
+  },
+  {
+    "id": "train/images/frame0-24-15-83_jpg.rf.6b1fabdbdee9b11ae0dec7e8264d020e.jpg",
+    "path": "/rf/train/images/frame0-24-15-83_jpg.rf.6b1fabdbdee9b11ae0dec7e8264d020e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cad0aac9b631318215f6e16436b18ec26b57cae1f79bff800d783e364862bc2c",
+    "count": 38,
+    "review_id": "sack_074"
+  },
+  {
+    "id": "train/images/frame0-24-23-24_jpg.rf.110a252b35324e22f2d180ab18795029.jpg",
+    "path": "/rf/train/images/frame0-24-23-24_jpg.rf.110a252b35324e22f2d180ab18795029.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "8ff8160a337818564c2b99c4416f99781d75b4c6f6d1311bfbec433f2aaa4efd",
+    "count": 37,
+    "review_id": "sack_070"
+  },
+  {
+    "id": "train/images/frame0-24-38-85_jpg.rf.02b64db80b7c1539d7a754be32d709c0.jpg",
+    "path": "/rf/train/images/frame0-24-38-85_jpg.rf.02b64db80b7c1539d7a754be32d709c0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "992ee425fe3d48c581842ed9d652fd14786c142ef450244ad964a704f2607ade",
+    "count": 30,
+    "review_id": "sack_028"
+  },
+  {
+    "id": "train/images/frame0-26-00-20_jpg.rf.d83050f95c2c99dc6c6c92bd141145f1.jpg",
+    "path": "/rf/train/images/frame0-26-00-20_jpg.rf.d83050f95c2c99dc6c6c92bd141145f1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4aba2b460328c49c4bd0106cf47df9b6bc308e8ea8ac571db7e521edc549091d",
+    "count": 40,
+    "review_id": "sack_043"
+  },
+  {
+    "id": "train/images/frame0-26-02-23_jpg.rf.c21aa616d8b4264a39f5c213ce7f6c97.jpg",
+    "path": "/rf/train/images/frame0-26-02-23_jpg.rf.c21aa616d8b4264a39f5c213ce7f6c97.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "334ee61ed30a86ecb16132086976b0b73b23a5880d162d9cbcf8aec4c928ed62",
+    "count": 62,
+    "review_id": "sack_076"
+  },
+  {
+    "id": "train/images/frame0-26-02-83_jpg.rf.6a8bc747132bdcf13dd6eb61af35f939.jpg",
+    "path": "/rf/train/images/frame0-26-02-83_jpg.rf.6a8bc747132bdcf13dd6eb61af35f939.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6a0f692afe9d4eb6eca6b2b511917c7e0b4c0e24001187030d324db50ac343be",
+    "count": 62,
+    "review_id": "sack_092"
+  },
+  {
+    "id": "train/images/frame0-26-31-41_jpg.rf.d7faeea78a956fe8558bea49913e494b.jpg",
+    "path": "/rf/train/images/frame0-26-31-41_jpg.rf.d7faeea78a956fe8558bea49913e494b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1d4cf01b6df3ec5d6a43225bfc438f408338abe0bf6c73db5d2d544baa420ae5",
+    "count": 50,
+    "review_id": "sack_026"
+  },
+  {
+    "id": "train/images/frame0-26-32-22_jpg.rf.4b4811dd6be76b97dd1c063d7c4bccf1.jpg",
+    "path": "/rf/train/images/frame0-26-32-22_jpg.rf.4b4811dd6be76b97dd1c063d7c4bccf1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9fb5037a70e579b3036cac54df220e97b9ad4cac8c423e5ef9d8491dc563c93e",
+    "count": 47,
+    "review_id": "sack_007"
+  },
+  {
+    "id": "train/images/frame0-26-34-03_jpg.rf.1eea2373b3b8e8518c59226d76a2c1aa.jpg",
+    "path": "/rf/train/images/frame0-26-34-03_jpg.rf.1eea2373b3b8e8518c59226d76a2c1aa.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a3d40a18186b5d26fe6676a530a7cc835effffd71a6e0a3fca63b10aeb63088b",
+    "count": 51,
+    "review_id": "sack_075"
+  },
+  {
+    "id": "train/images/frame0-26-47-43_jpg.rf.a36d39491ec589a8df9e0f3720713df0.jpg",
+    "path": "/rf/train/images/frame0-26-47-43_jpg.rf.a36d39491ec589a8df9e0f3720713df0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "477c15d75ec8068af0e15adb38af63e3c9e614e403ee92b7ed4513d816f1e1ee",
+    "count": 46,
+    "review_id": "sack_005"
+  },
+  {
+    "id": "train/images/frame0-26-57-02_jpg.rf.093ec086b1f827c1706010c45ff281e2.jpg",
+    "path": "/rf/train/images/frame0-26-57-02_jpg.rf.093ec086b1f827c1706010c45ff281e2.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "aa36d020fffc2318b6b5a15bee546699ec25f9846653ac2ba1226c026f138edd",
+    "count": 56,
+    "review_id": "sack_091"
+  },
+  {
+    "id": "train/images/frame0-27-01-04_jpg.rf.086e7bcf047ad6cbbba6fd87747cafc9.jpg",
+    "path": "/rf/train/images/frame0-27-01-04_jpg.rf.086e7bcf047ad6cbbba6fd87747cafc9.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "8b37a0ee094335d03d9c795fd21d1291b75701f46bf5eb8f8f13b1399113372f",
+    "count": 30,
+    "review_id": "sack_104"
+  },
+  {
+    "id": "train/images/frame0-27-02-61_jpg.rf.931da2fd78a7d4c9654d67e348cc6375.jpg",
+    "path": "/rf/train/images/frame0-27-02-61_jpg.rf.931da2fd78a7d4c9654d67e348cc6375.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "fc8e559f31ecdb305afb688fb102118571b53f5201dfb989e9ae55cd11a976d3",
+    "count": 52,
+    "review_id": "sack_042"
+  },
+  {
+    "id": "train/images/frame0-27-10-62_jpg.rf.69266e61858eb90ae25c02fc80827241.jpg",
+    "path": "/rf/train/images/frame0-27-10-62_jpg.rf.69266e61858eb90ae25c02fc80827241.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5d6d5181c26f09b11780621916fb6ef67aee702526661b770ad022d0f2f362a6",
+    "count": 27,
+    "review_id": "sack_052"
+  },
+  {
+    "id": "train/images/frame0-27-19-60_jpg.rf.06bd3a7aee43f70165d7e99a3ea6c8dc.jpg",
+    "path": "/rf/train/images/frame0-27-19-60_jpg.rf.06bd3a7aee43f70165d7e99a3ea6c8dc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e5521d562cfbc362860d4bcf84d639cc38b29ba5a28c9151ba45b889b608370e",
+    "count": 29,
+    "review_id": "sack_118"
+  },
+  {
+    "id": "train/images/frame0-27-21-05_jpg.rf.ce5b68e3bee6f56e005a452eafc63610.jpg",
+    "path": "/rf/train/images/frame0-27-21-05_jpg.rf.ce5b68e3bee6f56e005a452eafc63610.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "89ba4e3e4af66149e0a93d1d1cc7f1f854d22af464807495c1e20e9af970fe8a",
+    "count": 26,
+    "review_id": "sack_109"
+  },
+  {
+    "id": "train/images/frame0-27-23-04_jpg.rf.0e76096db64b322da6867a6534f3ecab.jpg",
+    "path": "/rf/train/images/frame0-27-23-04_jpg.rf.0e76096db64b322da6867a6534f3ecab.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "facfb9ddcac31dda5f0ab8034aa47970e0024083d4f032b63bca45f01b10f00c",
+    "count": 32,
+    "review_id": "sack_019"
+  },
+  {
+    "id": "train/images/frame0-27-55-64_jpg.rf.275c7d80695d39cb516800016beb414f.jpg",
+    "path": "/rf/train/images/frame0-27-55-64_jpg.rf.275c7d80695d39cb516800016beb414f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "963f53f6ed94195c436a13da94949a72dfbcc71635168224b4fa55917c21ba84",
+    "count": 54,
+    "review_id": "sack_071"
+  },
+  {
+    "id": "train/images/frame0-28-13-41_jpg.rf.3e38cb29cb2511b71554454cf8e3adad.jpg",
+    "path": "/rf/train/images/frame0-28-13-41_jpg.rf.3e38cb29cb2511b71554454cf8e3adad.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "35aa4a0971363bbad4d966995e909d1bdb7ab4e919bcbeaa774c642d7fd4b1b5",
+    "count": 21,
+    "review_id": "sack_067"
+  },
+  {
+    "id": "train/images/frame0-28-14-23_jpg.rf.374322790a75203536e3f837817c5b07.jpg",
+    "path": "/rf/train/images/frame0-28-14-23_jpg.rf.374322790a75203536e3f837817c5b07.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "818dcbf0a3ef566bfc21feaa1c9f664b72653dd771e2748d0708726be0d0aef7",
+    "count": 59,
+    "review_id": "sack_027"
+  },
+  {
+    "id": "train/images/frame0-28-25-22_jpg.rf.04fb5272a3b9aad177801797a496ed2e.jpg",
+    "path": "/rf/train/images/frame0-28-25-22_jpg.rf.04fb5272a3b9aad177801797a496ed2e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6f0202b421fd1d34da377d5a426d508d84bf985b75bc8269ddbd349195569c32",
+    "count": 29,
+    "review_id": "sack_111"
+  },
+  {
+    "id": "train/images/frame0-28-31-04_jpg.rf.09df4e8db10d8a97a3d29191d47a727b.jpg",
+    "path": "/rf/train/images/frame0-28-31-04_jpg.rf.09df4e8db10d8a97a3d29191d47a727b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "30b43a0220921dfdad8ca025b27b18b4e9b52d3883294bcee9b31b0b51563025",
+    "count": 58,
+    "review_id": "sack_102"
+  },
+  {
+    "id": "train/images/frame0-28-33-41_jpg.rf.63e0c250e4e00501feeb675c34eefa4d.jpg",
+    "path": "/rf/train/images/frame0-28-33-41_jpg.rf.63e0c250e4e00501feeb675c34eefa4d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9c2937478e0ef24ec0e37beeae044afc9db72d74b2887e3a435bfe39b608e051",
+    "count": 63,
+    "review_id": "sack_073"
+  },
+  {
+    "id": "train/images/frame0-28-37-45_jpg.rf.bb163b9044d578d13b33e6ddbeb0d04b.jpg",
+    "path": "/rf/train/images/frame0-28-37-45_jpg.rf.bb163b9044d578d13b33e6ddbeb0d04b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "635cc194aeb09fd3f8e1d45692da614c173bcfa3a03f1e44d5f2b47d6f627b83",
+    "count": 35,
+    "review_id": "sack_001"
+  },
+  {
+    "id": "train/images/frame0-28-53-82_jpg.rf.d68db75cb8889e0b0adfc2476174ed23.jpg",
+    "path": "/rf/train/images/frame0-28-53-82_jpg.rf.d68db75cb8889e0b0adfc2476174ed23.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "155dee76f0953bd451fc563c4db918a410997432e7de8e82e3413c821976e157",
+    "count": 62,
+    "review_id": "sack_094"
+  },
+  {
+    "id": "train/images/frame0-28-55-63_jpg.rf.b18db238a743812dd2d11650c1fc4ce5.jpg",
+    "path": "/rf/train/images/frame0-28-55-63_jpg.rf.b18db238a743812dd2d11650c1fc4ce5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "db0ecc19d7f5e5f26f94d6d26511db189da4106c6e5fd57a42839d91cfe8f245",
+    "count": 59,
+    "review_id": "sack_030"
+  },
+  {
+    "id": "train/images/frame0-29-01-64_jpg.rf.a32d4ae4c137acf0d1fcb2a14d93417a.jpg",
+    "path": "/rf/train/images/frame0-29-01-64_jpg.rf.a32d4ae4c137acf0d1fcb2a14d93417a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "85fa100ce170b11593025531fa74fa3c4e9c663ebfd30c695d1d01ccd835673f",
+    "count": 66,
+    "review_id": "sack_089"
+  },
+  {
+    "id": "train/images/frame0-31-11-81_jpg.rf.52d198e9a0564d6463ac8bf36401b903.jpg",
+    "path": "/rf/train/images/frame0-31-11-81_jpg.rf.52d198e9a0564d6463ac8bf36401b903.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "55e27e46b76d10de9b938c553ed43e1f435f3cd3b413e72dc244e4d59f419763",
+    "count": 19,
+    "review_id": "sack_037"
+  },
+  {
+    "id": "train/images/frame0-32-11-62_jpg.rf.2d35ff52b18b829e95bcac317fd9167b.jpg",
+    "path": "/rf/train/images/frame0-32-11-62_jpg.rf.2d35ff52b18b829e95bcac317fd9167b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b4f37834326070c37f4e966cb7d86895740b3b6362c4b9da0574f67d2ff2acfe",
+    "count": 29,
+    "review_id": "sack_082"
+  },
+  {
+    "id": "train/images/frame0-33-02-84_jpg.rf.4551ac53a8c74b8fc2c78d29d3e4c354.jpg",
+    "path": "/rf/train/images/frame0-33-02-84_jpg.rf.4551ac53a8c74b8fc2c78d29d3e4c354.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "8826b8db0569780ccb0af0df8c3988622892b194e9e23cb0fe4fe005482b5757",
+    "count": 20,
+    "review_id": "sack_098"
+  },
+  {
+    "id": "train/images/frame0-33-03-05_jpg.rf.a3e7fee122233068baf70468a3e2bba8.jpg",
+    "path": "/rf/train/images/frame0-33-03-05_jpg.rf.a3e7fee122233068baf70468a3e2bba8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "60ad386bf96c2dddf238a12bb506f2aafa53a2b8ce6a7ffb4e9c0f44451dc19e",
+    "count": 13,
+    "review_id": "sack_110"
+  },
+  {
+    "id": "train/images/frame0-33-20-43_jpg.rf.43b1bea3746dd4cd96c74f1e9c91903c.jpg",
+    "path": "/rf/train/images/frame0-33-20-43_jpg.rf.43b1bea3746dd4cd96c74f1e9c91903c.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "39c559667fb15d03dfa1b05a9aead6fbc7a0ba92a53e9eb3db7beba5003e3b59",
+    "count": 38,
+    "review_id": "sack_054"
+  },
+  {
+    "id": "train/images/frame0-39-43-02_jpg.rf.6c74ba1b2a827273e1e04fba1c096362.jpg",
+    "path": "/rf/train/images/frame0-39-43-02_jpg.rf.6c74ba1b2a827273e1e04fba1c096362.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9ac09f46307b73cb01bd2b5dff7e1b6658475442ba17c30dbd1250540f5a80bf",
+    "count": 43,
+    "review_id": "sack_116"
+  },
+  {
+    "id": "train/images/frame0-39-52-22_jpg.rf.715a908abd586a3264660ed97feb42bf.jpg",
+    "path": "/rf/train/images/frame0-39-52-22_jpg.rf.715a908abd586a3264660ed97feb42bf.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "0018dc2ef424e8e5ac23a4b0b2641406f4059bc2c8ebb981546b5e44618da3ca",
+    "count": 33,
+    "review_id": "sack_051"
+  },
+  {
+    "id": "train/images/frame0-40-07-04_jpg.rf.47861356f39f80429475d2ab42213ae5.jpg",
+    "path": "/rf/train/images/frame0-40-07-04_jpg.rf.47861356f39f80429475d2ab42213ae5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3542031b1ea639c6698fc6e22bf6a03cd0dff72c599c842cee2330d27830f3dd",
+    "count": 43,
+    "review_id": "sack_020"
+  },
+  {
+    "id": "train/images/frame0-40-11-64_jpg.rf.69335e67d5b0afccd6560b1b1f3b9148.jpg",
+    "path": "/rf/train/images/frame0-40-11-64_jpg.rf.69335e67d5b0afccd6560b1b1f3b9148.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "746902c82b7bf2975bcaedb3ad0cd3b37ec250db3e41a85bdbde6e33f6b9245d",
+    "count": 51,
+    "review_id": "sack_060"
+  },
+  {
+    "id": "train/images/frame0-40-56-04_jpg.rf.3ec5e185229e94f8a953841c479d7e95.jpg",
+    "path": "/rf/train/images/frame0-40-56-04_jpg.rf.3ec5e185229e94f8a953841c479d7e95.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b2613d94a4742a0f67cbf3526deff3dc2cdbb4ce832ec1e6023a27f0d19e5332",
+    "count": 53,
+    "review_id": "sack_085"
+  },
+  {
+    "id": "train/images/frame0-41-17-83_jpg.rf.04c788b34617be3775c7f12dd2f89cca.jpg",
+    "path": "/rf/train/images/frame0-41-17-83_jpg.rf.04c788b34617be3775c7f12dd2f89cca.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "30f41049a72ead7e196693de1690e6d0e0d642b6460fbc6649f00929836f912e",
+    "count": 44,
+    "review_id": "sack_039"
+  },
+  {
+    "id": "train/images/frame0-44-04-63_jpg.rf.fd148b70d67f092b7734229c8ec678ee.jpg",
+    "path": "/rf/train/images/frame0-44-04-63_jpg.rf.fd148b70d67f092b7734229c8ec678ee.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ac62a480bd0842a6357b8de3eb1bc3e7e51155eab5043a469f2723b7b6fc3ea5",
+    "count": 39,
+    "review_id": "sack_062"
+  },
+  {
+    "id": "train/images/frame0-46-26-00_jpg.rf.4fb7116762d9fd9c253e128bf02a0a65.jpg",
+    "path": "/rf/train/images/frame0-46-26-00_jpg.rf.4fb7116762d9fd9c253e128bf02a0a65.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "8e81eac7a6dfe289546b4f68ce892054087519691620f33132397cbb288a3617",
+    "count": 46,
+    "review_id": "sack_117"
+  },
+  {
+    "id": "train/images/frame0-49-44-24_jpg.rf.8289abc36b2582b0893cb1543a9067a8.jpg",
+    "path": "/rf/train/images/frame0-49-44-24_jpg.rf.8289abc36b2582b0893cb1543a9067a8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "eca45b15ccdcacb6af56ec08def651b1b44e7c633d8e0f044c1b07c4b086a2cb",
+    "count": 56,
+    "review_id": "sack_050"
+  },
+  {
+    "id": "train/images/frame0-50-04-62_jpg.rf.f21009d4d58404083d80d484d254d4cf.jpg",
+    "path": "/rf/train/images/frame0-50-04-62_jpg.rf.f21009d4d58404083d80d484d254d4cf.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ad31c9c4e25e393734b71d470728b66d60aa430a1e351f10bd79c049cb54b001",
+    "count": 58,
+    "review_id": "sack_103"
+  },
+  {
+    "id": "train/images/frame0-50-07-81_jpg.rf.a67051e2e6fc702089c222db7098d681.jpg",
+    "path": "/rf/train/images/frame0-50-07-81_jpg.rf.a67051e2e6fc702089c222db7098d681.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f01e501887dc731bda09e53f4029c799b840661db35cd633798ea6e4dc4c5bfe",
+    "count": 50,
+    "review_id": "sack_093"
+  },
+  {
+    "id": "train/images/frame1-13-03-82_jpg.rf.393a7d8e6271f9e06e557881e668ca00.jpg",
+    "path": "/rf/train/images/frame1-13-03-82_jpg.rf.393a7d8e6271f9e06e557881e668ca00.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ba97345f470eb8d21d0f557e826be7f2ac15fc08ab3848a6c34699127041526a",
+    "count": 36,
+    "review_id": "sack_044"
+  },
+  {
+    "id": "train/images/frame1-13-32-80_jpg.rf.635ad9db25d0b77c83c2e26477a7bf1b.jpg",
+    "path": "/rf/train/images/frame1-13-32-80_jpg.rf.635ad9db25d0b77c83c2e26477a7bf1b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "70f2311242adb0bf84a6e73ba4b9896121fafa76dbccbae3ae8e44b759a2d2bb",
+    "count": 19,
+    "review_id": "sack_097"
+  },
+  {
+    "id": "valid/images/frame0-00-03-44_jpg.rf.fa07a198d9f11630a8f337fd83d4ed74.jpg",
+    "path": "/rf/valid/images/frame0-00-03-44_jpg.rf.fa07a198d9f11630a8f337fd83d4ed74.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4fe0102bb899bb9da02da9b7c9333287e38b42a52fe522832ed3cb8f5ff6e9ad",
+    "count": 42,
+    "review_id": "sack_215"
+  },
+  {
+    "id": "valid/images/frame0-00-06-65_jpg.rf.02f870b5d0b014ef0b3eb7dfc9c4478a.jpg",
+    "path": "/rf/valid/images/frame0-00-06-65_jpg.rf.02f870b5d0b014ef0b3eb7dfc9c4478a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3dc1810f53d5934ffcf1340d7713b1888b4accd46ce51042459ee9dba6f2bcda",
+    "count": 2,
+    "review_id": "sack_185"
+  },
+  {
+    "id": "valid/images/frame0-00-11-82_jpg.rf.6cd0e952141f9983c48191e0c4c9ced8.jpg",
+    "path": "/rf/valid/images/frame0-00-11-82_jpg.rf.6cd0e952141f9983c48191e0c4c9ced8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7c88d1bfe51ea732e78250c677297c9ff10ddce87bb3718bafe212929345680c",
+    "count": 35,
+    "review_id": "sack_246"
+  },
+  {
+    "id": "valid/images/frame0-00-20-43_jpg.rf.d59664bddabca6f08c599f0e4fa05d86.jpg",
+    "path": "/rf/valid/images/frame0-00-20-43_jpg.rf.d59664bddabca6f08c599f0e4fa05d86.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f421d365a59eb3261821576fc99abb5b68c8fc7766d2a4ac8ce6de7bedf236ae",
+    "count": 12,
+    "review_id": "sack_219"
+  },
+  {
+    "id": "valid/images/frame0-00-32-62_jpg.rf.e65c182f826a046238ff7e88c95758b8.jpg",
+    "path": "/rf/valid/images/frame0-00-32-62_jpg.rf.e65c182f826a046238ff7e88c95758b8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "aeb6de3c9eb84201f34541863b60247aa757fb167968f0e5d1a99cf6603f7a55",
+    "count": 44,
+    "review_id": "sack_156"
+  },
+  {
+    "id": "valid/images/frame0-00-44-04_jpg.rf.a39598c74c8154afd2ef3b4f842d65a9.jpg",
+    "path": "/rf/valid/images/frame0-00-44-04_jpg.rf.a39598c74c8154afd2ef3b4f842d65a9.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "da96005c2ebea0ab0eb4e6de35c963e647ff6eef48fb118656f3cbef496556b0",
+    "count": 15,
+    "review_id": "sack_175"
+  },
+  {
+    "id": "valid/images/frame0-01-03-64_jpg.rf.7b55f96928028ef3f9e4b33570b1704a.jpg",
+    "path": "/rf/valid/images/frame0-01-03-64_jpg.rf.7b55f96928028ef3f9e4b33570b1704a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3270abde11a39020ad754aebdb68f56c45d7fd0c9b310c89b761b0c23dd97cdf",
+    "count": 3,
+    "review_id": "sack_206"
+  },
+  {
+    "id": "valid/images/frame0-01-37-85_jpg.rf.e87d760e22f64818a9ce855de59d639d.jpg",
+    "path": "/rf/valid/images/frame0-01-37-85_jpg.rf.e87d760e22f64818a9ce855de59d639d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4172f6b1c8260428e15d7523439e725ee5290ce6196604b5230b3452014d6708",
+    "count": 10,
+    "review_id": "sack_257"
+  },
+  {
+    "id": "valid/images/frame0-01-49-84_jpg.rf.d3db777dc6f663e725d20e31359a4c64.jpg",
+    "path": "/rf/valid/images/frame0-01-49-84_jpg.rf.d3db777dc6f663e725d20e31359a4c64.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6c9096a98195cce482392ae3ecf2047008ede789e476ae5cde6731dc39769004",
+    "count": 13,
+    "review_id": "sack_150"
+  },
+  {
+    "id": "valid/images/frame0-01-51-83_jpg.rf.c4d63f1dc1b17ac9fc78dbfa16cd8f1a.jpg",
+    "path": "/rf/valid/images/frame0-01-51-83_jpg.rf.c4d63f1dc1b17ac9fc78dbfa16cd8f1a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "932800adc016cd696e1e517294186c3e779ac60ba8a4f32334db7cb43250cff6",
+    "count": 11,
+    "review_id": "sack_197"
+  },
+  {
+    "id": "valid/images/frame0-01-59-02_jpg.rf.1273d555317486ae74ff4ea8530e3766.jpg",
+    "path": "/rf/valid/images/frame0-01-59-02_jpg.rf.1273d555317486ae74ff4ea8530e3766.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "60384ce673ad632f0b9a2016436eae8af44de05ccee017d0064917df79dc1d12",
+    "count": 11,
+    "review_id": "sack_186"
+  },
+  {
+    "id": "valid/images/frame0-02-02-86_jpg.rf.493fec05e4e2219c31fb0cfe88f6e2d9.jpg",
+    "path": "/rf/valid/images/frame0-02-02-86_jpg.rf.493fec05e4e2219c31fb0cfe88f6e2d9.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "97718d888c6e18a1629d5b7605ec3ce2c173bdea92a9a9251641055bf08ae921",
+    "count": 9,
+    "review_id": "sack_272"
+  },
+  {
+    "id": "valid/images/frame0-02-08-64_jpg.rf.f61e7bdd98c0b93c3835d864b05895b8.jpg",
+    "path": "/rf/valid/images/frame0-02-08-64_jpg.rf.f61e7bdd98c0b93c3835d864b05895b8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6646009ad6f665051ae34f36c0d1fbace79121af69285b00eed3cc0267d0ea5c",
+    "count": 9,
+    "review_id": "sack_251"
+  },
+  {
+    "id": "valid/images/frame0-02-10-63_jpg.rf.351da4a544b1eb1ae4cfb4ca924fa165.jpg",
+    "path": "/rf/valid/images/frame0-02-10-63_jpg.rf.351da4a544b1eb1ae4cfb4ca924fa165.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7bfeba99dcaf4cb22746da11c0d94d738a2a5a5e86b0f1007542b780271c8816",
+    "count": 10,
+    "review_id": "sack_180"
+  },
+  {
+    "id": "valid/images/frame0-02-11-00_jpg.rf.10b4ab4e5838f7aa3a5b3c5f0b39d560.jpg",
+    "path": "/rf/valid/images/frame0-02-11-00_jpg.rf.10b4ab4e5838f7aa3a5b3c5f0b39d560.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "65911979532186a655d57ae76de1e21e368136517bb79f16fdee1bccf2f20a2f",
+    "count": 12,
+    "review_id": "sack_176"
+  },
+  {
+    "id": "valid/images/frame0-02-12-61_jpg.rf.9a3302381d1ff3c05dedcb7b52cdde7b.jpg",
+    "path": "/rf/valid/images/frame0-02-12-61_jpg.rf.9a3302381d1ff3c05dedcb7b52cdde7b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e8676af54b4fd67011172475461192f3f6142208b434ea27afd6e8112f8bf247",
+    "count": 6,
+    "review_id": "sack_174"
+  },
+  {
+    "id": "valid/images/frame0-02-18-61_jpg.rf.148a3939a5b4fffb54a47c719c59cd21.jpg",
+    "path": "/rf/valid/images/frame0-02-18-61_jpg.rf.148a3939a5b4fffb54a47c719c59cd21.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "01c1d3b8171b81b79293a256a0aa43c31f01242f0e785f1eff3d5a2107848fcb",
+    "count": 9,
+    "review_id": "sack_211"
+  },
+  {
+    "id": "valid/images/frame0-02-29-83_jpg.rf.7885a01ad78fbacea8baa97b19156665.jpg",
+    "path": "/rf/valid/images/frame0-02-29-83_jpg.rf.7885a01ad78fbacea8baa97b19156665.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e7526c2b52bde7e7287008360c0e40e5bcf60e9089c5520f8856ab46d454e12a",
+    "count": 10,
+    "review_id": "sack_220"
+  },
+  {
+    "id": "valid/images/frame0-02-32-05_jpg.rf.07d4be752cd52e93b2d76736e53dae7f.jpg",
+    "path": "/rf/valid/images/frame0-02-32-05_jpg.rf.07d4be752cd52e93b2d76736e53dae7f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "94e2f1e49f0513e8432cc97a06c2801d1efee90b75b435bbe0726c61c681218a",
+    "count": 12,
+    "review_id": "sack_221"
+  },
+  {
+    "id": "valid/images/frame0-02-47-64_jpg.rf.96aabdc65ccf646f39f71f3940fda652.jpg",
+    "path": "/rf/valid/images/frame0-02-47-64_jpg.rf.96aabdc65ccf646f39f71f3940fda652.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e2f47969f0f76688d5e43104b2be719280e02debd09c95d1f06802ab21ba14d5",
+    "count": 43,
+    "review_id": "sack_260"
+  },
+  {
+    "id": "valid/images/frame0-03-07-20_jpg.rf.75e6503c1f3947e414b7a0c6edf09a10.jpg",
+    "path": "/rf/valid/images/frame0-03-07-20_jpg.rf.75e6503c1f3947e414b7a0c6edf09a10.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4a0b9948ff779781bea129ddc8e15f715772f211f09a4bf3c0e0d133f1f98426",
+    "count": 10,
+    "review_id": "sack_173"
+  },
+  {
+    "id": "valid/images/frame0-03-07-41_jpg.rf.339edc0cca8ba20ce3b243799e66b390.jpg",
+    "path": "/rf/valid/images/frame0-03-07-41_jpg.rf.339edc0cca8ba20ce3b243799e66b390.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "425f9cca31cac681e8c3a05cc66666a716cadee3a3bfdfae24826827f1fd5fec",
+    "count": 11,
+    "review_id": "sack_229"
+  },
+  {
+    "id": "valid/images/frame0-03-14-00_jpg.rf.aa59aa6969c65a6fe793567bbc6a5792.jpg",
+    "path": "/rf/valid/images/frame0-03-14-00_jpg.rf.aa59aa6969c65a6fe793567bbc6a5792.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b961970d961993d5c22cc76738da4bd4fe5beb66d72ea2c370ae00b6387e8fb8",
+    "count": 12,
+    "review_id": "sack_177"
+  },
+  {
+    "id": "valid/images/frame0-03-21-00_jpg.rf.4eb1bb3f3e5b96f81f95965fe1d53e13.jpg",
+    "path": "/rf/valid/images/frame0-03-21-00_jpg.rf.4eb1bb3f3e5b96f81f95965fe1d53e13.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "43bf532b6fde73a9cd1e680821e5159d024f9f385a39c289200e2aea60a8fa02",
+    "count": 11,
+    "review_id": "sack_207"
+  },
+  {
+    "id": "valid/images/frame0-03-29-23_jpg.rf.f18f9992f0660dd7829bb7064b0d0411.jpg",
+    "path": "/rf/valid/images/frame0-03-29-23_jpg.rf.f18f9992f0660dd7829bb7064b0d0411.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e5c86ef8ca1d1cd2dccfa169a53447f7a6f8d27ad3bc005ba294f4ce16ce3946",
+    "count": 14,
+    "review_id": "sack_224"
+  },
+  {
+    "id": "valid/images/frame0-03-29-85_jpg.rf.a0a973554789179a59c310fe7b1b697f.jpg",
+    "path": "/rf/valid/images/frame0-03-29-85_jpg.rf.a0a973554789179a59c310fe7b1b697f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e5b47ef65cd8b6dbae9709b735495621443cb40a7cc19964bf452c55e4d2fe1f",
+    "count": 10,
+    "review_id": "sack_218"
+  },
+  {
+    "id": "valid/images/frame0-03-33-84_jpg.rf.9307a1f1fdccc3df05e063edaa2d71c8.jpg",
+    "path": "/rf/valid/images/frame0-03-33-84_jpg.rf.9307a1f1fdccc3df05e063edaa2d71c8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a48b1e4b8d08d328577ddc0a14f609c0adbf82bcca143562e407ef740328cad2",
+    "count": 13,
+    "review_id": "sack_296"
+  },
+  {
+    "id": "valid/images/frame0-03-34-81_jpg.rf.b5f6d79075b856fdeb97563510be5cac.jpg",
+    "path": "/rf/valid/images/frame0-03-34-81_jpg.rf.b5f6d79075b856fdeb97563510be5cac.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6a58d3e9d5e1521f680c865ced582930b9040fcc9ce4c6f66aca38d9d16531a4",
+    "count": 13,
+    "review_id": "sack_298"
+  },
+  {
+    "id": "valid/images/frame0-04-17-44_jpg.rf.5222e1b3a9e570ed746ae014f69c072b.jpg",
+    "path": "/rf/valid/images/frame0-04-17-44_jpg.rf.5222e1b3a9e570ed746ae014f69c072b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "aa528dd9ea39212c47ca00314a2fd297aa249b999db58a4a9ed49de865933915",
+    "count": 13,
+    "review_id": "sack_158"
+  },
+  {
+    "id": "valid/images/frame0-04-27-85_jpg.rf.cb11d975226fefd02953aadf6f8cd8b1.jpg",
+    "path": "/rf/valid/images/frame0-04-27-85_jpg.rf.cb11d975226fefd02953aadf6f8cd8b1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a9ed35bcfe6de0b33c579e645982a78aa10ef1b53b97bd9559e0d5097b21a8d8",
+    "count": 11,
+    "review_id": "sack_225"
+  },
+  {
+    "id": "valid/images/frame0-04-38-85_jpg.rf.e8a169cacae33799f3c243c63afbf87e.jpg",
+    "path": "/rf/valid/images/frame0-04-38-85_jpg.rf.e8a169cacae33799f3c243c63afbf87e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "676af7978d30d39c16920512b2e21fd9d85271a7938b0182810790f5fdce7b84",
+    "count": 55,
+    "review_id": "sack_188"
+  },
+  {
+    "id": "valid/images/frame0-04-42-04_jpg.rf.84916d48ba425a565ec14dcc271ff0ba.jpg",
+    "path": "/rf/valid/images/frame0-04-42-04_jpg.rf.84916d48ba425a565ec14dcc271ff0ba.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "338d8eb36a2fa3e8dfa0e65909ae66bf1e08df1979c605317c8b129695d54c5e",
+    "count": 59,
+    "review_id": "sack_259"
+  },
+  {
+    "id": "valid/images/frame0-04-50-42_jpg.rf.56a75e8d0d04622ab64cb35e481965f5.jpg",
+    "path": "/rf/valid/images/frame0-04-50-42_jpg.rf.56a75e8d0d04622ab64cb35e481965f5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "00839087c1b73296ca610f6b703c87b336f8d1bb22317b76be2d0ad115150f55",
+    "count": 55,
+    "review_id": "sack_274"
+  },
+  {
+    "id": "valid/images/frame0-05-00-02_jpg.rf.93d212af7072cfc1216ef84716fdf1cd.jpg",
+    "path": "/rf/valid/images/frame0-05-00-02_jpg.rf.93d212af7072cfc1216ef84716fdf1cd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "0330ebf2e84f760b77402736324dccd00b535a0200b7430f2c09fbade2d89ea4",
+    "count": 9,
+    "review_id": "sack_182"
+  },
+  {
+    "id": "valid/images/frame0-05-10-25_jpg.rf.fb8b1ebc57269751e5c0d9b016a986ce.jpg",
+    "path": "/rf/valid/images/frame0-05-10-25_jpg.rf.fb8b1ebc57269751e5c0d9b016a986ce.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "01ae46f646410a2b830150dc2bb67e76106821ee0c91549eec736515c98e04f9",
+    "count": 19,
+    "review_id": "sack_161"
+  },
+  {
+    "id": "valid/images/frame0-05-17-41_jpg.rf.1073d123b2478a7d4b93b0af20a56004.jpg",
+    "path": "/rf/valid/images/frame0-05-17-41_jpg.rf.1073d123b2478a7d4b93b0af20a56004.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "df343d08566ec9e9ce7f9024fd73ca29c50fe2f007a43e02ac721fb98f57a46d",
+    "count": 47,
+    "review_id": "sack_288"
+  },
+  {
+    "id": "valid/images/frame0-05-29-62_jpg.rf.bf2decb33c7ee84e32dfb76e443ad2f5.jpg",
+    "path": "/rf/valid/images/frame0-05-29-62_jpg.rf.bf2decb33c7ee84e32dfb76e443ad2f5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5282febab436a5d29720b990b45e4ed1d52cf23596b72a200a39b29e695e6813",
+    "count": 20,
+    "review_id": "sack_295"
+  },
+  {
+    "id": "valid/images/frame0-05-30-44_jpg.rf.5b59d228259bb2c598d8d88c387401b8.jpg",
+    "path": "/rf/valid/images/frame0-05-30-44_jpg.rf.5b59d228259bb2c598d8d88c387401b8.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "675676edc03b1f7f11b55d97537650bc71f06c7ddaeb824f27c3fdc5562d9533",
+    "count": 18,
+    "review_id": "sack_299"
+  },
+  {
+    "id": "valid/images/frame0-05-39-25_jpg.rf.0abb4641b7e0bbe17e4859544ce384c1.jpg",
+    "path": "/rf/valid/images/frame0-05-39-25_jpg.rf.0abb4641b7e0bbe17e4859544ce384c1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a61276340291f6e09c649441f216429a6232d7c8acc1346f305bee78fa7c219e",
+    "count": 52,
+    "review_id": "sack_250"
+  },
+  {
+    "id": "valid/images/frame0-06-18-20_jpg.rf.a93c339d85d48149323f862f7993b229.jpg",
+    "path": "/rf/valid/images/frame0-06-18-20_jpg.rf.a93c339d85d48149323f862f7993b229.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "58aefacb70be7db4cd58bbe611cd40888ab8a7fbe53b58ae737cbde34b049c3a",
+    "count": 32,
+    "review_id": "sack_256"
+  },
+  {
+    "id": "valid/images/frame0-06-18-44_jpg.rf.1a55fb94e1616b9cbc374a69aa0def53.jpg",
+    "path": "/rf/valid/images/frame0-06-18-44_jpg.rf.1a55fb94e1616b9cbc374a69aa0def53.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "509a2a00a1039bc14209dfc2c9daf3b36a3ebb6b8b46426ce12d5a817c67d5a3",
+    "count": 25,
+    "review_id": "sack_226"
+  },
+  {
+    "id": "valid/images/frame0-06-36-84_jpg.rf.c2c2ffd7e16d8ea35c53bb04eebd7103.jpg",
+    "path": "/rf/valid/images/frame0-06-36-84_jpg.rf.c2c2ffd7e16d8ea35c53bb04eebd7103.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "49fe354228114d7be8e6299823e4c8944b965c6e9ddbf0f4f0b11b763076a938",
+    "count": 29,
+    "review_id": "sack_242"
+  },
+  {
+    "id": "valid/images/frame0-06-38-43_jpg.rf.1ee5369f081ec84936eed6ff4e6cf541.jpg",
+    "path": "/rf/valid/images/frame0-06-38-43_jpg.rf.1ee5369f081ec84936eed6ff4e6cf541.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5ba95010f11aa657958a58786529a9d1e23abdeae043e54de495cf0eccc34353",
+    "count": 29,
+    "review_id": "sack_152"
+  },
+  {
+    "id": "valid/images/frame0-06-41-45_jpg.rf.fde63d1d68f17a270502eaf63ead58fb.jpg",
+    "path": "/rf/valid/images/frame0-06-41-45_jpg.rf.fde63d1d68f17a270502eaf63ead58fb.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "396e894be681ca6b14a221f359954d6f7c165d5d58f67c76276e79fa12b1f571",
+    "count": 23,
+    "review_id": "sack_205"
+  },
+  {
+    "id": "valid/images/frame0-06-42-61_jpg.rf.479259668edb9a2db56bde6bcdddaea4.jpg",
+    "path": "/rf/valid/images/frame0-06-42-61_jpg.rf.479259668edb9a2db56bde6bcdddaea4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "31c4b0f6a0dcf05d8fd046e8c64332107d700302211509239a6f3ea004e51c88",
+    "count": 50,
+    "review_id": "sack_241"
+  },
+  {
+    "id": "valid/images/frame0-06-43-02_jpg.rf.18dc215f11a89cc37a315f1a5fc72dea.jpg",
+    "path": "/rf/valid/images/frame0-06-43-02_jpg.rf.18dc215f11a89cc37a315f1a5fc72dea.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ab3f06a32588657043cdfc44598ca4af7878fd545769e1702b10a9867aefa010",
+    "count": 46,
+    "review_id": "sack_234"
+  },
+  {
+    "id": "valid/images/frame0-06-47-81_jpg.rf.0ef902f683c1c28dd44b37913966baeb.jpg",
+    "path": "/rf/valid/images/frame0-06-47-81_jpg.rf.0ef902f683c1c28dd44b37913966baeb.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7e10ee78330da1d218d38450627158449fd74c22d3540fa18ee50767a1025a41",
+    "count": 48,
+    "review_id": "sack_252"
+  },
+  {
+    "id": "valid/images/frame0-07-00-41_jpg.rf.a4d1f082e922f3e8e3afccb7848feefe.jpg",
+    "path": "/rf/valid/images/frame0-07-00-41_jpg.rf.a4d1f082e922f3e8e3afccb7848feefe.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c69bb37b93a6125f749c988062a1defe3a4b96f76e6b937272a39b1c48cda8ff",
+    "count": 24,
+    "review_id": "sack_293"
+  },
+  {
+    "id": "valid/images/frame0-07-02-20_jpg.rf.3379381f82fbc73d81a4aa7f421d123e.jpg",
+    "path": "/rf/valid/images/frame0-07-02-20_jpg.rf.3379381f82fbc73d81a4aa7f421d123e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a814f32cdc0df6de6fe08a122b44a23afcb4931391abee5b6d9201b4f3fd0a04",
+    "count": 26,
+    "review_id": "sack_192"
+  },
+  {
+    "id": "valid/images/frame0-07-03-63_jpg.rf.e0d0661c240d340220946b3976e215cb.jpg",
+    "path": "/rf/valid/images/frame0-07-03-63_jpg.rf.e0d0661c240d340220946b3976e215cb.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "778ae3f512a777ba7b0541377307e74b402669ee21cc0a5047cc4a3e32bfec95",
+    "count": 23,
+    "review_id": "sack_169"
+  },
+  {
+    "id": "valid/images/frame0-07-31-03_jpg.rf.9a620a8d6de429118da4fc0f969f2850.jpg",
+    "path": "/rf/valid/images/frame0-07-31-03_jpg.rf.9a620a8d6de429118da4fc0f969f2850.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ad912c25f84eaf54ff52afc3734cfe1a13f204973ad3b6b1f89870372077b9e6",
+    "count": 23,
+    "review_id": "sack_287"
+  },
+  {
+    "id": "valid/images/frame0-07-55-62_jpg.rf.0dc4a9c042055bbfbab7ae76caa289dd.jpg",
+    "path": "/rf/valid/images/frame0-07-55-62_jpg.rf.0dc4a9c042055bbfbab7ae76caa289dd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "75854e766ed4b6fc5cbc770344ebb28ff7289a2fd63cefa3109c9d8864b7e88f",
+    "count": 28,
+    "review_id": "sack_189"
+  },
+  {
+    "id": "valid/images/frame0-08-01-02_jpg.rf.cee6d20d5477ddd3397bba48257aff94.jpg",
+    "path": "/rf/valid/images/frame0-08-01-02_jpg.rf.cee6d20d5477ddd3397bba48257aff94.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4ada677e784fd7a979d5e00474b87e50ef0af6787261365766ef58304aa6e67e",
+    "count": 48,
+    "review_id": "sack_194"
+  },
+  {
+    "id": "valid/images/frame0-09-50-41_jpg.rf.6304ca6b97a768b0d17fda9023d4a403.jpg",
+    "path": "/rf/valid/images/frame0-09-50-41_jpg.rf.6304ca6b97a768b0d17fda9023d4a403.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "858e8ed4ecbf03f2f248bfeac6e772435ab39435d40cef5d219ddcf650709f1e",
+    "count": 46,
+    "review_id": "sack_195"
+  },
+  {
+    "id": "valid/images/frame0-09-53-04_jpg.rf.76838b9373b1d0157e7f64eb18917ba0.jpg",
+    "path": "/rf/valid/images/frame0-09-53-04_jpg.rf.76838b9373b1d0157e7f64eb18917ba0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4ad03f91340ddcbd7efc74f728b5f3badcb792d8d20c838cd775d80a0e2639a6",
+    "count": 49,
+    "review_id": "sack_238"
+  },
+  {
+    "id": "valid/images/frame0-09-53-64_jpg.rf.2086c525db25f5d8988079050af1ccf0.jpg",
+    "path": "/rf/valid/images/frame0-09-53-64_jpg.rf.2086c525db25f5d8988079050af1ccf0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "15a139283c86d8ea536057c7814dbddf523d12374ae252b0349b34224bfaf9ed",
+    "count": 55,
+    "review_id": "sack_237"
+  },
+  {
+    "id": "valid/images/frame0-15-10-61_jpg.rf.99a76f94a7056c6d01d49099d9c6f677.jpg",
+    "path": "/rf/valid/images/frame0-15-10-61_jpg.rf.99a76f94a7056c6d01d49099d9c6f677.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cea59cee1efcad40bcb6a51ad06d1b101be2f1b4512b6758dbc6436ce06bfd7d",
+    "count": 43,
+    "review_id": "sack_157"
+  },
+  {
+    "id": "valid/images/frame0-15-30-21_jpg.rf.aa9b41f82289e4528e6dd3e0803e01b3.jpg",
+    "path": "/rf/valid/images/frame0-15-30-21_jpg.rf.aa9b41f82289e4528e6dd3e0803e01b3.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b1100656bc3aad40b17c13badee960cf8659c29dc870edcb51150de3ed158a53",
+    "count": 52,
+    "review_id": "sack_171"
+  },
+  {
+    "id": "valid/images/frame0-15-49-24_jpg.rf.84d7f8e9ef2c36c515d0f73146a79b55.jpg",
+    "path": "/rf/valid/images/frame0-15-49-24_jpg.rf.84d7f8e9ef2c36c515d0f73146a79b55.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c4cba2a9df99b6515eb651dd4ac177c1253f334c9c2525ff1d40273ed9d964c5",
+    "count": 33,
+    "review_id": "sack_249"
+  },
+  {
+    "id": "valid/images/frame0-15-54-04_jpg.rf.a3d48764f7d0506f2a31ef91f8fcea47.jpg",
+    "path": "/rf/valid/images/frame0-15-54-04_jpg.rf.a3d48764f7d0506f2a31ef91f8fcea47.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "fd8bcf83ae3f3fdcb2eb755fd7a18d86a72857003539fcd16c357177029bf4d4",
+    "count": 45,
+    "review_id": "sack_202"
+  },
+  {
+    "id": "valid/images/frame0-16-03-63_jpg.rf.b4ed062053e3d088a855228488cc1d02.jpg",
+    "path": "/rf/valid/images/frame0-16-03-63_jpg.rf.b4ed062053e3d088a855228488cc1d02.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "98f8c84c80bb7e23b84fd40e8b389d569d85183c9fae9cbec9ad43c4040b252a",
+    "count": 48,
+    "review_id": "sack_151"
+  },
+  {
+    "id": "valid/images/frame0-16-23-03_jpg.rf.94cb83668bd7bc72f437bfc35f8da823.jpg",
+    "path": "/rf/valid/images/frame0-16-23-03_jpg.rf.94cb83668bd7bc72f437bfc35f8da823.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "260a7e9cccf551a7977ffb043387761c3916b5cd796d45834fc6f2fd0ff44ea2",
+    "count": 47,
+    "review_id": "sack_209"
+  },
+  {
+    "id": "valid/images/frame0-16-24-04_jpg.rf.40000a302eb746da7fb376525037ebb3.jpg",
+    "path": "/rf/valid/images/frame0-16-24-04_jpg.rf.40000a302eb746da7fb376525037ebb3.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3d5fe6b6dbe95dbbeb1cd18e6bdfc6f6a502c7b934af235428120ebe1c21ec71",
+    "count": 33,
+    "review_id": "sack_166"
+  },
+  {
+    "id": "valid/images/frame0-18-17-65_jpg.rf.52b8578867b48291eaa75850a11d014e.jpg",
+    "path": "/rf/valid/images/frame0-18-17-65_jpg.rf.52b8578867b48291eaa75850a11d014e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5e0bb40e5d1205869de294a24253bcbcea99945582849aed3f4cd6c7081b9cdd",
+    "count": 30,
+    "review_id": "sack_170"
+  },
+  {
+    "id": "valid/images/frame0-18-29-61_jpg.rf.94f77ca025acf22754ed1b8cfa0f24e2.jpg",
+    "path": "/rf/valid/images/frame0-18-29-61_jpg.rf.94f77ca025acf22754ed1b8cfa0f24e2.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f78d3c54016c6d293bd5fd1a5276d72f65c3efe7654bf707edffa879ba55a829",
+    "count": 22,
+    "review_id": "sack_198"
+  },
+  {
+    "id": "valid/images/frame0-18-34-83_jpg.rf.0cb32f83e26606c3291a5b2501bf1b6f.jpg",
+    "path": "/rf/valid/images/frame0-18-34-83_jpg.rf.0cb32f83e26606c3291a5b2501bf1b6f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "108662e709666c3db7a4369d6a69feb2f0941ee1c42a57f404c4ad71ab0e3955",
+    "count": 22,
+    "review_id": "sack_212"
+  },
+  {
+    "id": "valid/images/frame0-18-44-03_jpg.rf.196ff9470a258e852ea43e734e7bfee7.jpg",
+    "path": "/rf/valid/images/frame0-18-44-03_jpg.rf.196ff9470a258e852ea43e734e7bfee7.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "990d4e8636bb0c2f682a145c8358220b1e92701bb25764654e329d05c9e92556",
+    "count": 32,
+    "review_id": "sack_265"
+  },
+  {
+    "id": "valid/images/frame0-18-49-65_jpg.rf.c6f2e1867f1b278c14a8f9ba56e2b78b.jpg",
+    "path": "/rf/valid/images/frame0-18-49-65_jpg.rf.c6f2e1867f1b278c14a8f9ba56e2b78b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4255ffc0e269dbf7a9d73c458aad28004be82123d415ef2f534b7ef869b3a977",
+    "count": 26,
+    "review_id": "sack_294"
+  },
+  {
+    "id": "valid/images/frame0-18-49-80_jpg.rf.bffabfe2b544e7f68c74526c4da30427.jpg",
+    "path": "/rf/valid/images/frame0-18-49-80_jpg.rf.bffabfe2b544e7f68c74526c4da30427.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3678a7245e12d500143590a783a4d9516b714dcb4faf089b05fa2d1d29cc6734",
+    "count": 30,
+    "review_id": "sack_297"
+  },
+  {
+    "id": "valid/images/frame0-19-08-82_jpg.rf.e0ad3a7d77bec39bd1d6bfa98c21e052.jpg",
+    "path": "/rf/valid/images/frame0-19-08-82_jpg.rf.e0ad3a7d77bec39bd1d6bfa98c21e052.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ec6d03de2933cf8e647fad59e6bf77d54e689edcd4fb3722561814da8edde0c2",
+    "count": 33,
+    "review_id": "sack_196"
+  },
+  {
+    "id": "valid/images/frame0-19-30-03_jpg.rf.ebb73d66f076d82642092843f1c27d38.jpg",
+    "path": "/rf/valid/images/frame0-19-30-03_jpg.rf.ebb73d66f076d82642092843f1c27d38.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "10bf60d5a7d6bb1da71b6cca076e43defd891e7a0ac75d074226f8926271048a",
+    "count": 29,
+    "review_id": "sack_204"
+  },
+  {
+    "id": "valid/images/frame0-19-43-43_jpg.rf.2248b4c78358774bd79984ed33dd6e31.jpg",
+    "path": "/rf/valid/images/frame0-19-43-43_jpg.rf.2248b4c78358774bd79984ed33dd6e31.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ff331254736f5ce9c7c689eecfe278f9c2f972993afecd897b9495deefc73bbd",
+    "count": 52,
+    "review_id": "sack_203"
+  },
+  {
+    "id": "valid/images/frame0-20-05-00_jpg.rf.d09ba2c62705feb53dcc52897879ee3a.jpg",
+    "path": "/rf/valid/images/frame0-20-05-00_jpg.rf.d09ba2c62705feb53dcc52897879ee3a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c5170ca8a40833903fbfc98dcbb3dceb909a318b6090ce961c0ec73cf2badf1e",
+    "count": 45,
+    "review_id": "sack_193"
+  },
+  {
+    "id": "valid/images/frame0-20-08-22_jpg.rf.52ce6fe8a76b8cfe14bb1d4ab3ad8a8a.jpg",
+    "path": "/rf/valid/images/frame0-20-08-22_jpg.rf.52ce6fe8a76b8cfe14bb1d4ab3ad8a8a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3cc58d6cc4461c7c22b0e2e005b355aeff249dffd712ce7bb2feb5e61738e237",
+    "count": 48,
+    "review_id": "sack_278"
+  },
+  {
+    "id": "valid/images/frame0-20-15-23_jpg.rf.c6b1b54eae6fe189a2dd22aa3a058c22.jpg",
+    "path": "/rf/valid/images/frame0-20-15-23_jpg.rf.c6b1b54eae6fe189a2dd22aa3a058c22.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3824aa99d74d69d5ff67326948497a982e3e4e247571aa171e3165a2841c4972",
+    "count": 48,
+    "review_id": "sack_254"
+  },
+  {
+    "id": "valid/images/frame0-20-16-40_jpg.rf.d71d6c831b4c8368e1871566af6ecd92.jpg",
+    "path": "/rf/valid/images/frame0-20-16-40_jpg.rf.d71d6c831b4c8368e1871566af6ecd92.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "53b934fe5f56a805e03ae70f3f03094a0118b3a4f7f75876b97589932a9f5825",
+    "count": 51,
+    "review_id": "sack_245"
+  },
+  {
+    "id": "valid/images/frame0-22-19-23_jpg.rf.2eaa154af25826be99e12dd3f54d595e.jpg",
+    "path": "/rf/valid/images/frame0-22-19-23_jpg.rf.2eaa154af25826be99e12dd3f54d595e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "26a6fe3e5be4ceb49a17184deec14d8ea5cd9154eda0380ead9dfee7b65c5526",
+    "count": 65,
+    "review_id": "sack_283"
+  },
+  {
+    "id": "valid/images/frame0-22-22-01_jpg.rf.3c0b2250e03d8b29f4a9b9136858827b.jpg",
+    "path": "/rf/valid/images/frame0-22-22-01_jpg.rf.3c0b2250e03d8b29f4a9b9136858827b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6f491e79f5549152d5e4b25d13089e5589832b6bc04bb0069d6343a441085902",
+    "count": 60,
+    "review_id": "sack_159"
+  },
+  {
+    "id": "valid/images/frame0-22-35-44_jpg.rf.99481cb62cd593cf3e000fb2d7e57db4.jpg",
+    "path": "/rf/valid/images/frame0-22-35-44_jpg.rf.99481cb62cd593cf3e000fb2d7e57db4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "8cdcdacc3a658b1d10334d68db2ab5bb97dd04f1424f5075528c8951eb145002",
+    "count": 55,
+    "review_id": "sack_165"
+  },
+  {
+    "id": "valid/images/frame0-23-58-24_jpg.rf.e53bf53dbb9463cb0e289164011f018d.jpg",
+    "path": "/rf/valid/images/frame0-23-58-24_jpg.rf.e53bf53dbb9463cb0e289164011f018d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e3783c841d47c26638f35e4d95718d40f101698e8de0dfd5ec8eec41b0b19ca7",
+    "count": 37,
+    "review_id": "sack_239"
+  },
+  {
+    "id": "valid/images/frame0-24-01-01_jpg.rf.8714ac29c47f5d21f23d99ca4e20fcd6.jpg",
+    "path": "/rf/valid/images/frame0-24-01-01_jpg.rf.8714ac29c47f5d21f23d99ca4e20fcd6.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "575d1f988e033a8fc998eabaee51c5784dd44650af9f14547bf997b6979caa65",
+    "count": 39,
+    "review_id": "sack_273"
+  },
+  {
+    "id": "valid/images/frame0-24-04-20_jpg.rf.2ecc743946c877dc9515640f4f88c6fe.jpg",
+    "path": "/rf/valid/images/frame0-24-04-20_jpg.rf.2ecc743946c877dc9515640f4f88c6fe.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "216007cc09a4171ba92759dffb15c4478e0c511982114a55fb269376621d2852",
+    "count": 37,
+    "review_id": "sack_201"
+  },
+  {
+    "id": "valid/images/frame0-24-13-06_jpg.rf.2d8e8534aa92b50158356fc95240efd0.jpg",
+    "path": "/rf/valid/images/frame0-24-13-06_jpg.rf.2d8e8534aa92b50158356fc95240efd0.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c63295d46894cdc9a182bb53a9bd06fe33465ca1bf2a04b27fda3ebdefb4444d",
+    "count": 42,
+    "review_id": "sack_240"
+  },
+  {
+    "id": "valid/images/frame0-24-19-63_jpg.rf.15ea9cbff4277f6380488a98f1398bfd.jpg",
+    "path": "/rf/valid/images/frame0-24-19-63_jpg.rf.15ea9cbff4277f6380488a98f1398bfd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7c4a031529da13ab34a353446eb6dd98338b030c9a5afc4a9de182161b19b98f",
+    "count": 40,
+    "review_id": "sack_217"
+  },
+  {
+    "id": "valid/images/frame0-24-33-85_jpg.rf.5cb46d3bd04f9e413c934d6adecea2c1.jpg",
+    "path": "/rf/valid/images/frame0-24-33-85_jpg.rf.5cb46d3bd04f9e413c934d6adecea2c1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "14fefed1217a4b1eaec1d99ceb2f161371daae469eff6b0a1a350d507c591ba0",
+    "count": 40,
+    "review_id": "sack_281"
+  },
+  {
+    "id": "valid/images/frame0-24-39-63_jpg.rf.8d3f13c7947266d96af3b271e549b756.jpg",
+    "path": "/rf/valid/images/frame0-24-39-63_jpg.rf.8d3f13c7947266d96af3b271e549b756.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b842fd7590f13209d2911613c18f79ef1ae0817c4b1e198bddaa476f8b506853",
+    "count": 32,
+    "review_id": "sack_178"
+  },
+  {
+    "id": "valid/images/frame0-24-41-44_jpg.rf.107b0536156d0f62f4751c5881ba0325.jpg",
+    "path": "/rf/valid/images/frame0-24-41-44_jpg.rf.107b0536156d0f62f4751c5881ba0325.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b06f29a1bec2d75b3942f625d91702f25261e216b098c4b400f089ed59c3bbae",
+    "count": 43,
+    "review_id": "sack_247"
+  },
+  {
+    "id": "valid/images/frame0-25-58-24_jpg.rf.b5bcdb7e7fe4993efffe3211ecd920ec.jpg",
+    "path": "/rf/valid/images/frame0-25-58-24_jpg.rf.b5bcdb7e7fe4993efffe3211ecd920ec.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7b86fa8963c423b53fe484dc5f9c3bf6843a48867daffbd1ecbd8cfd832e6b08",
+    "count": 47,
+    "review_id": "sack_264"
+  },
+  {
+    "id": "valid/images/frame0-26-03-84_jpg.rf.6da3cb4e801051834124a929d22f1134.jpg",
+    "path": "/rf/valid/images/frame0-26-03-84_jpg.rf.6da3cb4e801051834124a929d22f1134.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "fe9d732ef6aa5976a00bbc0c46e10258deabfd58526a18b68d68f043113ea387",
+    "count": 60,
+    "review_id": "sack_155"
+  },
+  {
+    "id": "valid/images/frame0-26-06-40_jpg.rf.2f9b4387d0919752c65765e22d92a844.jpg",
+    "path": "/rf/valid/images/frame0-26-06-40_jpg.rf.2f9b4387d0919752c65765e22d92a844.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "fc04432c911c49ba59291314d543193f24ba93776d5c54cb3cbc0b49836748b5",
+    "count": 47,
+    "review_id": "sack_179"
+  },
+  {
+    "id": "valid/images/frame0-26-12-43_jpg.rf.0106f3f70ae4b67b75cc550588567817.jpg",
+    "path": "/rf/valid/images/frame0-26-12-43_jpg.rf.0106f3f70ae4b67b75cc550588567817.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "167a856b9e3533d8d95f68211c4475dc422536ede3ef709625a02031f6fa2620",
+    "count": 57,
+    "review_id": "sack_266"
+  },
+  {
+    "id": "valid/images/frame0-26-14-65_jpg.rf.da6cdb4e8b81e34411c4ee017db5a94b.jpg",
+    "path": "/rf/valid/images/frame0-26-14-65_jpg.rf.da6cdb4e8b81e34411c4ee017db5a94b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bafde956c547da53bba09589fa33c492c8e40bf54d5eec5f9fa991d56d5f98fa",
+    "count": 63,
+    "review_id": "sack_290"
+  },
+  {
+    "id": "valid/images/frame0-26-29-65_jpg.rf.4ee56138abc502a9e155fc5f1c582019.jpg",
+    "path": "/rf/valid/images/frame0-26-29-65_jpg.rf.4ee56138abc502a9e155fc5f1c582019.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7eeb72dc6c122859a17470ccc6a50bc8d21a561d38ce0b899c42c99c6a4dc2aa",
+    "count": 60,
+    "review_id": "sack_168"
+  },
+  {
+    "id": "valid/images/frame0-26-36-82_jpg.rf.224080c55e412919709c1695125f1abe.jpg",
+    "path": "/rf/valid/images/frame0-26-36-82_jpg.rf.224080c55e412919709c1695125f1abe.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4c006e2200717b50aab8a3ae4a469edd3bb79cb7c001dba9fc6ad1b4d25af1db",
+    "count": 65,
+    "review_id": "sack_163"
+  },
+  {
+    "id": "valid/images/frame0-26-38-04_jpg.rf.5a7b217c1a624fc09905d448982dc12f.jpg",
+    "path": "/rf/valid/images/frame0-26-38-04_jpg.rf.5a7b217c1a624fc09905d448982dc12f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3f4c0da702432c64e7843ba876c685bb465f630881544ef4cf8224f45db0bd00",
+    "count": 52,
+    "review_id": "sack_153"
+  },
+  {
+    "id": "valid/images/frame0-26-40-04_jpg.rf.9c2b1f26b525297139151616644deecd.jpg",
+    "path": "/rf/valid/images/frame0-26-40-04_jpg.rf.9c2b1f26b525297139151616644deecd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ead432c90dadbb495c30c13ce8876fe4918fbfb38802adc425c466bfd70e6a10",
+    "count": 50,
+    "review_id": "sack_154"
+  },
+  {
+    "id": "valid/images/frame0-26-42-42_jpg.rf.0218cb0280908d747b07be6a26028f58.jpg",
+    "path": "/rf/valid/images/frame0-26-42-42_jpg.rf.0218cb0280908d747b07be6a26028f58.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bced0f0976709ceba6a82b357a1a89adaf32e3a8405951e56f3cd150527fb501",
+    "count": 59,
+    "review_id": "sack_244"
+  },
+  {
+    "id": "valid/images/frame0-26-48-23_jpg.rf.a74b5a3c5479b2946867652cec08d95b.jpg",
+    "path": "/rf/valid/images/frame0-26-48-23_jpg.rf.a74b5a3c5479b2946867652cec08d95b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "2aff2201fabe7e7dfbf02367d501562eeba87d3d8766e7ddc317d88c008ac475",
+    "count": 54,
+    "review_id": "sack_275"
+  },
+  {
+    "id": "valid/images/frame0-26-56-21_jpg.rf.32d73c9bd56ed04435c0aff2a293f59a.jpg",
+    "path": "/rf/valid/images/frame0-26-56-21_jpg.rf.32d73c9bd56ed04435c0aff2a293f59a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b987aafead9a6020c5319eb6fef22d1c28383e1db36882fc6328a1f8a32cd9cf",
+    "count": 60,
+    "review_id": "sack_270"
+  },
+  {
+    "id": "valid/images/frame0-27-00-62_jpg.rf.f39f574e40501a1e6bd4338651bb68bb.jpg",
+    "path": "/rf/valid/images/frame0-27-00-62_jpg.rf.f39f574e40501a1e6bd4338651bb68bb.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "874320398eee24fd6ee87ec377f8780287879d4ee6825b49bc36b19297fa7fb1",
+    "count": 28,
+    "review_id": "sack_282"
+  },
+  {
+    "id": "valid/images/frame0-27-03-20_jpg.rf.c9da5f346ab912eba121c9c75d3676c9.jpg",
+    "path": "/rf/valid/images/frame0-27-03-20_jpg.rf.c9da5f346ab912eba121c9c75d3676c9.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e71809088d9115bc0f33051b84528e2ebcbfaa06abcf44ce3c5aaf63d948cc30",
+    "count": 54,
+    "review_id": "sack_255"
+  },
+  {
+    "id": "valid/images/frame0-27-16-81_jpg.rf.34828e7eda8159d54a85ac099ab3800e.jpg",
+    "path": "/rf/valid/images/frame0-27-16-81_jpg.rf.34828e7eda8159d54a85ac099ab3800e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bc689784aa5352481d12d609a7ad017a05eaf6becd421e4dc2ac221238fe8a76",
+    "count": 58,
+    "review_id": "sack_184"
+  },
+  {
+    "id": "valid/images/frame0-27-18-46_jpg.rf.719ee64e428e1a279f6dff580a56d852.jpg",
+    "path": "/rf/valid/images/frame0-27-18-46_jpg.rf.719ee64e428e1a279f6dff580a56d852.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "42b23a72f6389d0afa3aa553382fceb62fbe14d446adaa1c93a8175d81424da3",
+    "count": 36,
+    "review_id": "sack_263"
+  },
+  {
+    "id": "valid/images/frame0-27-19-23_jpg.rf.8953cb3c2a5437d07cba666ef420bd26.jpg",
+    "path": "/rf/valid/images/frame0-27-19-23_jpg.rf.8953cb3c2a5437d07cba666ef420bd26.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "2bada1d54b2ef21d46d8894a92d35c625ec96dd99c6c8e70985686b9e4c029fd",
+    "count": 61,
+    "review_id": "sack_289"
+  },
+  {
+    "id": "valid/images/frame0-27-19-64_jpg.rf.1b4df03ad4866fb91e84e9e6ac356c9e.jpg",
+    "path": "/rf/valid/images/frame0-27-19-64_jpg.rf.1b4df03ad4866fb91e84e9e6ac356c9e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1d86aa5946e68217f5115db9cdb98175e95d49c2c29a20208c49c1cb8ca63a8e",
+    "count": 59,
+    "review_id": "sack_235"
+  },
+  {
+    "id": "valid/images/frame0-27-20-84_jpg.rf.149ea44f09fd8b24379e8d29408f896a.jpg",
+    "path": "/rf/valid/images/frame0-27-20-84_jpg.rf.149ea44f09fd8b24379e8d29408f896a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cbaae783a68ec5dec5de92f68de9dbedac6b0ab512a3aa0477ef28aaa3c021f7",
+    "count": 49,
+    "review_id": "sack_183"
+  },
+  {
+    "id": "valid/images/frame0-27-21-83_jpg.rf.2f2ed0006224f5283a6dc91753308365.jpg",
+    "path": "/rf/valid/images/frame0-27-21-83_jpg.rf.2f2ed0006224f5283a6dc91753308365.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cafcdcb4e0f8770d021098f14b9072bccd1b308cad87dfa0fd267eeb34efafbb",
+    "count": 33,
+    "review_id": "sack_167"
+  },
+  {
+    "id": "valid/images/frame0-27-30-24_jpg.rf.a2a6b35779f83a7e09e242773dbb9642.jpg",
+    "path": "/rf/valid/images/frame0-27-30-24_jpg.rf.a2a6b35779f83a7e09e242773dbb9642.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bd7bda9dc51315ace1fbe8c8a0697fc0e8409d7115fffbac89e471d9df26a78f",
+    "count": 55,
+    "review_id": "sack_285"
+  },
+  {
+    "id": "valid/images/frame0-27-35-45_jpg.rf.4dc4f8de1befccd4190f663ed3ee37ef.jpg",
+    "path": "/rf/valid/images/frame0-27-35-45_jpg.rf.4dc4f8de1befccd4190f663ed3ee37ef.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "06062a14101077d49593dc3cfae4ccf70972f7e5cf8ba2cefbafeaa9ae1bddb0",
+    "count": 39,
+    "review_id": "sack_230"
+  },
+  {
+    "id": "valid/images/frame0-27-40-85_jpg.rf.7e42d52403e6ef4881b3a286d2aefb69.jpg",
+    "path": "/rf/valid/images/frame0-27-40-85_jpg.rf.7e42d52403e6ef4881b3a286d2aefb69.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ad200341826617bf0ca5628ef0f4c7a669d1457b3e74d6a64aede1f8a983f5de",
+    "count": 59,
+    "review_id": "sack_227"
+  },
+  {
+    "id": "valid/images/frame0-27-46-40_jpg.rf.547a3f0ea716c3e181db453aaeaaadb7.jpg",
+    "path": "/rf/valid/images/frame0-27-46-40_jpg.rf.547a3f0ea716c3e181db453aaeaaadb7.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "22a721a03434c643ea8c42edec8f9f637c973f3d52c6ffe92abca67d96ff09d7",
+    "count": 58,
+    "review_id": "sack_208"
+  },
+  {
+    "id": "valid/images/frame0-27-48-42_jpg.rf.9d1e294db242e7604ea3423e449c11e6.jpg",
+    "path": "/rf/valid/images/frame0-27-48-42_jpg.rf.9d1e294db242e7604ea3423e449c11e6.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ab9f786f1d5cc75d22187f38eec398828a3694e7d735a3a14a1aa384df7ba98e",
+    "count": 55,
+    "review_id": "sack_262"
+  },
+  {
+    "id": "valid/images/frame0-27-52-44_jpg.rf.ff18edb867b1ab7f4c66b0467d20f05d.jpg",
+    "path": "/rf/valid/images/frame0-27-52-44_jpg.rf.ff18edb867b1ab7f4c66b0467d20f05d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "7febcae18afb05c0ff22167eb90367990f6999cb103298eb589b30c6832772fe",
+    "count": 33,
+    "review_id": "sack_216"
+  },
+  {
+    "id": "valid/images/frame0-27-53-22_jpg.rf.bb26c796360020ea6edf78a9a97bfe04.jpg",
+    "path": "/rf/valid/images/frame0-27-53-22_jpg.rf.bb26c796360020ea6edf78a9a97bfe04.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b6722dfc8723c01ffe12a31afbe27a8f349e5905de952ccead2a7f84eaa1d1b9",
+    "count": 58,
+    "review_id": "sack_160"
+  },
+  {
+    "id": "valid/images/frame0-28-10-03_jpg.rf.21c2129c1e80af71ae57a25ce5e509ed.jpg",
+    "path": "/rf/valid/images/frame0-28-10-03_jpg.rf.21c2129c1e80af71ae57a25ce5e509ed.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "fc885821d029b4540fd00e5a8d3e4cfa66803d0ebf0cc34c4734d537f8e1e9aa",
+    "count": 55,
+    "review_id": "sack_233"
+  },
+  {
+    "id": "valid/images/frame0-28-12-61_jpg.rf.17e86a8e094f5545395104e37d8d820c.jpg",
+    "path": "/rf/valid/images/frame0-28-12-61_jpg.rf.17e86a8e094f5545395104e37d8d820c.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "952f3171a82a8af44acf8caf21d1323b0abcd144dd0826779b8bfbefecbce844",
+    "count": 62,
+    "review_id": "sack_258"
+  },
+  {
+    "id": "valid/images/frame0-28-26-65_jpg.rf.04d00e37d499987b216327999041de61.jpg",
+    "path": "/rf/valid/images/frame0-28-26-65_jpg.rf.04d00e37d499987b216327999041de61.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "584a27beb47ac095ee24baf63c063c098e3ad355d0c144802465054a3bf9b67d",
+    "count": 64,
+    "review_id": "sack_279"
+  },
+  {
+    "id": "valid/images/frame0-28-28-01_jpg.rf.5557a636e46facf72a1b92744269b305.jpg",
+    "path": "/rf/valid/images/frame0-28-28-01_jpg.rf.5557a636e46facf72a1b92744269b305.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f1a6d729b81a188c16bd81bd55f5c29aa28faacea01f9324ab743e81e1eb3d60",
+    "count": 59,
+    "review_id": "sack_181"
+  },
+  {
+    "id": "valid/images/frame0-28-29-43_jpg.rf.71b06f59b1b962da84f95d389b9133b5.jpg",
+    "path": "/rf/valid/images/frame0-28-29-43_jpg.rf.71b06f59b1b962da84f95d389b9133b5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f179a37e2cc0f53069d417ac0ca7937269d6ac606ed12c4efabdd206ac13ae95",
+    "count": 52,
+    "review_id": "sack_222"
+  },
+  {
+    "id": "valid/images/frame0-28-35-40_jpg.rf.80d53ac3972659241ed624c853fb9514.jpg",
+    "path": "/rf/valid/images/frame0-28-35-40_jpg.rf.80d53ac3972659241ed624c853fb9514.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "11b2963f92e8da68c79caf8c1c9e8c2664a773b471f7841e1edda4a4596b2c45",
+    "count": 41,
+    "review_id": "sack_276"
+  },
+  {
+    "id": "valid/images/frame0-28-38-01_jpg.rf.4142a64e1a07517fb7d7d45d2f0af30a.jpg",
+    "path": "/rf/valid/images/frame0-28-38-01_jpg.rf.4142a64e1a07517fb7d7d45d2f0af30a.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "3d7798afba9bc05f9f4251abe6c17806d1d22e3dda648cc3a78827c48e9bf50a",
+    "count": 59,
+    "review_id": "sack_277"
+  },
+  {
+    "id": "valid/images/frame0-28-52-25_jpg.rf.c9c45b506fed89810ed0f892c9e6936f.jpg",
+    "path": "/rf/valid/images/frame0-28-52-25_jpg.rf.c9c45b506fed89810ed0f892c9e6936f.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "b404c75553eaef17806b03450118ff9c352b86c88a529be2a3b36accd591e729",
+    "count": 52,
+    "review_id": "sack_271"
+  },
+  {
+    "id": "valid/images/frame0-29-02-40_jpg.rf.f75e246b5c64107fd41ef4df7f4996bc.jpg",
+    "path": "/rf/valid/images/frame0-29-02-40_jpg.rf.f75e246b5c64107fd41ef4df7f4996bc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "530a4492ffb475d6a34f3e19888c61e7b8627a8ac79410df1d278a75ec755d9b",
+    "count": 54,
+    "review_id": "sack_187"
+  },
+  {
+    "id": "valid/images/frame0-32-10-04_jpg.rf.28ce395a604d2bc0eaae0e73d70ec6fc.jpg",
+    "path": "/rf/valid/images/frame0-32-10-04_jpg.rf.28ce395a604d2bc0eaae0e73d70ec6fc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "f71ad00447232a9a6705a4093afccb2dc45c3863f5fee77b34d7f5537715a729",
+    "count": 31,
+    "review_id": "sack_199"
+  },
+  {
+    "id": "valid/images/frame0-32-12-64_jpg.rf.d54218b8ce79cd16a07499ac45374208.jpg",
+    "path": "/rf/valid/images/frame0-32-12-64_jpg.rf.d54218b8ce79cd16a07499ac45374208.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "0b3610eca09c8a8150c3d6fc22f91f63e866a87d131694e8d5b04ccfb09a133c",
+    "count": 25,
+    "review_id": "sack_267"
+  },
+  {
+    "id": "valid/images/frame0-33-08-62_jpg.rf.ea6771e83e679248e3a0259066ff5aca.jpg",
+    "path": "/rf/valid/images/frame0-33-08-62_jpg.rf.ea6771e83e679248e3a0259066ff5aca.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "560240efb428b4c0de02b8cdb62ebcdbdbc1640dec48f5d9bf0e1e60e0463ffa",
+    "count": 11,
+    "review_id": "sack_200"
+  },
+  {
+    "id": "valid/images/frame0-33-23-65_jpg.rf.ffd715d745018befdd75b0f527a8d6e3.jpg",
+    "path": "/rf/valid/images/frame0-33-23-65_jpg.rf.ffd715d745018befdd75b0f527a8d6e3.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "39ba87edf19c820e40eaa4d32cf5b2b28f2a2f75b649aa9e2de90781422bb2fc",
+    "count": 32,
+    "review_id": "sack_268"
+  },
+  {
+    "id": "valid/images/frame0-33-53-04_jpg.rf.0320d65c04fb9967ce6fe7b98282a967.jpg",
+    "path": "/rf/valid/images/frame0-33-53-04_jpg.rf.0320d65c04fb9967ce6fe7b98282a967.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5551cd4bba87408946409b70062abe775ffbd208253d31ec41907b7f45c318c6",
+    "count": 30,
+    "review_id": "sack_292"
+  },
+  {
+    "id": "valid/images/frame0-39-48-44_jpg.rf.81cb1a4409f0e91e647408e2577d4d82.jpg",
+    "path": "/rf/valid/images/frame0-39-48-44_jpg.rf.81cb1a4409f0e91e647408e2577d4d82.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "bfdf80e458ed2d5e0203f86c2f26dbd3a433c094fd4757df50601b0b015dcf70",
+    "count": 55,
+    "review_id": "sack_261"
+  },
+  {
+    "id": "valid/images/frame0-39-57-60_jpg.rf.773b3ca0d8f2f552aba4f6864e62b6fd.jpg",
+    "path": "/rf/valid/images/frame0-39-57-60_jpg.rf.773b3ca0d8f2f552aba4f6864e62b6fd.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "6de1387a26858db84baa80ebd6d9a517209a33ab6a67e60fa9b24ec4e329d028",
+    "count": 43,
+    "review_id": "sack_286"
+  },
+  {
+    "id": "valid/images/frame0-39-59-24_jpg.rf.a2564466dbaa9e7c20b21bbccda20d29.jpg",
+    "path": "/rf/valid/images/frame0-39-59-24_jpg.rf.a2564466dbaa9e7c20b21bbccda20d29.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "2aeac366fd90da1b7012b7bd1fd5ab2543dc631212142ace03b40afbd81f9120",
+    "count": 58,
+    "review_id": "sack_284"
+  },
+  {
+    "id": "valid/images/frame0-40-05-22_jpg.rf.b4a6fb8e4def23846a7c98cf7052bc95.jpg",
+    "path": "/rf/valid/images/frame0-40-05-22_jpg.rf.b4a6fb8e4def23846a7c98cf7052bc95.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9c85b75d61393f10685d52f3062c8c4421db729973855ae20771badb225ab194",
+    "count": 52,
+    "review_id": "sack_223"
+  },
+  {
+    "id": "valid/images/frame0-40-45-60_jpg.rf.d2ebe0b6237c66422bf16e720263ee5e.jpg",
+    "path": "/rf/valid/images/frame0-40-45-60_jpg.rf.d2ebe0b6237c66422bf16e720263ee5e.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "d564cda0d5ee5bb7997260b7b6195d4fb34f8ed5211cd0a5828277b58056bd99",
+    "count": 51,
+    "review_id": "sack_243"
+  },
+  {
+    "id": "valid/images/frame0-40-58-00_jpg.rf.312edfdfd7b9f0fea0439291e54dcc68.jpg",
+    "path": "/rf/valid/images/frame0-40-58-00_jpg.rf.312edfdfd7b9f0fea0439291e54dcc68.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "cb1a8cdef0ea5c215d7c465ef17d506d6dfe68f7bbb1736b06513ababe4b3ccd",
+    "count": 57,
+    "review_id": "sack_210"
+  },
+  {
+    "id": "valid/images/frame0-40-59-64_jpg.rf.a957e3c5c665056ac09d708cae7cabe1.jpg",
+    "path": "/rf/valid/images/frame0-40-59-64_jpg.rf.a957e3c5c665056ac09d708cae7cabe1.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9b2a230b797715c0c98a2f7ba7a478c696143d23b198adc3aa2f6e36606c6a89",
+    "count": 51,
+    "review_id": "sack_280"
+  },
+  {
+    "id": "valid/images/frame0-41-05-21_jpg.rf.5c59f538d0cc6fc47a76f27b09cf7a92.jpg",
+    "path": "/rf/valid/images/frame0-41-05-21_jpg.rf.5c59f538d0cc6fc47a76f27b09cf7a92.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "5885b64115adf887cac35743586727e4d75f7810621b2e9af1539cf7190a60aa",
+    "count": 53,
+    "review_id": "sack_253"
+  },
+  {
+    "id": "valid/images/frame0-41-08-44_jpg.rf.43dddddb087f6e90728536416b4a3edc.jpg",
+    "path": "/rf/valid/images/frame0-41-08-44_jpg.rf.43dddddb087f6e90728536416b4a3edc.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "ccc2f6e472712fc71e474687d3eb14613fb58c28c483f17d99f5a30598841417",
+    "count": 54,
+    "review_id": "sack_213"
+  },
+  {
+    "id": "valid/images/frame0-41-09-81_jpg.rf.9288eff92318ea3f38aa469bdc8f3208.jpg",
+    "path": "/rf/valid/images/frame0-41-09-81_jpg.rf.9288eff92318ea3f38aa469bdc8f3208.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "9b5f65fbcfd5de1f947bc32d8aad6dad51395aa7a0528b49d022acd52541a930",
+    "count": 53,
+    "review_id": "sack_248"
+  },
+  {
+    "id": "valid/images/frame0-43-48-40_jpg.rf.776e365b254273a15783de7888bb7a7b.jpg",
+    "path": "/rf/valid/images/frame0-43-48-40_jpg.rf.776e365b254273a15783de7888bb7a7b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "e145caab7e15c31db17eda39c3540eab89f980f3d1def4e4025fefa2812f17d2",
+    "count": 40,
+    "review_id": "sack_172"
+  },
+  {
+    "id": "valid/images/frame0-43-55-60_jpg.rf.8a3ac4f9cbe39f37ac085a5ed10779a5.jpg",
+    "path": "/rf/valid/images/frame0-43-55-60_jpg.rf.8a3ac4f9cbe39f37ac085a5ed10779a5.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "1f3ea5b84631a45e1fc0b47ee4570422d117981e37ae0c4faa8e8a3baaecbf80",
+    "count": 64,
+    "review_id": "sack_231"
+  },
+  {
+    "id": "valid/images/frame0-44-00-03_jpg.rf.15c498f0c255c54a2bb0121b091c2b81.jpg",
+    "path": "/rf/valid/images/frame0-44-00-03_jpg.rf.15c498f0c255c54a2bb0121b091c2b81.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "45463abb773a0b6b952ead248b25cd55f15d471e7ae97c79b21c76dfb32ec20e",
+    "count": 55,
+    "review_id": "sack_190"
+  },
+  {
+    "id": "valid/images/frame0-44-15-21_jpg.rf.5c9e2c3e3d60d3d66a466ced1829f14b.jpg",
+    "path": "/rf/valid/images/frame0-44-15-21_jpg.rf.5c9e2c3e3d60d3d66a466ced1829f14b.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "64d79e2628fc6a716045e7541a56396e9c2ad568fbf6db1df2a7090efd7f1f5e",
+    "count": 46,
+    "review_id": "sack_162"
+  },
+  {
+    "id": "valid/images/frame0-44-18-03_jpg.rf.e31a62c88d8d6294723d5eccacb3fad4.jpg",
+    "path": "/rf/valid/images/frame0-44-18-03_jpg.rf.e31a62c88d8d6294723d5eccacb3fad4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "d1f9e98985d93b6e93473a13a29abc04a9960b2ab1d1fd5ae31ec13ac5570a2e",
+    "count": 55,
+    "review_id": "sack_291"
+  },
+  {
+    "id": "valid/images/frame0-46-23-81_jpg.rf.a408454b504fbe6c66fa6c144f8fbee6.jpg",
+    "path": "/rf/valid/images/frame0-46-23-81_jpg.rf.a408454b504fbe6c66fa6c144f8fbee6.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "a593c190234d0ef65f936317be93a48ea13433aa24de527931dee8b8ed2fe059",
+    "count": 40,
+    "review_id": "sack_214"
+  },
+  {
+    "id": "valid/images/frame0-46-26-81_jpg.rf.e46c7ec150592272b0c2975585c5c0a4.jpg",
+    "path": "/rf/valid/images/frame0-46-26-81_jpg.rf.e46c7ec150592272b0c2975585c5c0a4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "219482740e0b66990410e48faec2edb422bf840199f90b67e7d95afa262cbc5d",
+    "count": 42,
+    "review_id": "sack_269"
+  },
+  {
+    "id": "valid/images/frame0-49-19-81_jpg.rf.a769ad03e089bb71b8d847dc2756116d.jpg",
+    "path": "/rf/valid/images/frame0-49-19-81_jpg.rf.a769ad03e089bb71b8d847dc2756116d.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "4ab29b901d9df6d9c8576b615ee83ced97d14d1a43176c9ec415a7d90bf1f15d",
+    "count": 43,
+    "review_id": "sack_232"
+  },
+  {
+    "id": "valid/images/frame0-50-04-84_jpg.rf.00981794c2489972a26dd761f27f24a2.jpg",
+    "path": "/rf/valid/images/frame0-50-04-84_jpg.rf.00981794c2489972a26dd761f27f24a2.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "90ee296fcb6678c17561cb9e12fafb22632bb8d502cadea2a5000282f9820478",
+    "count": 68,
+    "review_id": "sack_228"
+  },
+  {
+    "id": "valid/images/frame1-13-11-41_jpg.rf.b2294d06bfd615660e3bcdd32b572bf4.jpg",
+    "path": "/rf/valid/images/frame1-13-11-41_jpg.rf.b2294d06bfd615660e3bcdd32b572bf4.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "d5df807eae557bba6f52cd5449d1d61b253a94c86c2fbe36a8b857ee0c74e68a",
+    "count": 29,
+    "review_id": "sack_164"
+  },
+  {
+    "id": "valid/images/frame1-13-17-02_jpg.rf.8fc294359e6bd06568b064cab790eb86.jpg",
+    "path": "/rf/valid/images/frame1-13-17-02_jpg.rf.8fc294359e6bd06568b064cab790eb86.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "34c214938643a27b64eabcfa7a3c93930ea93eb8b0237885194ab3381b4499f0",
+    "count": 31,
+    "review_id": "sack_236"
+  },
+  {
+    "id": "valid/images/frame1-13-23-83_jpg.rf.6675f4f71312d3b9de4ed486926df409.jpg",
+    "path": "/rf/valid/images/frame1-13-23-83_jpg.rf.6675f4f71312d3b9de4ed486926df409.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "roi": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "sha256": "c9793507b4f86d3960c6a4e86503aa1a43233364722155050ad04abae1f6762f",
+    "count": 33,
+    "review_id": "sack_191"
+  }
+]

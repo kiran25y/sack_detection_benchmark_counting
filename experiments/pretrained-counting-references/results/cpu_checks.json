@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": [
+    "23unique native inputs and source hashes",
+    "truth-free worker input schema",
+    "two approved training reference pixels unchanged",
+    "coarse ROI half-open center boundary",
+    "Python syntax all copied/new source"
+  ],
+  "model_forwards": 0,
+  "optimizer_steps": 0
+}

@@ -1,0 +1,42 @@
+{
+  "client_kst": "2026-11-06T12:09:29.926364+09:00",
+  "checks": {
+    "original_manifest_unchanged": true,
+    "original_reference_manifest_unchanged": true,
+    "native_rows_exact": true,
+    "all_matching_cardinalities_correct": true,
+    "original_objective_arithmetic": true,
+    "learning_rate_schedule": true,
+    "archive_hash_independent": true
+  },
+  "soft_count_mae_diagnostic_only": 0.7558486610651016,
+  "all_hard_counts_zero": true,
+  "per_image_soft_and_confidence": [
+    {
+      "image_id": "T04_09",
+      "truth": 0,
+      "soft_count": 0.8505392670631409,
+      "maximum_probability": 0.0002780309587251395
+    },
+    {
+      "image_id": "003",
+      "truth": 1,
+      "soft_count": 2.629840850830078,
+      "maximum_probability": 0.2751297354698181
+    },
+    {
+      "image_id": "T04_05",
+      "truth": 21,
+      "soft_count": 21.268348693847656,
+      "maximum_probability": 0.013222821988165379
+    },
+    {
+      "image_id": "T24_10",
+      "truth": 34,
+      "soft_count": 34.27466583251953,
+      "maximum_probability": 0.012431650422513485
+    }
+  ],
+  "interpretation": "Aggregate probability mass approaches totals while no candidate reaches fixed0.50. This identifies diffuse/low-confidence output, not isolated causal proof against any single loss term. No alternate threshold was scored.",
+  "all_150_gradient_norms_above_clip": true
+}

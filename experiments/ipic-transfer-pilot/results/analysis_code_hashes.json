@@ -1,0 +1,10 @@
+{
+  "frozen_kst": "2026-11-04T16:29:03.426971+09:00",
+  "sha256": {
+    "scripts/analyze_ipic_transfer_pilot.py": "cadda794e113dd5d4d697b221fa422e03757a5908ae593493e9717b4364b7a5f",
+    "scripts/verify_ipic_assignment_continuation.py": "3e742a939205c21b7ea72480fb89f6a916161ef72c26ea54cff9ad353bf4c10a",
+    "counting/ipic/transfer_protocol.py": "8160fc6492b5b36ee5eab53436b6eacf6173774ead627f9de65281f970e26064",
+    "scripts/collect_ipic_transfer_once.py": "c37dfc0b7414874a8ca8ba43cbacb4f1be967a71b1ff203f15863b3b3fd1d29a",
+    "scripts/inspect_ipic_transfer_pilot.py": "7d539beeac1bd62f9425d91092b8e0dda167cea6404861dad10781a56a2ceb0e"
+  }
+}

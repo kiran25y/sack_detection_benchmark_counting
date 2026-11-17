@@ -1,0 +1,17 @@
+{
+  "time_kst": "2026-11-09T11:54:59.184658+09:00",
+  "hashes": {
+    "study_protocols/firc_visual_swap_20261109.json": "cae10ee670acc43d10d468fd0824d1a6ea61aa9a410d501156cd5c97f0ec69ce",
+    "scripts/prepare_firc_visual_swap.py": "8f4bc8067aa1a7217016014ecfecdf1e2c49b298dfa5fdf28d9133b62a4952ab",
+    "scripts/firc_visual_swap_features.py": "9c051910618b6b1d6a67f3bc19cb431f44fd6839f43f11afabffd44ce8a8e69e",
+    "artifacts/firc_uncovered_reallocation_v1_20261109/predictions.jsonl": "3de982a888f4e57d5d2fab8e66980b4b21633444d6a7aae4cc6d621af8378c3f",
+    "artifacts/firc_uncovered_reallocation_v1_20261109/result.json": "48949c75e45262d4a32f252065834a87600dcd84a7ed07f0680f46274c420b6e",
+    "artifacts/ipic_transfer_pilot_data_v1_20261104/sack_manifest.json": "dfa95f1421e4b3c635e18880d95244ebf7af38c827706cb31b20f32d27c7253d",
+    "artifacts/firc_ordinary_evaluation_v1_20261106/data/plan.json": "b4341686a4e53281cf099d385a8930ecccb72d9d2235184a7b8a59c380597cc9"
+  },
+  "queries_sha256": "1e75ce8cae8b6bdbba92c0b03c990652fdc147a0e925e402af2a016a791e8805",
+  "training_centers": 338,
+  "training_negatives": 679,
+  "total_descriptor_locations": 2499,
+  "development_gallery_examples": 0
+}

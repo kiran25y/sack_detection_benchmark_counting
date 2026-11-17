@@ -1,0 +1,7 @@
+{
+  "feasible_fixture_passes": true,
+  "empty_harm_rejected": true,
+  "spatial_GAME_harm_rejected": true,
+  "mass_localization_harm_rejected": true,
+  "group_regression_rejected": true
+}

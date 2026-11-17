@@ -1,0 +1,370 @@
+{
+  "state": "completed",
+  "audit_source_sha256": "e256d88669da7bc6155d8984932e03faa9ca66089f2452595cfa87fb1187d492",
+  "training_manifest_sha256": "215b5a6d4c4a45aba9d2e67fd7bdbe896baa14db57b260fd9664290a0a4e4d6c",
+  "feature_index_sha256": "d272d02e43d125a2f2eb0c5238e06c1371f5cdd0d902845b506dca4c4e5bf0d2",
+  "checkpoints_sha256": {
+    "detail_control_native_partial": "cdbbb056110d343dd9bfcd6acf7b65f1a74b6ab0eb0e9a841071721088d6b841",
+    "detail_partial_joint": "b68575c2f8a5db826eed1964dffbccc7d98449823a19822fba5578185c3c6af5"
+  },
+  "selected_query_ids": [
+    "3352.jpg",
+    "6403.jpg",
+    "4865.jpg",
+    "5128.jpg",
+    "5271.jpg",
+    "2788.jpg",
+    "6193.jpg",
+    "6593.jpg",
+    "5647.jpg",
+    "5321.jpg",
+    "6020.jpg",
+    "2132.jpg",
+    "3091.jpg",
+    "5976.jpg",
+    "6594.jpg",
+    "7404.jpg",
+    "2332.jpg",
+    "61.jpg",
+    "2327.jpg",
+    "5333.jpg",
+    "7336.jpg",
+    "5644.jpg",
+    "4524.jpg",
+    "4011.jpg",
+    "7354.jpg",
+    "7699.jpg",
+    "5978.jpg",
+    "7202.jpg",
+    "7087.jpg",
+    "6377.jpg",
+    "3928.jpg",
+    "5751.jpg",
+    "7468.jpg",
+    "2400.jpg",
+    "7212.jpg",
+    "5769.jpg",
+    "4490.jpg",
+    "7048.jpg",
+    "7115.jpg",
+    "6130.jpg",
+    "4459.jpg",
+    "2399.jpg",
+    "7165.jpg",
+    "3746.jpg",
+    "6937.jpg",
+    "2326.jpg",
+    "6976.jpg",
+    "6131.jpg"
+  ],
+  "fitting_rows": 2587,
+  "held_rows_excluded": 1066,
+  "optimizer_steps": 0,
+  "existing_trainable_adapters": "Three TokenAdapter modules already trained through the count/spatial objective",
+  "summaries": [
+    {
+      "variant": "detail_control_native_partial",
+      "lower": 0,
+      "upper_exclusive": 25,
+      "queries": 16,
+      "CPU_FP32_fitting_probe_MAE": 1.1418477296829224,
+      "scores": {
+        "raw_cosine_level_0": {
+          "mean_rank_AUC": 0.6780885676609718,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_0": {
+          "mean_rank_AUC": 0.6753007604867725,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_1": {
+          "mean_rank_AUC": 0.7002340597982274,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_1": {
+          "mean_rank_AUC": 0.5876300080617662,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_2": {
+          "mean_rank_AUC": 0.7843273967220007,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_2": {
+          "mean_rank_AUC": 0.7619480507077296,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_0": {
+          "mean_rank_AUC": 0.8676303470952659,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_1": {
+          "mean_rank_AUC": 0.9003632183377709,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_2": {
+          "mean_rank_AUC": 0.9587933292095066,
+          "evaluable_queries": 16
+        },
+        "decoded_mass": {
+          "mean_rank_AUC": 0.8861284405599762,
+          "evaluable_queries": 16
+        }
+      }
+    },
+    {
+      "variant": "detail_control_native_partial",
+      "lower": 25,
+      "upper_exclusive": 150,
+      "queries": 16,
+      "CPU_FP32_fitting_probe_MAE": 9.383329510688782,
+      "scores": {
+        "raw_cosine_level_0": {
+          "mean_rank_AUC": 0.7110529105194163,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_0": {
+          "mean_rank_AUC": 0.6851623308591049,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_1": {
+          "mean_rank_AUC": 0.7704742939319856,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_1": {
+          "mean_rank_AUC": 0.7506626744377377,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_2": {
+          "mean_rank_AUC": 0.7636482295647443,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_2": {
+          "mean_rank_AUC": 0.7354699813599614,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_0": {
+          "mean_rank_AUC": 0.8111921627156787,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_1": {
+          "mean_rank_AUC": 0.8849542019632516,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_2": {
+          "mean_rank_AUC": 0.9233046835442056,
+          "evaluable_queries": 16
+        },
+        "decoded_mass": {
+          "mean_rank_AUC": 0.9140932910848594,
+          "evaluable_queries": 16
+        }
+      }
+    },
+    {
+      "variant": "detail_control_native_partial",
+      "lower": 150,
+      "upper_exclusive": null,
+      "queries": 16,
+      "CPU_FP32_fitting_probe_MAE": 26.31535243988037,
+      "scores": {
+        "raw_cosine_level_0": {
+          "mean_rank_AUC": 0.7539307803407096,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_0": {
+          "mean_rank_AUC": 0.6876465465095267,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_1": {
+          "mean_rank_AUC": 0.7827271814333978,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_1": {
+          "mean_rank_AUC": 0.7051268236490438,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_2": {
+          "mean_rank_AUC": 0.7042388294207147,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_2": {
+          "mean_rank_AUC": 0.712991755634421,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_0": {
+          "mean_rank_AUC": 0.8258793831838744,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_1": {
+          "mean_rank_AUC": 0.9178947598451086,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_2": {
+          "mean_rank_AUC": 0.8272155301220263,
+          "evaluable_queries": 16
+        },
+        "decoded_mass": {
+          "mean_rank_AUC": 0.9746738080685915,
+          "evaluable_queries": 16
+        }
+      }
+    },
+    {
+      "variant": "detail_partial_joint",
+      "lower": 0,
+      "upper_exclusive": 25,
+      "queries": 16,
+      "CPU_FP32_fitting_probe_MAE": 1.0622955560684204,
+      "scores": {
+        "raw_cosine_level_0": {
+          "mean_rank_AUC": 0.6780885676609718,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_0": {
+          "mean_rank_AUC": 0.7085236372045293,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_1": {
+          "mean_rank_AUC": 0.7002340597982274,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_1": {
+          "mean_rank_AUC": 0.5976080848125485,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_2": {
+          "mean_rank_AUC": 0.7843273967220007,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_2": {
+          "mean_rank_AUC": 0.7151237540938976,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_0": {
+          "mean_rank_AUC": 0.8297618875728077,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_1": {
+          "mean_rank_AUC": 0.9054301522610824,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_2": {
+          "mean_rank_AUC": 0.9584350595527098,
+          "evaluable_queries": 16
+        },
+        "decoded_mass": {
+          "mean_rank_AUC": 0.9089240908041194,
+          "evaluable_queries": 16
+        }
+      }
+    },
+    {
+      "variant": "detail_partial_joint",
+      "lower": 25,
+      "upper_exclusive": 150,
+      "queries": 16,
+      "CPU_FP32_fitting_probe_MAE": 8.980205535888672,
+      "scores": {
+        "raw_cosine_level_0": {
+          "mean_rank_AUC": 0.7110529105194163,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_0": {
+          "mean_rank_AUC": 0.6743499036809661,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_1": {
+          "mean_rank_AUC": 0.7704742939319856,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_1": {
+          "mean_rank_AUC": 0.7348448194034025,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_2": {
+          "mean_rank_AUC": 0.7636482295647443,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_2": {
+          "mean_rank_AUC": 0.713886981106977,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_0": {
+          "mean_rank_AUC": 0.798997088543238,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_1": {
+          "mean_rank_AUC": 0.8956758055059936,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_2": {
+          "mean_rank_AUC": 0.926752514462564,
+          "evaluable_queries": 16
+        },
+        "decoded_mass": {
+          "mean_rank_AUC": 0.9114081675695314,
+          "evaluable_queries": 16
+        }
+      }
+    },
+    {
+      "variant": "detail_partial_joint",
+      "lower": 150,
+      "upper_exclusive": null,
+      "queries": 16,
+      "CPU_FP32_fitting_probe_MAE": 28.062129020690918,
+      "scores": {
+        "raw_cosine_level_0": {
+          "mean_rank_AUC": 0.7539307803407096,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_0": {
+          "mean_rank_AUC": 0.6824472988395476,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_1": {
+          "mean_rank_AUC": 0.7827271814333978,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_1": {
+          "mean_rank_AUC": 0.6800004391434488,
+          "evaluable_queries": 16
+        },
+        "raw_cosine_level_2": {
+          "mean_rank_AUC": 0.7042388294207147,
+          "evaluable_queries": 16
+        },
+        "adapted_cosine_level_2": {
+          "mean_rank_AUC": 0.7065193298554765,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_0": {
+          "mean_rank_AUC": 0.8543336164719264,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_1": {
+          "mean_rank_AUC": 0.9276149551787451,
+          "evaluable_queries": 16
+        },
+        "trained_matching_level_2": {
+          "mean_rank_AUC": 0.8459896028402217,
+          "evaluable_queries": 16
+        },
+        "decoded_mass": {
+          "mean_rank_AUC": 0.9830711226831557,
+          "evaluable_queries": 16
+        }
+      }
+    }
+  ],
+  "GPU_used": false,
+  "limitations": [
+    "Fitting probes from full-refit checkpoints are not unseen-class accuracy.",
+    "CPU FP32 diagnostic predictions are not native CUDA BF16 benchmark results.",
+    "Point-support ranking is not instance AP, pixel segmentation, semantic distractor truth or occlusion.",
+    "Raw cosine and learned structured matching are different readouts, not a causal architecture comparison.",
+    "Audit evidence must be reviewed before choosing the one authorized matched adaptation experiment."
+  ],
+  "adaptation_experiment_launched": false,
+  "target_data_used": false
+}

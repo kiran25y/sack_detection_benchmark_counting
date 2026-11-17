@@ -1,0 +1,8 @@
+{
+  "time_kst": "2026-11-09T11:58:24.365633+09:00",
+  "protocol_sha256": "cae10ee670acc43d10d468fd0824d1a6ea61aa9a410d501156cd5c97f0ec69ce",
+  "code_sha256": "f7676067c8359997850acb250d38400faf5efdc15726b07625ed2e1873bf0974",
+  "queries_sha256": "1e75ce8cae8b6bdbba92c0b03c990652fdc147a0e925e402af2a016a791e8805",
+  "features_sha256": "200e5e88ddfbdfed78600750937341f098223e9ae804425f2d329fa7fe3d88b3",
+  "primary": "center_and_ring"
+}

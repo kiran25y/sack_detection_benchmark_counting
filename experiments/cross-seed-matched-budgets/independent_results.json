@@ -1,0 +1,106 @@
+{
+  "frames": 51,
+  "truth": 644,
+  "recording_groups": 5,
+  "verified_model_frame_arrays": 204,
+  "verified_frame_method_cells": 1224,
+  "training_updates": 0,
+  "independent_matching": "minimum-cost rectangular assignment on a binary spatial-distance matrix",
+  "seed_rank_gains": {
+    "1729": {
+      "crowd_counts": {
+        "gain": 36,
+        "by_group": {
+          "ipic_dependency_83a47a450e44": 7,
+          "ipic_dependency_b3d032ccefd3": 7,
+          "ipic_dependency_21e05234d0d1": 3,
+          "ipic_dependency_554f93899a72": 2,
+          "ipic_dependency_dd423cf16e00": 17
+        }
+      },
+      "adapted_counts": {
+        "gain": 118,
+        "by_group": {
+          "ipic_dependency_83a47a450e44": 23,
+          "ipic_dependency_b3d032ccefd3": 19,
+          "ipic_dependency_21e05234d0d1": 4,
+          "ipic_dependency_554f93899a72": 4,
+          "ipic_dependency_dd423cf16e00": 68
+        }
+      }
+    },
+    "1730": {
+      "crowd_counts": {
+        "gain": 28,
+        "by_group": {
+          "ipic_dependency_83a47a450e44": 9,
+          "ipic_dependency_b3d032ccefd3": 4,
+          "ipic_dependency_21e05234d0d1": 1,
+          "ipic_dependency_554f93899a72": 1,
+          "ipic_dependency_dd423cf16e00": 13
+        }
+      },
+      "adapted_counts": {
+        "gain": 62,
+        "by_group": {
+          "ipic_dependency_83a47a450e44": 11,
+          "ipic_dependency_b3d032ccefd3": 13,
+          "ipic_dependency_21e05234d0d1": 4,
+          "ipic_dependency_554f93899a72": 2,
+          "ipic_dependency_dd423cf16e00": 32
+        }
+      }
+    },
+    "1731": {
+      "crowd_counts": {
+        "gain": 27,
+        "by_group": {
+          "ipic_dependency_83a47a450e44": 8,
+          "ipic_dependency_b3d032ccefd3": 5,
+          "ipic_dependency_21e05234d0d1": 1,
+          "ipic_dependency_554f93899a72": 1,
+          "ipic_dependency_dd423cf16e00": 12
+        }
+      },
+      "adapted_counts": {
+        "gain": 8,
+        "by_group": {
+          "ipic_dependency_83a47a450e44": 3,
+          "ipic_dependency_b3d032ccefd3": 3,
+          "ipic_dependency_21e05234d0d1": 0,
+          "ipic_dependency_554f93899a72": 1,
+          "ipic_dependency_dd423cf16e00": 1
+        }
+      }
+    }
+  },
+  "matched_candidate_budgets": {
+    "A": {
+      "candidates": 380,
+      "matches": {
+        "verifier_learned": 157,
+        "1729_1729": 67,
+        "1730_1730": 52,
+        "1731_1731": 50
+      }
+    },
+    "C": {
+      "candidates": 625,
+      "matches": {
+        "verifier_learned": 213,
+        "1729_1729": 90,
+        "1730_1730": 65,
+        "1731_1731": 59
+      }
+    },
+    "full": {
+      "candidates": 3303,
+      "matches": {
+        "verifier_learned": 368,
+        "1729_1729": 205,
+        "1730_1730": 142,
+        "1731_1731": 126
+      }
+    }
+  }
+}

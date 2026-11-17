@@ -1,0 +1,83 @@
+{
+  "kind": "posthoc_classifier_score_envelope_not_threshold_selection",
+  "arms": {
+    "reference_lr": {
+      "rows": [
+        {
+          "image_id": "T04_09",
+          "truth": 0,
+          "assigned_min_q": null,
+          "unassigned_max_q": 0.016914913430809975,
+          "assigned_points_all_within8": true
+        },
+        {
+          "image_id": "003",
+          "truth": 1,
+          "assigned_min_q": 0.793105959892273,
+          "unassigned_max_q": 0.11596072465181351,
+          "assigned_points_all_within8": true
+        },
+        {
+          "image_id": "T04_05",
+          "truth": 21,
+          "assigned_min_q": 0.4455295205116272,
+          "unassigned_max_q": 0.28140559792518616,
+          "assigned_points_all_within8": true
+        },
+        {
+          "image_id": "T24_10",
+          "truth": 34,
+          "assigned_min_q": 0.37022536993026733,
+          "unassigned_max_q": 0.32766830921173096,
+          "assigned_points_all_within8": true
+        }
+      ],
+      "global_min_assigned_q": 0.37022536993026733,
+      "global_max_unassigned_q": 0.32766830921173096,
+      "ranking_margin": 0.04255706071853638,
+      "single_threshold_can_select_exact_recorded_assignment": true
+    },
+    "lower_lr": {
+      "rows": [
+        {
+          "image_id": "T04_09",
+          "truth": 0,
+          "assigned_min_q": null,
+          "unassigned_max_q": 0.014503579586744308,
+          "assigned_points_all_within8": true
+        },
+        {
+          "image_id": "003",
+          "truth": 1,
+          "assigned_min_q": 0.6297746300697327,
+          "unassigned_max_q": 0.18713268637657166,
+          "assigned_points_all_within8": true
+        },
+        {
+          "image_id": "T04_05",
+          "truth": 21,
+          "assigned_min_q": 0.3486451208591461,
+          "unassigned_max_q": 0.32766830921173096,
+          "assigned_points_all_within8": true
+        },
+        {
+          "image_id": "T24_10",
+          "truth": 34,
+          "assigned_min_q": 0.23934932053089142,
+          "unassigned_max_q": 0.3415825068950653,
+          "assigned_points_all_within8": true
+        }
+      ],
+      "global_min_assigned_q": 0.23934932053089142,
+      "global_max_unassigned_q": 0.3415825068950653,
+      "ranking_margin": -0.10223318636417389,
+      "single_threshold_can_select_exact_recorded_assignment": false
+    }
+  },
+  "model_calls": 0,
+  "optimizer_calls": 0,
+  "threshold_candidates_evaluated": 0,
+  "new_threshold_selected": null,
+  "frozen_gate_unchanged": true,
+  "limits": "Ground-truth assignment identities define positive/negative sets for this fitting-only diagnosis. A positive score gap is not a learned calibration rule or held-out result. No inference threshold is chosen or deployed."
+}

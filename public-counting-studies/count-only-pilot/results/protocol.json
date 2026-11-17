@@ -1,0 +1,126 @@
+{
+  "created_client_UTC": "2026-10-27T02:12:22.364004+00:00",
+  "owner_request": "when can we start full training please work as full fledge work",
+  "shared_GPU_authorization": "Use shared GPU with the existing memory/disk guards",
+  "scope": "Advance the staged experiment through a matched14-epoch count-learning pilot after the running sanity and production guards. No automatic56-epoch refit or conditional dual arms before results.",
+  "arms": [
+    "A0_original",
+    "A1_count_only"
+  ],
+  "epochs": 14,
+  "seed": 2027,
+  "partition_seed": 2027,
+  "fitting_rows": 2587,
+  "class_held_rows": 1066,
+  "steps_per_epoch": 324,
+  "steps_per_arm": 4536,
+  "total_steps": 9072,
+  "source_manifest_sha256": "215b5a6d4c4a45aba9d2e67fd7bdbe896baa14db57b260fd9664290a0a4e4d6c",
+  "class_map_sha256": "ba1bc6c6a21875919625adb851eaee1aab0ad1f88ecf64d017bebda891b5815e",
+  "feature_index_sha256": "d272d02e43d125a2f2eb0c5238e06c1371f5cdd0d902845b506dca4c4e5bf0d2",
+  "sanity_protocol_sha256": "23e611aef50c57b5abe3f0ef763d3a4605b0191cc433f75f9d2f6d10697493e7",
+  "sanity_container": "source-count-spatial-sanity-v1",
+  "guard_pair": [
+    "3352.jpg",
+    "7468.jpg"
+  ],
+  "guard_batch8": [
+    "3352.jpg",
+    "6403.jpg",
+    "2332.jpg",
+    "61.jpg",
+    "7468.jpg",
+    "2400.jpg",
+    "7212.jpg",
+    "5769.jpg"
+  ],
+  "guard_optimizer_calls": 18,
+  "recipe": {
+    "architecture": "Unchanged470359-parameter native-reference fine128 V11",
+    "features": "Frozen SAM2 cached128/64/32",
+    "initialization": "Fresh identical seed2027 heads; bias from only the2587 fitting rows",
+    "optimizer": "AdamW",
+    "lr": 0.0005,
+    "weight_decay": 0.0001,
+    "clip_norm": 1,
+    "lr_schedule": "constant",
+    "nominal_batch": 8,
+    "actual_sampler": "np.array_split(torch.randperm,ceil(n/8));319 batches8 and5 batches7 per epoch",
+    "augmentation": null,
+    "precision": "CUDA BF16 autocast; FP32 mass sums and objectives; TF32off",
+    "A0_loss": "Original count + .25mean regional +5CDF +.5conserved blur",
+    "A1_loss": "Original count L1 only",
+    "checkpointing": "Atomic model/optimizer/generator/CPU/CUDA RNG every epoch; no automatic failure recovery"
+  },
+  "tolerances": {
+    "CPU_CUDA_FP32": {
+      "rtol": 0.002,
+      "atol": 0.0002
+    },
+    "original_control_poststep": {
+      "rtol": 1e-05,
+      "atol": 1e-06
+    },
+    "recovery_poststep": {
+      "rtol": 0.0001,
+      "atol": 1e-05
+    },
+    "loss_replay": {
+      "rtol": 1e-06,
+      "atol": 1e-06
+    }
+  },
+  "evaluation": {
+    "endpoint_epoch": 14,
+    "intermediate_heldout_selection": false,
+    "all_class_held_rows": true,
+    "public_native_validation": false,
+    "independent_confirmation": false,
+    "development_reused": true,
+    "metrics": [
+      "MAE",
+      "RMSE",
+      "bias",
+      "class_macro_MAE",
+      "GAME1",
+      "GAME2",
+      "GAME3",
+      "normalized_blur"
+    ],
+    "bins": [
+      "0-24",
+      "25-74",
+      "75-149",
+      "150-899",
+      "900+"
+    ],
+    "extremes": "Keep every eligible extreme in its native partition; report casewise, never move rows"
+  },
+  "pilot_gate": {
+    "overall_MAE_relative_gain_min": 0.05,
+    "dense_MAE_relative_gain_min": 0.1,
+    "dense_150_899_improves": true,
+    "all_RMSE_relative_regression_max": 0.02,
+    "sparse_MAE_absolute_regression_max": 0.2,
+    "all_required": true,
+    "spatial": "Diagnostic at this count stage. Harm is a tradeoff requiring subsequent spatial recovery; not a final method gain.",
+    "consequence": "A pass supports conditional capacity/coupled/routed controls, not an automatic full fit."
+  },
+  "resources": {
+    "CPUs": 2,
+    "container_GiB": 24,
+    "extra_swap_GiB": 0,
+    "shared_GPU": true,
+    "admission_host_GiB": 48,
+    "admission_samples": 2,
+    "admission_interval_seconds": 30,
+    "host_stop_GiB": 32,
+    "disk_floor_GiB": 100,
+    "guard_max_hours": 1,
+    "pilot_max_hours": 72,
+    "resource_wait_max_hours": 24,
+    "no_unrelated_process_actions": true
+  },
+  "duplicate_prevention": "Unique fresh release, output and container names; one-shot fcntl controller; no auto retry",
+  "full_refit_status": "Not started or queued by this pilot controller. Timing depends on count and spatial evidence;56epochs remains the later prescribed source budget."
+}

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['sack']
+
+roboflow:
+  workspace: sack-detection
+  project: sackdetection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sack-detection/sackdetection/dataset/1

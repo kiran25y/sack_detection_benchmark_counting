@@ -1,0 +1,2471 @@
+{
+  "rows": [
+    {
+      "image_id": "000",
+      "image": "inputs/images/000_8ba5645c7c68.jpg",
+      "encoded_sha256": "8ba5645c7c68e12b21111298fe6233348c5f74fbdf2682a46b3bc6d304389dbe",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          943,
+          1023
+        ],
+        [
+          782,
+          684
+        ],
+        [
+          860,
+          661
+        ],
+        [
+          938,
+          703
+        ],
+        [
+          1049,
+          690
+        ],
+        [
+          1129,
+          696
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "001",
+      "image": "inputs/images/001_da7561877200.jpg",
+      "encoded_sha256": "da7561877200fb06b897c7c123e81811234a4c511108fc94e086d295e2263ac8",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          980,
+          740
+        ],
+        [
+          820,
+          634
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "002",
+      "image": "inputs/images/002_cfc32b3b9367.jpg",
+      "encoded_sha256": "cfc32b3b93671962429cce6e34c10d4c275a9db9200e6a7d49b982b9791718de",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          931,
+          753
+        ],
+        [
+          843,
+          632
+        ],
+        [
+          912,
+          590
+        ],
+        [
+          811,
+          736
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "003",
+      "image": "inputs/images/003_acd06b6ae86d.jpg",
+      "encoded_sha256": "acd06b6ae86dea568631f9dad599c041964d0e35460b21478f122347f809d909",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          1017,
+          807
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "004",
+      "image": "inputs/images/004_40bcb1064377.jpg",
+      "encoded_sha256": "40bcb1064377a87791ab6569ca51becb5db86a8d0b4461e4cae09e4c5d6c8adb",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          1010,
+          850
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "005",
+      "image": "inputs/images/005_cc3f12e8ac9d.jpg",
+      "encoded_sha256": "cc3f12e8ac9d2f566d9a15b6feb58be00475a4aab32e87ee3d7afa3eb53db70a",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          859,
+          906
+        ],
+        [
+          1102,
+          914
+        ],
+        [
+          1115,
+          861
+        ],
+        [
+          1097,
+          984
+        ],
+        [
+          1038,
+          950
+        ],
+        [
+          1081,
+          1090
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "006",
+      "image": "inputs/images/006_772a8754a659.jpg",
+      "encoded_sha256": "772a8754a659e1b299d68da5089c5f78aa0863f77f42a7c4452ca4bdebb03d02",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          877,
+          1096
+        ],
+        [
+          1034,
+          899
+        ],
+        [
+          1085,
+          1013
+        ],
+        [
+          1083,
+          1087
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "007",
+      "image": "inputs/images/007_0c8037fb0eab.jpg",
+      "encoded_sha256": "0c8037fb0eab8d36d485fa4638e8008df241ecb1e00d352f31b1ee451c42a488",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          863,
+          1233
+        ],
+        [
+          1022,
+          795
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "008",
+      "image": "inputs/images/008_db2c282a94af.jpg",
+      "encoded_sha256": "db2c282a94af07185535e0d739ae0cdcd90e669b8deda4de8cf1c45205231335",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          924,
+          758
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "012",
+      "image": "inputs/images/012_a2c38b7bbc28.jpg",
+      "encoded_sha256": "a2c38b7bbc28a2b372662d09cdec90949055cb07e8e40060040e339d51655fb7",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          935,
+          1005
+        ],
+        [
+          905,
+          500
+        ],
+        [
+          1037,
+          591
+        ],
+        [
+          1109,
+          543
+        ],
+        [
+          727,
+          552
+        ],
+        [
+          807,
+          601
+        ],
+        [
+          976,
+          547
+        ],
+        [
+          819,
+          536
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "013",
+      "image": "inputs/images/013_2d847176cd38.jpg",
+      "encoded_sha256": "2d847176cd38d74db3f0f427a969ed53a5b8e6bf22ec22610492a2e67a8f9988",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          899,
+          766
+        ],
+        [
+          894,
+          1323
+        ],
+        [
+          894,
+          576
+        ],
+        [
+          901,
+          516
+        ],
+        [
+          1109,
+          551
+        ],
+        [
+          761,
+          567
+        ],
+        [
+          931,
+          470
+        ],
+        [
+          862,
+          489
+        ],
+        [
+          795,
+          504
+        ],
+        [
+          974,
+          547
+        ],
+        [
+          1038,
+          579
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "015",
+      "image": "inputs/images/015_351f162ff60b.jpg",
+      "encoded_sha256": "351f162ff60b6ca63f99910cc385b20c1e8b8acc66ff3e59a5c0a1f2adf2ced5",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          892,
+          728
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "016",
+      "image": "inputs/images/016_70f03fa074e5.jpg",
+      "encoded_sha256": "70f03fa074e5e6ed2fca627f6ad72fc3d3ec98dbde788246a1a2034f6d425dc7",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          897,
+          692
+        ],
+        [
+          899,
+          885
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "017",
+      "image": "inputs/images/017_4d6f4b905e24.jpg",
+      "encoded_sha256": "4d6f4b905e24a46db090e0b79266dd40314d9db9b7e4abb2f9fb8084e0d0a6ff",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          934,
+          765
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "019",
+      "image": "inputs/images/019_8ad2c801e543.jpg",
+      "encoded_sha256": "8ad2c801e5437e9429959328e719a9f9259b7143255a3de96f87061734d20440",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          868,
+          776
+        ],
+        [
+          1064,
+          851
+        ],
+        [
+          1066,
+          946
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "020",
+      "image": "inputs/images/020_433084f16070.jpg",
+      "encoded_sha256": "433084f16070ac052d6c0e0bf1421381bdddec02ca76f6b41fd9917db7432d57",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          839,
+          771
+        ],
+        [
+          1068,
+          846
+        ],
+        [
+          760,
+          771
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "021",
+      "image": "inputs/images/021_1b1c3a809c82.jpg",
+      "encoded_sha256": "1b1c3a809c82b6774976951a67224dcb697a18ff9132bcb1b9931fc90df92079",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          864,
+          776
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "022",
+      "image": "inputs/images/022_72595e9c60a3.jpg",
+      "encoded_sha256": "72595e9c60a33e3b504e7ca6624ec8967e471d0d63d2829925d332f7d899cc77",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          803,
+          1116
+        ],
+        [
+          765,
+          887
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "023",
+      "image": "inputs/images/023_c36521755791.jpg",
+      "encoded_sha256": "c36521755791ff781d601fe661a313cb81b59cc839fcf321112729ceb54b579d",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          732,
+          1243
+        ],
+        [
+          902,
+          1008
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "024",
+      "image": "inputs/images/024_fb1f4c28e21a.jpg",
+      "encoded_sha256": "fb1f4c28e21aee0526e5820e525e05f696ad7ab4b6e65f0b0f16b2abaa38dd86",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          712,
+          1365
+        ]
+      ],
+      "group": "ipic_dependency_b778d9b86516"
+    },
+    {
+      "image_id": "dev_00",
+      "image": "inputs/images/dev_00_00000000.png",
+      "encoded_sha256": "d835c25fa79cc90c008536648a9c2e253116c18d74ef7267241fb9db9c095dd0",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_01",
+      "image": "inputs/images/dev_01_00008819.png",
+      "encoded_sha256": "a8b3ced36d40024f26743fc0310db9eed34edd1861c0e27de73ea30e441c7d14",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_02",
+      "image": "inputs/images/dev_02_00017638.png",
+      "encoded_sha256": "cc84ccd44fadb7cb08f3882fcbcec6e3ca6e3fce00389d1545acac78183b56ce",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_03",
+      "image": "inputs/images/dev_03_00026457.png",
+      "encoded_sha256": "530c63ceff127bc646d11920a62c5ea982056a7866fe1513b308a9358c6e8add",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_04",
+      "image": "inputs/images/dev_04_00035276.png",
+      "encoded_sha256": "a7505dba9a0e63ebe5e8aa0b8a1f1cb8ccb6cc683d7cbb2f63fb5e31b5c0b72e",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_05",
+      "image": "inputs/images/dev_05_00044095.png",
+      "encoded_sha256": "996326566f362d94742cf47557bbf00ead97fd1aefaa15bec15bf77550b5bd4d",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_06",
+      "image": "inputs/images/dev_06_00052913.png",
+      "encoded_sha256": "ff56f21fcabb4b704852bcb5cad11861cbdcbf4ada42eee40d90087b50c1c5d5",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_07",
+      "image": "inputs/images/dev_07_00061732.png",
+      "encoded_sha256": "667b3cf4b003a5668a4769f99ac17ca14fb6cbee8f3fa9556dd8e61a07205139",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_08",
+      "image": "inputs/images/dev_08_00070551.png",
+      "encoded_sha256": "2d55c52009f2fa6220453aedfda6d1e00908100c6ed381847e55f8d7f27bc1f7",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_09",
+      "image": "inputs/images/dev_09_00079370.png",
+      "encoded_sha256": "1c3fa2e7fff90e92fc6b0ed7796fb8cf6166592d92d45d88ae96dd13ed1a9b0b",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "dev_10",
+      "image": "inputs/images/dev_10_00088189.png",
+      "encoded_sha256": "bdfeafbc14957335fb94a864a12293bff2759125479b49821c34c7d77495db99",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "T24_00",
+      "image": "inputs/new/T24_00.jpg",
+      "encoded_sha256": "a0c51f6891a2506695ce7621726b3a63ba3c29b45b2476c9cd0dc690fe5f0a99",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          682,
+          548
+        ],
+        [
+          1025,
+          551
+        ],
+        [
+          1110,
+          578
+        ],
+        [
+          1099,
+          521
+        ],
+        [
+          789,
+          502
+        ],
+        [
+          643,
+          744
+        ],
+        [
+          724,
+          714
+        ],
+        [
+          852,
+          705
+        ],
+        [
+          1004,
+          707
+        ],
+        [
+          1094,
+          738
+        ],
+        [
+          664,
+          790
+        ],
+        [
+          844,
+          783
+        ],
+        [
+          1017,
+          786
+        ],
+        [
+          823,
+          845
+        ],
+        [
+          1036,
+          851
+        ],
+        [
+          744,
+          913
+        ],
+        [
+          919,
+          926
+        ],
+        [
+          1006,
+          964
+        ],
+        [
+          1102,
+          1067
+        ],
+        [
+          785,
+          995
+        ],
+        [
+          930,
+          1010
+        ],
+        [
+          785,
+          1055
+        ],
+        [
+          900,
+          1060
+        ],
+        [
+          1085,
+          1010
+        ],
+        [
+          715,
+          965
+        ],
+        [
+          945,
+          882
+        ],
+        [
+          675,
+          854
+        ],
+        [
+          738,
+          1037
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_01",
+      "image": "inputs/new/T24_01.jpg",
+      "encoded_sha256": "b88675f25da59d2be6d83905d8573d035bb85d3601469e71fa74d4e18549dbe8",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          687,
+          547
+        ],
+        [
+          800,
+          493
+        ],
+        [
+          926,
+          549
+        ],
+        [
+          1093,
+          525
+        ],
+        [
+          1113,
+          579
+        ],
+        [
+          645,
+          743
+        ],
+        [
+          738,
+          714
+        ],
+        [
+          850,
+          705
+        ],
+        [
+          1007,
+          707
+        ],
+        [
+          1104,
+          741
+        ],
+        [
+          672,
+          790
+        ],
+        [
+          832,
+          782
+        ],
+        [
+          1052,
+          787
+        ],
+        [
+          839,
+          844
+        ],
+        [
+          1040,
+          855
+        ],
+        [
+          747,
+          914
+        ],
+        [
+          921,
+          925
+        ],
+        [
+          1001,
+          971
+        ],
+        [
+          1100,
+          1064
+        ],
+        [
+          785,
+          995
+        ],
+        [
+          930,
+          1010
+        ],
+        [
+          785,
+          1055
+        ],
+        [
+          900,
+          1060
+        ],
+        [
+          1085,
+          1010
+        ],
+        [
+          715,
+          965
+        ],
+        [
+          945,
+          882
+        ],
+        [
+          831,
+          905
+        ],
+        [
+          1023,
+          919
+        ],
+        [
+          1089,
+          858
+        ],
+        [
+          974,
+          1070
+        ],
+        [
+          973,
+          1022
+        ],
+        [
+          734,
+          1029
+        ],
+        [
+          710,
+          859
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_02",
+      "image": "inputs/new/T24_02.jpg",
+      "encoded_sha256": "4c16f42c12e2eef74a698bcebceafaac30162cf3d9c728a8fcf89d4d9425ee84",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          690,
+          548
+        ],
+        [
+          803,
+          490
+        ],
+        [
+          1101,
+          521
+        ],
+        [
+          1115,
+          579
+        ],
+        [
+          668,
+          678
+        ],
+        [
+          646,
+          741
+        ],
+        [
+          684,
+          788
+        ],
+        [
+          840,
+          838
+        ],
+        [
+          1006,
+          784
+        ],
+        [
+          1101,
+          741
+        ],
+        [
+          1090,
+          859
+        ],
+        [
+          1105,
+          975
+        ],
+        [
+          1100,
+          1067
+        ],
+        [
+          879,
+          1100
+        ],
+        [
+          683,
+          914
+        ],
+        [
+          681,
+          964
+        ],
+        [
+          688,
+          1025
+        ],
+        [
+          771,
+          779
+        ],
+        [
+          871,
+          993
+        ],
+        [
+          832,
+          565
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_03",
+      "image": "inputs/new/T24_03.jpg",
+      "encoded_sha256": "2221b5f9a71924e3d3b795056e150fb4c257ed12f09decf1d126275135aeb322",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          687,
+          547
+        ],
+        [
+          811,
+          490
+        ],
+        [
+          946,
+          491
+        ],
+        [
+          932,
+          551
+        ],
+        [
+          1031,
+          550
+        ],
+        [
+          1100,
+          523
+        ],
+        [
+          1114,
+          578
+        ],
+        [
+          850,
+          587
+        ],
+        [
+          655,
+          745
+        ],
+        [
+          730,
+          774
+        ],
+        [
+          1030,
+          700
+        ],
+        [
+          1100,
+          739
+        ],
+        [
+          1005,
+          742
+        ],
+        [
+          1071,
+          793
+        ],
+        [
+          646,
+          907
+        ],
+        [
+          681,
+          1028
+        ],
+        [
+          1104,
+          1067
+        ],
+        [
+          885,
+          1025
+        ],
+        [
+          650,
+          966
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_04",
+      "image": "inputs/new/T24_04.jpg",
+      "encoded_sha256": "01664632ecd052075e264c0b990c9a3a753f6be636db01483295be5558264e7d",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          794,
+          485
+        ],
+        [
+          787,
+          536
+        ],
+        [
+          900,
+          528
+        ],
+        [
+          1006,
+          526
+        ],
+        [
+          1080,
+          532
+        ],
+        [
+          1107,
+          582
+        ],
+        [
+          820,
+          690
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_05",
+      "image": "inputs/new/T24_05.jpg",
+      "encoded_sha256": "29a629e76c6a19f9bebca1a3fb807a522d136436496773c7d8545b674e208a2f",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          791,
+          482
+        ],
+        [
+          820,
+          531
+        ],
+        [
+          909,
+          517
+        ],
+        [
+          1003,
+          522
+        ],
+        [
+          1090,
+          534
+        ],
+        [
+          911,
+          693
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_06",
+      "image": "inputs/new/T24_06.jpg",
+      "encoded_sha256": "45de6f05d533390865883a1cef5c954835a182ec9a4478819b2444b3f12c0e83",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          788,
+          488
+        ],
+        [
+          828,
+          532
+        ],
+        [
+          914,
+          516
+        ],
+        [
+          1012,
+          524
+        ],
+        [
+          1095,
+          534
+        ],
+        [
+          991,
+          539
+        ],
+        [
+          906,
+          665
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_07",
+      "image": "inputs/new/T24_07.jpg",
+      "encoded_sha256": "1f12561287716c03d5def346437572877d39914996d7b80e639c3ed1508aa5e9",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          791,
+          495
+        ],
+        [
+          914,
+          505
+        ],
+        [
+          995,
+          532
+        ],
+        [
+          1079,
+          554
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_08",
+      "image": "inputs/new/T24_08.jpg",
+      "encoded_sha256": "ed1e8f3aaaeca8b40ea1b94da652bd9248f83ef7e652f5de737cd8d678959737",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_09",
+      "image": "inputs/new/T24_09.jpg",
+      "encoded_sha256": "e049f891de0c744cd2661227b5ac7da3533ec6b7e959f5407b7b102d7dc83a3a",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_10",
+      "image": "inputs/new/T24_10.jpg",
+      "encoded_sha256": "1d90edc0650b271c169b30ec4e065a2852d74dc6897b68d0ec4370f55a33c041",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          727,
+          681
+        ],
+        [
+          690,
+          736
+        ],
+        [
+          795,
+          724
+        ],
+        [
+          780,
+          792
+        ],
+        [
+          683,
+          792
+        ],
+        [
+          680,
+          846
+        ],
+        [
+          677,
+          901
+        ],
+        [
+          786,
+          860
+        ],
+        [
+          784,
+          914
+        ],
+        [
+          902,
+          761
+        ],
+        [
+          904,
+          824
+        ],
+        [
+          906,
+          874
+        ],
+        [
+          900,
+          928
+        ],
+        [
+          889,
+          988
+        ],
+        [
+          895,
+          1043
+        ],
+        [
+          901,
+          1091
+        ],
+        [
+          790,
+          966
+        ],
+        [
+          780,
+          1021
+        ],
+        [
+          818,
+          1075
+        ],
+        [
+          1019,
+          765
+        ],
+        [
+          1007,
+          861
+        ],
+        [
+          1002,
+          914
+        ],
+        [
+          998,
+          965
+        ],
+        [
+          996,
+          1016
+        ],
+        [
+          995,
+          1076
+        ],
+        [
+          1090,
+          1088
+        ],
+        [
+          1091,
+          1039
+        ],
+        [
+          1094,
+          990
+        ],
+        [
+          1098,
+          936
+        ],
+        [
+          1100,
+          886
+        ],
+        [
+          1101,
+          834
+        ],
+        [
+          1104,
+          774
+        ],
+        [
+          1102,
+          717
+        ],
+        [
+          824,
+          674
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "T24_11",
+      "image": "inputs/new/T24_11.jpg",
+      "encoded_sha256": "e7fb8cdb86d2e273b50db5c9733ba89107d348d41f421d360cb6e33e23c12e2a",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          723,
+          682
+        ],
+        [
+          826,
+          681
+        ],
+        [
+          692,
+          739
+        ],
+        [
+          690,
+          792
+        ],
+        [
+          684,
+          849
+        ],
+        [
+          823,
+          777
+        ],
+        [
+          793,
+          891
+        ],
+        [
+          895,
+          834
+        ],
+        [
+          893,
+          888
+        ],
+        [
+          1088,
+          776
+        ],
+        [
+          1090,
+          833
+        ],
+        [
+          1090,
+          886
+        ],
+        [
+          1096,
+          938
+        ],
+        [
+          1092,
+          1001
+        ],
+        [
+          1091,
+          1052
+        ],
+        [
+          1092,
+          1090
+        ],
+        [
+          1007,
+          790
+        ],
+        [
+          1000,
+          730
+        ],
+        [
+          1082,
+          708
+        ],
+        [
+          914,
+          1097
+        ],
+        [
+          877,
+          1025
+        ]
+      ],
+      "group": "ipic_dependency_9945d48d4761"
+    },
+    {
+      "image_id": "D27_00",
+      "image": "inputs/new/D27_00.jpg",
+      "encoded_sha256": "5ed53d3b1b50fad58c7646cd10e20b2676d26fb71f0efa8e3465a2a524da2838",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_01",
+      "image": "inputs/new/D27_01.jpg",
+      "encoded_sha256": "ced404000ebd0eeca9a54dab422ef42c16affc297c2970b1b96774829d4e89ee",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_02",
+      "image": "inputs/new/D27_02.jpg",
+      "encoded_sha256": "2ab77885fd6e2518ea8e4d4ef20cc0f0132e623ec5eb6d57fe8839008244c0cb",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_03",
+      "image": "inputs/new/D27_03.jpg",
+      "encoded_sha256": "e4206ea1d0569e072a8078f944b60e025da1626e5d7b3f770d518ae1bdded09b",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_04",
+      "image": "inputs/new/D27_04.jpg",
+      "encoded_sha256": "6259fa917e5432e4b587f0cb89e1282cdc942fe72d7d7ea028aae1a1a4a1cdf0",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_05",
+      "image": "inputs/new/D27_05.jpg",
+      "encoded_sha256": "e95733e8b47c625e39761b1ccec62ad4758b8942b5c2ab3297d3b6efe6b4865c",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_06",
+      "image": "inputs/new/D27_06.jpg",
+      "encoded_sha256": "70ff5176a7769987b2f4bb544538c2b6b4f5a073bc1ccf8b99ba166038a39ef8",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "D27_07",
+      "image": "inputs/new/D27_07.jpg",
+      "encoded_sha256": "45c2ade9db8bc87c18d8358973abede235891332bf53b386f49ca8ba7a142e98",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "development",
+      "group": "ipic_dependency_b8c3dda6893f"
+    },
+    {
+      "image_id": "T04_00",
+      "image": "inputs/new/T04_00.png",
+      "encoded_sha256": "c17f8ba75b2bc9f9a516cfe0d0a59b34efe7ce6240ae332437a5f4334345fb4b",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          858,
+          489
+        ],
+        [
+          963,
+          461
+        ],
+        [
+          1036,
+          478
+        ],
+        [
+          1090,
+          506
+        ],
+        [
+          1037,
+          529
+        ],
+        [
+          1081,
+          557
+        ],
+        [
+          1090,
+          593
+        ],
+        [
+          797,
+          530
+        ],
+        [
+          730,
+          566
+        ],
+        [
+          805,
+          587
+        ],
+        [
+          712,
+          816
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_01",
+      "image": "inputs/new/T04_01.png",
+      "encoded_sha256": "0f332c913956d03ba5fcbf789a4a1b65bc1d5a9660847bdf893d3a81269120a1",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          890,
+          492
+        ],
+        [
+          970,
+          459
+        ],
+        [
+          1037,
+          479
+        ],
+        [
+          1090,
+          506
+        ],
+        [
+          1041,
+          528
+        ],
+        [
+          1092,
+          562
+        ],
+        [
+          1093,
+          596
+        ],
+        [
+          823,
+          537
+        ],
+        [
+          759,
+          564
+        ],
+        [
+          842,
+          592
+        ],
+        [
+          1100,
+          675
+        ],
+        [
+          789,
+          767
+        ],
+        [
+          945,
+          568
+        ],
+        [
+          991,
+          495
+        ],
+        [
+          1021,
+          585
+        ],
+        [
+          869,
+          466
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_02",
+      "image": "inputs/new/T04_02.png",
+      "encoded_sha256": "519a9c347cafd9e40121368b9f71a4a2359039ee7d49570414d33a0022db8f2c",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          883,
+          488
+        ],
+        [
+          958,
+          459
+        ],
+        [
+          1031,
+          482
+        ],
+        [
+          1095,
+          508
+        ],
+        [
+          1103,
+          562
+        ],
+        [
+          1080,
+          598
+        ],
+        [
+          820,
+          531
+        ],
+        [
+          889,
+          580
+        ],
+        [
+          785,
+          574
+        ],
+        [
+          1094,
+          674
+        ],
+        [
+          989,
+          527
+        ],
+        [
+          1050,
+          539
+        ],
+        [
+          1019,
+          675
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_03",
+      "image": "inputs/new/T04_03.png",
+      "encoded_sha256": "939149b5c520ae975cad7d5213f0182e5d45f1db71cdd4833e88959294c37370",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          802,
+          528
+        ],
+        [
+          946,
+          460
+        ],
+        [
+          1068,
+          501
+        ],
+        [
+          1090,
+          554
+        ],
+        [
+          1095,
+          597
+        ],
+        [
+          1096,
+          666
+        ],
+        [
+          751,
+          745
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_04",
+      "image": "inputs/new/T04_04.png",
+      "encoded_sha256": "c18b38d4d86b92ed33cb9531e29c327ea0888a3dd54b44a778e58ee1f1a33148",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          906,
+          485
+        ],
+        [
+          1092,
+          517
+        ],
+        [
+          1092,
+          565
+        ],
+        [
+          1095,
+          602
+        ],
+        [
+          850,
+          550
+        ],
+        [
+          812,
+          596
+        ],
+        [
+          1097,
+          670
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_05",
+      "image": "inputs/new/T04_05.png",
+      "encoded_sha256": "e20845750fbc6488681d36359d1c76216a96dea81dd4fc6817af817b04656bb2",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          693,
+          776
+        ],
+        [
+          793,
+          774
+        ],
+        [
+          843,
+          740
+        ],
+        [
+          955,
+          741
+        ],
+        [
+          905,
+          775
+        ],
+        [
+          978,
+          801
+        ],
+        [
+          928,
+          849
+        ],
+        [
+          834,
+          832
+        ],
+        [
+          628,
+          832
+        ],
+        [
+          579,
+          903
+        ],
+        [
+          688,
+          923
+        ],
+        [
+          844,
+          916
+        ],
+        [
+          942,
+          921
+        ],
+        [
+          904,
+          977
+        ],
+        [
+          922,
+          1007
+        ],
+        [
+          883,
+          1084
+        ],
+        [
+          623,
+          1062
+        ],
+        [
+          993,
+          870
+        ],
+        [
+          997,
+          926
+        ],
+        [
+          839,
+          1035
+        ],
+        [
+          784,
+          880
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_06",
+      "image": "inputs/new/T04_06.png",
+      "encoded_sha256": "86082aa830c032e89fc83e0435a246f3a7098e2ee375d36cf1c80a4780d7ca98",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          739,
+          743
+        ],
+        [
+          817,
+          774
+        ],
+        [
+          843,
+          740
+        ],
+        [
+          960,
+          740
+        ],
+        [
+          910,
+          778
+        ],
+        [
+          980,
+          801
+        ],
+        [
+          934,
+          848
+        ],
+        [
+          945,
+          918
+        ],
+        [
+          946,
+          963
+        ],
+        [
+          706,
+          860
+        ],
+        [
+          674,
+          931
+        ],
+        [
+          756,
+          942
+        ],
+        [
+          705,
+          1094
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_07",
+      "image": "inputs/new/T04_07.png",
+      "encoded_sha256": "e0747a670b8d1a8eaa9a3a1a8bd7bc309218ea0d4e865a5783a50626e627027c",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          849,
+          754
+        ],
+        [
+          947,
+          749
+        ],
+        [
+          938,
+          794
+        ],
+        [
+          971,
+          888
+        ],
+        [
+          821,
+          848
+        ],
+        [
+          896,
+          839
+        ],
+        [
+          939,
+          911
+        ],
+        [
+          987,
+          810
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_08",
+      "image": "inputs/new/T04_08.png",
+      "encoded_sha256": "1c4f3ebadb6d036259cd26935332a6aa88f2896dc9b15c5a4362eeb6a011da61",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [
+        [
+          775,
+          952
+        ]
+      ],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "T04_09",
+      "image": "inputs/new/T04_09.png",
+      "encoded_sha256": "3d246ec56c92653228412bc1f6d9ef28bf34728f88e09268eb77639aa8c37973",
+      "width": 2560,
+      "height": 1440,
+      "roi_xyxy": [
+        350,
+        350,
+        1450,
+        1440
+      ],
+      "split": "train",
+      "points": [],
+      "group": "ipic_dependency_a8232acfdcec"
+    },
+    {
+      "image_id": "D12_00",
+      "image": "inputs/new/D12_00.png",
+      "encoded_sha256": "70ef7f9597d8723e9d038d24b425fe6cf6edad733c317befcedd535e64ed7dc9",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "D12_01",
+      "image": "inputs/new/D12_01.png",
+      "encoded_sha256": "ebe2b03f7bc69248b0a650cc719bab023762887e8793afd0b929fecd8e22346a",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "D12_02",
+      "image": "inputs/new/D12_02.png",
+      "encoded_sha256": "deb7c77923093597b1f00829b539c333cad194f84501e04480ae9eba974b9350",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    },
+    {
+      "image_id": "D12_03",
+      "image": "inputs/new/D12_03.png",
+      "encoded_sha256": "9847821a065bbd0b2ad19ac1a2ae2cdf10e2a4084eb4492590e8d8a3283ef673",
+      "width": 1728,
+      "height": 1080,
+      "roi_xyxy": [
+        250,
+        150,
+        1050,
+        1080
+      ],
+      "split": "development",
+      "group": "ipic_dependency_483475312362"
+    }
+  ],
+  "weight_hash": "73182a088cf94833c94b1666d1c99e02fe87e2007bff57b564fb6206e25dba71",
+  "encoder_hash": "69366bd19cee297e8423d5f0a6b08977330937d9d7def3112807724f761f10dc",
+  "thresholds": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+  ],
+  "seeds": [
+    1729,
+    1730,
+    1731
+  ],
+  "modes": [
+    "ordinary",
+    "fusion",
+    "paired"
+  ],
+  "primary": "paired",
+  "roles": [
+    "all valid patches visible",
+    "local checkerboard color visible",
+    "local checkerboard color masked",
+    "all valid patches masked"
+  ],
+  "block_size_tokens": 8,
+  "token_stride_px": 14,
+  "long_side": 896,
+  "method": "Shared dense point head. Subtract local-hidden from full and all-hidden from local-visible logits. Learn positive gains for both reveal contrasts and penalties for disagreement in evidence and visible-view location. Fuse subcell offsets by relative reveal evidence.",
+  "matched_control": "Unconstrained linear fusion of same four role logits; visible-logit weighting of offsets. Same trainable parameter count. Same DINO views, targets, optimizer, schedule, decoder and calibration.",
+  "ordinary_reference_sha256": "318ad054bf11c5c8c32ec361178c4776ad28235737530e974092a4d1da1886c3",
+  "ordinary_reference_seed": 1729,
+  "steps_per_new_head": 420,
+  "primary_metrics": [
+    "count MAE",
+    "one-to-one pooled F1 at 8px on 1024 long-side coordinates"
+  ],
+  "backbone_gate": "Each of 3 paired seeds must reduce MAE by at least 0.5 and increase F1 by at least .02 versus ordinary DINOv2 point head.",
+  "architecture_gate": "Lower MAE and higher F1 than the parameter/compute-matched four-view fusion at each of 3 seeds.",
+  "application_gate": "At each seed beat both historical 71/75 controls on each recording in TP and F1, exceed zero low matches and reduce low MAE, protect all five empty frames at zero FP and overall GAME1/2 at or below both controls.",
+  "best_prior_context": "Report same-cohort 116-match verifier and 124-match equal-budget result, which admitted two empty false positives. Compare independent standalone inference, with no supplied proposals.",
+  "evaluation_scope": "42 fitting/23 reused development/0 reserved. Freeze all fitting-only thresholds before development prediction; no favorable seed selection.",
+  "calibration": "Only fit IDs of each proposer. Min empty FP then max positive macro F1@8 then min MAE then higher threshold."
+}

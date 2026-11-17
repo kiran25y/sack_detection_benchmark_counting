@@ -1,0 +1,535 @@
+{
+  "scope": "Owner-authorized optimizer-interference diagnostic only. No full fit, trajectory, automatic retry, coefficient tuning or model checkpoint writes.",
+  "frozen_client_UTC": "2026-10-26T08:40:27.801614+00:00",
+  "prior_protocol_sha256": "da7a7217824cb267f3f3ec1ec6971e803105cf5a30f221d1c36a546d1de59a6a",
+  "parent_protocol": {
+    "state": "specified_not_launched",
+    "created_client_UTC": "2026-10-26T01:58:32.882594+00:00",
+    "scope": "Bounded scientific screen only. No full fit, automatic continuation, sweep, seed search or target scoring.",
+    "hypothesis": "Retaining native location supervision while making point allocation target-consistent and invariant to uniform density scaling may improve dense learning without sparse/spatial regression.",
+    "candidate_status": "Mathematical and frozen-forward diagnosis completed; no demonstrated parameter-update gain or novelty.",
+    "source_manifest_sha256": "215b5a6d4c4a45aba9d2e67fd7bdbe896baa14db57b260fd9664290a0a4e4d6c",
+    "class_map_sha256": "ba1bc6c6a21875919625adb851eaee1aab0ad1f88ecf64d017bebda891b5815e",
+    "checkpoints": [
+      {
+        "variant": "V11",
+        "checkpoint_sha256": "b68575c2f8a5db826eed1964dffbccc7d98449823a19822fba5578185c3c6af5",
+        "unchanged": true
+      },
+      {
+        "variant": "V15",
+        "checkpoint_sha256": "182b3564c9f8f026fc180f7fcba53a215d94f994c3be1ea5c56c09f2e3e04233",
+        "unchanged": true
+      }
+    ],
+    "original_48_query_ids": [
+      "3352.jpg",
+      "6403.jpg",
+      "4865.jpg",
+      "5128.jpg",
+      "5271.jpg",
+      "2788.jpg",
+      "6193.jpg",
+      "6593.jpg",
+      "5647.jpg",
+      "5321.jpg",
+      "6020.jpg",
+      "2132.jpg",
+      "3091.jpg",
+      "5976.jpg",
+      "6594.jpg",
+      "7404.jpg",
+      "2332.jpg",
+      "61.jpg",
+      "2327.jpg",
+      "5333.jpg",
+      "7336.jpg",
+      "5644.jpg",
+      "4524.jpg",
+      "4011.jpg",
+      "7354.jpg",
+      "7699.jpg",
+      "5978.jpg",
+      "7202.jpg",
+      "7087.jpg",
+      "6377.jpg",
+      "3928.jpg",
+      "5751.jpg",
+      "7468.jpg",
+      "2400.jpg",
+      "7212.jpg",
+      "5769.jpg",
+      "4490.jpg",
+      "7048.jpg",
+      "7115.jpg",
+      "6130.jpg",
+      "4459.jpg",
+      "2399.jpg",
+      "7165.jpg",
+      "3746.jpg",
+      "6937.jpg",
+      "2326.jpg",
+      "6976.jpg",
+      "6131.jpg"
+    ],
+    "update_batches": [
+      [
+        "3352.jpg",
+        "6403.jpg",
+        "4865.jpg",
+        "5128.jpg",
+        "5271.jpg",
+        "2788.jpg",
+        "6193.jpg",
+        "6593.jpg"
+      ],
+      [
+        "5647.jpg",
+        "5321.jpg",
+        "6020.jpg",
+        "2132.jpg",
+        "3091.jpg",
+        "5976.jpg",
+        "6594.jpg",
+        "7404.jpg"
+      ],
+      [
+        "2332.jpg",
+        "61.jpg",
+        "2327.jpg",
+        "5333.jpg",
+        "7336.jpg",
+        "5644.jpg",
+        "4524.jpg",
+        "4011.jpg"
+      ],
+      [
+        "7354.jpg",
+        "7699.jpg",
+        "5978.jpg",
+        "7202.jpg",
+        "7087.jpg",
+        "6377.jpg",
+        "3928.jpg",
+        "5751.jpg"
+      ],
+      [
+        "7468.jpg",
+        "2400.jpg",
+        "7212.jpg",
+        "5769.jpg",
+        "4490.jpg",
+        "7048.jpg",
+        "7115.jpg",
+        "6130.jpg"
+      ],
+      [
+        "4459.jpg",
+        "2399.jpg",
+        "7165.jpg",
+        "3746.jpg",
+        "6937.jpg",
+        "2326.jpg",
+        "6976.jpg",
+        "6131.jpg"
+      ]
+    ],
+    "supplemental_probes": {
+      "empty": {
+        "eligible_fitting_queries": 0,
+        "selected": []
+      },
+      "very_small": {
+        "eligible_fitting_queries": 4,
+        "selected": [
+          {
+            "query_id": "3354.jpg",
+            "group_id": "229b9c3adbb987fd1b60ba16f8a3dbe69acd9c8331edfad7b0fc5ba3431afe8b",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 7
+          },
+          {
+            "query_id": "3727.jpg",
+            "group_id": "c834886f242e4db8561423a6b4d67b42606dee660c4c34b3b2bbc51410c898ba",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 7
+          },
+          {
+            "query_id": "5418.jpg",
+            "group_id": "a8544994dd66d91d67e09f4076979b0cf1b6150171e2f1ad9d84bf0d7e1458fb",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 7
+          },
+          {
+            "query_id": "3878.jpg",
+            "group_id": "d45f2f98b20ca1112e82ccb5823d9cd1e6d5cff71a0d2ae177c852093fe34eef",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 7
+          }
+        ]
+      },
+      "uncovered_dense": {
+        "eligible_fitting_queries": 6,
+        "selected": [
+          {
+            "query_id": "2390.jpg",
+            "group_id": "25f6cd17c85d73d9a495cd29d93a79c6169d5864d465aad24b46fc1e96437de5",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 672
+          },
+          {
+            "query_id": "3356.jpg",
+            "group_id": "1acdf68f4aba6f8baa8f7ad36daaddd66f207ea1eeee6cec05915deb82e39c15",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 645
+          },
+          {
+            "query_id": "880.jpg",
+            "group_id": "03cb31177e0ce0a4be963042d7a122d065b437b552ac785cbe2bd76484def7a0",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 628
+          },
+          {
+            "query_id": "2348.jpg",
+            "group_id": "cd96f7a90e64d02618fcd74d21d2cde4ab146214e9e17902ab471da8b5b7748b",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 834
+          },
+          {
+            "query_id": "6790.jpg",
+            "group_id": "fd2f377cfbfff60979f7b0c2cbc876e6e600977dc0de864a35b0473b22a5c4a0",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 485
+          },
+          {
+            "query_id": "2342.jpg",
+            "group_id": "ec4cdaaf69b3f04e95c26df1a38e5d9a39b3c6746f43cc375a520b57473af715",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 501
+          }
+        ]
+      },
+      "extreme": {
+        "eligible_fitting_queries": 7,
+        "selected": [
+          {
+            "query_id": "2360.jpg",
+            "group_id": "e865c7bab47d09867fc7e07b4a1ef95c1e40d7cf842db8c020d3187c86003a9a",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 1283
+          },
+          {
+            "query_id": "7603.jpg",
+            "group_id": "191e79e1172bc813a20ebf8762fcdbfb6d65344719d387be108c9cc3b55c9bf7",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 1400
+          },
+          {
+            "query_id": "805.jpg",
+            "group_id": "988f051403c4f500349f9647e7046477de93cf463e541d977850e1236413913d",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 1095
+          },
+          {
+            "query_id": "2347.jpg",
+            "group_id": "f296daf5e6f5237ec3ac0bcee2401ba130af07a1a049878df466ff8714cda679",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 1912
+          },
+          {
+            "query_id": "2775.jpg",
+            "group_id": "6bf39ea5db27162cad465359bb518ff6c0a0f80c5ad37ee2298fcc4e983d39c5",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 1672
+          },
+          {
+            "query_id": "804.jpg",
+            "group_id": "3517499f2455be46b7f6dd00396ac368f1cf38ffea34c10013e0577947f2d11c",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 1001
+          },
+          {
+            "query_id": "4128.jpg",
+            "group_id": "9c1ff951eddfc50ee3e9d451af1a23ad448481a154473c1e288315ea6143c636",
+            "dataset": "FSCD147",
+            "split": "train",
+            "gt_count": 953
+          }
+        ]
+      }
+    },
+    "held_queries_excluded": 1066,
+    "stage_A_completed": {
+      "model_forwards": 130,
+      "optimizer_steps": 0,
+      "CPU": 2,
+      "memory_GiB": 8,
+      "elapsed_probe_seconds": 122.62123491198872
+    },
+    "stage_B": {
+      "state": "not_launched",
+      "checkpoints": [
+        "V11",
+        "V15"
+      ],
+      "reset_per_checkpoint_batch_arm": true,
+      "required_before_execution": [
+        "Safe restricted load of hash-pinned authentic resume states; both saved models must equal verified final checkpoints",
+        "Authentic AdamW state step 25592 and hyperparameters verified; report historical-momentum limitation",
+        "Implement and hash all objectives, normalized-denominator derivative, zero-count behavior and finite/recovery checks",
+        "Verify all source inputs/native target multiplicities, replay, and memory estimates before resource admission"
+      ],
+      "raw_arms": {
+        "primary_V11": "base + 0.5 conserved-blur local L1",
+        "V15": "base + 0.5 ||R D - w||1",
+        "consistent_only": "base + 0.5 ||R(D-T)||1",
+        "normalized_only": "base + 0.5 ||N R D/S - w||1",
+        "normalized_consistent_no_anchor": "base + 0.5 N ||R(D/S-T/N)||1",
+        "candidate_anchored": "primary_V11 + 0.5 N ||R(D/S-T/N)||1",
+        "normalized_blur_control": "primary_V11 + 0.5 N ||B(D/S)-B(T/N)||1",
+        "normalized_isotropic_control": "primary_V11 + 0.5 N ||R_isotropic(D/S-T/N)||1; sigma one native cell, no exemplar geometry",
+        "DM_local_adapted": "base + existing 0.1 normalized OT + 0.01 count-weighted normalized TV, identical frozen solver/tolerances",
+        "DM_objective_adapted": "count L1 + existing 0.1 normalized OT + 0.01 count-weighted normalized TV",
+        "no_local": "base=count L1 + .25 regional L1 + 5 marginal CDF"
+      },
+      "post_Adam_controls": [
+        "normalized_blur displacement from primary matched to candidate",
+        "normalized_isotropic displacement from primary matched to candidate",
+        "DM_local displacement from primary matched to candidate",
+        "whole-primary displacement from native matched to candidate"
+      ],
+      "optimizer": {
+        "lr": 0.0005,
+        "weight_decay": 0.0001,
+        "betas": [
+          0.9,
+          0.999
+        ],
+        "eps": 1e-08,
+        "clip_global_norm": 1,
+        "precision": "CPU FP32 for diagnostic; not CUDA BF16 accuracy"
+      },
+      "maximum_disposable_Adam_calls": 144,
+      "persistent_optimizer_steps": 0,
+      "evaluation": "Each update batch, original rotating 12 disjoint balanced fitting spillover images, all 17 supplemental probes. Per-image and query-weighted summaries; repeated probes are dependent.",
+      "gate": {
+        "dense_relative_MAE_improvement_min": 0.01,
+        "required_on": [
+          "both checkpoint states",
+          "update and disjoint-spillover roles",
+          "separately reported supplemental dense and extreme probes"
+        ],
+        "protect": [
+          "sparse MAE",
+          "medium MAE",
+          "GAME1",
+          "GAME2",
+          "GAME3"
+        ],
+        "numerical_tolerance_per_cell": "1e-4 + 1e-6 * abs(primary post-update mass); GAME tolerance is summed cell tolerance",
+        "other": [
+          "Beat simpler and displacement-matched controls beyond numerical tolerance",
+          "Improve normalized blur and instance spatial discrepancies",
+          "All finite checks and exact state/input preservation"
+        ],
+        "statistical_claim": false
+      },
+      "resources": {
+        "CPU": 2,
+        "memory_GiB": 16,
+        "extra_swap": 0,
+        "host_admission_GiB": 48,
+        "host_stop_floor_GiB": 32,
+        "disk_floor_GiB": 100,
+        "time_limit_hours": 4,
+        "GPU": false,
+        "automatic_retry": false
+      }
+    },
+    "stage_C": {
+      "state": "conditional_not_launched",
+      "requires": "Stage B gate passes; separately freeze exact split/order/initialization and all scripts before execution",
+      "arms": [
+        "primary_V11",
+        "candidate_anchored",
+        "normalized_blur_control",
+        "DM_objective_adapted"
+      ],
+      "fixed_seed": 2027,
+      "steps_per_arm": 32,
+      "maximum_disposable_updates": 128,
+      "inspect_steps": [
+        1,
+        8,
+        32
+      ],
+      "persistent_checkpoint": false,
+      "limits": "No favorable checkpoint selection or automatic full-training transition; independent fitting spillover and all extreme probes retained."
+    },
+    "before_any_full_run": [
+      "Pass bounded evidence gate",
+      "Primary PML implementation and coefficient audit; matched comparator readiness",
+      "CUDA FP32/BF16 and model/optimizer/RNG recovery guards",
+      "Freeze full training budget/recipe before native validation",
+      "Separate explicit full-run decision"
+    ],
+    "prior_work": [
+      {
+        "method": "Bayesian Loss",
+        "url": "https://openaccess.thecvf.com/content_ICCV_2019/html/Ma_Bayesian_Loss_for_Crowd_Count_Estimation_With_Point_Supervision_ICCV_2019_paper.html"
+      },
+      {
+        "method": "DM-Count",
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/118bd558033a1016fcc82560c65cca5f-Abstract.html"
+      },
+      {
+        "method": "Generalized Loss",
+        "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.html"
+      },
+      {
+        "method": "Proximal Mapping Loss",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/04c956c52bfc1cc5f6dd989c729213b7-Abstract-Conference.html"
+      }
+    ],
+    "interpretation_limits": [
+      "Seen fitting data and one seed are not independent validation",
+      "Radial invariance is not count preservation after Adam",
+      "No external, sack or reserved accuracy or novelty claim"
+    ]
+  },
+  "frozen_ledger_sha256": "7a06d0efa60e9d29a437213d8675de0e476ddfdb7b275b2204f605a5a7197eaa",
+  "states": {
+    "V11": {
+      "resume_path": "full-detail-source-v11/seed_2027/detail_partial_joint/models/detail_partial_joint/resume.pt",
+      "resume_sha256": "e77f2c7b9cff9a26abe7e4fe07440dc723077a5672fee1d5797f8457d93758da",
+      "final_path": "full-detail-source-v11/seed_2027/detail_partial_joint/models/detail_partial_joint/counter.pt",
+      "final_sha256": "b68575c2f8a5db826eed1964dffbccc7d98449823a19822fba5578185c3c6af5"
+    },
+    "V15": {
+      "resume_path": "full-instance-mass-v15/resume.pt",
+      "resume_sha256": "21c2218198af7fddfb96931f957eaf2aa1787fe4f33def1ce699c2b99d6dcb55",
+      "final_path": "full-instance-mass-v15/counter.pt",
+      "final_sha256": "182b3564c9f8f026fc180f7fcba53a215d94f994c3be1ea5c56c09f2e3e04233"
+    }
+  },
+  "active_design": {
+    "checkpoints": [
+      "V11",
+      "V15"
+    ],
+    "batch_indices": [
+      0,
+      2,
+      4
+    ],
+    "query_order": "Original eight update images, remaining forty original fitting images in original order, all seventeen supplemental images.",
+    "conditions": [
+      "keep_clip",
+      "zero_clip",
+      "keep_unclipped",
+      "zero_unclipped"
+    ],
+    "objectives": [
+      "primary_V11",
+      "candidate_anchored"
+    ],
+    "first_moment_intervention": "Zero exp_avg only; exp_avg_sq, saved step 25592 and all other optimizer fields remain authentic before each disposable step.",
+    "clipping": "Original global norm1 versus no clipping; no learning-rate or loss-weight changes.",
+    "controls": [
+      "zero current gradient with preserved moments and clip1, active parameter mask retained",
+      "exact primary replay",
+      "each raw proposal plus post-Adam norm match to native-to-original-primary displacement"
+    ],
+    "maximum_checkpoint_Adam_calls": 60,
+    "contexts": 6,
+    "proposals_per_context": 18,
+    "synthetic_optimizer_checks": "Separate tiny tensors, no checkpoint states, excluded from scientific checkpoint-call count.",
+    "persistent_steps": 0,
+    "checkpoint_writes": 0,
+    "evaluation_images": 65,
+    "observations_per_state": 195,
+    "directional_measures": [
+      "mean count",
+      "normalized blur squared discrepancy",
+      "normalized instance squared discrepancy"
+    ],
+    "directional_checks": "Primary/auxiliary/candidate negative gradients before/after clip, raw and matched Adam displacements, candidate-primary increments, named-parameter-group dot products.",
+    "finite_differences": "Central differences at fixed unit-direction radii .01 and .005 for original primary and joint-intervention matched candidate. Report both versus analytic derivatives, no radius search; smooth output metrics can still cross model kinks. These diagnose linearization, not accuracy.",
+    "synthetic_derivative_gate": "Copied loss finite-difference and radial-invariance checks must pass; real-model central differences must remain finite and all errors are reported."
+  },
+  "decision_rules": {
+    "prespecified_contrast": "candidate_anchored__zero_unclipped__matched; joint removal of both suspected factors is fixed before any run. Other factorial conditions cannot replace it posthoc.",
+    "comparisons": [
+      "primary_V11__zero_unclipped__matched",
+      "primary_V11__keep_clip",
+      "zero_current_gradient__matched"
+    ],
+    "dense": "In each of six checkpoint/batch contexts, every nonempty role/dense cell plus supplemental/extreme must improve MAE by at least 1% and beyond count tolerance versus BOTH its matched primary and original primary; also beat matched null beyond tolerance.",
+    "interaction": "All candidate-minus-primary contrasts use norm-matched proposals. Joint-intervention dense MAE difference must be lower beyond count tolerance than keep+clip matched candidate-minus-primary; report all 2x2 main effects and mixed interaction, no posthoc winner.",
+    "protection": "In every context and nonempty role/stratum(all,sparse,medium,dense,extreme), GAME1/2/3 must not worsen beyond tolerance against both primary comparators. Sparse/medium count MAE must also be protected. Do not pool away any failed context.",
+    "spatial": "Both normalized blur/instance L1 discrepancies must improve beyond 1e-6 on all/dense/extreme cells versus both primary comparators; other strata may not worsen beyond 1e-6.",
+    "tolerance": "Per comparator predicted mass cell 1e-4+1e-6*abs(mass), sum cells for GAME then mean observations; count is one cell.",
+    "all_required": true,
+    "no_significance_claim": true,
+    "raw_and_other_factorial_conditions": "Report every signed effect and protection failure. Descriptive only, cannot rescue prespecified contrast.",
+    "consequence": "Even a pass only supports further bounded mechanism investigation. No automatic trajectory or full training."
+  },
+  "resources": {
+    "CPU": 2,
+    "memory_GiB": 16,
+    "extra_swap": 0,
+    "GPU": false,
+    "admission_GiB": 48,
+    "admission_samples": 2,
+    "admission_interval_seconds": 30,
+    "host_stop_GiB": 32,
+    "disk_floor_GiB": 100,
+    "wall_hours": 4,
+    "automatic_retry": false
+  },
+  "interpretation_limits": [
+    "Seen fitting images, dependent repeated evaluations, late optimizer and one seed.",
+    "First-moment reset retains second moments and optimizer age; not fresh Adam.",
+    "Not a new loss, production optimizer recommendation, validation improvement, independent generalization or novelty."
+  ],
+  "inherited_protocol_note": "Parent protocol is retained as source/selection provenance only. Old Stage B/C budgets and gates are superseded for this diagnostic by active_design/decision_rules above.",
+  "prior_work": [
+    {
+      "name": "Adam",
+      "url": "https://arxiv.org/abs/1412.6980"
+    },
+    {
+      "name": "GradNorm",
+      "url": "https://proceedings.mlr.press/v80/chen18a.html"
+    },
+    {
+      "name": "PCGrad",
+      "url": "https://arxiv.org/abs/2001.06782"
+    }
+  ],
+  "prior_completed_result_hashes": {
+    "report.json": "82087b01053572d65cc6b4605ae45affd023ba977e60e3837672b9ce3fea0933",
+    "V11_batch_0.json": "70955c86af8c228ac0d279cc9d0ddeeafd4988315a78523070dd975fb5fd8c2a",
+    "V11_batch_2.json": "8f7fc5c6d2d38c12e840b9bbeb895f38c968dec9a8a208163f89074d63fa975b",
+    "V11_batch_4.json": "1ba959aaa89f4b48060ec41dc09b27218782c893cab7bdd6e6f31807fa961d8e",
+    "V15_batch_0.json": "340bdb0ae09b15caa872536b8f2c89000e049a406ed751dd1f20b8c724e6e3a6",
+    "V15_batch_2.json": "dac4219d1e038e2a6054344db692663aaf4e9b120284a5462e5fa9ad178420e1",
+    "V15_batch_4.json": "955754b5ca358906f3b06a67362025048ec4fd51c4ace84fef37e6bd134f60d8"
+  }
+}

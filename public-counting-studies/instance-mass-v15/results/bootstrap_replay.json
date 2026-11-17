@@ -1,0 +1,107 @@
+{
+  "state": "verified",
+  "numpy_version": "2.2.6",
+  "image_groups": 1225,
+  "category_components": 29,
+  "all_eight_intervals_exactly_reproduced": true,
+  "paired_comparisons": {
+    "V11_same_architecture_56_epochs": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 2.2689563631084435,
+        "ci95": [
+          0.7596067435998121,
+          4.034027670265751
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 2.2689563631084435,
+        "ci95": [
+          0.30799141404702474,
+          4.955743858254957
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    },
+    "CountGDpp_global": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 5.92593854063221,
+        "ci95": [
+          3.735149634137901,
+          8.509313948806355
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 5.92593854063221,
+        "ci95": [
+          2.712982401300586,
+          10.591536847975144
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    },
+    "GeCo2_global": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 5.345845228035008,
+        "ci95": [
+          2.954200082576638,
+          8.377650144439338
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 5.345845228035008,
+        "ci95": [
+          2.3889940292738,
+          9.380855190791856
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    },
+    "native_unit": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 0.8643193176337757,
+        "ci95": [
+          -1.3133471785494926,
+          3.3900486614647423
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 0.8643193176337757,
+        "ci95": [
+          -0.8916360183540528,
+          3.2804694063451847
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    }
+  },
+  "no_inference_or_optimization": true,
+  "verification_attempt_note": "The first local replay used raw GeCo capture ordering and stopped at its image interval. Corrected replay uses canonical manifest order, as frozen paired_records does. No saved result, interval, grouping, seed or training file changed; initial script preserved."
+}

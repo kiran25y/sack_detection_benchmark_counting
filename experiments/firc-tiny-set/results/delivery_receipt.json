@@ -1,0 +1,13 @@
+{
+  "client_kst": "2026-11-06T12:10:37.073613+09:00",
+  "visual_qa": "Both standalone plots opened and inspected; counts/labels/axes agree with saved analysis",
+  "hashes": {
+    "docs/FIRC_ORDINARY_TINY_RESULT_20261106.md": "88c8c76df37cd4aae07909480101e883909a306a937471f9c3675bc21957cf11",
+    "artifacts/firc_ordinary_tiny_v1_20261106/analysis.json": "3d7c1ff14911c61fefae3af16d5edb09b75ccb71b9118939304d004a00dcc648",
+    "artifacts/firc_ordinary_tiny_v1_20261106/supplemental_readonly_verification.json": "29ca92f71d87a500ccaaebbc0d7b22de7ba5b06a5e20f4bc1615ce8993cec7da",
+    "artifacts/firc_ordinary_tiny_v1_20261106/figures/endpoint_localization.png": "d43fd0a25ca4a25211ffdf14b8e9ec70ba107f2864f5a11fdd44634094be6cd7",
+    "artifacts/firc_ordinary_tiny_v1_20261106/figures/optimization_trace.png": "ea26daa476657330617d4d8bf632a92f07be92f74d04c2305bd8bc1eff435883"
+  },
+  "no_more_optimizer_calls": true,
+  "full_training_started": false
+}

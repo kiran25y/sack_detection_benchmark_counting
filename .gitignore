@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/experiments/cross-seed-matched-budgets/replay/full_factorial/banks.tar
+/datasets/visible-sacks/images/
+*.zip
+
+!/experiments/*/frozen-source.zip

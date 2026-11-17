@@ -1,0 +1,10 @@
+{
+  "scripts/collect_ipic_objectness_once.py": "950f46abda0819eee13f88997bc49e645431c46f0e407daab4cb13cdbae81a1c",
+  "scripts/collect_ipic_transfer_once.py": "c37dfc0b7414874a8ca8ba43cbacb4f1be967a71b1ff203f15863b3b3fd1d29a",
+  "scripts/analyze_ipic_objectness_results.py": "35aeab24c97482864d3d73b89a996d1591bf7027b67deb7622fa5dedf1e5dbaf",
+  "scripts/analyze_ipic_transfer_pilot.py": "cadda794e113dd5d4d697b221fa422e03757a5908ae593493e9717b4364b7a5f",
+  "scripts/verify_ipic_assignment_continuation.py": "3e742a939205c21b7ea72480fb89f6a916161ef72c26ea54cff9ad353bf4c10a",
+  "scripts/verify_ipic_assignment_inspection.py": "777b21e583bfbdbefe85c12852dfcfe0f8e51a593782990f39b710f1afb1430d",
+  "scripts/inspect_ipic_objectness.py": "b816c203387c55e4563250458eb1c8bb31a5aec68063e5b15b08b7868665397d",
+  "tests/test_ipic_objectness_gate.py": "6e9d7aab67832776bced0bd959615cfc1e90d58b94f8e0a22488a78e037cf12d"
+}

@@ -1,0 +1,17 @@
+{
+  "verified_frame_method_rows": 260,
+  "one_to_one_matches_rechecked_at": [
+    4,
+    8,
+    16
+  ],
+  "max_coordinate_difference_native_pixels": 1.3642420526593924e-12,
+  "result_sha256": "e5a9929f592b98f40a08fc7a7ea4e633d4b49046f21bc5b96244a1ad08959819",
+  "frozen_protocol_and_inputs_verified": true,
+  "per_frame_counts_identical": true,
+  "development_more_same_fewer_matches": [
+    5,
+    16,
+    2
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "client_KST": "2026-10-28T20:00:31.444210+09:00",
+  "state": "verified",
+  "calls": 680,
+  "optimizer_steps": 0,
+  "persistent_steps": 0,
+  "unique_queries": 128,
+  "unique_image_hashes": 128,
+  "groups": {
+    "all": 128,
+    "dense_all": 56,
+    "sparse": 32,
+    "medium25": 24,
+    "medium75": 16,
+    "dense": 49,
+    "extreme": 7
+  },
+  "independently_checked_aggregate_metrics": 1008,
+  "maximum_absolute_difference": 5.684341886080802e-14,
+  "all_saved_outputs_finite": true,
+  "all_stage_hashes_verified": true,
+  "fixed_image_transform_controls_verified": true,
+  "analyzer_sha256": "ab2a461232e9442d4c0155b7f6c6ec2b8e899376e97cc0c53cecb40b9a82ec2f",
+  "analysis_sha256": "61304389b7be7785059a9444579dc3a8ed3ca75647a9a6a5bbf6a1155351c2f4",
+  "protocol_sha256": "a265ca7d5a3fb845b32c0d6c0780bf4c609131c56d7a337ad0f86c722bf1fd71",
+  "remote_read_only_checks": {
+    "release_hashes": {
+      "clarification_capture.py": "fbbdb9fab26ce7fcbd4bda603ed6e0cb912ae76d1a37b5ad3c0b6e52c976a47e",
+      "clarification_common.py": "f01e68caeb3c26dff28e3d42c84ffef064bd822f05dafa7746cc0038be53254b",
+      "counting/__init__.py": "0809053e88a898f5d505948bab6ed4de637b9a6d962b7cf29b99fa0e1627a0b8",
+      "counting/geco.py": "76bd4149b64f5094755b40c12278cddbf97bbe0d830023a48ec30f3922aed817",
+      "counting/geometry.py": "5b818402e12b69872fbfededf9f3a1d93088b8a188925c87400ff45ea4ac64f6"
+    },
+    "input_hashes": {
+      "protocol.json": "a265ca7d5a3fb845b32c0d6c0780bf4c609131c56d7a337ad0f86c722bf1fd71",
+      "external_hashes.json": "aff6570725906c3c72fb89042092610b4fc75075b95af2e6c9fcb43faf21f7e3",
+      "initial_inputs.jsonl": "c156d70aabd3681c8053cdc748a2714a3c578f919e4b1f645aa525403784569a",
+      "reveal_inputs.jsonl": "ea222a835dfda0fbe0c1f72705d8400b964add4ed7579c61df3ac49f4eaba1b0",
+      "controller.py": "a96ecdc32c7d14434abe4f4e2615e949e7edf9c1b5fd4ebc336b8edc9505e284",
+      "release_hashes.json": "0c3cf9192057f362905735bc253bf276b327429dd7508976d73ffe9463084e87",
+      "analyzer_frozen.py": "ab2a461232e9442d4c0155b7f6c6ec2b8e899376e97cc0c53cecb40b9a82ec2f"
+    },
+    "docker": {
+      "countgd-preflight": {
+        "Id": "72ffde29a81f02695d82a2f86ad008edd6738ce2fc0c40ba07227b89dc4adee8",
+        "State": {
+          "Status": "exited",
+          "Running": false,
+          "Paused": false,
+          "Restarting": false,
+          "OOMKilled": false,
+          "Dead": false,
+          "Pid": 0,
+          "ExitCode": 0,
+          "Error": "",
+          "StartedAt": "2026-10-28T18:06:43.0670572Z",
+          "FinishedAt": "2026-10-28T18:07:36.822089792Z"
+        }
+      },
+      "geco-preflight": {
+        "Id": "acbe3cdcb2d46ad3cf158298c6e3021c56c85e869582ccb05222a3e17489e598",
+        "State": {
+          "Status": "exited",
+          "Running": false,
+          "Paused": false,
+          "Restarting": false,
+          "OOMKilled": false,
+          "Dead": false,
+          "Pid": 0,
+          "ExitCode": 0,
+          "Error": "",
+          "StartedAt": "2026-10-28T18:08:13.556127248Z",
+          "FinishedAt": "2026-10-28T18:09:59.754777424Z"
+        }
+      },
+      "countgd-bank": {
+        "Id": "09ed7ec7de0af6571332dd42423f0ca413460d47f98bd0da1662cc74589479d1",
+        "State": {
+          "Status": "exited",
+          "Running": false,
+          "Paused": false,
+          "Restarting": false,
+          "OOMKilled": false,
+          "Dead": false,
+          "Pid": 0,
+          "ExitCode": 0,
+          "Error": "",
+          "StartedAt": "2026-10-28T18:10:44.171779744Z",
+          "FinishedAt": "2026-10-28T18:18:58.523094944Z"
+        }
+      },
+      "geco-bank": {
+        "Id": "80e0d4181d8f042f74eff35ecbb7968782122d92c5861ed667d470a58e745c9b",
+        "State": {
+          "Status": "exited",
+          "Running": false,
+          "Paused": false,
+          "Restarting": false,
+          "OOMKilled": false,
+          "Dead": false,
+          "Pid": 0,
+          "ExitCode": 0,
+          "Error": "",
+          "StartedAt": "2026-10-28T18:19:45.061714048Z",
+          "FinishedAt": "2026-10-28T18:57:10.3996232Z"
+        }
+      }
+    },
+    "controller_pid_exists": false,
+    "controller_exit": {
+      "exit_code": 0,
+      "host_unix": 1793213837.1084046
+    },
+    "source_manifest_sha256": "a09f098cb75e763d6d1dea4a990f390ff0a8281aa1fddeabe5f0fa84a7618b09"
+  },
+  "parameters_unmodified_evidence": "All four worker reports, parameter version checks; no new model loading during verification",
+  "decision": "Prespecified headroom gate failed; do not train a policy or counter from this experiment. Inspect component evidence without switching winners."
+}

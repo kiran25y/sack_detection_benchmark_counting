@@ -1,0 +1,8 @@
+{
+  "steps": 3360,
+  "heads": 8,
+  "reused_heads": 1,
+  "encoder_passes": 197,
+  "replay_max_difference": 0.0,
+  "archive_sha256": "dc1a010ec9c50b81f59868d6edf2cc2ffbbf80e0e1b508a1380cd3de576600a4"
+}

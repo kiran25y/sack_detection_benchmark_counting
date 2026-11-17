@@ -1,0 +1,404 @@
+{
+  "state": "completed",
+  "candidate": {
+    "counting": {
+      "expected": 1286,
+      "evaluated": 1286,
+      "failed": 0,
+      "missing": 0,
+      "complete": true,
+      "units": "visible target instances per query",
+      "measured": {
+        "MAE": 14.76264149553112,
+        "RMSE": 68.6621541809568,
+        "bias": -6.505951239569562,
+        "exact_accuracy": 0.0,
+        "NAE_positive_only": 0.15789237124038757,
+        "empty_queries": 0,
+        "empty_false_positive_mean": null
+      }
+    },
+    "GAME": {
+      "1": 16.512566963219392,
+      "2": 19.475750644947656
+    },
+    "class_macro_MAE": 13.868126845378644,
+    "strata": [
+      {
+        "lower": 0,
+        "upper_exclusive": 25,
+        "queries": 603,
+        "MAE": 2.2435389427007926,
+        "bias": 1.1633024191975,
+        "absolute_error_share": 0.07126001060046057
+      },
+      {
+        "lower": 25,
+        "upper_exclusive": 75,
+        "queries": 419,
+        "MAE": 5.648844079356774,
+        "bias": -0.5868322331467221,
+        "absolute_error_share": 0.12467189724007549
+      },
+      {
+        "lower": 75,
+        "upper_exclusive": 150,
+        "queries": 149,
+        "MAE": 15.826969863584377,
+        "bias": -3.0193454051177775,
+        "absolute_error_share": 0.12421641816319537
+      },
+      {
+        "lower": 150,
+        "upper_exclusive": null,
+        "queries": 115,
+        "MAE": 112.23320697286854,
+        "bias": -72.80312592879585,
+        "absolute_error_share": 0.6798516739962686
+      }
+    ]
+  },
+  "controls": {
+    "V11_same_architecture_56_epochs": {
+      "counting": {
+        "expected": 1286,
+        "evaluated": 1286,
+        "failed": 0,
+        "missing": 0,
+        "complete": true,
+        "units": "visible target instances per query",
+        "measured": {
+          "MAE": 12.493685132422677,
+          "RMSE": 52.76601607552562,
+          "bias": -1.1630913736660782,
+          "exact_accuracy": 0.0,
+          "NAE_positive_only": 0.16716690491178585,
+          "empty_queries": 0,
+          "empty_false_positive_mean": null
+        }
+      },
+      "class_macro_MAE": 11.902788254383257,
+      "strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "queries": 603,
+          "MAE": 2.560505777646851,
+          "bias": 1.7917263503889145,
+          "absolute_error_share": 0.0960973799706127
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "queries": 419,
+          "MAE": 6.301144929945042,
+          "bias": 1.9095012601064896,
+          "absolute_error_share": 0.1643243664468037
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "queries": 149,
+          "MAE": 13.238519553370123,
+          "bias": 4.969893794731806,
+          "absolute_error_share": 0.12277053954250972
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "queries": 115,
+          "MAE": 86.17543441109035,
+          "bias": -35.79775390625,
+          "absolute_error_share": 0.6168077140400738
+        }
+      ],
+      "predictions_sha256": "874a7a75a85137e8520793918ad9720a002c25bc38bbdab32ed75d3e2786ea18",
+      "GAME": {
+        "1": 14.18831546922123,
+        "2": 17.085176737970365
+      }
+    },
+    "CountGDpp_global": {
+      "counting": {
+        "expected": 1286,
+        "evaluated": 1286,
+        "failed": 0,
+        "missing": 0,
+        "complete": true,
+        "units": "visible target instances per query",
+        "measured": {
+          "MAE": 8.836702954898911,
+          "RMSE": 43.966284976319905,
+          "bias": 1.505443234836703,
+          "exact_accuracy": 0.3569206842923795,
+          "NAE_positive_only": 0.09644318643994222,
+          "empty_queries": 0,
+          "empty_false_positive_mean": null
+        }
+      },
+      "class_macro_MAE": 7.311458901603532,
+      "strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "queries": 603,
+          "MAE": 1.0414593698175787,
+          "bias": 0.8092868988391376,
+          "absolute_error_share": 0.05526223160858852
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "queries": 419,
+          "MAE": 5.360381861575179,
+          "bias": 3.928400954653938,
+          "absolute_error_share": 0.19764167546638509
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "queries": 149,
+          "MAE": 11.798657718120806,
+          "bias": 10.201342281879194,
+          "absolute_error_share": 0.15469904963041184
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "queries": 115,
+          "MAE": 58.53913043478261,
+          "bias": -14.939130434782609,
+          "absolute_error_share": 0.5923970432946146
+        }
+      ],
+      "predictions_sha256": "855b804cbf9d0aef322b1261b70291eb5f294b9630d222159d2b1b057ee43108"
+    },
+    "GeCo2_global": {
+      "counting": {
+        "expected": 1286,
+        "evaluated": 1286,
+        "failed": 0,
+        "missing": 0,
+        "complete": true,
+        "units": "visible target instances per query",
+        "measured": {
+          "MAE": 9.416796267496112,
+          "RMSE": 33.310710311578426,
+          "bias": -4.250388802488336,
+          "exact_accuracy": 0.33048211508553654,
+          "NAE_positive_only": 0.11784527084576014,
+          "empty_queries": 0,
+          "empty_false_positive_mean": null
+        }
+      },
+      "class_macro_MAE": 9.089125671297587,
+      "strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "queries": 603,
+          "MAE": 1.5223880597014925,
+          "bias": 0.2752902155887231,
+          "absolute_error_share": 0.07580511973575557
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "queries": 419,
+          "MAE": 5.004773269689737,
+          "bias": -1.295942720763723,
+          "absolute_error_share": 0.1731626754748142
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "queries": 149,
+          "MAE": 11.322147651006711,
+          "bias": -4.624161073825503,
+          "absolute_error_share": 0.1393063583815029
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "queries": 115,
+          "MAE": 64.41739130434783,
+          "bias": -38.26086956521739,
+          "absolute_error_share": 0.6117258464079274
+        }
+      ],
+      "predictions_sha256": "a640c0149304f3b875e7b251280518140e180581e1505206b96bce9e075b0cc1"
+    },
+    "native_unit": {
+      "counting": {
+        "expected": 1286,
+        "evaluated": 1286,
+        "failed": 0,
+        "missing": 0,
+        "complete": true,
+        "units": "visible target instances per query",
+        "measured": {
+          "MAE": 13.898322177897345,
+          "RMSE": 49.47440627808094,
+          "bias": -3.113472755923056,
+          "exact_accuracy": 0.0,
+          "NAE_positive_only": 0.2040016221726858,
+          "empty_queries": 0,
+          "empty_false_positive_mean": null
+        }
+      },
+      "class_macro_MAE": 12.035954855009688,
+      "strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "queries": 603,
+          "MAE": 3.03859615286389,
+          "bias": -0.539367145566798,
+          "absolute_error_share": 0.10251489054378667
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "queries": 419,
+          "MAE": 8.26531071765326,
+          "bias": -4.339964252098648,
+          "absolute_error_share": 0.1937625601747204
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "queries": 149,
+          "MAE": 19.74201939730036,
+          "bias": -9.660623281594091,
+          "absolute_error_share": 0.16457903034070445
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "queries": 115,
+          "MAE": 83.79341530177904,
+          "bias": -3.6592146500297216,
+          "absolute_error_share": 0.5391435189407885
+        }
+      ],
+      "predictions_sha256": "1512d2bec3608f134279fa73b7206ac06fa4b58233e7f1749e7aade614e00814"
+    }
+  },
+  "paired_comparisons": {
+    "V11_same_architecture_56_epochs": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 2.2689563631084435,
+        "ci95": [
+          0.7596067435998121,
+          4.034027670265751
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 2.2689563631084435,
+        "ci95": [
+          0.30799141404702474,
+          4.955743858254957
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    },
+    "CountGDpp_global": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 5.92593854063221,
+        "ci95": [
+          3.735149634137901,
+          8.509313948806355
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 5.92593854063221,
+        "ci95": [
+          2.712982401300586,
+          10.591536847975144
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    },
+    "GeCo2_global": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 5.345845228035008,
+        "ci95": [
+          2.954200082576638,
+          8.377650144439338
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 5.345845228035008,
+        "ci95": [
+          2.3889940292738,
+          9.380855190791856
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    },
+    "native_unit": {
+      "candidate_minus_control_image_groups": {
+        "delta_MAE_right_minus_left": 0.8643193176337757,
+        "ci95": [
+          -1.3133471785494926,
+          3.3900486614647423
+        ],
+        "groups": 1225,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      },
+      "candidate_minus_control_category_components": {
+        "delta_MAE_right_minus_left": 0.8643193176337757,
+        "ci95": [
+          -0.8916360183540528,
+          3.2804694063451847
+        ],
+        "groups": 29,
+        "queries": 1286,
+        "resamples": 2000,
+        "seed": 2027
+      }
+    }
+  },
+  "useful_controlled_gain_gate": {
+    "checks": {
+      "image_MAE_interval_below_zero": false,
+      "category_MAE_interval_below_zero": false,
+      "RMSE_no_regression": false,
+      "GAME1_no_regression": false,
+      "class_macro_no_regression": false,
+      "sparse_MAE_no_regression": true
+    },
+    "passed": false
+  },
+  "source_validation_reused": true,
+  "independent_confirmation": false,
+  "novelty_established": false,
+  "same_model_capacity_seed_optimizer_batch_order_refit_epochs": true,
+  "epoch_budget": "56 shared refit epochs, taken from V11 source-class-held selection; no new target-based selection",
+  "control_reused_not_retrained": true,
+  "training_difference": "Replace0.5 conserved-blur local L1 with0.5 joint exemplar/spacing instance-mass L1; original count/regional/CDF retained",
+  "group_scope": "Exact image hashes and linked category components, not verified independent scenes"
+}

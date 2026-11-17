@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "created_kst": "2026-11-10T15:25:02.804276+09:00",
+  "status": "unexecuted, locked before any new data; stopping and population defined prospectively",
+  "arms": {
+    "raw": {
+      "threshold": 0.51,
+      "equal_group_mae": 6.5375,
+      "empty_points": 0
+    },
+    "learned": {
+      "threshold": 0.66,
+      "equal_group_mae": 3.6,
+      "empty_points": 0
+    }
+  },
+  "shared": "Original frozen feature generators, voting seeds, references, 8px candidate exclusion and fixed per-camera ROIs. Operator supplies and records an ROI before seeing points/predictions. Identical region, exemplars, resolution and candidates for A/B/C. Preserve negative/zero results.",
+  "independent_unit": "A new physical loading recording group, provenance-disjoint from all fitted, development, replayed and external fitting recordings. Group related clips of one truck/load or session before inclusion. If D2S/FSC/Roboflow source overlap cannot be adjudicated, qualify the corresponding transfer claims or withhold confirmation for the affected model. Separate evidence needed for a second-site claim.",
+  "fixed_collection": "Target 24 eligible groups from a predeclared operational sampling window, with 12 positive frames per group, sampled blind to the models (288 positives). Include both low 1-11 and higher 12+ positives across recordings, and 30 explicitly reviewed empty departures from distinct loads across at least 10 groups. Freeze frame list and dependency graph; use an independent data custodian for stratified sampling and labels. Log exclusions and unfilled strata. No model-based early stopping. If targets unmet, mark underpowered and report descriptively.",
+  "endpoints": "For each group compute mean signed absolute-count-error difference B minus A (benefit <0) across sampled frames and net matched point change C minus B at identical per-frame counts (benefit >0). Report equal-group mean count difference as primary effect, frame-pooled contrast secondarily, per-group effects, total TP difference and matches per positive frame.",
+  "tests": "Fixed sequence controls familywise alpha .05. First, a one-sided exact binomial sign test on independent non-tied group MAE differences (B<A), with null probability <=1/2. For a count claim require p<=.05 and negative equal-group mean. Only on count success test group signs for C>B matches (one-sided .05), requiring positive total TP change. Report ties; all ties give p=1. Sign tests address directional consistency; report paired recording-bootstrap intervals separately for effect magnitudes. If count fails, rank estimates are descriptive.",
+  "safety": "Report low-count MAE/TP/F1 plus GAME1/2 overall and by recording. Prespecified protected application claim additionally requires no increase in observed empty any-alarm fraction against A, pooled low MAE and overall GAME2 no worse than A. Failing protection does not erase count results. For an empty reliability statement, report numerator, denominator and exact binomial sensitivity interval with load independence assumption; report clustering separately.",
+  "power": {
+    "mean": 0.2,
+    "sd": 0.6388765649999399,
+    "iid_n": 81,
+    "groups": 24,
+    "positive_per_group": 12,
+    "assumed_icc": 0.1,
+    "p_group_positive": 0.7728698787165906,
+    "required_positive_groups": 17,
+    "marginal_rank_power": 0.8416307671197604
+  },
+  "power_limits": "Normal group-mean planning model with IID group signs, effect .20, SD .639, ICC .10, 12 positives per group. At least 17 favorable groups of 24 has ~84% marginal ranking-test power ignoring ties and count gate. The ~81 independent positive frames calculation ignores clustering; prospective seed variability and different case mix can reduce power. Thirty independent empties and zero false alarms give a one-sided 95% upper bound 1-.05^(1/30)=9.5%, conditional on independence.",
+  "review": "Use independently held existing exhaustive labels per owner instruction. No second-reader score is claimed. Seal all system predictions before model team opens labels. Do not evaluate the original ten groups as new.",
+  "updated_kst": "2026-11-10T17:35:01.054245+09:00",
+  "frozen_systems": {
+    "M": {
+      "scalar": "19/13",
+      "rule": "Round voting count and fill available additional places by raw order."
+    },
+    "A": {
+      "count": "raw",
+      "rank": "raw"
+    },
+    "D": {
+      "count": "raw",
+      "rank": "learned"
+    },
+    "B": {
+      "count": "learned",
+      "rank": "raw"
+    },
+    "C": {
+      "count": "learned",
+      "rank": "learned"
+    }
+  },
+  "supporting_contrasts": "Always report D-A at the raw budget, C-B at the learned budget, their difference, and B-M count error. No additional confirmatory rejection or post-test choice. Report positives with 1-11 sacks, positives with 12+, and empty loads including frames and recording denominators, false points and any-alarm fractions per group.",
+  "replay_code_sha256": "fe23595f764677b26a8e6db13e4b36ced3280019f9c67b1ce98144fbb476a416"
+}

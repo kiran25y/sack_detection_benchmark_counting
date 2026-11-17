@@ -1,0 +1,12 @@
+{
+  "initial_resume_sha256": "ae79966e4053a5c30b00913c358f9ca0cee4f29c65766518f1e4a29ecc2eed50",
+  "initial_counter_sha256": "1a4bc5ebbaa5c1e808feb79507be20eaa9a66d1041a1c3963d7c0d5d6a71635d",
+  "report_sha256": "abea820fbd63ed2f06210e47cfd43593e451e3233608dd8ef86e0f6d11178bb4",
+  "exit_sha256": "44fc7d033decdec5716ff238b086f0e504ec0f0fe0674fbfbd2549d336e3f74e",
+  "initial_state_identity": {
+    "model": "89d3b5bda37c717750c79efa1331cda9ba92b67afb88a4e43f0e01a9a6b9c6f9",
+    "optimizer": "70dbf3eed3f4d9eecab2d58e76724bf1763651519d4370c56ed00906453c85e4"
+  },
+  "original_checkpoints_and_preflight_unchanged": true,
+  "client_kst": "2026-11-04T21:22:49.244198+09:00"
+}

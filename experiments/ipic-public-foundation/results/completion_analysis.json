@@ -1,0 +1,63 @@
+{
+  "verified_kst": "2026-10-31T20:10:21.385042+09:00",
+  "state": "verified_complete",
+  "checks": {
+    "successful_exit": true,
+    "completed_controller": true,
+    "completed_2000": true,
+    "release_identity": true,
+    "plan_identity": true,
+    "prescribed_recipe": true,
+    "manifest_identity": true,
+    "audited_input_metadata_identity": true,
+    "finite_worker_check": true,
+    "checkpoint_hashes": true,
+    "checkpoint_literal_metadata": true,
+    "checkpoint_draw_cursor": true,
+    "draw_hash": true,
+    "update_coverage": true,
+    "finite_update_metrics": true,
+    "augmentation_draw_alignment": true,
+    "source_exposure": true,
+    "same_source_geometry_in_each_pair": true
+  },
+  "saved_updates": 2000,
+  "elapsed_seconds": 4477.074221535935,
+  "draw_coverage": {
+    "pairs": 16000,
+    "sources": {
+      "FSC147": 8000,
+      "D2S": 8000
+    },
+    "all_products": 2000,
+    "unique_rows": 5763
+  },
+  "checkpoints": {
+    "resume.pt": {
+      "bytes": 356084431,
+      "sha256": "e6ca2de916c747b0d35fbc84101b9d9a15d9a499df4b311ae2678a98cbfe347d",
+      "archive_members": 916,
+      "literal_metadata_without_deserialization": {
+        "optimizer_steps": 2000,
+        "plan_sha256": "2ee0ff26d3f405aa8df7012c74e668c508d7b002a173a51b94eefda7e18d1de5",
+        "seed": 1729,
+        "draw_cursor": 16000
+      },
+      "mtime_host": 1793473776.121
+    },
+    "foundation.pt": {
+      "bytes": 119153146,
+      "sha256": "3388776d1862789692363cc433f951cd79d07fb614d5f89cb156803ed249a162",
+      "archive_members": 239,
+      "literal_metadata_without_deserialization": {
+        "plan_sha256": "2ee0ff26d3f405aa8df7012c74e668c508d7b002a173a51b94eefda7e18d1de5",
+        "optimizer_steps": 2000,
+        "seed": 1729
+      },
+      "mtime_host": 1793473776.287
+    }
+  },
+  "source_validation_accuracy": null,
+  "sack_adaptation_started": false,
+  "limitations": "Receipt/hash and saved-log verification. Finite model/optimizer check was executed by frozen worker at save time, not independently deserialized here. No held-out inference or novel mechanism is established by foundation completion."
+}

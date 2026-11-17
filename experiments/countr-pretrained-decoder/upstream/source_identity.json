@@ -1,0 +1,14 @@
+{
+  "commit": "01e83fd438d1ec0d2ebdcb0e97da31173dbef55f",
+  "files": {
+    "models_mae_cross.py": "f472d7599d1e8dc513f256b03e147440ab504feaec921f3a86c3142d4e188cb5",
+    "models_crossvit.py": "91df4b0a02301c7a787ea2fa247a8b093b885575c118f0f6f1d931370811c29b",
+    "util/pos_embed.py": "a9e02a9a5e2587a42476bd827055b8f56ab3eaefef5e096d2fd8cadae5ddd099",
+    "LICENSE": "72952ea78a1b3530703fc9516fa99a9ed4b54330d9285c662839c406d3b15dd2",
+    "README.md": "fe22af709820b7cc92eede44d985f1d4726f5d4a5123897360b754afd5189f9c",
+    "FSC_finetune_CARPK.py": "65d23e351396c7ec4236700003119a146d709579e96a8f8ae0a4c1b8ef6118d5",
+    "FSC_finetune_cross.py": "bbccadd619e59028452fa0abd4138657839cb9dd15675c6cb194c372d7549eca",
+    "util/FSC147.py": "052514a9f397308dc1dab06e2d710c2ce069471809a936946fca785447e2d037",
+    "demo.py": "80512940628aa2d1b3538a699780acd07e9afe47c4641753e292186f71c3b814"
+  }
+}

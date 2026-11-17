@@ -1,0 +1,9 @@
+{
+  "verified_frames": 65,
+  "verified_method_frame_records": 455,
+  "verified_swaps_all_arms_all_splits": 888,
+  "all_frame_counts_identical": true,
+  "independent_direct_density_sums_and_greedy_objective_verified": true,
+  "all_4_8_16px_matches_and_GAME1_2_verified": true,
+  "result_sha256": "48949c75e45262d4a32f252065834a87600dcd84a7ed07f0680f46274c420b6e"
+}

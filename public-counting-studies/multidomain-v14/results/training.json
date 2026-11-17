@@ -1,0 +1,634 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "loss": 71.00123281917114,
+      "exposures": {
+        "FSCD147": 1731,
+        "FSCD-LVIS": 1874,
+        "Sack-historical-visible": 48
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1662.271998991986
+    },
+    {
+      "round": 2,
+      "loss": 68.1601185078694,
+      "exposures": {
+        "FSCD147": 1709,
+        "FSCD-LVIS": 1900,
+        "Sack-historical-visible": 44
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1655.1139797920187
+    },
+    {
+      "round": 3,
+      "loss": 65.75489535008269,
+      "exposures": {
+        "FSCD-LVIS": 1890,
+        "FSCD147": 1718,
+        "Sack-historical-visible": 45
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1662.5382757600164
+    },
+    {
+      "round": 4,
+      "loss": 59.6228953555585,
+      "exposures": {
+        "FSCD147": 1725,
+        "FSCD-LVIS": 1880,
+        "Sack-historical-visible": 48
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1660.8714286719915
+    },
+    {
+      "round": 5,
+      "loss": 59.09309620930277,
+      "exposures": {
+        "FSCD-LVIS": 1868,
+        "FSCD147": 1742,
+        "Sack-historical-visible": 43
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1665.25191988796
+    },
+    {
+      "round": 6,
+      "loss": 57.007324531772205,
+      "exposures": {
+        "FSCD-LVIS": 1917,
+        "FSCD147": 1689,
+        "Sack-historical-visible": 47
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1657.384167679993
+    },
+    {
+      "round": 7,
+      "loss": 55.10590335002874,
+      "exposures": {
+        "FSCD-LVIS": 1896,
+        "FSCD147": 1711,
+        "Sack-historical-visible": 46
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1632.178779296053
+    },
+    {
+      "round": 8,
+      "loss": 52.69434205186706,
+      "exposures": {
+        "FSCD-LVIS": 1905,
+        "FSCD147": 1692,
+        "Sack-historical-visible": 56
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1631.9803338400088
+    },
+    {
+      "round": 9,
+      "loss": 52.61195186973922,
+      "exposures": {
+        "FSCD147": 1687,
+        "FSCD-LVIS": 1923,
+        "Sack-historical-visible": 43
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1642.3302052479703
+    },
+    {
+      "round": 10,
+      "loss": 51.03209319834636,
+      "exposures": {
+        "FSCD-LVIS": 1895,
+        "FSCD147": 1719,
+        "Sack-historical-visible": 39
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1723.9267582719913
+    },
+    {
+      "round": 11,
+      "loss": 50.06904166741236,
+      "exposures": {
+        "FSCD-LVIS": 1915,
+        "FSCD147": 1690,
+        "Sack-historical-visible": 48
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1692.7679531199974
+    },
+    {
+      "round": 12,
+      "loss": 49.113037021728786,
+      "exposures": {
+        "FSCD147": 1736,
+        "FSCD-LVIS": 1870,
+        "Sack-historical-visible": 47
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1712.528780896042
+    },
+    {
+      "round": 13,
+      "loss": 47.11275434180996,
+      "exposures": {
+        "FSCD147": 1717,
+        "FSCD-LVIS": 1890,
+        "Sack-historical-visible": 46
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1723.977423696022
+    },
+    {
+      "round": 14,
+      "loss": 48.65474479725376,
+      "exposures": {
+        "FSCD-LVIS": 1884,
+        "FSCD147": 1720,
+        "Sack-historical-visible": 49
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1723.832116944017
+    },
+    {
+      "round": 15,
+      "loss": 48.070743769472486,
+      "exposures": {
+        "FSCD-LVIS": 1899,
+        "FSCD147": 1710,
+        "Sack-historical-visible": 44
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1722.3905650560046
+    },
+    {
+      "round": 16,
+      "loss": 46.547477822335075,
+      "exposures": {
+        "FSCD-LVIS": 1894,
+        "FSCD147": 1705,
+        "Sack-historical-visible": 54
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1339.6644449759624
+    },
+    {
+      "round": 17,
+      "loss": 49.52408751564944,
+      "exposures": {
+        "FSCD147": 1743,
+        "FSCD-LVIS": 1867,
+        "Sack-historical-visible": 43
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1334.0887830880238
+    },
+    {
+      "round": 18,
+      "loss": 45.37216824254009,
+      "exposures": {
+        "FSCD-LVIS": 1898,
+        "FSCD147": 1699,
+        "Sack-historical-visible": 56
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1334.0738968160003
+    },
+    {
+      "round": 19,
+      "loss": 46.12083231802842,
+      "exposures": {
+        "FSCD-LVIS": 1827,
+        "FSCD147": 1781,
+        "Sack-historical-visible": 45
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1619.4571621599607
+    },
+    {
+      "round": 20,
+      "loss": 46.19290784673044,
+      "exposures": {
+        "FSCD147": 1715,
+        "FSCD-LVIS": 1901,
+        "Sack-historical-visible": 37
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1681.7766891520005
+    },
+    {
+      "round": 21,
+      "loss": 45.74788705838326,
+      "exposures": {
+        "FSCD147": 1715,
+        "FSCD-LVIS": 1892,
+        "Sack-historical-visible": 46
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1709.1870807679952
+    },
+    {
+      "round": 22,
+      "loss": 46.03873656041252,
+      "exposures": {
+        "FSCD147": 1710,
+        "FSCD-LVIS": 1901,
+        "Sack-historical-visible": 42
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1712.8645727999974
+    },
+    {
+      "round": 23,
+      "loss": 45.54862207291684,
+      "exposures": {
+        "FSCD-LVIS": 1889,
+        "FSCD147": 1713,
+        "Sack-historical-visible": 51
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1711.1020987359807
+    },
+    {
+      "round": 24,
+      "loss": 44.31690212308187,
+      "exposures": {
+        "FSCD-LVIS": 1905,
+        "FSCD147": 1709,
+        "Sack-historical-visible": 39
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1710.2462173120002
+    },
+    {
+      "round": 25,
+      "loss": 45.40883011682289,
+      "exposures": {
+        "FSCD147": 1691,
+        "FSCD-LVIS": 1909,
+        "Sack-historical-visible": 53
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1711.303850480006
+    },
+    {
+      "round": 26,
+      "loss": 43.715200870772684,
+      "exposures": {
+        "FSCD-LVIS": 1926,
+        "FSCD147": 1676,
+        "Sack-historical-visible": 51
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1710.757884656021
+    },
+    {
+      "round": 27,
+      "loss": 43.789746361697006,
+      "exposures": {
+        "FSCD-LVIS": 1882,
+        "FSCD147": 1725,
+        "Sack-historical-visible": 46
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1711.5581150400103
+    },
+    {
+      "round": 28,
+      "loss": 44.451474492346435,
+      "exposures": {
+        "FSCD-LVIS": 1870,
+        "FSCD147": 1744,
+        "Sack-historical-visible": 39
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1712.1450761760352
+    },
+    {
+      "round": 29,
+      "loss": 44.177641257154605,
+      "exposures": {
+        "FSCD147": 1734,
+        "FSCD-LVIS": 1878,
+        "Sack-historical-visible": 41
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1712.1011001120205
+    },
+    {
+      "round": 30,
+      "loss": 41.71724475134384,
+      "exposures": {
+        "FSCD147": 1709,
+        "FSCD-LVIS": 1906,
+        "Sack-historical-visible": 38
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1711.0003072799882
+    },
+    {
+      "round": 31,
+      "loss": 43.230234329757856,
+      "exposures": {
+        "FSCD147": 1744,
+        "FSCD-LVIS": 1867,
+        "Sack-historical-visible": 42
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1710.4343375840108
+    },
+    {
+      "round": 32,
+      "loss": 43.337784460389116,
+      "exposures": {
+        "FSCD147": 1718,
+        "FSCD-LVIS": 1889,
+        "Sack-historical-visible": 46
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1733.0902540159877
+    },
+    {
+      "round": 33,
+      "loss": 42.892443752914865,
+      "exposures": {
+        "FSCD147": 1706,
+        "FSCD-LVIS": 1906,
+        "Sack-historical-visible": 41
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1751.3798863840057
+    },
+    {
+      "round": 34,
+      "loss": 42.53972921225383,
+      "exposures": {
+        "FSCD-LVIS": 1909,
+        "FSCD147": 1701,
+        "Sack-historical-visible": 43
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1751.860585568007
+    },
+    {
+      "round": 35,
+      "loss": 43.332682991445196,
+      "exposures": {
+        "FSCD147": 1681,
+        "FSCD-LVIS": 1922,
+        "Sack-historical-visible": 50
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1751.7546643520473
+    },
+    {
+      "round": 36,
+      "loss": 42.73403952366935,
+      "exposures": {
+        "FSCD-LVIS": 1907,
+        "FSCD147": 1704,
+        "Sack-historical-visible": 42
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1742.2282290079747
+    },
+    {
+      "round": 37,
+      "loss": 41.17095492757384,
+      "exposures": {
+        "FSCD147": 1707,
+        "FSCD-LVIS": 1901,
+        "Sack-historical-visible": 45
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1706.2903267520014
+    },
+    {
+      "round": 38,
+      "loss": 43.34603762052774,
+      "exposures": {
+        "FSCD147": 1684,
+        "FSCD-LVIS": 1916,
+        "Sack-historical-visible": 53
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1717.1561499680392
+    },
+    {
+      "round": 39,
+      "loss": 41.97653656089332,
+      "exposures": {
+        "FSCD147": 1727,
+        "FSCD-LVIS": 1886,
+        "Sack-historical-visible": 40
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1713.1754802080104
+    },
+    {
+      "round": 40,
+      "loss": 42.76082591050563,
+      "exposures": {
+        "FSCD147": 1724,
+        "FSCD-LVIS": 1884,
+        "Sack-historical-visible": 45
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1713.4136467039934
+    },
+    {
+      "round": 41,
+      "loss": 40.2879205741298,
+      "exposures": {
+        "FSCD147": 1727,
+        "FSCD-LVIS": 1889,
+        "Sack-historical-visible": 37
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1713.296441856015
+    },
+    {
+      "round": 42,
+      "loss": 39.7503005973098,
+      "exposures": {
+        "FSCD147": 1725,
+        "FSCD-LVIS": 1878,
+        "Sack-historical-visible": 50
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1712.0540455839946
+    },
+    {
+      "round": 43,
+      "loss": 41.94210325654278,
+      "exposures": {
+        "FSCD147": 1646,
+        "FSCD-LVIS": 1953,
+        "Sack-historical-visible": 54
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1712.7168697759626
+    },
+    {
+      "round": 44,
+      "loss": 41.730430273310624,
+      "exposures": {
+        "FSCD-LVIS": 1891,
+        "FSCD147": 1722,
+        "Sack-historical-visible": 40
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1713.7634959520074
+    },
+    {
+      "round": 45,
+      "loss": 40.616534132926155,
+      "exposures": {
+        "FSCD147": 1705,
+        "FSCD-LVIS": 1904,
+        "Sack-historical-visible": 44
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1710.1323760640225
+    },
+    {
+      "round": 46,
+      "loss": 40.68667874242336,
+      "exposures": {
+        "FSCD-LVIS": 1874,
+        "FSCD147": 1736,
+        "Sack-historical-visible": 43
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1709.7479831519886
+    },
+    {
+      "round": 47,
+      "loss": 40.635244674181784,
+      "exposures": {
+        "FSCD-LVIS": 1868,
+        "FSCD147": 1740,
+        "Sack-historical-visible": 45
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1415.179259312048
+    },
+    {
+      "round": 48,
+      "loss": 40.63049236689928,
+      "exposures": {
+        "FSCD147": 1726,
+        "FSCD-LVIS": 1889,
+        "Sack-historical-visible": 38
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1371.8193628640147
+    },
+    {
+      "round": 49,
+      "loss": 39.25188717539514,
+      "exposures": {
+        "FSCD-LVIS": 1887,
+        "FSCD147": 1715,
+        "Sack-historical-visible": 51
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1371.5929188799928
+    },
+    {
+      "round": 50,
+      "loss": 39.259688957514854,
+      "exposures": {
+        "FSCD147": 1700,
+        "FSCD-LVIS": 1907,
+        "Sack-historical-visible": 46
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1379.419406063971
+    },
+    {
+      "round": 51,
+      "loss": 40.09787392981465,
+      "exposures": {
+        "FSCD-LVIS": 1920,
+        "FSCD147": 1697,
+        "Sack-historical-visible": 36
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1367.6750029120012
+    },
+    {
+      "round": 52,
+      "loss": 40.418633807409776,
+      "exposures": {
+        "FSCD147": 1736,
+        "FSCD-LVIS": 1864,
+        "Sack-historical-visible": 53
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1341.0343607040122
+    },
+    {
+      "round": 53,
+      "loss": 40.19627202157119,
+      "exposures": {
+        "FSCD-LVIS": 1882,
+        "FSCD147": 1727,
+        "Sack-historical-visible": 44
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1339.303870912001
+    },
+    {
+      "round": 54,
+      "loss": 40.85594193314567,
+      "exposures": {
+        "FSCD147": 1717,
+        "FSCD-LVIS": 1887,
+        "Sack-historical-visible": 49
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1338.7626986720134
+    },
+    {
+      "round": 55,
+      "loss": 40.42074364593306,
+      "exposures": {
+        "Sack-historical-visible": 45,
+        "FSCD-LVIS": 1901,
+        "FSCD147": 1707
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1338.6554736479884
+    },
+    {
+      "round": 56,
+      "loss": 40.91007422983516,
+      "exposures": {
+        "FSCD147": 1718,
+        "FSCD-LVIS": 1894,
+        "Sack-historical-visible": 41
+      },
+      "steps": 457,
+      "wall_seconds_shared_or_idle_GPU": 1338.2389888640027
+    }
+  ],
+  "schedule": {
+    "optimizer_steps": 25592,
+    "image_presentations": 204568,
+    "minimum_visits": 13,
+    "maximum_visits": 39,
+    "by_dataset": {
+      "FSCD-LVIS": 106026,
+      "FSCD147": 96005,
+      "Sack-historical-visible": 2537
+    },
+    "all_queries_presented": true,
+    "rounds_are_not_complete_mixed_dataset_epochs": true
+  },
+  "checkpoint_sha256": "d3baf4a564e0ecf9def83dc517c5065dd4849c3fdaabfdf794ee4ded38b4e3e9"
+}

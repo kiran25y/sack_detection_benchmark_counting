@@ -1,0 +1,9 @@
+{
+  "verified_output_frames_and_methods": 520,
+  "independent_point_matching_and_grid_counts_agree": true,
+  "common_weak_points_with_equal_number_FIRC": 118,
+  "total_added_points": 130,
+  "frames_with_changed_added_set": 6,
+  "input_identity_and_threshold_freeze_verified": true,
+  "result_sha256": "9111de9c39eb2ac320e1958a1129eab57723d43421d0af218a30dfdbd07674fa"
+}

@@ -1,0 +1,28 @@
+{
+  "verified_kst": "2026-11-09T20:28:37.561844+09:00",
+  "methods": 3,
+  "frames": 51,
+  "frame_method_checks": 153,
+  "groups": 5,
+  "locked_truth": 644,
+  "owner_adjudicated_before_unsealing": [
+    "H025"
+  ],
+  "other_frames_preserved": 50,
+  "labels_outside_inference_roi": {
+    "H001": 1,
+    "H077": 1
+  },
+  "equal_budget_frame_match_delta_histogram": {
+    "0": 47,
+    "-1": 1,
+    "1": 3
+  },
+  "checks": [
+    "Frozen archive and locked label identities",
+    "Independent sparse maximum-cardinality matching and absolute count errors",
+    "Independent 2x2 and 4x4 region histograms with the frozen edge convention",
+    "Reaggregated MAE, RMSE, bias, matches and F1 for every stratum and group"
+  ],
+  "result_sha256": "332c77324a6253834c6f9a53abcafb4e88255da0a901128c41a1822879a03648"
+}

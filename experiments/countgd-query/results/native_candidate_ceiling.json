@@ -1,0 +1,51 @@
+{
+  "metric": "Truth-aware upper bound on matches selected from unchanged native centers with at most the historical per-frame count. Exact under a cap via maximum one-to-one matching; the F1 field assumes exactly that many output slots including unmatched fills. No selectable/deployed score or new inference.",
+  "splits": {
+    "development": {
+      "verifier": {
+        "oracle_matches": 178,
+        "quota_total": 245,
+        "oracle_pooled_f1": 0.5933333333333334,
+        "too_few_native_candidates": 1,
+        "unfillable_native_slots": 3
+      },
+      "totals": {
+        "oracle_matches": 221,
+        "quota_total": 455,
+        "oracle_pooled_f1": 0.5456790123456791,
+        "too_few_native_candidates": 3,
+        "unfillable_native_slots": 18
+      },
+      "both": {
+        "oracle_matches": 221,
+        "quota_total": 410,
+        "oracle_pooled_f1": 0.5777777777777777,
+        "too_few_native_candidates": 3,
+        "unfillable_native_slots": 11
+      }
+    },
+    "test": {
+      "verifier": {
+        "oracle_matches": 297,
+        "quota_total": 408,
+        "oracle_pooled_f1": 0.564638783269962,
+        "too_few_native_candidates": 0,
+        "unfillable_native_slots": 0
+      },
+      "totals": {
+        "oracle_matches": 337,
+        "quota_total": 667,
+        "oracle_pooled_f1": 0.5141113653699466,
+        "too_few_native_candidates": 3,
+        "unfillable_native_slots": 15
+      },
+      "both": {
+        "oracle_matches": 323,
+        "quota_total": 489,
+        "oracle_pooled_f1": 0.5701676963812886,
+        "too_few_native_candidates": 1,
+        "unfillable_native_slots": 5
+      }
+    }
+  }
+}

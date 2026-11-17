@@ -1,0 +1,64 @@
+{
+  "verified_kst": "2026-11-08T16:22:35.593624+09:00",
+  "complete": true,
+  "checks": {
+    "controller_complete": true,
+    "docker_complete": true,
+    "local_release": true,
+    "remote_release": true,
+    "plan": true,
+    "result_hashes": true,
+    "fresh_initialization": true,
+    "frozen_encoder": true,
+    "budget": true,
+    "calls": true,
+    "finite_logs": true,
+    "train_only": true,
+    "ordinary_only": true,
+    "finite_worker": true,
+    "shared_foundation": true,
+    "foundation_budget": true,
+    "foundation_checkpoints": true,
+    "foundation_rates": true,
+    "foundation_draws": true,
+    "foundation_optimizer_reset": true,
+    "foundation_truth_and_matching": true,
+    "foundation_source_proportions": true,
+    "adaptation_budget": true,
+    "adaptation_checkpoints": true,
+    "adaptation_rates": true,
+    "adaptation_draws": true,
+    "adaptation_optimizer_reset": true,
+    "adaptation_truth_and_matching": true,
+    "adaptation_source_proportions": true
+  },
+  "stages": {
+    "foundation": {
+      "updates": 800,
+      "query_presentations": 6400,
+      "unique_rows": 3664,
+      "source_draws": {
+        "FSC147": 3200,
+        "D2S": 3200
+      },
+      "checkpoint_sha256": "9f5caedbbe67a82d5ab933388161a784d35092bbfaeff8c0598a504756cc557a"
+    },
+    "adaptation": {
+      "updates": 3000,
+      "query_presentations": 24000,
+      "unique_rows": 5183,
+      "source_draws": {
+        "FSC147": 4800,
+        "D2S": 7200,
+        "sacks": 12000
+      },
+      "checkpoint_sha256": "08d2fb6858e491fd29bb99e6596fb6f3f3c30b992fac4468301350562e174066"
+    }
+  },
+  "training_updates": 3800,
+  "query_presentations": 30400,
+  "development_scored": false,
+  "reserved_scored": false,
+  "MAE": null,
+  "limitations": "Completion is not accuracy, convergence, novelty or paper readiness. Worker checks finite tensors; this verifier hashes checkpoints without deserializing tensors."
+}

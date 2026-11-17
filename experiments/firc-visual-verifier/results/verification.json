@@ -1,0 +1,20 @@
+{
+  "records": 520,
+  "independent_4_8_16_and_game_verified": true,
+  "same_count_every_frame": true,
+  "gallery_separation_verified": true,
+  "largest_float64_vs_saved_score_error": 3.617143625733732e-07,
+  "primary_development_swaps": {
+    "ipic_dependency_483475312362": {
+      "moves": 61,
+      "lost": 27,
+      "gained": 7
+    },
+    "ipic_dependency_b8c3dda6893f": {
+      "moves": 12,
+      "lost": 3,
+      "gained": 4
+    }
+  },
+  "result_sha256": "1978cbaf480bd60cfebb4e10f8f7ec0dbd9ca02c28de37f3c079645d94fa94a1"
+}

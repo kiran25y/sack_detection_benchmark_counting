@@ -1,0 +1,8 @@
+collected/augmentation_ledger.jsonl
+collected/data_audit.json
+collected/draws.jsonl
+collected/plan.json
+collected/readiness.json
+collected/result.json
+collected/source_hashes.json
+collected/updates.jsonl

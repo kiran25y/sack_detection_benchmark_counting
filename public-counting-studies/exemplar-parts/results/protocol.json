@@ -1,0 +1,127 @@
+{
+  "created_client_UTC": "2026-10-28T03:58:23.961583+00:00",
+  "state": "frozen_before_native_execution",
+  "scope": "One owner-authorized pretrained four-arm, 32-update fitting diagnostic. No full training.",
+  "question": "Does retaining the nine ordered native exemplar-part correspondences help beyond the existing three summaries and identical added capacity?",
+  "primary_arm": "ordered_parts",
+  "arms": [
+    "original",
+    "summary_residual",
+    "ordered_parts",
+    "permuted_parts"
+  ],
+  "checkpoints": {
+    "A0_original": {
+      "path": "source-count-only-pilot-v1/A0_original/resume.pt",
+      "sha256": "f1b4c4250cb8ccbe223ebf9f74c9806ddaa5937d3bbce0cc3c62698389207ad8",
+      "saved_epoch": 14,
+      "optimizer_age": 4536
+    }
+  },
+  "source_manifest_sha256": "215b5a6d4c4a45aba9d2e67fd7bdbe896baa14db57b260fd9664290a0a4e4d6c",
+  "class_map_sha256": "ba1bc6c6a21875919625adb851eaee1aab0ad1f88ecf64d017bebda891b5815e",
+  "feature_index_sha256": "d272d02e43d125a2f2eb0c5238e06c1371f5cdd0d902845b506dca4c4e5bf0d2",
+  "parent_release": "releases/count-spatial-factorization-v1",
+  "schedule_sha256": "b7859d4694dbf05ad8cc144a47b4367dbe44c3ee896c614137d40e660cb2a8c3",
+  "steps_per_arm_per_state": 32,
+  "total_native_optimizer_calls": 128,
+  "preflight_native_calls": 10,
+  "total_native_call_cap": 138,
+  "architecture": {
+    "base_parameters": 470359,
+    "added_parameters": 561,
+    "total_parameters": 470920,
+    "per_level": "Conv2d(2,4,3,padding1) -> GELU -> flatten36 -> Linear(36,3); 187 parameters x3 levels.",
+    "features": "Unchanged frozen pretrained SAM2 native reference/query128/64/32 and geometry.",
+    "location": "Residual adds to original three matching summaries before unchanged exemplar mean/max aggregation and decoder.",
+    "initialization": "Fixed isolated construction seed2027, same adapter parameters in all arms, zero output projection/bias; base weights and initial predictions equal native pretrained A0.",
+    "original": "Identical adapter graph multiplied by zero; 561 dormant parameters. Effective capacity equals original; active capacity is matched among the other three arms.",
+    "summary_residual": "Repeat [adaptive score, mean, variance] three times to form9 values, plus native validity mask. No additional raw correspondence information.",
+    "ordered_parts": "Prespecified primary: nine native ordered part scores plus supplied-boundary validity in a2x3x3 tensor per query location/exemplar.",
+    "permuted_parts": "Same score/validity pairs under one fixed bijection, not information destruction; tests ordered part inductive bias. A network may learn around this permutation.",
+    "permutation": [
+      4,
+      8,
+      0,
+      5,
+      2,
+      6,
+      1,
+      7,
+      3
+    ],
+    "inference": "Image features, native visual exemplars and their geometry only; no counts/points/masks/category labels."
+  },
+  "training": {
+    "objective": "Unchanged joint_objective: count + .25 regional + .5 conserved-blur +5 normalized marginal CDF.",
+    "base_optimizer": "Authentic saved AdamW state at age4536, lr5e-4 weight_decay1e-4, restored before every arm.",
+    "new_optimizer": "Same AdamW hyperparameters, fresh zero moments/age0 for added parameters in every arm; separate parameter group.",
+    "clipping": "Global norm1 over all parameters, unchanged. Active adapter gradients contribute to the norm; matched-capacity and displacement controls address this confound.",
+    "RNG": "Exact saved generator/CPU/CUDA states restored before every arm.",
+    "precision": "CUDA BF16 forward/FP32 counts and losses, TF32off, 2CPU threads.",
+    "data": "Same256 fitting images,32 batches8, one pass, no augmentation; unchanged source native counts/points.",
+    "compute": "Same input construction and adapter operations in all arms; same updates/data. Record measured time/memory; no equal-walltime claim.",
+    "persistent_model_writes": 0,
+    "checkpoint_source_writes": 0,
+    "fresh_fit": false
+  },
+  "readout": {
+    "queries": 65,
+    "all_extremes": 7,
+    "update_group_disjoint": true,
+    "previously_seen": "All readouts are source-fitting images seen by the pretrained checkpoint and reused for diagnostics. No independent validation claim.",
+    "internal_held_excluded": 1066,
+    "no_native_reserved_target_scoring": true,
+    "endpoints": "One pretrained baseline + four fixed32-step endpoints + four displacement-matched endpoints; no best-step selection.",
+    "displacement_control": "Shrink all four full parameter displacements to the smallest full norm across four arms. No extrapolation or optimizer call. Record base and full norms; dormant baseline adapter weight-decay displacement is included consistently."
+  },
+  "gate": {
+    "dense_gain_min": 0.01,
+    "dense_groups": [
+      "dense_150_plus",
+      "dense_150_899",
+      "extreme_900_plus"
+    ],
+    "references": [
+      "baseline",
+      "original",
+      "summary_residual",
+      "permuted_parts"
+    ],
+    "practical_gain": "At least1% MAE reduction in each dense group against every reference, beyond numerical tolerance.",
+    "protection_references": [
+      "baseline",
+      "original",
+      "summary_residual"
+    ],
+    "count_protection": "Overall MAE/RMSE/class-macro; sparse and both medium bins MAE/RMSE.",
+    "spatial_protection": "GAME1/2/3 and normalized blur in every populated stratum; >=1% normalized blur improvement overall/dense/extreme.",
+    "extreme_individual_protection": "Every one of seven extreme absolute errors protected against all protection references.",
+    "displacement": "Same dense gains and all protections against all three matched controls, including permutation.",
+    "tolerance": "count/mass1e-4+1e-6*abs(reference); normalized blur1e-6",
+    "all_components_required": true,
+    "no_alternative_winner": true,
+    "implementation": "study/exemplar_part_gate.py"
+  },
+  "resource_policy": {
+    "shared_GPU": "Explicit owner approval retained for this bounded test",
+    "host_admission_GiB": 48,
+    "admission_samples": 2,
+    "interval_seconds": 30,
+    "stop_host_GiB": 32,
+    "disk_reserve_GiB": 100,
+    "container_GiB": 24,
+    "CPU": 2,
+    "extra_swap": 0,
+    "max_hours": 4,
+    "no_other_job_changes": true,
+    "no_retry": true
+  },
+  "limitations": [
+    "One late pretrained fitting state; no fresh-init convergence inference.",
+    "Part-information hypothesis, not proven bottleneck or novelty.",
+    "Original spatial loss stays unchanged; no dense reweighting, coefficient/seed search, feature recapture or full fit.",
+    "Frozen failed native attempts remain preserved; no automatic retry or tolerance relaxation."
+  ],
+  "subsequent_action": "Report the full gate before any full training. A pass does not authorize a full run."
+}

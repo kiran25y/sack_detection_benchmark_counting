@@ -1,0 +1,1138 @@
+{
+  "kind": "posthoc_descriptive_not_a_gate",
+  "new_model_calls": 0,
+  "new_optimizer_calls": 0,
+  "arms": {
+    "reference_lr": [
+      {
+        "image_id": "T04_09",
+        "truth": 0,
+        "hard_count": 0,
+        "soft_sum_descriptive_only": 32.00220521533629,
+        "assigned_above_threshold": 0,
+        "assigned_within8": 0,
+        "assigned_q_min": null,
+        "assigned_q_median": null,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": []
+      },
+      {
+        "image_id": "003",
+        "truth": 1,
+        "hard_count": 1,
+        "soft_sum_descriptive_only": 34.23014249574044,
+        "assigned_above_threshold": 1,
+        "assigned_within8": 1,
+        "assigned_q_min": 0.793105959892273,
+        "assigned_q_median": 0.793105959892273,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": [
+          {
+            "target_index": 0,
+            "assigned_confidence": 0.793105959892273,
+            "assigned_distance_at1024": 0.08474713218884664,
+            "best_unassigned_local_confidence": 0.11596072465181351,
+            "assigned_minus_competitor": 0.6771452352404594,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          }
+        ]
+      },
+      {
+        "image_id": "T04_05",
+        "truth": 21,
+        "hard_count": 13,
+        "soft_sum_descriptive_only": 75.94822416045645,
+        "assigned_above_threshold": 13,
+        "assigned_within8": 21,
+        "assigned_q_min": 0.4455295205116272,
+        "assigned_q_median": 0.5,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": [
+          {
+            "target_index": 0,
+            "assigned_confidence": 0.4843800365924835,
+            "assigned_distance_at1024": 0.0551426277104188,
+            "best_unassigned_local_confidence": 0.23934932053089142,
+            "assigned_minus_competitor": 0.2450307160615921,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 1,
+            "assigned_confidence": 0.5156199336051941,
+            "assigned_distance_at1024": 0.07283412838235966,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.26470714807510376,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 2,
+            "assigned_confidence": 0.5926666259765625,
+            "assigned_distance_at1024": 0.05258359438350017,
+            "best_unassigned_local_confidence": 0.18242552876472473,
+            "assigned_minus_competitor": 0.41024109721183777,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 3,
+            "assigned_confidence": 0.562176525592804,
+            "assigned_distance_at1024": 0.16381096531145628,
+            "best_unassigned_local_confidence": 0.2018132209777832,
+            "assigned_minus_competitor": 0.36036330461502075,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 4,
+            "assigned_confidence": 0.5,
+            "assigned_distance_at1024": 0.13836583815339207,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.24908721446990967,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 5,
+            "assigned_confidence": 0.5156199336051941,
+            "assigned_distance_at1024": 0.11968142725851841,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.26470714807510376,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 6,
+            "assigned_confidence": 0.5234203934669495,
+            "assigned_distance_at1024": 0.09564936509431118,
+            "best_unassigned_local_confidence": 0.23370636999607086,
+            "assigned_minus_competitor": 0.2897140234708786,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 7,
+            "assigned_confidence": 0.49218809604644775,
+            "assigned_distance_at1024": 0.08841887125346351,
+            "best_unassigned_local_confidence": 0.21733753383159637,
+            "assigned_minus_competitor": 0.2748505622148514,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 8,
+            "assigned_confidence": 0.5,
+            "assigned_distance_at1024": 0.07429264789774995,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.22487026453018188,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 9,
+            "assigned_confidence": 0.4765796363353729,
+            "assigned_distance_at1024": 0.05944828550304064,
+            "best_unassigned_local_confidence": 0.24508501589298248,
+            "assigned_minus_competitor": 0.23149462044239044,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 10,
+            "assigned_confidence": 0.4455295205116272,
+            "assigned_distance_at1024": 0.04810456488837035,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.19461673498153687,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 11,
+            "assigned_confidence": 0.46879062056541443,
+            "assigned_distance_at1024": 0.03525490302377181,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.1998491883277893,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 12,
+            "assigned_confidence": 0.46879062056541443,
+            "assigned_distance_at1024": 0.04020047763037115,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.18738502264022827,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 13,
+            "assigned_confidence": 0.5,
+            "assigned_distance_at1024": 0.06327481857557646,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.23105856776237488,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 14,
+            "assigned_confidence": 0.5078118443489075,
+            "assigned_distance_at1024": 0.1051828242435942,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.23887041211128235,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 15,
+            "assigned_confidence": 0.5078118443489075,
+            "assigned_distance_at1024": 0.028376846292158565,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.25689905881881714,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 16,
+            "assigned_confidence": 0.4532618522644043,
+            "assigned_distance_at1024": 0.10070687539155779,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.1904200315475464,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 17,
+            "assigned_confidence": 0.5698526501655579,
+            "assigned_distance_at1024": 0.076547100875786,
+            "best_unassigned_local_confidence": 0.2018132209777832,
+            "assigned_minus_competitor": 0.36803942918777466,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 18,
+            "assigned_confidence": 0.49218809604644775,
+            "assigned_distance_at1024": 0.1345239747907944,
+            "best_unassigned_local_confidence": 0.23934932053089142,
+            "assigned_minus_competitor": 0.25283877551555634,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 19,
+            "assigned_confidence": 0.5234203934669495,
+            "assigned_distance_at1024": 0.04282378330943604,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.26658838987350464,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 20,
+            "assigned_confidence": 0.5698526501655579,
+            "assigned_distance_at1024": 0.06667416576883145,
+            "best_unassigned_local_confidence": 0.2018132209777832,
+            "assigned_minus_competitor": 0.36803942918777466,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          }
+        ]
+      },
+      {
+        "image_id": "T24_10",
+        "truth": 34,
+        "hard_count": 4,
+        "soft_sum_descriptive_only": 101.22986874193884,
+        "assigned_above_threshold": 4,
+        "assigned_within8": 34,
+        "assigned_q_min": 0.37022536993026733,
+        "assigned_q_median": 0.46101677417755127,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": [
+          {
+            "target_index": 0,
+            "assigned_confidence": 0.5,
+            "assigned_distance_at1024": 0.17938056059874388,
+            "best_unassigned_local_confidence": 0.23934932053089142,
+            "assigned_minus_competitor": 0.2606506794691086,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 1,
+            "assigned_confidence": 0.49218809604644775,
+            "assigned_distance_at1024": 0.14156357946469883,
+            "best_unassigned_local_confidence": 0.22815649211406708,
+            "assigned_minus_competitor": 0.2640316039323807,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 2,
+            "assigned_confidence": 0.4073334038257599,
+            "assigned_distance_at1024": 0.16603067239104957,
+            "best_unassigned_local_confidence": 0.24508501589298248,
+            "assigned_minus_competitor": 0.1622483879327774,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 3,
+            "assigned_confidence": 0.4532618522644043,
+            "assigned_distance_at1024": 0.16966125635756496,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.17813211679458618,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 4,
+            "assigned_confidence": 0.39233678579330444,
+            "assigned_distance_at1024": 0.03455416506606031,
+            "best_unassigned_local_confidence": 0.28776782751083374,
+            "assigned_minus_competitor": 0.1045689582824707,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 5,
+            "assigned_confidence": 0.4073334038257599,
+            "assigned_distance_at1024": 0.33342617240288713,
+            "best_unassigned_local_confidence": 0.24508501589298248,
+            "assigned_minus_competitor": 0.1622483879327774,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 6,
+            "assigned_confidence": 0.4073334038257599,
+            "assigned_distance_at1024": 0.08573624385522252,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.14449158310890198,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 7,
+            "assigned_confidence": 0.4532618522644043,
+            "assigned_distance_at1024": 0.16106454406356632,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.1904200315475464,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 8,
+            "assigned_confidence": 0.42250463366508484,
+            "assigned_distance_at1024": 0.12165421382924495,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.15356320142745972,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 9,
+            "assigned_confidence": 0.5156199336051941,
+            "assigned_distance_at1024": 0.13580015432410336,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.25878793001174927,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 10,
+            "assigned_confidence": 0.46101677417755127,
+            "assigned_distance_at1024": 0.030476475339260796,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.18588703870773315,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 11,
+            "assigned_confidence": 0.4843800365924835,
+            "assigned_distance_at1024": 0.08652207076205576,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.2215382158756256,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 12,
+            "assigned_confidence": 0.4765796363353729,
+            "assigned_distance_at1024": 0.23228026505084193,
+            "best_unassigned_local_confidence": 0.23934932053089142,
+            "assigned_minus_competitor": 0.2372303158044815,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 13,
+            "assigned_confidence": 0.4532618522644043,
+            "assigned_distance_at1024": 0.11648704799580305,
+            "best_unassigned_local_confidence": 0.23370636999607086,
+            "assigned_minus_competitor": 0.21955548226833344,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 14,
+            "assigned_confidence": 0.43014734983444214,
+            "assigned_distance_at1024": 0.07326696504742888,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.17331534624099731,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 15,
+            "assigned_confidence": 0.49218809604644775,
+            "assigned_distance_at1024": 0.25180951029822174,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.23535609245300293,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 16,
+            "assigned_confidence": 0.4378235340118408,
+            "assigned_distance_at1024": 0.15758543886004373,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.1688821017742157,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 17,
+            "assigned_confidence": 0.4843800365924835,
+            "assigned_distance_at1024": 0.09326455442112594,
+            "best_unassigned_local_confidence": 0.22270013391971588,
+            "assigned_minus_competitor": 0.26167990267276764,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 18,
+            "assigned_confidence": 0.46879062056541443,
+            "assigned_distance_at1024": 0.022008748600906333,
+            "best_unassigned_local_confidence": 0.23934932053089142,
+            "assigned_minus_competitor": 0.229441300034523,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 19,
+            "assigned_confidence": 0.42250463366508484,
+            "assigned_distance_at1024": 0.05474018866131127,
+            "best_unassigned_local_confidence": 0.32082128524780273,
+            "assigned_minus_competitor": 0.1016833484172821,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 20,
+            "assigned_confidence": 0.46879062056541443,
+            "assigned_distance_at1024": 0.06366135107981417,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.2119586169719696,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 21,
+            "assigned_confidence": 0.3849121630191803,
+            "assigned_distance_at1024": 0.08116676157355886,
+            "best_unassigned_local_confidence": 0.3073579967021942,
+            "assigned_minus_competitor": 0.07755416631698608,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 22,
+            "assigned_confidence": 0.37022536993026733,
+            "assigned_distance_at1024": 0.05423765067029156,
+            "best_unassigned_local_confidence": 0.29421496391296387,
+            "assigned_minus_competitor": 0.07601040601730347,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 23,
+            "assigned_confidence": 0.5078118443489075,
+            "assigned_distance_at1024": 0.23077314985977154,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.25689905881881714,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 24,
+            "assigned_confidence": 0.49218809604644775,
+            "assigned_distance_at1024": 0.1390740675017973,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.22934627532958984,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 25,
+            "assigned_confidence": 0.4455295205116272,
+            "assigned_distance_at1024": 0.05511309332190952,
+            "best_unassigned_local_confidence": 0.32766830921173096,
+            "assigned_minus_competitor": 0.11786121129989624,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 26,
+            "assigned_confidence": 0.4148988425731659,
+            "assigned_distance_at1024": 0.06925249505542205,
+            "best_unassigned_local_confidence": 0.32082128524780273,
+            "assigned_minus_competitor": 0.09407755732536316,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 27,
+            "assigned_confidence": 0.4378235340118408,
+            "assigned_distance_at1024": 0.06259942626977966,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.1749817132949829,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 28,
+            "assigned_confidence": 0.49218809604644775,
+            "assigned_distance_at1024": 0.04890278400188955,
+            "best_unassigned_local_confidence": 0.28776782751083374,
+            "assigned_minus_competitor": 0.204420268535614,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 29,
+            "assigned_confidence": 0.5156199336051941,
+            "assigned_distance_at1024": 0.1790775761319154,
+            "best_unassigned_local_confidence": 0.22270013391971588,
+            "assigned_minus_competitor": 0.2929197996854782,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 30,
+            "assigned_confidence": 0.46879062056541443,
+            "assigned_distance_at1024": 0.026898576991211336,
+            "best_unassigned_local_confidence": 0.28776782751083374,
+            "assigned_minus_competitor": 0.1810227930545807,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 31,
+            "assigned_confidence": 0.4765796363353729,
+            "assigned_distance_at1024": 0.1465973968965341,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.2076382040977478,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 32,
+            "assigned_confidence": 0.4843800365924835,
+            "assigned_distance_at1024": 0.10954270815437576,
+            "best_unassigned_local_confidence": 0.24508501589298248,
+            "assigned_minus_competitor": 0.23929502069950104,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 33,
+            "assigned_confidence": 0.46101677417755127,
+            "assigned_distance_at1024": 0.03721668454612717,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.1796111762523651,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          }
+        ]
+      }
+    ],
+    "lower_lr": [
+      {
+        "image_id": "T04_09",
+        "truth": 0,
+        "hard_count": 0,
+        "soft_sum_descriptive_only": 54.147887909872225,
+        "assigned_above_threshold": 0,
+        "assigned_within8": 0,
+        "assigned_q_min": null,
+        "assigned_q_median": null,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": []
+      },
+      {
+        "image_id": "003",
+        "truth": 1,
+        "hard_count": 1,
+        "soft_sum_descriptive_only": 54.888631251698826,
+        "assigned_above_threshold": 1,
+        "assigned_within8": 1,
+        "assigned_q_min": 0.6297746300697327,
+        "assigned_q_median": 0.6297746300697327,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": [
+          {
+            "target_index": 0,
+            "assigned_confidence": 0.6297746300697327,
+            "assigned_distance_at1024": 0.012994702213281126,
+            "best_unassigned_local_confidence": 0.18713268637657166,
+            "assigned_minus_competitor": 0.442641943693161,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          }
+        ]
+      },
+      {
+        "image_id": "T04_05",
+        "truth": 21,
+        "hard_count": 0,
+        "soft_sum_descriptive_only": 104.75569439301034,
+        "assigned_above_threshold": 0,
+        "assigned_within8": 21,
+        "assigned_q_min": 0.3486451208591461,
+        "assigned_q_median": 0.4148988425731659,
+        "assigned_below_unassigned_local_competitor": 0,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": [
+          {
+            "target_index": 0,
+            "assigned_confidence": 0.3849121630191803,
+            "assigned_distance_at1024": 0.03893894365530392,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.12207034230232239,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 1,
+            "assigned_confidence": 0.4073334038257599,
+            "assigned_distance_at1024": 0.04659976689419455,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.13220366835594177,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 2,
+            "assigned_confidence": 0.4532618522644043,
+            "assigned_distance_at1024": 0.06624441273595401,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.17813211679458618,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 3,
+            "assigned_confidence": 0.4148988425731659,
+            "assigned_distance_at1024": 0.03643017124612176,
+            "best_unassigned_local_confidence": 0.23370636999607086,
+            "assigned_minus_competitor": 0.18119247257709503,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 4,
+            "assigned_confidence": 0.4378235340118408,
+            "assigned_distance_at1024": 0.2681119904882989,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.15641793608665466,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 5,
+            "assigned_confidence": 0.42250463366508484,
+            "assigned_distance_at1024": 0.06344410273473113,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.15356320142745972,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 6,
+            "assigned_confidence": 0.4148988425731659,
+            "assigned_distance_at1024": 0.1874270731024229,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.16398605704307556,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 7,
+            "assigned_confidence": 0.37022536993026733,
+            "assigned_distance_at1024": 0.11481469406320735,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.119312584400177,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 8,
+            "assigned_confidence": 0.43014734983444214,
+            "assigned_distance_at1024": 0.0244942087376039,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.15501761436462402,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 9,
+            "assigned_confidence": 0.3775406777858734,
+            "assigned_distance_at1024": 0.010512315893898212,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.1024109423160553,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 10,
+            "assigned_confidence": 0.3486451208591461,
+            "assigned_distance_at1024": 0.09546924234198825,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.079703688621521,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 11,
+            "assigned_confidence": 0.43014734983444214,
+            "assigned_distance_at1024": 0.13520255122055413,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.14874175190925598,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 12,
+            "assigned_confidence": 0.36296918988227844,
+            "assigned_distance_at1024": 0.0897976014717568,
+            "best_unassigned_local_confidence": 0.29421496391296387,
+            "assigned_minus_competitor": 0.06875422596931458,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 13,
+            "assigned_confidence": 0.39233678579330444,
+            "assigned_distance_at1024": 0.005482970101833714,
+            "best_unassigned_local_confidence": 0.3007456064224243,
+            "assigned_minus_competitor": 0.09159117937088013,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 14,
+            "assigned_confidence": 0.43014734983444214,
+            "assigned_distance_at1024": 0.08272226984362728,
+            "best_unassigned_local_confidence": 0.23934932053089142,
+            "assigned_minus_competitor": 0.19079802930355072,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 15,
+            "assigned_confidence": 0.4073334038257599,
+            "assigned_distance_at1024": 0.06104157798295974,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.15642061829566956,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 16,
+            "assigned_confidence": 0.3849121630191803,
+            "assigned_distance_at1024": 0.08659229813873107,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.12808015942573547,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 17,
+            "assigned_confidence": 0.4455295205116272,
+            "assigned_distance_at1024": 0.08363959438549809,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.19461673498153687,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 18,
+            "assigned_confidence": 0.37022536993026733,
+            "assigned_distance_at1024": 0.08232777681167253,
+            "best_unassigned_local_confidence": 0.32766830921173096,
+            "assigned_minus_competitor": 0.04255706071853638,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 19,
+            "assigned_confidence": 0.4532618522644043,
+            "assigned_distance_at1024": 0.044707067995183807,
+            "best_unassigned_local_confidence": 0.25091278553009033,
+            "assigned_minus_competitor": 0.20234906673431396,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 20,
+            "assigned_confidence": 0.4378235340118408,
+            "assigned_distance_at1024": 0.15087034061393295,
+            "best_unassigned_local_confidence": 0.24508501589298248,
+            "assigned_minus_competitor": 0.19273851811885834,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          }
+        ]
+      },
+      {
+        "image_id": "T24_10",
+        "truth": 34,
+        "hard_count": 0,
+        "soft_sum_descriptive_only": 145.09868296349305,
+        "assigned_above_threshold": 0,
+        "assigned_within8": 34,
+        "assigned_q_min": 0.23934932053089142,
+        "assigned_q_median": 0.3593720346689224,
+        "assigned_below_unassigned_local_competitor": 2,
+        "selected_unassigned_near_any_target": 0,
+        "selected_points_farther_than8_from_every_target": 0,
+        "objects": [
+          {
+            "target_index": 0,
+            "assigned_confidence": 0.42250463366508484,
+            "assigned_distance_at1024": 0.06280427077581244,
+            "best_unassigned_local_confidence": 0.24508501589298248,
+            "assigned_minus_competitor": 0.17741961777210236,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 1,
+            "assigned_confidence": 0.3849121630191803,
+            "assigned_distance_at1024": 0.03913922968614039,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.12808015942573547,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 2,
+            "assigned_confidence": 0.314050555229187,
+            "assigned_distance_at1024": 0.25358508313013917,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.038920819759368896,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 3,
+            "assigned_confidence": 0.32766830921173096,
+            "assigned_distance_at1024": 0.042915437584493905,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.05253857374191284,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 4,
+            "assigned_confidence": 0.314050555229187,
+            "assigned_distance_at1024": 0.07712863340916513,
+            "best_unassigned_local_confidence": 0.29421496391296387,
+            "assigned_minus_competitor": 0.019835591316223145,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 5,
+            "assigned_confidence": 0.3415825068950653,
+            "assigned_distance_at1024": 0.2044827879435666,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.08475050330162048,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 6,
+            "assigned_confidence": 0.3415825068950653,
+            "assigned_distance_at1024": 0.03858490023223975,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.06645277142524719,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 7,
+            "assigned_confidence": 0.314050555229187,
+            "assigned_distance_at1024": 0.175116910047925,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.04510912299156189,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 8,
+            "assigned_confidence": 0.3415825068950653,
+            "assigned_distance_at1024": 0.08593304140428588,
+            "best_unassigned_local_confidence": 0.29421496391296387,
+            "assigned_minus_competitor": 0.04736754298210144,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 9,
+            "assigned_confidence": 0.43014734983444214,
+            "assigned_distance_at1024": 0.2692818604960799,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.14874175190925598,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 10,
+            "assigned_confidence": 0.3345894515514374,
+            "assigned_distance_at1024": 0.05383565649923642,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.05945971608161926,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 11,
+            "assigned_confidence": 0.39981165528297424,
+            "assigned_distance_at1024": 0.39142745347880636,
+            "best_unassigned_local_confidence": 0.29421496391296387,
+            "assigned_minus_competitor": 0.10559669137001038,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 12,
+            "assigned_confidence": 0.37022536993026733,
+            "assigned_distance_at1024": 0.12584547713953703,
+            "best_unassigned_local_confidence": 0.2628418207168579,
+            "assigned_minus_competitor": 0.10738354921340942,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 13,
+            "assigned_confidence": 0.3345894515514374,
+            "assigned_distance_at1024": 0.0973456321424174,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.05318385362625122,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 14,
+            "assigned_confidence": 0.32766830921173096,
+            "assigned_distance_at1024": 0.13502200703994954,
+            "best_unassigned_local_confidence": 0.28776782751083374,
+            "assigned_minus_competitor": 0.03990048170089722,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 15,
+            "assigned_confidence": 0.4148988425731659,
+            "assigned_distance_at1024": 0.036478388288648314,
+            "best_unassigned_local_confidence": 0.314050555229187,
+            "assigned_minus_competitor": 0.10084828734397888,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 16,
+            "assigned_confidence": 0.3073579967021942,
+            "assigned_distance_at1024": 0.09423599910805973,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.025952398777008057,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 17,
+            "assigned_confidence": 0.37022536993026733,
+            "assigned_distance_at1024": 0.25714272499748236,
+            "best_unassigned_local_confidence": 0.2689414322376251,
+            "assigned_minus_competitor": 0.10128393769264221,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 18,
+            "assigned_confidence": 0.32082128524780273,
+            "assigned_distance_at1024": 0.07808543532375593,
+            "best_unassigned_local_confidence": 0.28776782751083374,
+            "assigned_minus_competitor": 0.033053457736968994,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 19,
+            "assigned_confidence": 0.3415825068950653,
+            "assigned_distance_at1024": 0.48388394715500727,
+            "best_unassigned_local_confidence": 0.3345894515514374,
+            "assigned_minus_competitor": 0.00699305534362793,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 20,
+            "assigned_confidence": 0.39233678579330444,
+            "assigned_distance_at1024": 0.1142903733540727,
+            "best_unassigned_local_confidence": 0.28776782751083374,
+            "assigned_minus_competitor": 0.1045689582824707,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 21,
+            "assigned_confidence": 0.314050555229187,
+            "assigned_distance_at1024": 0.40094089276433476,
+            "best_unassigned_local_confidence": 0.32082128524780273,
+            "assigned_minus_competitor": -0.006770730018615723,
+            "unassigned_local_candidates_at_least_assigned_q": 1,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 22,
+            "assigned_confidence": 0.23934932053089142,
+            "assigned_distance_at1024": 0.08862810279072018,
+            "best_unassigned_local_confidence": 0.3073579967021942,
+            "assigned_minus_competitor": -0.0680086761713028,
+            "unassigned_local_candidates_at_least_assigned_q": 3,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 23,
+            "assigned_confidence": 0.39233678579330444,
+            "assigned_distance_at1024": 0.29183839131745126,
+            "best_unassigned_local_confidence": 0.28140559792518616,
+            "assigned_minus_competitor": 0.11093118786811829,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 24,
+            "assigned_confidence": 0.36296918988227844,
+            "assigned_distance_at1024": 0.3197743217743759,
+            "best_unassigned_local_confidence": 0.29421496391296387,
+            "assigned_minus_competitor": 0.06875422596931458,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 25,
+            "assigned_confidence": 0.3486451208591461,
+            "assigned_distance_at1024": 0.06719102507186187,
+            "best_unassigned_local_confidence": 0.3415825068950653,
+            "assigned_minus_competitor": 0.0070626139640808105,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 26,
+            "assigned_confidence": 0.36296918988227844,
+            "assigned_distance_at1024": 0.02065862511064241,
+            "best_unassigned_local_confidence": 0.3073579967021942,
+            "assigned_minus_competitor": 0.05561119318008423,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 27,
+            "assigned_confidence": 0.3557748794555664,
+            "assigned_distance_at1024": 0.1355261321749348,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.08064514398574829,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 28,
+            "assigned_confidence": 0.4148988425731659,
+            "assigned_distance_at1024": 0.23519990440486768,
+            "best_unassigned_local_confidence": 0.314050555229187,
+            "assigned_minus_competitor": 0.10084828734397888,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 29,
+            "assigned_confidence": 0.4148988425731659,
+            "assigned_distance_at1024": 0.22576790979787167,
+            "best_unassigned_local_confidence": 0.2568320035934448,
+            "assigned_minus_competitor": 0.15806683897972107,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 30,
+            "assigned_confidence": 0.3849121630191803,
+            "assigned_distance_at1024": 0.055452391296765616,
+            "best_unassigned_local_confidence": 0.3007456064224243,
+            "assigned_minus_competitor": 0.08416655659675598,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 31,
+            "assigned_confidence": 0.39233678579330444,
+            "assigned_distance_at1024": 0.13609988731279726,
+            "best_unassigned_local_confidence": 0.3007456064224243,
+            "assigned_minus_competitor": 0.09159117937088013,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 32,
+            "assigned_confidence": 0.3849121630191803,
+            "assigned_distance_at1024": 0.029228380384935963,
+            "best_unassigned_local_confidence": 0.2751297354698181,
+            "assigned_minus_competitor": 0.10978242754936218,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          },
+          {
+            "target_index": 33,
+            "assigned_confidence": 0.36296918988227844,
+            "assigned_distance_at1024": 0.05420507240749528,
+            "best_unassigned_local_confidence": 0.314050555229187,
+            "assigned_minus_competitor": 0.04891863465309143,
+            "unassigned_local_candidates_at_least_assigned_q": 0,
+            "unassigned_local_candidates": 63
+          }
+        ]
+      }
+    ]
+  },
+  "limits": "Labels and assignment identities are used only to describe fitting errors. This is not a deployment policy, counterfactual intervention, calibration rule, or causal proof. Actual matching/F1 comes from the frozen analyzer; local competitors exclude every assigned candidate to avoid treating another matched target as background."
+}

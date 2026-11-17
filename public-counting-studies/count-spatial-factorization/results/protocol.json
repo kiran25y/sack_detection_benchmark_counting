@@ -1,0 +1,105 @@
+{
+  "created_client_UTC": "2026-10-28T02:44:48.569205+00:00",
+  "state": "prepared_not_launched",
+  "scope": "One bounded diagnostic proposal; no native parameter updates executed by preparation.",
+  "question": "Does spatial residual supervision help beyond its implicit global-count penalty, and can removing count duplication improve the original objective?",
+  "primary_arm": "explicit_count_spatial",
+  "arms": {
+    "original": "1.75 C + S = unchanged joint_objective",
+    "count_only": "C",
+    "count_weight_control": "1.75 C",
+    "explicit_count_spatial": "C + S = joint_objective - .75 C"
+  },
+  "definitions": {
+    "C": "mean absolute total-count error",
+    "S": ".25 mean(R-C) + .5 mean(B-C) +5CDF; R=mean native regional L1 at levels1,2,3; B=conserved-blur L1.",
+    "warning": "S is nonnegative in exact arithmetic but is neither scale invariant nor count preserving. This is a coefficient/constraint decomposition, not established novelty."
+  },
+  "checkpoints": {
+    "A0_original": {
+      "path": "source-count-only-pilot-v1/A0_original/resume.pt",
+      "sha256": "f1b4c4250cb8ccbe223ebf9f74c9806ddaa5937d3bbce0cc3c62698389207ad8",
+      "saved_epoch": 14,
+      "optimizer_age": 4536
+    },
+    "A1_count_only": {
+      "path": "source-count-only-pilot-v1/A1_count_only/resume.pt",
+      "sha256": "261cff8ff168738d60e3fc509b12ba49b46aa37689b9c2e1b9e4675028b9d51b",
+      "saved_epoch": 14,
+      "optimizer_age": 4536
+    }
+  },
+  "source_manifest_sha256": "215b5a6d4c4a45aba9d2e67fd7bdbe896baa14db57b260fd9664290a0a4e4d6c",
+  "class_map_sha256": "ba1bc6c6a21875919625adb851eaee1aab0ad1f88ecf64d017bebda891b5815e",
+  "feature_index_sha256": "d272d02e43d125a2f2eb0c5238e06c1371f5cdd0d902845b506dca4c4e5bf0d2",
+  "parent_release": "releases/count-only-pilot-v1",
+  "schedule_sha256": "b7859d4694dbf05ad8cc144a47b4367dbe44c3ee896c614137d40e660cb2a8c3",
+  "steps_per_arm_per_state": 32,
+  "total_native_optimizer_calls": 256,
+  "training": {
+    "architecture_parameters": 470359,
+    "features": "unchanged frozen SAM2 native reference128/64/32",
+    "optimizer": "authentic saved AdamW states; lr5e-4 wd1e-4 clip1 unchanged; moment/age/RNG reset before EVERY arm",
+    "precision": "CUDA BF16 forward / FP32 count and losses, TF32off after new native preflight",
+    "sampling": "same32 frozen batches of8 per state/arm, one pass, no augmentation or dense reweighting",
+    "compute": "same head forward and original loss graph in every arm; zero terms keep control graph. Record measured walltime/memory, not equal-speed claims.",
+    "persistent_model_writes": 0,
+    "checkpoint_source_writes": 0,
+    "fresh_fit": false
+  },
+  "readout": {
+    "queries": 65,
+    "all_extremes": 7,
+    "withheld_from_new_updates_by_exact_group": true,
+    "not_unseen": "Both checkpoint states previously trained on these source-fitting images; reused probes are development diagnostics.",
+    "no_class_held_or_native_validation_scoring": true,
+    "endpoints": "one baseline per state; fixed32-update endpoint per arm, no best checkpoint selection",
+    "norm_control": "For each state, rescale original and candidate net parameter displacements to their smaller norm; replay65 each, no optimizer calls; no extrapolation."
+  },
+  "gate": {
+    "dense_gain_min": 0.01,
+    "dense_groups": [
+      "dense_150_plus",
+      "dense_150_899",
+      "extreme_900_plus"
+    ],
+    "references": [
+      "baseline",
+      "original",
+      "count_only",
+      "count_weight_control"
+    ],
+    "count_protection": [
+      "overall MAE/RMSE/class-macro",
+      "sparse and both medium MAE/RMSE"
+    ],
+    "spatial_protection": "GAME1/2/3 and normalized blur in every populated stratum versus baseline/original; normalized blur improves >=1% all/dense/extreme.",
+    "norm_control": "same dense gain and sparse/spatial protection versus displacement-matched original",
+    "extreme_cases": "each of7 AE no worse than both baseline and original beyond1e-4+1e-6*referenceAE",
+    "tolerance": "count/spatial mass:1e-4+1e-6*abs(reference); normalized blur:1e-6",
+    "all_states_required": true,
+    "all_components_required": true,
+    "failed_control_cannot_replace_primary": true
+  },
+  "resource_policy": {
+    "shared_GPU": "Previously approved policy retained if this bounded test is later launched",
+    "host_admission_GiB": 48,
+    "admission_samples": 2,
+    "interval_seconds": 30,
+    "stop_host_GiB": 32,
+    "disk_reserve_GiB": 100,
+    "container_GiB": 24,
+    "CPU": 2,
+    "extra_swap": 0,
+    "max_hours": 4,
+    "no_other_job_changes": true,
+    "no_retry": true
+  },
+  "prelaunch_requirements": [
+    "Freeze code/release hashes after engineering tests",
+    "Native original and factored objective value/gradient parity on fixed fitting inputs",
+    "Exact preupdate model/Adam/RNG restore; numerical CUDA replay under existing tolerances; finite BF16 gradients",
+    "Two memory/disk admission checks; own-stage-only resource controller"
+  ],
+  "subsequent_action": "Report full gate before any new trajectory/full fit. A pass is not full-training promotion or novelty; a fail/incomplete ends the experiment."
+}

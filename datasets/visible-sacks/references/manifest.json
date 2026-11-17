@@ -1,0 +1,22 @@
+[
+  {
+    "image": "references/sack_004.png",
+    "source_image_id": "004",
+    "source_box_xyxy": [
+      952,
+      801,
+      1077,
+      905
+    ]
+  },
+  {
+    "image": "references/sack_017.png",
+    "source_image_id": "017",
+    "source_box_xyxy": [
+      873,
+      724,
+      992,
+      812
+    ]
+  }
+]

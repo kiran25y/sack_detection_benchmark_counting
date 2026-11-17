@@ -1,0 +1,13 @@
+collected/candidates.json
+collected/fusion_1729.pt
+collected/fusion_1730.pt
+collected/fusion_1731.pt
+collected/ordinary_1730.pt
+collected/ordinary_1731.pt
+collected/paired_1729.pt
+collected/paired_1730.pt
+collected/paired_1731.pt
+collected/reference_replay.json
+collected/report.json
+collected/thresholds.json
+collected/training.json

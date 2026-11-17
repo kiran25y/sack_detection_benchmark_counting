@@ -1,0 +1,23 @@
+{
+  "meaning": "GT-known quota diagnostic only; proximity without one-to-one matching is not F1",
+  "per_image": [
+    {
+      "image_id": "003",
+      "oracle_topn": 1,
+      "selected_predictions_within8_any_target": 1,
+      "targets_with_any_selected_prediction_within8": 1
+    },
+    {
+      "image_id": "T04_05",
+      "oracle_topn": 21,
+      "selected_predictions_within8_any_target": 21,
+      "targets_with_any_selected_prediction_within8": 20
+    },
+    {
+      "image_id": "T24_10",
+      "oracle_topn": 34,
+      "selected_predictions_within8_any_target": 34,
+      "targets_with_any_selected_prediction_within8": 23
+    }
+  ]
+}

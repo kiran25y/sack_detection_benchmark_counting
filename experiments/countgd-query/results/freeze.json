@@ -1,0 +1,13 @@
+{
+  "kst": "2026-11-10T13:30:56.683399+09:00",
+  "release": "1db366cb0e01e8870d78e4c402394022ade92f3732c2169c8b403b4faf28303c",
+  "hashes": {
+    "worker/clarification_capture.py": "fbbdb9fab26ce7fcbd4bda603ed6e0cb912ae76d1a37b5ad3c0b6e52c976a47e",
+    "worker/clarification_common.py": "f01e68caeb3c26dff28e3d42c84ffef064bd822f05dafa7746cc0038be53254b",
+    "worker/external.json": "951ccc022c270050b743cb1b8a763ab8c157383137b6cd74bb05aa82a58e8d28",
+    "previous_code_hashes.json": "65c28e3c97ab34be70a90d9f2bfa8da61785c9ddb82e79d1fa8b979e099195f0",
+    "controller.py": "87580b32eb0d947cf869864b96bd2d35c53346597485403c66f6108b244b1f73",
+    "worker/worker.py": "08306ec446ceed2f08aaf78032a9587112e2f4d9e8dfc4b0b81df9f7d55295a0",
+    "worker/plan.json": "622ddba15cc55f68c39b53f5d8ba41d32babd35416d3d16f643100759be4afcb"
+  }
+}

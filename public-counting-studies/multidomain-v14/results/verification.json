@@ -1,0 +1,166 @@
+{
+  "state": "completed_verified",
+  "result_hashes_verified": {
+    "counter.pt": "d3baf4a564e0ecf9def83dc517c5065dd4849c3fdaabfdf794ee4ded38b4e3e9",
+    "training.json": "c2c3f4517aa3de068e34e0be2d4357f29ab8468357145778129a204180abb7ff",
+    "validation.json": "c6dbe7c4752f7711ddb477ae422d13da03e0faa61c46a0b963d9811989203cf8",
+    "validation_predictions.jsonl": "23a00621da771cf4d3b1e7165ac5461806d2d5d5d66a0a6e8a9242ba3bb83b2a",
+    "comparison.json": "a8fa8f873aeb47a03eb5087ad84e0ad17e2a9ffde01298c3bd80849fe894d7b8",
+    "lvis_validation.json": "969323eddf8724c6bf12b3cabedc1abd4e4b8f19ba13d529f27e103d92f08b18",
+    "lvis_validation_predictions.jsonl": "bdb46a9dc4999df14594c8f0064aa761e1e05550ad324175cbf4a44902f48ef3",
+    "lvis_V11_predictions.jsonl": "72e8d950b02efc6e7317daaddee3273facc25a3be65faa9cab67dffe861c3624"
+  },
+  "release_files_verified": 97,
+  "rounds": 56,
+  "optimizer_steps": 25592,
+  "presentations": {
+    "FSCD147": 96005,
+    "FSCD-LVIS": 106026,
+    "Sack-historical-visible": 2537
+  },
+  "metrics": {
+    "FSC": {
+      "queries": 1286,
+      "native_labels_and_groups_match": true,
+      "measured": {
+        "MAE": 15.720033138387867,
+        "RMSE": 72.96844089482238,
+        "bias": -12.950387370345382
+      },
+      "GAME_recomputed": false,
+      "paired_intervals_recomputed": false,
+      "scope": "Previously scored source validation; no new predictions",
+      "recomputed_strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "n": 603,
+          "MAE": 1.8128877959243497,
+          "bias": 0.3557280988044802
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "n": 419,
+          "MAE": 5.773786403683319,
+          "bias": -3.5146169457629073
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "n": 149,
+          "MAE": 17.39643352943779,
+          "bias": -13.480474228826946
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "n": 115,
+          "MAE": 122.70874935647716,
+          "bias": -116.41293079542078
+        }
+      ]
+    },
+    "LVIS": {
+      "queries": 1181,
+      "native_labels_and_groups_match": true,
+      "measured": {
+        "MAE": 14.577308640603187,
+        "RMSE": 24.520341755985147,
+        "bias": -6.805834456432885
+      },
+      "GAME_recomputed": false,
+      "paired_intervals_recomputed": false,
+      "scope": "Previously scored source validation; no new predictions",
+      "recomputed_strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "n": 255,
+          "MAE": 6.756075555904239,
+          "bias": -0.005866480574888341
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "n": 781,
+          "MAE": 11.893870646150713,
+          "bias": -5.001778062266058
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "n": 107,
+          "MAE": 31.03334811914747,
+          "bias": -17.53429402146384
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "n": 38,
+          "MAE": 75.87686880011307,
+          "bias": -59.306221409847865
+        }
+      ]
+    },
+    "LVIS_V11": {
+      "queries": 1181,
+      "native_labels_and_groups_match": true,
+      "measured": {
+        "MAE": 39.29570076649316,
+        "RMSE": 74.88087320952307,
+        "bias": 29.206115142457268
+      },
+      "GAME_recomputed": false,
+      "paired_intervals_recomputed": false,
+      "scope": "Previously scored source validation; no new predictions",
+      "recomputed_strata": [
+        {
+          "lower": 0,
+          "upper_exclusive": 25,
+          "n": 255,
+          "MAE": 30.15255583033842,
+          "bias": 27.267628495833453
+        },
+        {
+          "lower": 25,
+          "upper_exclusive": 75,
+          "n": 781,
+          "MAE": 39.067979799190034,
+          "bias": 30.891064726894246
+        },
+        {
+          "lower": 75,
+          "upper_exclusive": 150,
+          "n": 107,
+          "MAE": 50.27990269883771,
+          "bias": 26.686400048086576
+        },
+        {
+          "lower": 150,
+          "upper_exclusive": null,
+          "n": 38,
+          "MAE": 74.4020804355019,
+          "bias": 14.679219998811421
+        }
+      ]
+    }
+  },
+  "status": {
+    "state": "completed",
+    "failed": 0,
+    "rounds": 56,
+    "optimizer_steps": 25592,
+    "native_validation_queries": 1286,
+    "LVIS_native_validation_queries": 1181,
+    "LVIS_MAE": 14.577308640603187,
+    "MAE": 15.720033138387867,
+    "gain_gate": false,
+    "foreground_sack_evaluation": "pending reviewed scope and independent recording groups"
+  },
+  "script_sha256": "81e3158cefe98053232d9625c3ebefb48928e42da194ce4e61cda38386435357",
+  "limits": [
+    "GAME, class-macro and grouped intervals read from hashed completed reports, not independently recomputed here.",
+    "Saved predictions only; no new model loading, inference or reserved evaluation."
+  ]
+}

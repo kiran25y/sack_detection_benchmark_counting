@@ -1,0 +1,111 @@
+{
+  "archive": "Sackdetection.v1i.yolo26.zip",
+  "archive_sha256": "560817da67352371e895d7bc96977c5e6b0e04391ae628abe1c1f8d7f725996f",
+  "images": 24007,
+  "by_split": {
+    "train": {
+      "images": 21006,
+      "source_stems": 7002,
+      "boxes": 14403,
+      "zero": 6723,
+      "one": 14163,
+      "two": 120,
+      "max_boxes": 2
+    },
+    "valid": {
+      "images": 2001,
+      "source_stems": 2001,
+      "boxes": 1324,
+      "zero": 684,
+      "one": 1310,
+      "two": 7,
+      "max_boxes": 2
+    },
+    "test": {
+      "images": 1000,
+      "source_stems": 1000,
+      "boxes": 673,
+      "zero": 333,
+      "one": 661,
+      "two": 6,
+      "max_boxes": 2
+    }
+  },
+  "total": {
+    "images": 24007,
+    "source_stems": 10003,
+    "boxes": 16400,
+    "zero": 7740,
+    "one": 16134,
+    "two": 133,
+    "max_boxes": 2
+  },
+  "duplicate_archive_entries": {
+    "data.yaml": 3
+  },
+  "verified_paired_labels": 24007,
+  "all_images_decoded_shape": [
+    640,
+    640,
+    3
+  ],
+  "image_and_source_identity": {
+    "image_sha256": {
+      "distinct": 24007,
+      "appearing_in_multiple_splits": 0
+    },
+    "pixel_bgr_sha256": {
+      "distinct": 24007,
+      "appearing_in_multiple_splits": 0
+    },
+    "source_stem": {
+      "distinct": 10003,
+      "appearing_in_multiple_splits": 0
+    }
+  },
+  "maximum_label_edge_overshoot_pixels": 0.0,
+  "repeated_label_rows": 0,
+  "training_variants_per_stem": {
+    "3": 7002
+  },
+  "previous_source": {
+    "identical_encoded_images": 24007,
+    "same_class_and_number_of_labels": 24007,
+    "parameter_drift_pixels": {
+      "median_per_positive_image": 0.5000000000000071,
+      "max": 0.5000000000001847
+    },
+    "verified_adjacent_train_validation_pairs": 4
+  },
+  "approved_count_join": {
+    "images": 300,
+    "visible_total": 10462,
+    "exported_boxes": 226,
+    "zero_box_frames": 111,
+    "zero_box_with_visible_sacks": 111,
+    "min_visible": 2,
+    "max_visible": 68
+  },
+  "benchmark": {
+    "by_split": {
+      "train": {
+        "frames": 42,
+        "sacks": 338,
+        "empty": 3
+      },
+      "development": {
+        "frames": 23,
+        "sacks": 355,
+        "empty": 5
+      },
+      "test": {
+        "frames": 51,
+        "sacks": 644,
+        "empty": 1
+      }
+    },
+    "exact_encoded_matches": 0,
+    "exact_area_resized_64x64_matches": 0
+  },
+  "manifest_sha256": "5a29777d28c60b5d0ac92f8eab089093786b2392a4539aeebcd65b900ffc197b"
+}

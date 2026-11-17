@@ -1,0 +1,23 @@
+{
+  "state": "completed",
+  "box_train_images": 21006,
+  "carried_boxes": 14403,
+  "reviewed_total_frames": 300,
+  "count_presentations": 1314,
+  "point_train_frames": 42,
+  "point_presentations": 1314,
+  "zero_carried_frames": 6723,
+  "optimizer_calls": 2628,
+  "parameters": 77577,
+  "encoder": "69366bd19cee297e8423d5f0a6b08977330937d9d7def3112807724f761f10dc",
+  "plan_sha256": "a17632ecd1bfe8e5227878a539350297409acc35c55007dfc51454a96e62a0b0",
+  "hashes": {
+    "freeze.json": "0a17c6cd5d291987e01e2e23dca21cef0e1c5381ab956169e6ba1e9d901b87ff",
+    "updates.jsonl": "55e0e7cd8b4f6823525774475490a3a61247215824979836e016bb3b8f61fa34",
+    "points.pt": "0fc4d5c233df03a53da0b936a08e39944825fd89f72a598f74a5a429097e7e82",
+    "boxes.pt": "5d883390a394f32d0fb26cde3fadcf6270404d518078970a4b4a8ca2495bd4b7",
+    "totals.pt": "1d08d1def373188dfbeff9454d78109e1ab3b7a80a61f0aa0aa91d9db13c8646",
+    "both.pt": "c0cb62d66c90441489cdfdc110f9bf96a156c733ba7da1221e2bef47217b1caa",
+    "candidates.json": "8488ea1c7488e20c31386f19deddeee2c91e2946f9b721412cdb87e31ca1a988"
+  }
+}

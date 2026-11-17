@@ -1,0 +1,64 @@
+{
+  "client_kst": "2026-11-06T12:14:56.362549+09:00",
+  "purpose": "Posthoc model-free explanation of observed confidence failure, not a new primary score or causal ablation",
+  "analysis_sha256": "3d7c1ff14911c61fefae3af16d5edb09b75ccb71b9118939304d004a00dcc648",
+  "report_sha256": "c54329558ab14509fde0c3b81f131746b5c2e1ab55ee123a1d0716d213acabaf",
+  "rows": [
+    {
+      "image": "T04_09",
+      "truth": 0,
+      "candidates": 49728,
+      "primary_points_at_fixed_point5": 0,
+      "max_score": 0.0002780309587251395,
+      "soft_total": 0.8505392973229391,
+      "effective_mass_support": 34141.33860555761,
+      "min_candidates_needed_given_max": 3060,
+      "fraction_mass_within8px_gt_neighborhood": null
+    },
+    {
+      "image": "003",
+      "truth": 1,
+      "candidates": 49728,
+      "primary_points_at_fixed_point5": 0,
+      "max_score": 0.2751297354698181,
+      "soft_total": 2.6298407920871796,
+      "effective_mass_support": 28.536669034437416,
+      "min_candidates_needed_given_max": 10,
+      "fraction_mass_within8px_gt_neighborhood": 0.6499804872827866
+    },
+    {
+      "image": "T04_05",
+      "truth": 21,
+      "candidates": 49728,
+      "primary_points_at_fixed_point5": 0,
+      "max_score": 0.013222821988165379,
+      "soft_total": 21.268347750818975,
+      "effective_mass_support": 3774.3051920913117,
+      "min_candidates_needed_given_max": 1609,
+      "fraction_mass_within8px_gt_neighborhood": 0.27976807516736973
+    },
+    {
+      "image": "T24_10",
+      "truth": 34,
+      "candidates": 49728,
+      "primary_points_at_fixed_point5": 0,
+      "max_score": 0.012431650422513485,
+      "soft_total": 34.2746668517957,
+      "effective_mass_support": 7089.971148128618,
+      "min_candidates_needed_given_max": 2758,
+      "fraction_mass_within8px_gt_neighborhood": 0.2536454642152253
+    }
+  ],
+  "effective_mass_support_definition": "(sum q)^2 / sum(q^2); descriptive concentration, not object count",
+  "neighborhood_definition": "Union of8px disks around reviewed points in native full-image long-side1024 chart; not instance masks or background labels",
+  "new_forwards": 0,
+  "new_optimizer_calls": 0,
+  "alternative_thresholds_scored": false,
+  "primary_gate_changed": false,
+  "causal_limits": "Low-confidence/distributed mass is directly observed. This does not isolate soft-count weight, focal normalization, clipping, assignment turnover, or insufficient updates as the unique cause.",
+  "historical_distinctions": {
+    "ipic_A_training": "MAE0.05,F1.9929 on20 training frames, failed another recording",
+    "countr_P_development": "MAE7.6703, nonzero predictions; failed low/empty and localization protections",
+    "ipic_uniform_BCE": "6995development predictions,6835false positives; raising scores did not solve discrimination"
+  }
+}

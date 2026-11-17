@@ -1,0 +1,14 @@
+collected/bootstrap.json
+collected/result/assignment_history.json
+collected/result/final_003.npz
+collected/result/final_T04_05.npz
+collected/result/final_T04_09.npz
+collected/result/final_T24_10.npz
+collected/result/initial_003.npz
+collected/result/initial_T04_05.npz
+collected/result/initial_T04_09.npz
+collected/result/initial_T24_10.npz
+collected/result/report.json
+collected/result/result_hashes.json
+collected/result/updates.jsonl
+collected/verification.json

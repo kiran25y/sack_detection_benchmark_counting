@@ -1,0 +1,13 @@
+{
+  "file": "sack-only-benchmark-study-v1.zip",
+  "sha256": "e666cc0fc055d7b1b5dcee2cd4ffc1113d64e032a7ae62f027095cd28da1f0a2",
+  "bytes": 1810093581,
+  "scoring_replays": 12,
+  "members_verified": 32,
+  "all_four_checkpoint_ids": {
+    "points": "0fc4d5c233df03a53da0b936a08e39944825fd89f72a598f74a5a429097e7e82",
+    "boxes": "5d883390a394f32d0fb26cde3fadcf6270404d518078970a4b4a8ca2495bd4b7",
+    "totals": "1d08d1def373188dfbeff9454d78109e1ab3b7a80a61f0aa0aa91d9db13c8646",
+    "both": "c0cb62d66c90441489cdfdc110f9bf96a156c733ba7da1221e2bef47217b1caa"
+  }
+}

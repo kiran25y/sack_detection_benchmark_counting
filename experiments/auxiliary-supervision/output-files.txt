@@ -1,0 +1,7 @@
+collected/both.pt
+collected/boxes.pt
+collected/candidates.json
+collected/points.pt
+collected/report.json
+collected/totals.pt
+collected/updates.jsonl

@@ -1,0 +1,11 @@
+collected/fold0_decoder.pt
+collected/fold0_geometry.pt
+collected/fold1_decoder.pt
+collected/fold1_geometry.pt
+collected/fold2_decoder.pt
+collected/fold2_geometry.pt
+collected/fold3_decoder.pt
+collected/fold3_geometry.pt
+collected/predictions.json
+collected/report.json
+collected/updates.jsonl

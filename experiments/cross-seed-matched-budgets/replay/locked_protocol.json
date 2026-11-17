@@ -1,0 +1,66 @@
+{
+  "schema": "sack-review-four-cell-v3",
+  "primary_radius": 8,
+  "sensitivity_radii": [
+    4,
+    16
+  ],
+  "calibration": {
+    "raw": {
+      "threshold": 0.51,
+      "equal_group_mae": 6.5375,
+      "empty_points": 0
+    },
+    "learned": {
+      "threshold": 0.66,
+      "equal_group_mae": 3.6,
+      "empty_points": 0
+    }
+  },
+  "legacy_learned_threshold": 0.8346997170417895,
+  "known_groups": [
+    "ipic_dependency_21e05234d0d1",
+    "ipic_dependency_483475312362",
+    "ipic_dependency_554f93899a72",
+    "ipic_dependency_83a47a450e44",
+    "ipic_dependency_9945d48d4761",
+    "ipic_dependency_a8232acfdcec",
+    "ipic_dependency_b3d032ccefd3",
+    "ipic_dependency_b778d9b86516",
+    "ipic_dependency_b8c3dda6893f",
+    "ipic_dependency_dd423cf16e00"
+  ],
+  "prospective": "Require new recording group provenance and an exhaustive reviewed label set. Freeze region for each camera without per-instance labels. Use identical frozen generator, references, voting seeds, and 8px exclusion. Seal all three prediction sets before label access. Report signed group MAE B-A and matches C-B. Record sparse 1-11, dense >=12, empty any-false-alarm by recording; no exclusions based on prediction or count errors. Double annotation not undertaken by owner request.",
+  "historical_release_sha256": "f2d7c51c65f3d955ffa7782bcd4cf38c02e637ce2f16f3f5181002083edd215c",
+  "release_manifest": "source_release/freeze.json",
+  "release_reconstruction": "source_release/verify_release.py",
+  "release_template_sha256": "4a3cadad73354355e8e7172363ad59af902bdda307325b0139246ba66c82978c",
+  "replay_sha256": "8f4f00e60fb1b0f67ff0a4b08a4113a76dc52bf00240274a391f437163090dae",
+  "benchmark_scorer_sha256": "34eefaefd48a6d81c142bb46e9464c4cfb0e3ce5ad4a04e449f0debc1989d095",
+  "statistics_sha256": "d85d7befd2fafa94916b624564cc3e3511e66262cf20186821efcf4e37a39a52",
+  "frozen_systems": {
+    "M": {
+      "scalar": "19/13",
+      "rule": "Round voting count and fill available additional places by raw order."
+    },
+    "A": {
+      "count": "raw",
+      "rank": "raw"
+    },
+    "D": {
+      "count": "raw",
+      "rank": "learned"
+    },
+    "B": {
+      "count": "learned",
+      "rank": "raw"
+    },
+    "C": {
+      "count": "learned",
+      "rank": "learned"
+    }
+  },
+  "scalar_multiplier_exact": "19/13",
+  "factorial_scorer_sha256": "fe23595f764677b26a8e6db13e4b36ced3280019f9c67b1ce98144fbb476a416",
+  "retrospective_note": "D completes the saved-bank comparison without changed thresholds. Prospective counting and larger-budget ranking hypotheses retain their original test order."
+}

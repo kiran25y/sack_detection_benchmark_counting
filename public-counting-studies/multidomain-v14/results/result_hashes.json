@@ -1,0 +1,10 @@
+{
+  "counter.pt": "d3baf4a564e0ecf9def83dc517c5065dd4849c3fdaabfdf794ee4ded38b4e3e9",
+  "training.json": "c2c3f4517aa3de068e34e0be2d4357f29ab8468357145778129a204180abb7ff",
+  "validation.json": "c6dbe7c4752f7711ddb477ae422d13da03e0faa61c46a0b963d9811989203cf8",
+  "validation_predictions.jsonl": "23a00621da771cf4d3b1e7165ac5461806d2d5d5d66a0a6e8a9242ba3bb83b2a",
+  "comparison.json": "a8fa8f873aeb47a03eb5087ad84e0ad17e2a9ffde01298c3bd80849fe894d7b8",
+  "lvis_validation.json": "969323eddf8724c6bf12b3cabedc1abd4e4b8f19ba13d529f27e103d92f08b18",
+  "lvis_validation_predictions.jsonl": "bdb46a9dc4999df14594c8f0064aa761e1e05550ad324175cbf4a44902f48ef3",
+  "lvis_V11_predictions.jsonl": "72e8d950b02efc6e7317daaddee3273facc25a3be65faa9cab67dffe861c3624"
+}

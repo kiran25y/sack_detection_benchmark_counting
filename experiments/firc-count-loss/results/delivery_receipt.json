@@ -1,0 +1,21 @@
+{
+  "client_kst": "2026-11-06T12:49:20.512227+09:00",
+  "gate_passed": false,
+  "full_training_started": false,
+  "old_and_new_releases_unchanged": true,
+  "plots_visually_reviewed": [
+    "endpoint_localization.png",
+    "optimization_trace.png"
+  ],
+  "primary_threshold": 0.5,
+  "threshold_search": false,
+  "new_optimizer_calls": 150,
+  "verifier_numerics_amendment_disclosed": true,
+  "file_hashes": {
+    "artifacts\\firc_count_ablation_v1_20261106\\analysis.json": "7537da103003338791dd9e6925d34a043beab7e9dbdbd63bcf6c8f013f72c160",
+    "artifacts\\firc_count_ablation_v1_20261106\\posthoc_quota_ranking.json": "caccc60951101c160620c6cecfea24dce91846585dc660f6c0dbf369601c3e27",
+    "artifacts\\firc_count_ablation_v1_20261106\\posthoc_quota_neighborhoods.json": "5a7a0d20aae049dbe3dc25bc89be3cc4f990de6705e6f1d1cc5292da29e6c0b2",
+    "artifacts\\firc_count_ablation_v1_20261106\\verifier_numerics_amendment.json": "fe94d2dce60db73276e6c720b428e4cf205832b43ac431d3c5be7816539ff9c0",
+    "docs\\FIRC_COUNT_LOSS_REPAIR_RESULT_20261106.md": "2b2cbf04f986792240e2da6fcda1af642b4d4a87bca7bcd2436f8834c954d141"
+  }
+}

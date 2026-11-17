@@ -1,0 +1,17 @@
+{
+  "time": "2026-11-09T15:44:29.124092+09:00",
+  "release": "d2d3ea9d4b1f72b73e40591bc9b47ccfd55595ffb0adcb39e9a5ded7cc31f77d",
+  "hashes": {
+    "controller.py": "92346040b27ccb5ba3d2bf4f8eef89d33f42c8c7747935a248dc09a10aaa7774",
+    "previous_code_hashes.json": "65c28e3c97ab34be70a90d9f2bfa8da61785c9ddb82e79d1fa8b979e099195f0",
+    "worker/point_utils.py": "7c55ab99e1bdc33f81ac6b4851fb2f70e379194c5d3a916a845ace5a20b9c874",
+    "worker/proposer_reference.py": "278174e5568a2c51940e51a2bcffbba652c794ea5b72616b7878234dde6188c7",
+    "worker/ordinary_reference.pt": "318ad054bf11c5c8c32ec361178c4776ad28235737530e974092a4d1da1886c3",
+    "worker/detector.py": "507fbf69045ab4851380c7506986cfd341f77dfeba2c4cf312032044164da8b9",
+    "worker/architectures.py": "0f88af38109b2a4d2494af7e5e8a6e634c5e6e17114a314c7721216a07d7d183",
+    "worker/plan.json": "fec47ceca5d9ebbff7f670de1add0f1d62f11fbc819a11e86f99fb642900f6a3"
+  },
+  "manifest": "dfa95f1421e4b3c635e18880d95244ebf7af38c827706cb31b20f32d27c7253d",
+  "historical_points": "959238cc2195e427099be755a8adfb7c89250f0725a21df5888b2b7f06b344d7",
+  "previous_comparison": "dd037d98038b2a02dee8b26559f5229bd153fb4bd5f6e87b11a275fe9eec72c4"
+}

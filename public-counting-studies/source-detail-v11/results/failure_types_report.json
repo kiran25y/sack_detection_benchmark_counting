@@ -1,0 +1,3096 @@
+{
+  "selected_queries": 37,
+  "source_validation_queries": 1286,
+  "source_validation_reused": true,
+  "native_box_point_count_agree": 834,
+  "native_box_point_count_differ": 452,
+  "native_coco_sha256": "543f31ff8c1064423e00bd8d61c1c92cac272347c869e0b75f7969b0c683e692",
+  "stream_sha256": {
+    "CountGDpp_global": "855b804cbf9d0aef322b1261b70291eb5f294b9630d222159d2b1b057ee43108",
+    "GeCo2_global": "a640c0149304f3b875e7b251280518140e180581e1505206b96bce9e075b0cc1"
+  },
+  "mismatches": [
+    {
+      "query_id": "190.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 12
+    },
+    {
+      "query_id": "192.jpg",
+      "FSC_point_count": 19,
+      "FSCD_box_count": 18
+    },
+    {
+      "query_id": "194.jpg",
+      "FSC_point_count": 82,
+      "FSCD_box_count": 66
+    },
+    {
+      "query_id": "196.jpg",
+      "FSC_point_count": 85,
+      "FSCD_box_count": 84
+    },
+    {
+      "query_id": "197.jpg",
+      "FSC_point_count": 77,
+      "FSCD_box_count": 74
+    },
+    {
+      "query_id": "198.jpg",
+      "FSC_point_count": 69,
+      "FSCD_box_count": 59
+    },
+    {
+      "query_id": "214.jpg",
+      "FSC_point_count": 64,
+      "FSCD_box_count": 63
+    },
+    {
+      "query_id": "215.jpg",
+      "FSC_point_count": 259,
+      "FSCD_box_count": 214
+    },
+    {
+      "query_id": "216.jpg",
+      "FSC_point_count": 46,
+      "FSCD_box_count": 45
+    },
+    {
+      "query_id": "217.jpg",
+      "FSC_point_count": 60,
+      "FSCD_box_count": 59
+    },
+    {
+      "query_id": "219.jpg",
+      "FSC_point_count": 47,
+      "FSCD_box_count": 48
+    },
+    {
+      "query_id": "220.jpg",
+      "FSC_point_count": 59,
+      "FSCD_box_count": 54
+    },
+    {
+      "query_id": "224.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "226.jpg",
+      "FSC_point_count": 78,
+      "FSCD_box_count": 73
+    },
+    {
+      "query_id": "227.jpg",
+      "FSC_point_count": 25,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "228.jpg",
+      "FSC_point_count": 44,
+      "FSCD_box_count": 43
+    },
+    {
+      "query_id": "229.jpg",
+      "FSC_point_count": 25,
+      "FSCD_box_count": 24
+    },
+    {
+      "query_id": "233.jpg",
+      "FSC_point_count": 126,
+      "FSCD_box_count": 124
+    },
+    {
+      "query_id": "234.jpg",
+      "FSC_point_count": 38,
+      "FSCD_box_count": 36
+    },
+    {
+      "query_id": "237.jpg",
+      "FSC_point_count": 65,
+      "FSCD_box_count": 58
+    },
+    {
+      "query_id": "238.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "243.jpg",
+      "FSC_point_count": 33,
+      "FSCD_box_count": 31
+    },
+    {
+      "query_id": "245.jpg",
+      "FSC_point_count": 55,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "246.jpg",
+      "FSC_point_count": 30,
+      "FSCD_box_count": 28
+    },
+    {
+      "query_id": "248.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 45
+    },
+    {
+      "query_id": "252.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "253.jpg",
+      "FSC_point_count": 192,
+      "FSCD_box_count": 176
+    },
+    {
+      "query_id": "254.jpg",
+      "FSC_point_count": 74,
+      "FSCD_box_count": 73
+    },
+    {
+      "query_id": "257.jpg",
+      "FSC_point_count": 191,
+      "FSCD_box_count": 190
+    },
+    {
+      "query_id": "560.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 12
+    },
+    {
+      "query_id": "565.jpg",
+      "FSC_point_count": 18,
+      "FSCD_box_count": 16
+    },
+    {
+      "query_id": "566.jpg",
+      "FSC_point_count": 15,
+      "FSCD_box_count": 14
+    },
+    {
+      "query_id": "587.jpg",
+      "FSC_point_count": 15,
+      "FSCD_box_count": 16
+    },
+    {
+      "query_id": "593.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 24
+    },
+    {
+      "query_id": "604.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "613.jpg",
+      "FSC_point_count": 7,
+      "FSCD_box_count": 8
+    },
+    {
+      "query_id": "616.jpg",
+      "FSC_point_count": 119,
+      "FSCD_box_count": 114
+    },
+    {
+      "query_id": "622.jpg",
+      "FSC_point_count": 34,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "623.jpg",
+      "FSC_point_count": 9,
+      "FSCD_box_count": 8
+    },
+    {
+      "query_id": "735.jpg",
+      "FSC_point_count": 14,
+      "FSCD_box_count": 13
+    },
+    {
+      "query_id": "741.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 12
+    },
+    {
+      "query_id": "742.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "749.jpg",
+      "FSC_point_count": 10,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "751.jpg",
+      "FSC_point_count": 58,
+      "FSCD_box_count": 53
+    },
+    {
+      "query_id": "759.jpg",
+      "FSC_point_count": 10,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "761.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "762.jpg",
+      "FSC_point_count": 77,
+      "FSCD_box_count": 69
+    },
+    {
+      "query_id": "763.jpg",
+      "FSC_point_count": 56,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "764.jpg",
+      "FSC_point_count": 85,
+      "FSCD_box_count": 87
+    },
+    {
+      "query_id": "766.jpg",
+      "FSC_point_count": 50,
+      "FSCD_box_count": 47
+    },
+    {
+      "query_id": "771.jpg",
+      "FSC_point_count": 15,
+      "FSCD_box_count": 14
+    },
+    {
+      "query_id": "772.jpg",
+      "FSC_point_count": 28,
+      "FSCD_box_count": 26
+    },
+    {
+      "query_id": "808.jpg",
+      "FSC_point_count": 182,
+      "FSCD_box_count": 185
+    },
+    {
+      "query_id": "811.jpg",
+      "FSC_point_count": 17,
+      "FSCD_box_count": 16
+    },
+    {
+      "query_id": "813.jpg",
+      "FSC_point_count": 185,
+      "FSCD_box_count": 183
+    },
+    {
+      "query_id": "820.jpg",
+      "FSC_point_count": 437,
+      "FSCD_box_count": 433
+    },
+    {
+      "query_id": "832.jpg",
+      "FSC_point_count": 116,
+      "FSCD_box_count": 117
+    },
+    {
+      "query_id": "836.jpg",
+      "FSC_point_count": 230,
+      "FSCD_box_count": 220
+    },
+    {
+      "query_id": "838.jpg",
+      "FSC_point_count": 113,
+      "FSCD_box_count": 107
+    },
+    {
+      "query_id": "840.jpg",
+      "FSC_point_count": 637,
+      "FSCD_box_count": 578
+    },
+    {
+      "query_id": "842.jpg",
+      "FSC_point_count": 46,
+      "FSCD_box_count": 47
+    },
+    {
+      "query_id": "845.jpg",
+      "FSC_point_count": 142,
+      "FSCD_box_count": 152
+    },
+    {
+      "query_id": "846.jpg",
+      "FSC_point_count": 35,
+      "FSCD_box_count": 34
+    },
+    {
+      "query_id": "850.jpg",
+      "FSC_point_count": 183,
+      "FSCD_box_count": 177
+    },
+    {
+      "query_id": "851.jpg",
+      "FSC_point_count": 320,
+      "FSCD_box_count": 289
+    },
+    {
+      "query_id": "857.jpg",
+      "FSC_point_count": 162,
+      "FSCD_box_count": 145
+    },
+    {
+      "query_id": "861.jpg",
+      "FSC_point_count": 65,
+      "FSCD_box_count": 60
+    },
+    {
+      "query_id": "864.jpg",
+      "FSC_point_count": 84,
+      "FSCD_box_count": 83
+    },
+    {
+      "query_id": "865.jpg",
+      "FSC_point_count": 1022,
+      "FSCD_box_count": 809
+    },
+    {
+      "query_id": "866.jpg",
+      "FSC_point_count": 230,
+      "FSCD_box_count": 235
+    },
+    {
+      "query_id": "871.jpg",
+      "FSC_point_count": 18,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "873.jpg",
+      "FSC_point_count": 21,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "876.jpg",
+      "FSC_point_count": 207,
+      "FSCD_box_count": 182
+    },
+    {
+      "query_id": "914.jpg",
+      "FSC_point_count": 65,
+      "FSCD_box_count": 60
+    },
+    {
+      "query_id": "919.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 33
+    },
+    {
+      "query_id": "923.jpg",
+      "FSC_point_count": 122,
+      "FSCD_box_count": 111
+    },
+    {
+      "query_id": "929.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "931.jpg",
+      "FSC_point_count": 298,
+      "FSCD_box_count": 351
+    },
+    {
+      "query_id": "932.jpg",
+      "FSC_point_count": 53,
+      "FSCD_box_count": 51
+    },
+    {
+      "query_id": "935.jpg",
+      "FSC_point_count": 2092,
+      "FSCD_box_count": 1599
+    },
+    {
+      "query_id": "943.jpg",
+      "FSC_point_count": 97,
+      "FSCD_box_count": 96
+    },
+    {
+      "query_id": "946.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "949.jpg",
+      "FSC_point_count": 1092,
+      "FSCD_box_count": 1123
+    },
+    {
+      "query_id": "955.jpg",
+      "FSC_point_count": 86,
+      "FSCD_box_count": 85
+    },
+    {
+      "query_id": "957.jpg",
+      "FSC_point_count": 530,
+      "FSCD_box_count": 539
+    },
+    {
+      "query_id": "959.jpg",
+      "FSC_point_count": 18,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "961.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "963.jpg",
+      "FSC_point_count": 63,
+      "FSCD_box_count": 58
+    },
+    {
+      "query_id": "969.jpg",
+      "FSC_point_count": 38,
+      "FSCD_box_count": 37
+    },
+    {
+      "query_id": "972.jpg",
+      "FSC_point_count": 485,
+      "FSCD_box_count": 480
+    },
+    {
+      "query_id": "975.jpg",
+      "FSC_point_count": 718,
+      "FSCD_box_count": 705
+    },
+    {
+      "query_id": "977.jpg",
+      "FSC_point_count": 165,
+      "FSCD_box_count": 166
+    },
+    {
+      "query_id": "979.jpg",
+      "FSC_point_count": 108,
+      "FSCD_box_count": 106
+    },
+    {
+      "query_id": "982.jpg",
+      "FSC_point_count": 50,
+      "FSCD_box_count": 48
+    },
+    {
+      "query_id": "1397.jpg",
+      "FSC_point_count": 166,
+      "FSCD_box_count": 161
+    },
+    {
+      "query_id": "1892.jpg",
+      "FSC_point_count": 180,
+      "FSCD_box_count": 177
+    },
+    {
+      "query_id": "1894.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "1895.jpg",
+      "FSC_point_count": 30,
+      "FSCD_box_count": 31
+    },
+    {
+      "query_id": "1896.jpg",
+      "FSC_point_count": 123,
+      "FSCD_box_count": 109
+    },
+    {
+      "query_id": "1898.jpg",
+      "FSC_point_count": 149,
+      "FSCD_box_count": 148
+    },
+    {
+      "query_id": "1903.jpg",
+      "FSC_point_count": 139,
+      "FSCD_box_count": 137
+    },
+    {
+      "query_id": "1911.jpg",
+      "FSC_point_count": 119,
+      "FSCD_box_count": 116
+    },
+    {
+      "query_id": "1915.jpg",
+      "FSC_point_count": 684,
+      "FSCD_box_count": 648
+    },
+    {
+      "query_id": "1918.jpg",
+      "FSC_point_count": 18,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "1919.jpg",
+      "FSC_point_count": 436,
+      "FSCD_box_count": 435
+    },
+    {
+      "query_id": "1920.jpg",
+      "FSC_point_count": 138,
+      "FSCD_box_count": 127
+    },
+    {
+      "query_id": "1921.jpg",
+      "FSC_point_count": 49,
+      "FSCD_box_count": 47
+    },
+    {
+      "query_id": "1925.jpg",
+      "FSC_point_count": 29,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "1929.jpg",
+      "FSC_point_count": 86,
+      "FSCD_box_count": 87
+    },
+    {
+      "query_id": "1935.jpg",
+      "FSC_point_count": 175,
+      "FSCD_box_count": 174
+    },
+    {
+      "query_id": "1936.jpg",
+      "FSC_point_count": 501,
+      "FSCD_box_count": 500
+    },
+    {
+      "query_id": "1937.jpg",
+      "FSC_point_count": 117,
+      "FSCD_box_count": 115
+    },
+    {
+      "query_id": "1939.jpg",
+      "FSC_point_count": 69,
+      "FSCD_box_count": 67
+    },
+    {
+      "query_id": "1942.jpg",
+      "FSC_point_count": 163,
+      "FSCD_box_count": 162
+    },
+    {
+      "query_id": "1944.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 46
+    },
+    {
+      "query_id": "1946.jpg",
+      "FSC_point_count": 40,
+      "FSCD_box_count": 41
+    },
+    {
+      "query_id": "1952.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "1956.jpg",
+      "FSC_point_count": 1229,
+      "FSCD_box_count": 1232
+    },
+    {
+      "query_id": "1957.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 37
+    },
+    {
+      "query_id": "1960.jpg",
+      "FSC_point_count": 163,
+      "FSCD_box_count": 154
+    },
+    {
+      "query_id": "1961.jpg",
+      "FSC_point_count": 111,
+      "FSCD_box_count": 110
+    },
+    {
+      "query_id": "1969.jpg",
+      "FSC_point_count": 134,
+      "FSCD_box_count": 117
+    },
+    {
+      "query_id": "1976.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 31
+    },
+    {
+      "query_id": "1977.jpg",
+      "FSC_point_count": 132,
+      "FSCD_box_count": 133
+    },
+    {
+      "query_id": "1981.jpg",
+      "FSC_point_count": 159,
+      "FSCD_box_count": 155
+    },
+    {
+      "query_id": "1983.jpg",
+      "FSC_point_count": 172,
+      "FSCD_box_count": 135
+    },
+    {
+      "query_id": "1984.jpg",
+      "FSC_point_count": 35,
+      "FSCD_box_count": 34
+    },
+    {
+      "query_id": "1986.jpg",
+      "FSC_point_count": 248,
+      "FSCD_box_count": 240
+    },
+    {
+      "query_id": "1987.jpg",
+      "FSC_point_count": 95,
+      "FSCD_box_count": 90
+    },
+    {
+      "query_id": "1989.jpg",
+      "FSC_point_count": 148,
+      "FSCD_box_count": 144
+    },
+    {
+      "query_id": "1990.jpg",
+      "FSC_point_count": 476,
+      "FSCD_box_count": 469
+    },
+    {
+      "query_id": "1991.jpg",
+      "FSC_point_count": 119,
+      "FSCD_box_count": 113
+    },
+    {
+      "query_id": "1993.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 46
+    },
+    {
+      "query_id": "1994.jpg",
+      "FSC_point_count": 313,
+      "FSCD_box_count": 311
+    },
+    {
+      "query_id": "1997.jpg",
+      "FSC_point_count": 14,
+      "FSCD_box_count": 12
+    },
+    {
+      "query_id": "1999.jpg",
+      "FSC_point_count": 83,
+      "FSCD_box_count": 84
+    },
+    {
+      "query_id": "2003.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "2137.jpg",
+      "FSC_point_count": 72,
+      "FSCD_box_count": 71
+    },
+    {
+      "query_id": "2300.jpg",
+      "FSC_point_count": 19,
+      "FSCD_box_count": 18
+    },
+    {
+      "query_id": "2312.jpg",
+      "FSC_point_count": 14,
+      "FSCD_box_count": 13
+    },
+    {
+      "query_id": "2316.jpg",
+      "FSC_point_count": 58,
+      "FSCD_box_count": 57
+    },
+    {
+      "query_id": "2317.jpg",
+      "FSC_point_count": 10,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "2409.jpg",
+      "FSC_point_count": 59,
+      "FSCD_box_count": 53
+    },
+    {
+      "query_id": "2808.jpg",
+      "FSC_point_count": 26,
+      "FSCD_box_count": 25
+    },
+    {
+      "query_id": "2812.jpg",
+      "FSC_point_count": 158,
+      "FSCD_box_count": 152
+    },
+    {
+      "query_id": "2815.jpg",
+      "FSC_point_count": 49,
+      "FSCD_box_count": 39
+    },
+    {
+      "query_id": "2816.jpg",
+      "FSC_point_count": 45,
+      "FSCD_box_count": 44
+    },
+    {
+      "query_id": "2818.jpg",
+      "FSC_point_count": 252,
+      "FSCD_box_count": 236
+    },
+    {
+      "query_id": "2822.jpg",
+      "FSC_point_count": 136,
+      "FSCD_box_count": 134
+    },
+    {
+      "query_id": "2827.jpg",
+      "FSC_point_count": 140,
+      "FSCD_box_count": 137
+    },
+    {
+      "query_id": "2829.jpg",
+      "FSC_point_count": 61,
+      "FSCD_box_count": 60
+    },
+    {
+      "query_id": "2830.jpg",
+      "FSC_point_count": 62,
+      "FSCD_box_count": 63
+    },
+    {
+      "query_id": "2835.jpg",
+      "FSC_point_count": 89,
+      "FSCD_box_count": 91
+    },
+    {
+      "query_id": "2837.jpg",
+      "FSC_point_count": 25,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "2839.jpg",
+      "FSC_point_count": 67,
+      "FSCD_box_count": 57
+    },
+    {
+      "query_id": "2840.jpg",
+      "FSC_point_count": 35,
+      "FSCD_box_count": 24
+    },
+    {
+      "query_id": "2842.jpg",
+      "FSC_point_count": 124,
+      "FSCD_box_count": 123
+    },
+    {
+      "query_id": "2846.jpg",
+      "FSC_point_count": 38,
+      "FSCD_box_count": 36
+    },
+    {
+      "query_id": "2850.jpg",
+      "FSC_point_count": 287,
+      "FSCD_box_count": 256
+    },
+    {
+      "query_id": "2854.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 17
+    },
+    {
+      "query_id": "2855.jpg",
+      "FSC_point_count": 56,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "2857.jpg",
+      "FSC_point_count": 107,
+      "FSCD_box_count": 109
+    },
+    {
+      "query_id": "2858.jpg",
+      "FSC_point_count": 131,
+      "FSCD_box_count": 132
+    },
+    {
+      "query_id": "2861.jpg",
+      "FSC_point_count": 40,
+      "FSCD_box_count": 39
+    },
+    {
+      "query_id": "2862.jpg",
+      "FSC_point_count": 85,
+      "FSCD_box_count": 81
+    },
+    {
+      "query_id": "2863.jpg",
+      "FSC_point_count": 151,
+      "FSCD_box_count": 152
+    },
+    {
+      "query_id": "2864.jpg",
+      "FSC_point_count": 45,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "2868.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 12
+    },
+    {
+      "query_id": "2869.jpg",
+      "FSC_point_count": 119,
+      "FSCD_box_count": 118
+    },
+    {
+      "query_id": "2870.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "2871.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 47
+    },
+    {
+      "query_id": "2875.jpg",
+      "FSC_point_count": 60,
+      "FSCD_box_count": 56
+    },
+    {
+      "query_id": "2878.jpg",
+      "FSC_point_count": 301,
+      "FSCD_box_count": 297
+    },
+    {
+      "query_id": "2879.jpg",
+      "FSC_point_count": 150,
+      "FSCD_box_count": 147
+    },
+    {
+      "query_id": "2880.jpg",
+      "FSC_point_count": 158,
+      "FSCD_box_count": 121
+    },
+    {
+      "query_id": "2881.jpg",
+      "FSC_point_count": 131,
+      "FSCD_box_count": 122
+    },
+    {
+      "query_id": "2884.jpg",
+      "FSC_point_count": 165,
+      "FSCD_box_count": 163
+    },
+    {
+      "query_id": "2888.jpg",
+      "FSC_point_count": 18,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "2890.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 29
+    },
+    {
+      "query_id": "2899.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "2903.jpg",
+      "FSC_point_count": 69,
+      "FSCD_box_count": 70
+    },
+    {
+      "query_id": "3425.jpg",
+      "FSC_point_count": 885,
+      "FSCD_box_count": 876
+    },
+    {
+      "query_id": "3428.jpg",
+      "FSC_point_count": 458,
+      "FSCD_box_count": 409
+    },
+    {
+      "query_id": "3433.jpg",
+      "FSC_point_count": 538,
+      "FSCD_box_count": 527
+    },
+    {
+      "query_id": "3435.jpg",
+      "FSC_point_count": 116,
+      "FSCD_box_count": 115
+    },
+    {
+      "query_id": "3436.jpg",
+      "FSC_point_count": 443,
+      "FSCD_box_count": 442
+    },
+    {
+      "query_id": "3437.jpg",
+      "FSC_point_count": 501,
+      "FSCD_box_count": 499
+    },
+    {
+      "query_id": "3438.jpg",
+      "FSC_point_count": 60,
+      "FSCD_box_count": 59
+    },
+    {
+      "query_id": "3476.jpg",
+      "FSC_point_count": 262,
+      "FSCD_box_count": 261
+    },
+    {
+      "query_id": "3477.jpg",
+      "FSC_point_count": 344,
+      "FSCD_box_count": 333
+    },
+    {
+      "query_id": "3481.jpg",
+      "FSC_point_count": 431,
+      "FSCD_box_count": 411
+    },
+    {
+      "query_id": "3482.jpg",
+      "FSC_point_count": 315,
+      "FSCD_box_count": 314
+    },
+    {
+      "query_id": "3483.jpg",
+      "FSC_point_count": 261,
+      "FSCD_box_count": 258
+    },
+    {
+      "query_id": "3484.jpg",
+      "FSC_point_count": 356,
+      "FSCD_box_count": 328
+    },
+    {
+      "query_id": "3487.jpg",
+      "FSC_point_count": 321,
+      "FSCD_box_count": 317
+    },
+    {
+      "query_id": "3488.jpg",
+      "FSC_point_count": 431,
+      "FSCD_box_count": 429
+    },
+    {
+      "query_id": "3489.jpg",
+      "FSC_point_count": 278,
+      "FSCD_box_count": 276
+    },
+    {
+      "query_id": "3527.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "3533.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "3538.jpg",
+      "FSC_point_count": 19,
+      "FSCD_box_count": 18
+    },
+    {
+      "query_id": "3547.jpg",
+      "FSC_point_count": 21,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "3559.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "3561.jpg",
+      "FSC_point_count": 19,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "3562.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "3564.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "3565.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "3568.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "3572.jpg",
+      "FSC_point_count": 30,
+      "FSCD_box_count": 29
+    },
+    {
+      "query_id": "3574.jpg",
+      "FSC_point_count": 42,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "3580.jpg",
+      "FSC_point_count": 11,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "3582.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "3583.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "3584.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "3586.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "3665.jpg",
+      "FSC_point_count": 907,
+      "FSCD_box_count": 877
+    },
+    {
+      "query_id": "3673.jpg",
+      "FSC_point_count": 46,
+      "FSCD_box_count": 43
+    },
+    {
+      "query_id": "3675.jpg",
+      "FSC_point_count": 10,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "3765.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "3773.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 13
+    },
+    {
+      "query_id": "3774.jpg",
+      "FSC_point_count": 31,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "3775.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "3870.jpg",
+      "FSC_point_count": 17,
+      "FSCD_box_count": 18
+    },
+    {
+      "query_id": "3871.jpg",
+      "FSC_point_count": 31,
+      "FSCD_box_count": 29
+    },
+    {
+      "query_id": "3872.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "3980.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "4091.jpg",
+      "FSC_point_count": 40,
+      "FSCD_box_count": 36
+    },
+    {
+      "query_id": "4098.jpg",
+      "FSC_point_count": 17,
+      "FSCD_box_count": 16
+    },
+    {
+      "query_id": "4105.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 13
+    },
+    {
+      "query_id": "4108.jpg",
+      "FSC_point_count": 49,
+      "FSCD_box_count": 50
+    },
+    {
+      "query_id": "4530.jpg",
+      "FSC_point_count": 44,
+      "FSCD_box_count": 43
+    },
+    {
+      "query_id": "4532.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "4535.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 19
+    },
+    {
+      "query_id": "4536.jpg",
+      "FSC_point_count": 27,
+      "FSCD_box_count": 25
+    },
+    {
+      "query_id": "4537.jpg",
+      "FSC_point_count": 51,
+      "FSCD_box_count": 49
+    },
+    {
+      "query_id": "4538.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "4548.jpg",
+      "FSC_point_count": 55,
+      "FSCD_box_count": 53
+    },
+    {
+      "query_id": "4555.jpg",
+      "FSC_point_count": 10,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "4556.jpg",
+      "FSC_point_count": 133,
+      "FSCD_box_count": 131
+    },
+    {
+      "query_id": "4557.jpg",
+      "FSC_point_count": 29,
+      "FSCD_box_count": 28
+    },
+    {
+      "query_id": "4564.jpg",
+      "FSC_point_count": 133,
+      "FSCD_box_count": 132
+    },
+    {
+      "query_id": "4565.jpg",
+      "FSC_point_count": 24,
+      "FSCD_box_count": 25
+    },
+    {
+      "query_id": "4566.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 36
+    },
+    {
+      "query_id": "4567.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "4571.jpg",
+      "FSC_point_count": 47,
+      "FSCD_box_count": 46
+    },
+    {
+      "query_id": "4573.jpg",
+      "FSC_point_count": 36,
+      "FSCD_box_count": 37
+    },
+    {
+      "query_id": "4574.jpg",
+      "FSC_point_count": 402,
+      "FSCD_box_count": 388
+    },
+    {
+      "query_id": "4575.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 23
+    },
+    {
+      "query_id": "4577.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 36
+    },
+    {
+      "query_id": "4580.jpg",
+      "FSC_point_count": 165,
+      "FSCD_box_count": 163
+    },
+    {
+      "query_id": "4588.jpg",
+      "FSC_point_count": 8,
+      "FSCD_box_count": 7
+    },
+    {
+      "query_id": "4589.jpg",
+      "FSC_point_count": 34,
+      "FSCD_box_count": 32
+    },
+    {
+      "query_id": "4594.jpg",
+      "FSC_point_count": 34,
+      "FSCD_box_count": 39
+    },
+    {
+      "query_id": "4597.jpg",
+      "FSC_point_count": 64,
+      "FSCD_box_count": 63
+    },
+    {
+      "query_id": "4599.jpg",
+      "FSC_point_count": 19,
+      "FSCD_box_count": 18
+    },
+    {
+      "query_id": "4604.jpg",
+      "FSC_point_count": 87,
+      "FSCD_box_count": 86
+    },
+    {
+      "query_id": "4606.jpg",
+      "FSC_point_count": 54,
+      "FSCD_box_count": 51
+    },
+    {
+      "query_id": "4709.jpg",
+      "FSC_point_count": 13,
+      "FSCD_box_count": 14
+    },
+    {
+      "query_id": "4718.jpg",
+      "FSC_point_count": 15,
+      "FSCD_box_count": 14
+    },
+    {
+      "query_id": "4732.jpg",
+      "FSC_point_count": 56,
+      "FSCD_box_count": 54
+    },
+    {
+      "query_id": "4734.jpg",
+      "FSC_point_count": 104,
+      "FSCD_box_count": 100
+    },
+    {
+      "query_id": "4741.jpg",
+      "FSC_point_count": 41,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "4744.jpg",
+      "FSC_point_count": 41,
+      "FSCD_box_count": 42
+    },
+    {
+      "query_id": "4745.jpg",
+      "FSC_point_count": 24,
+      "FSCD_box_count": 23
+    },
+    {
+      "query_id": "4747.jpg",
+      "FSC_point_count": 55,
+      "FSCD_box_count": 51
+    },
+    {
+      "query_id": "4749.jpg",
+      "FSC_point_count": 133,
+      "FSCD_box_count": 135
+    },
+    {
+      "query_id": "4751.jpg",
+      "FSC_point_count": 42,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "4755.jpg",
+      "FSC_point_count": 109,
+      "FSCD_box_count": 108
+    },
+    {
+      "query_id": "4763.jpg",
+      "FSC_point_count": 114,
+      "FSCD_box_count": 115
+    },
+    {
+      "query_id": "4764.jpg",
+      "FSC_point_count": 21,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "4796.jpg",
+      "FSC_point_count": 196,
+      "FSCD_box_count": 192
+    },
+    {
+      "query_id": "4797.jpg",
+      "FSC_point_count": 80,
+      "FSCD_box_count": 79
+    },
+    {
+      "query_id": "4799.jpg",
+      "FSC_point_count": 122,
+      "FSCD_box_count": 116
+    },
+    {
+      "query_id": "4803.jpg",
+      "FSC_point_count": 50,
+      "FSCD_box_count": 49
+    },
+    {
+      "query_id": "4806.jpg",
+      "FSC_point_count": 41,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "4808.jpg",
+      "FSC_point_count": 120,
+      "FSCD_box_count": 115
+    },
+    {
+      "query_id": "4809.jpg",
+      "FSC_point_count": 306,
+      "FSCD_box_count": 300
+    },
+    {
+      "query_id": "4810.jpg",
+      "FSC_point_count": 112,
+      "FSCD_box_count": 106
+    },
+    {
+      "query_id": "4811.jpg",
+      "FSC_point_count": 213,
+      "FSCD_box_count": 212
+    },
+    {
+      "query_id": "4813.jpg",
+      "FSC_point_count": 43,
+      "FSCD_box_count": 41
+    },
+    {
+      "query_id": "4817.jpg",
+      "FSC_point_count": 57,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "4818.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 36
+    },
+    {
+      "query_id": "4820.jpg",
+      "FSC_point_count": 144,
+      "FSCD_box_count": 143
+    },
+    {
+      "query_id": "4822.jpg",
+      "FSC_point_count": 29,
+      "FSCD_box_count": 28
+    },
+    {
+      "query_id": "4824.jpg",
+      "FSC_point_count": 49,
+      "FSCD_box_count": 51
+    },
+    {
+      "query_id": "4825.jpg",
+      "FSC_point_count": 36,
+      "FSCD_box_count": 35
+    },
+    {
+      "query_id": "4826.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "4827.jpg",
+      "FSC_point_count": 84,
+      "FSCD_box_count": 82
+    },
+    {
+      "query_id": "4828.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "4829.jpg",
+      "FSC_point_count": 40,
+      "FSCD_box_count": 39
+    },
+    {
+      "query_id": "4830.jpg",
+      "FSC_point_count": 90,
+      "FSCD_box_count": 89
+    },
+    {
+      "query_id": "4831.jpg",
+      "FSC_point_count": 122,
+      "FSCD_box_count": 116
+    },
+    {
+      "query_id": "4835.jpg",
+      "FSC_point_count": 65,
+      "FSCD_box_count": 63
+    },
+    {
+      "query_id": "4836.jpg",
+      "FSC_point_count": 42,
+      "FSCD_box_count": 43
+    },
+    {
+      "query_id": "4837.jpg",
+      "FSC_point_count": 26,
+      "FSCD_box_count": 25
+    },
+    {
+      "query_id": "4842.jpg",
+      "FSC_point_count": 122,
+      "FSCD_box_count": 121
+    },
+    {
+      "query_id": "4846.jpg",
+      "FSC_point_count": 55,
+      "FSCD_box_count": 54
+    },
+    {
+      "query_id": "4847.jpg",
+      "FSC_point_count": 61,
+      "FSCD_box_count": 60
+    },
+    {
+      "query_id": "4848.jpg",
+      "FSC_point_count": 80,
+      "FSCD_box_count": 79
+    },
+    {
+      "query_id": "4849.jpg",
+      "FSC_point_count": 121,
+      "FSCD_box_count": 120
+    },
+    {
+      "query_id": "4850.jpg",
+      "FSC_point_count": 101,
+      "FSCD_box_count": 100
+    },
+    {
+      "query_id": "4851.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 33
+    },
+    {
+      "query_id": "4853.jpg",
+      "FSC_point_count": 50,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "5046.jpg",
+      "FSC_point_count": 215,
+      "FSCD_box_count": 212
+    },
+    {
+      "query_id": "5059.jpg",
+      "FSC_point_count": 286,
+      "FSCD_box_count": 284
+    },
+    {
+      "query_id": "5060.jpg",
+      "FSC_point_count": 98,
+      "FSCD_box_count": 97
+    },
+    {
+      "query_id": "5075.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "5077.jpg",
+      "FSC_point_count": 52,
+      "FSCD_box_count": 51
+    },
+    {
+      "query_id": "5080.jpg",
+      "FSC_point_count": 51,
+      "FSCD_box_count": 50
+    },
+    {
+      "query_id": "5086.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "5088.jpg",
+      "FSC_point_count": 24,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "5090.jpg",
+      "FSC_point_count": 14,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "5102.jpg",
+      "FSC_point_count": 21,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "5106.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "5112.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "5151.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "5154.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 31
+    },
+    {
+      "query_id": "5157.jpg",
+      "FSC_point_count": 31,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "5222.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 13
+    },
+    {
+      "query_id": "5225.jpg",
+      "FSC_point_count": 38,
+      "FSCD_box_count": 37
+    },
+    {
+      "query_id": "5227.jpg",
+      "FSC_point_count": 54,
+      "FSCD_box_count": 55
+    },
+    {
+      "query_id": "5664.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "5736.jpg",
+      "FSC_point_count": 239,
+      "FSCD_box_count": 237
+    },
+    {
+      "query_id": "5737.jpg",
+      "FSC_point_count": 103,
+      "FSCD_box_count": 101
+    },
+    {
+      "query_id": "5738.jpg",
+      "FSC_point_count": 27,
+      "FSCD_box_count": 28
+    },
+    {
+      "query_id": "5740.jpg",
+      "FSC_point_count": 87,
+      "FSCD_box_count": 85
+    },
+    {
+      "query_id": "5745.jpg",
+      "FSC_point_count": 146,
+      "FSCD_box_count": 145
+    },
+    {
+      "query_id": "5747.jpg",
+      "FSC_point_count": 100,
+      "FSCD_box_count": 99
+    },
+    {
+      "query_id": "5748.jpg",
+      "FSC_point_count": 74,
+      "FSCD_box_count": 72
+    },
+    {
+      "query_id": "5857.jpg",
+      "FSC_point_count": 44,
+      "FSCD_box_count": 43
+    },
+    {
+      "query_id": "5858.jpg",
+      "FSC_point_count": 170,
+      "FSCD_box_count": 171
+    },
+    {
+      "query_id": "5860.jpg",
+      "FSC_point_count": 757,
+      "FSCD_box_count": 659
+    },
+    {
+      "query_id": "5862.jpg",
+      "FSC_point_count": 58,
+      "FSCD_box_count": 60
+    },
+    {
+      "query_id": "5863.jpg",
+      "FSC_point_count": 76,
+      "FSCD_box_count": 74
+    },
+    {
+      "query_id": "5864.jpg",
+      "FSC_point_count": 81,
+      "FSCD_box_count": 82
+    },
+    {
+      "query_id": "5865.jpg",
+      "FSC_point_count": 114,
+      "FSCD_box_count": 109
+    },
+    {
+      "query_id": "5866.jpg",
+      "FSC_point_count": 267,
+      "FSCD_box_count": 263
+    },
+    {
+      "query_id": "5871.jpg",
+      "FSC_point_count": 53,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "5872.jpg",
+      "FSC_point_count": 116,
+      "FSCD_box_count": 112
+    },
+    {
+      "query_id": "5873.jpg",
+      "FSC_point_count": 69,
+      "FSCD_box_count": 68
+    },
+    {
+      "query_id": "5874.jpg",
+      "FSC_point_count": 124,
+      "FSCD_box_count": 122
+    },
+    {
+      "query_id": "5875.jpg",
+      "FSC_point_count": 74,
+      "FSCD_box_count": 71
+    },
+    {
+      "query_id": "5876.jpg",
+      "FSC_point_count": 216,
+      "FSCD_box_count": 212
+    },
+    {
+      "query_id": "5880.jpg",
+      "FSC_point_count": 30,
+      "FSCD_box_count": 29
+    },
+    {
+      "query_id": "5881.jpg",
+      "FSC_point_count": 99,
+      "FSCD_box_count": 98
+    },
+    {
+      "query_id": "5882.jpg",
+      "FSC_point_count": 47,
+      "FSCD_box_count": 48
+    },
+    {
+      "query_id": "5883.jpg",
+      "FSC_point_count": 69,
+      "FSCD_box_count": 67
+    },
+    {
+      "query_id": "5884.jpg",
+      "FSC_point_count": 41,
+      "FSCD_box_count": 40
+    },
+    {
+      "query_id": "5885.jpg",
+      "FSC_point_count": 115,
+      "FSCD_box_count": 116
+    },
+    {
+      "query_id": "5888.jpg",
+      "FSC_point_count": 84,
+      "FSCD_box_count": 83
+    },
+    {
+      "query_id": "5891.jpg",
+      "FSC_point_count": 89,
+      "FSCD_box_count": 87
+    },
+    {
+      "query_id": "5892.jpg",
+      "FSC_point_count": 103,
+      "FSCD_box_count": 101
+    },
+    {
+      "query_id": "5896.jpg",
+      "FSC_point_count": 55,
+      "FSCD_box_count": 54
+    },
+    {
+      "query_id": "5897.jpg",
+      "FSC_point_count": 109,
+      "FSCD_box_count": 108
+    },
+    {
+      "query_id": "5900.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "5901.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 50
+    },
+    {
+      "query_id": "5902.jpg",
+      "FSC_point_count": 209,
+      "FSCD_box_count": 208
+    },
+    {
+      "query_id": "5904.jpg",
+      "FSC_point_count": 33,
+      "FSCD_box_count": 34
+    },
+    {
+      "query_id": "5908.jpg",
+      "FSC_point_count": 116,
+      "FSCD_box_count": 115
+    },
+    {
+      "query_id": "5913.jpg",
+      "FSC_point_count": 123,
+      "FSCD_box_count": 122
+    },
+    {
+      "query_id": "5914.jpg",
+      "FSC_point_count": 63,
+      "FSCD_box_count": 65
+    },
+    {
+      "query_id": "5948.jpg",
+      "FSC_point_count": 55,
+      "FSCD_box_count": 54
+    },
+    {
+      "query_id": "6057.jpg",
+      "FSC_point_count": 49,
+      "FSCD_box_count": 48
+    },
+    {
+      "query_id": "6058.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "6063.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "6064.jpg",
+      "FSC_point_count": 33,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "6065.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 11
+    },
+    {
+      "query_id": "6067.jpg",
+      "FSC_point_count": 53,
+      "FSCD_box_count": 52
+    },
+    {
+      "query_id": "6069.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 17
+    },
+    {
+      "query_id": "6075.jpg",
+      "FSC_point_count": 98,
+      "FSCD_box_count": 97
+    },
+    {
+      "query_id": "6078.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 33
+    },
+    {
+      "query_id": "6080.jpg",
+      "FSC_point_count": 277,
+      "FSCD_box_count": 274
+    },
+    {
+      "query_id": "6084.jpg",
+      "FSC_point_count": 30,
+      "FSCD_box_count": 29
+    },
+    {
+      "query_id": "6089.jpg",
+      "FSC_point_count": 19,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "6103.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 31
+    },
+    {
+      "query_id": "6109.jpg",
+      "FSC_point_count": 32,
+      "FSCD_box_count": 31
+    },
+    {
+      "query_id": "6111.jpg",
+      "FSC_point_count": 46,
+      "FSCD_box_count": 47
+    },
+    {
+      "query_id": "6121.jpg",
+      "FSC_point_count": 14,
+      "FSCD_box_count": 13
+    },
+    {
+      "query_id": "6286.jpg",
+      "FSC_point_count": 49,
+      "FSCD_box_count": 50
+    },
+    {
+      "query_id": "6289.jpg",
+      "FSC_point_count": 16,
+      "FSCD_box_count": 15
+    },
+    {
+      "query_id": "6290.jpg",
+      "FSC_point_count": 31,
+      "FSCD_box_count": 30
+    },
+    {
+      "query_id": "6294.jpg",
+      "FSC_point_count": 50,
+      "FSCD_box_count": 48
+    },
+    {
+      "query_id": "6296.jpg",
+      "FSC_point_count": 33,
+      "FSCD_box_count": 34
+    },
+    {
+      "query_id": "7532.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "7390.jpg",
+      "FSC_point_count": 177,
+      "FSCD_box_count": 176
+    },
+    {
+      "query_id": "7143.jpg",
+      "FSC_point_count": 121,
+      "FSCD_box_count": 119
+    },
+    {
+      "query_id": "7537.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "6897.jpg",
+      "FSC_point_count": 59,
+      "FSCD_box_count": 58
+    },
+    {
+      "query_id": "7088.jpg",
+      "FSC_point_count": 110,
+      "FSCD_box_count": 108
+    },
+    {
+      "query_id": "7545.jpg",
+      "FSC_point_count": 106,
+      "FSCD_box_count": 107
+    },
+    {
+      "query_id": "7269.jpg",
+      "FSC_point_count": 73,
+      "FSCD_box_count": 65
+    },
+    {
+      "query_id": "7148.jpg",
+      "FSC_point_count": 67,
+      "FSCD_box_count": 65
+    },
+    {
+      "query_id": "7197.jpg",
+      "FSC_point_count": 79,
+      "FSCD_box_count": 77
+    },
+    {
+      "query_id": "7601.jpg",
+      "FSC_point_count": 142,
+      "FSCD_box_count": 140
+    },
+    {
+      "query_id": "7257.jpg",
+      "FSC_point_count": 33,
+      "FSCD_box_count": 35
+    },
+    {
+      "query_id": "7069.jpg",
+      "FSC_point_count": 142,
+      "FSCD_box_count": 147
+    },
+    {
+      "query_id": "7029.jpg",
+      "FSC_point_count": 199,
+      "FSCD_box_count": 197
+    },
+    {
+      "query_id": "7651.jpg",
+      "FSC_point_count": 75,
+      "FSCD_box_count": 77
+    },
+    {
+      "query_id": "7558.jpg",
+      "FSC_point_count": 37,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "7003.jpg",
+      "FSC_point_count": 182,
+      "FSCD_box_count": 170
+    },
+    {
+      "query_id": "7434.jpg",
+      "FSC_point_count": 169,
+      "FSCD_box_count": 165
+    },
+    {
+      "query_id": "6729.jpg",
+      "FSC_point_count": 251,
+      "FSCD_box_count": 249
+    },
+    {
+      "query_id": "7656.jpg",
+      "FSC_point_count": 1231,
+      "FSCD_box_count": 1229
+    },
+    {
+      "query_id": "6775.jpg",
+      "FSC_point_count": 191,
+      "FSCD_box_count": 192
+    },
+    {
+      "query_id": "7223.jpg",
+      "FSC_point_count": 105,
+      "FSCD_box_count": 104
+    },
+    {
+      "query_id": "6741.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 21
+    },
+    {
+      "query_id": "7028.jpg",
+      "FSC_point_count": 214,
+      "FSCD_box_count": 216
+    },
+    {
+      "query_id": "7435.jpg",
+      "FSC_point_count": 40,
+      "FSCD_box_count": 39
+    },
+    {
+      "query_id": "6926.jpg",
+      "FSC_point_count": 238,
+      "FSCD_box_count": 237
+    },
+    {
+      "query_id": "6796.jpg",
+      "FSC_point_count": 12,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "7421.jpg",
+      "FSC_point_count": 10,
+      "FSCD_box_count": 9
+    },
+    {
+      "query_id": "6814.jpg",
+      "FSC_point_count": 28,
+      "FSCD_box_count": 26
+    },
+    {
+      "query_id": "6751.jpg",
+      "FSC_point_count": 142,
+      "FSCD_box_count": 141
+    },
+    {
+      "query_id": "7224.jpg",
+      "FSC_point_count": 50,
+      "FSCD_box_count": 49
+    },
+    {
+      "query_id": "6886.jpg",
+      "FSC_point_count": 84,
+      "FSCD_box_count": 76
+    },
+    {
+      "query_id": "7423.jpg",
+      "FSC_point_count": 138,
+      "FSCD_box_count": 134
+    },
+    {
+      "query_id": "7305.jpg",
+      "FSC_point_count": 31,
+      "FSCD_box_count": 29
+    },
+    {
+      "query_id": "6764.jpg",
+      "FSC_point_count": 112,
+      "FSCD_box_count": 111
+    },
+    {
+      "query_id": "7477.jpg",
+      "FSC_point_count": 60,
+      "FSCD_box_count": 59
+    },
+    {
+      "query_id": "6931.jpg",
+      "FSC_point_count": 355,
+      "FSCD_box_count": 352
+    },
+    {
+      "query_id": "7033.jpg",
+      "FSC_point_count": 83,
+      "FSCD_box_count": 81
+    },
+    {
+      "query_id": "6969.jpg",
+      "FSC_point_count": 949,
+      "FSCD_box_count": 887
+    },
+    {
+      "query_id": "7691.jpg",
+      "FSC_point_count": 43,
+      "FSCD_box_count": 41
+    },
+    {
+      "query_id": "7019.jpg",
+      "FSC_point_count": 65,
+      "FSCD_box_count": 66
+    },
+    {
+      "query_id": "7051.jpg",
+      "FSC_point_count": 48,
+      "FSCD_box_count": 47
+    },
+    {
+      "query_id": "7367.jpg",
+      "FSC_point_count": 27,
+      "FSCD_box_count": 24
+    },
+    {
+      "query_id": "7503.jpg",
+      "FSC_point_count": 22,
+      "FSCD_box_count": 20
+    },
+    {
+      "query_id": "6983.jpg",
+      "FSC_point_count": 40,
+      "FSCD_box_count": 39
+    },
+    {
+      "query_id": "6911.jpg",
+      "FSC_point_count": 39,
+      "FSCD_box_count": 38
+    },
+    {
+      "query_id": "6955.jpg",
+      "FSC_point_count": 25,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "7265.jpg",
+      "FSC_point_count": 42,
+      "FSCD_box_count": 43
+    },
+    {
+      "query_id": "7024.jpg",
+      "FSC_point_count": 68,
+      "FSCD_box_count": 65
+    },
+    {
+      "query_id": "7549.jpg",
+      "FSC_point_count": 76,
+      "FSCD_box_count": 6
+    },
+    {
+      "query_id": "7316.jpg",
+      "FSC_point_count": 68,
+      "FSCD_box_count": 64
+    },
+    {
+      "query_id": "6835.jpg",
+      "FSC_point_count": 138,
+      "FSCD_box_count": 136
+    },
+    {
+      "query_id": "7600.jpg",
+      "FSC_point_count": 452,
+      "FSCD_box_count": 460
+    },
+    {
+      "query_id": "7593.jpg",
+      "FSC_point_count": 274,
+      "FSCD_box_count": 272
+    },
+    {
+      "query_id": "7610.jpg",
+      "FSC_point_count": 20,
+      "FSCD_box_count": 18
+    },
+    {
+      "query_id": "7504.jpg",
+      "FSC_point_count": 23,
+      "FSCD_box_count": 22
+    },
+    {
+      "query_id": "7013.jpg",
+      "FSC_point_count": 139,
+      "FSCD_box_count": 137
+    },
+    {
+      "query_id": "7436.jpg",
+      "FSC_point_count": 283,
+      "FSCD_box_count": 281
+    },
+    {
+      "query_id": "7659.jpg",
+      "FSC_point_count": 198,
+      "FSCD_box_count": 197
+    },
+    {
+      "query_id": "7315.jpg",
+      "FSC_point_count": 71,
+      "FSCD_box_count": 73
+    },
+    {
+      "query_id": "6772.jpg",
+      "FSC_point_count": 68,
+      "FSCD_box_count": 70
+    },
+    {
+      "query_id": "7266.jpg",
+      "FSC_point_count": 118,
+      "FSCD_box_count": 119
+    },
+    {
+      "query_id": "7226.jpg",
+      "FSC_point_count": 74,
+      "FSCD_box_count": 73
+    },
+    {
+      "query_id": "7060.jpg",
+      "FSC_point_count": 65,
+      "FSCD_box_count": 66
+    },
+    {
+      "query_id": "7481.jpg",
+      "FSC_point_count": 27,
+      "FSCD_box_count": 26
+    },
+    {
+      "query_id": "7293.jpg",
+      "FSC_point_count": 69,
+      "FSCD_box_count": 71
+    },
+    {
+      "query_id": "7466.jpg",
+      "FSC_point_count": 116,
+      "FSCD_box_count": 111
+    },
+    {
+      "query_id": "6865.jpg",
+      "FSC_point_count": 162,
+      "FSCD_box_count": 158
+    },
+    {
+      "query_id": "7566.jpg",
+      "FSC_point_count": 99,
+      "FSCD_box_count": 104
+    },
+    {
+      "query_id": "6798.jpg",
+      "FSC_point_count": 87,
+      "FSCD_box_count": 89
+    }
+  ],
+  "records": [
+    {
+      "query_id": "236.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 11,
+      "saved_detection_count": 38,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 27,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "0486036e0629856bf7967b01e236a6e26c28d7de8d4b2c72d3404c03de050a7d"
+    },
+    {
+      "query_id": "236.jpg",
+      "method": "GeCo2_global",
+      "native_count": 11,
+      "saved_detection_count": 36,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 25,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "0486036e0629856bf7967b01e236a6e26c28d7de8d4b2c72d3404c03de050a7d"
+    },
+    {
+      "query_id": "745.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 60,
+      "saved_detection_count": 150,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 2,
+      "boxes_containing_no_native_point": 71,
+      "excess_single_point_boxes_for_same_native_point": 19,
+      "native_points_sha256": "a9ea8124445dd115b86f300ec368305f3506bcceb7ced9042c540fd00e4244ac"
+    },
+    {
+      "query_id": "745.jpg",
+      "method": "GeCo2_global",
+      "native_count": 60,
+      "saved_detection_count": 82,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 10,
+      "boxes_containing_no_native_point": 26,
+      "excess_single_point_boxes_for_same_native_point": 2,
+      "native_points_sha256": "a9ea8124445dd115b86f300ec368305f3506bcceb7ced9042c540fd00e4244ac"
+    },
+    {
+      "query_id": "840.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 637,
+      "saved_detection_count": 358,
+      "uncovered_native_points": 93,
+      "boxes_containing_multiple_native_points": 328,
+      "boxes_containing_no_native_point": 2,
+      "excess_single_point_boxes_for_same_native_point": 2,
+      "native_points_sha256": "6f4c3ebfa250a5dbea9516f880589440f12b427d5cc018d17d193bc193a12e14"
+    },
+    {
+      "query_id": "840.jpg",
+      "method": "GeCo2_global",
+      "native_count": 637,
+      "saved_detection_count": 802,
+      "uncovered_native_points": 26,
+      "boxes_containing_multiple_native_points": 222,
+      "boxes_containing_no_native_point": 59,
+      "excess_single_point_boxes_for_same_native_point": 117,
+      "native_points_sha256": "6f4c3ebfa250a5dbea9516f880589440f12b427d5cc018d17d193bc193a12e14"
+    },
+    {
+      "query_id": "861.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 65,
+      "saved_detection_count": 48,
+      "uncovered_native_points": 4,
+      "boxes_containing_multiple_native_points": 30,
+      "boxes_containing_no_native_point": 3,
+      "excess_single_point_boxes_for_same_native_point": 2,
+      "native_points_sha256": "abca0eb68189cc3f0e6f71c46c608425561f95cc35322eb3ecbc1b4c3e7d56bf"
+    },
+    {
+      "query_id": "861.jpg",
+      "method": "GeCo2_global",
+      "native_count": 65,
+      "saved_detection_count": 33,
+      "uncovered_native_points": 17,
+      "boxes_containing_multiple_native_points": 16,
+      "boxes_containing_no_native_point": 17,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "abca0eb68189cc3f0e6f71c46c608425561f95cc35322eb3ecbc1b4c3e7d56bf"
+    },
+    {
+      "query_id": "865.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 1022,
+      "saved_detection_count": 632,
+      "uncovered_native_points": 6,
+      "boxes_containing_multiple_native_points": 551,
+      "boxes_containing_no_native_point": 18,
+      "excess_single_point_boxes_for_same_native_point": 5,
+      "native_points_sha256": "ca972a90dbf22158036b6884bb353a2723175c604756d19352db5f8f286ac60d"
+    },
+    {
+      "query_id": "865.jpg",
+      "method": "GeCo2_global",
+      "native_count": 1022,
+      "saved_detection_count": 790,
+      "uncovered_native_points": 245,
+      "boxes_containing_multiple_native_points": 404,
+      "boxes_containing_no_native_point": 229,
+      "excess_single_point_boxes_for_same_native_point": 21,
+      "native_points_sha256": "ca972a90dbf22158036b6884bb353a2723175c604756d19352db5f8f286ac60d"
+    },
+    {
+      "query_id": "876.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 207,
+      "saved_detection_count": 125,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 102,
+      "boxes_containing_no_native_point": 1,
+      "excess_single_point_boxes_for_same_native_point": 3,
+      "native_points_sha256": "90c8a9f555b5994485a3e82e7b2e81ea2055aa65a3f542113c04b0547c9f3111"
+    },
+    {
+      "query_id": "876.jpg",
+      "method": "GeCo2_global",
+      "native_count": 207,
+      "saved_detection_count": 43,
+      "uncovered_native_points": 162,
+      "boxes_containing_multiple_native_points": 18,
+      "boxes_containing_no_native_point": 21,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "90c8a9f555b5994485a3e82e7b2e81ea2055aa65a3f542113c04b0547c9f3111"
+    },
+    {
+      "query_id": "957.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 530,
+      "saved_detection_count": 647,
+      "uncovered_native_points": 15,
+      "boxes_containing_multiple_native_points": 119,
+      "boxes_containing_no_native_point": 64,
+      "excess_single_point_boxes_for_same_native_point": 74,
+      "native_points_sha256": "a4d6a9b791a2104d06438e3c538e50c7d6e90bfb77128a0198d21ce5464662c7"
+    },
+    {
+      "query_id": "957.jpg",
+      "method": "GeCo2_global",
+      "native_count": 530,
+      "saved_detection_count": 363,
+      "uncovered_native_points": 107,
+      "boxes_containing_multiple_native_points": 168,
+      "boxes_containing_no_native_point": 10,
+      "excess_single_point_boxes_for_same_native_point": 14,
+      "native_points_sha256": "a4d6a9b791a2104d06438e3c538e50c7d6e90bfb77128a0198d21ce5464662c7"
+    },
+    {
+      "query_id": "1397.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 166,
+      "saved_detection_count": 130,
+      "uncovered_native_points": 4,
+      "boxes_containing_multiple_native_points": 60,
+      "boxes_containing_no_native_point": 3,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "8f6606a4cf56e4bc8053987a3514f6932edd0a04092621ce44001c48adf9a0ce"
+    },
+    {
+      "query_id": "1397.jpg",
+      "method": "GeCo2_global",
+      "native_count": 166,
+      "saved_detection_count": 105,
+      "uncovered_native_points": 13,
+      "boxes_containing_multiple_native_points": 57,
+      "boxes_containing_no_native_point": 2,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "8f6606a4cf56e4bc8053987a3514f6932edd0a04092621ce44001c48adf9a0ce"
+    },
+    {
+      "query_id": "1915.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 684,
+      "saved_detection_count": 523,
+      "uncovered_native_points": 24,
+      "boxes_containing_multiple_native_points": 193,
+      "boxes_containing_no_native_point": 9,
+      "excess_single_point_boxes_for_same_native_point": 6,
+      "native_points_sha256": "fc1cf2b8effc8bc58c0ef2680d7d14b6aa88e6a7616341815d4fd8163edf1323"
+    },
+    {
+      "query_id": "1915.jpg",
+      "method": "GeCo2_global",
+      "native_count": 684,
+      "saved_detection_count": 387,
+      "uncovered_native_points": 63,
+      "boxes_containing_multiple_native_points": 228,
+      "boxes_containing_no_native_point": 5,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "fc1cf2b8effc8bc58c0ef2680d7d14b6aa88e6a7616341815d4fd8163edf1323"
+    },
+    {
+      "query_id": "1927.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 68,
+      "saved_detection_count": 82,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 12,
+      "boxes_containing_no_native_point": 15,
+      "excess_single_point_boxes_for_same_native_point": 3,
+      "native_points_sha256": "3cfe213fecad9712f37f0013d03a31879f07030a978874424c8ec90769ac88fd"
+    },
+    {
+      "query_id": "1927.jpg",
+      "method": "GeCo2_global",
+      "native_count": 68,
+      "saved_detection_count": 54,
+      "uncovered_native_points": 8,
+      "boxes_containing_multiple_native_points": 14,
+      "boxes_containing_no_native_point": 6,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "3cfe213fecad9712f37f0013d03a31879f07030a978874424c8ec90769ac88fd"
+    },
+    {
+      "query_id": "1994.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 313,
+      "saved_detection_count": 383,
+      "uncovered_native_points": 6,
+      "boxes_containing_multiple_native_points": 45,
+      "boxes_containing_no_native_point": 71,
+      "excess_single_point_boxes_for_same_native_point": 11,
+      "native_points_sha256": "f9438f61653352ba4e423c9574c88f798b22e3294ea938ef1d16dffe5ceead81"
+    },
+    {
+      "query_id": "1994.jpg",
+      "method": "GeCo2_global",
+      "native_count": 313,
+      "saved_detection_count": 377,
+      "uncovered_native_points": 5,
+      "boxes_containing_multiple_native_points": 43,
+      "boxes_containing_no_native_point": 54,
+      "excess_single_point_boxes_for_same_native_point": 13,
+      "native_points_sha256": "f9438f61653352ba4e423c9574c88f798b22e3294ea938ef1d16dffe5ceead81"
+    },
+    {
+      "query_id": "1999.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 83,
+      "saved_detection_count": 105,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 22,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "9fdd407222daa40024de4145c1f3d73e92106e792e2ec8859dfd7cd5647444af"
+    },
+    {
+      "query_id": "1999.jpg",
+      "method": "GeCo2_global",
+      "native_count": 83,
+      "saved_detection_count": 100,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 17,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "9fdd407222daa40024de4145c1f3d73e92106e792e2ec8859dfd7cd5647444af"
+    },
+    {
+      "query_id": "2316.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 58,
+      "saved_detection_count": 82,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 16,
+      "boxes_containing_no_native_point": 15,
+      "excess_single_point_boxes_for_same_native_point": 6,
+      "native_points_sha256": "9f921dbb06048fabb6c01c3edc317dbbd3cbd40d4baa4b27636f9a97134271b6"
+    },
+    {
+      "query_id": "2316.jpg",
+      "method": "GeCo2_global",
+      "native_count": 58,
+      "saved_detection_count": 87,
+      "uncovered_native_points": 2,
+      "boxes_containing_multiple_native_points": 20,
+      "boxes_containing_no_native_point": 23,
+      "excess_single_point_boxes_for_same_native_point": 4,
+      "native_points_sha256": "9f921dbb06048fabb6c01c3edc317dbbd3cbd40d4baa4b27636f9a97134271b6"
+    },
+    {
+      "query_id": "2404.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 9,
+      "saved_detection_count": 19,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 7,
+      "boxes_containing_no_native_point": 11,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "1e06139e55be7e22d5fab9cf767ea4095481df1dba85c918e1d58976595f0873"
+    },
+    {
+      "query_id": "2404.jpg",
+      "method": "GeCo2_global",
+      "native_count": 9,
+      "saved_detection_count": 34,
+      "uncovered_native_points": 4,
+      "boxes_containing_multiple_native_points": 1,
+      "boxes_containing_no_native_point": 29,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "1e06139e55be7e22d5fab9cf767ea4095481df1dba85c918e1d58976595f0873"
+    },
+    {
+      "query_id": "2809.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 45,
+      "saved_detection_count": 58,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 8,
+      "excess_single_point_boxes_for_same_native_point": 5,
+      "native_points_sha256": "a93e26198520b0c0739f6421f7854ff38f69a831570e1cc7e3609047e76f6e83"
+    },
+    {
+      "query_id": "2809.jpg",
+      "method": "GeCo2_global",
+      "native_count": 45,
+      "saved_detection_count": 62,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 10,
+      "boxes_containing_no_native_point": 15,
+      "excess_single_point_boxes_for_same_native_point": 3,
+      "native_points_sha256": "a93e26198520b0c0739f6421f7854ff38f69a831570e1cc7e3609047e76f6e83"
+    },
+    {
+      "query_id": "2827.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 140,
+      "saved_detection_count": 181,
+      "uncovered_native_points": 2,
+      "boxes_containing_multiple_native_points": 52,
+      "boxes_containing_no_native_point": 52,
+      "excess_single_point_boxes_for_same_native_point": 1,
+      "native_points_sha256": "1e0753e89e1563cb4b8bd2d3b350d46847a3cf946ea9f4921e9c0a670b2f6586"
+    },
+    {
+      "query_id": "2827.jpg",
+      "method": "GeCo2_global",
+      "native_count": 140,
+      "saved_detection_count": 107,
+      "uncovered_native_points": 20,
+      "boxes_containing_multiple_native_points": 41,
+      "boxes_containing_no_native_point": 23,
+      "excess_single_point_boxes_for_same_native_point": 2,
+      "native_points_sha256": "1e0753e89e1563cb4b8bd2d3b350d46847a3cf946ea9f4921e9c0a670b2f6586"
+    },
+    {
+      "query_id": "2850.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 287,
+      "saved_detection_count": 218,
+      "uncovered_native_points": 57,
+      "boxes_containing_multiple_native_points": 98,
+      "boxes_containing_no_native_point": 39,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "02a30925714792048aa3364636ebe57b2ab0b752a036b351be69200339e53020"
+    },
+    {
+      "query_id": "2850.jpg",
+      "method": "GeCo2_global",
+      "native_count": 287,
+      "saved_detection_count": 116,
+      "uncovered_native_points": 70,
+      "boxes_containing_multiple_native_points": 45,
+      "boxes_containing_no_native_point": 34,
+      "excess_single_point_boxes_for_same_native_point": 5,
+      "native_points_sha256": "02a30925714792048aa3364636ebe57b2ab0b752a036b351be69200339e53020"
+    },
+    {
+      "query_id": "2858.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 131,
+      "saved_detection_count": 173,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 1,
+      "boxes_containing_no_native_point": 36,
+      "excess_single_point_boxes_for_same_native_point": 6,
+      "native_points_sha256": "cf60525837a5e81bf32e11179afbc8ed417bd5054cd597eb5e2d232ee1f74fc1"
+    },
+    {
+      "query_id": "2858.jpg",
+      "method": "GeCo2_global",
+      "native_count": 131,
+      "saved_detection_count": 238,
+      "uncovered_native_points": 4,
+      "boxes_containing_multiple_native_points": 1,
+      "boxes_containing_no_native_point": 110,
+      "excess_single_point_boxes_for_same_native_point": 1,
+      "native_points_sha256": "cf60525837a5e81bf32e11179afbc8ed417bd5054cd597eb5e2d232ee1f74fc1"
+    },
+    {
+      "query_id": "2861.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 40,
+      "saved_detection_count": 60,
+      "uncovered_native_points": 2,
+      "boxes_containing_multiple_native_points": 7,
+      "boxes_containing_no_native_point": 17,
+      "excess_single_point_boxes_for_same_native_point": 3,
+      "native_points_sha256": "4dcbbf23e3a20663ded7d0d62740162c070075ce65f49557cd0642a25db1f5a0"
+    },
+    {
+      "query_id": "2861.jpg",
+      "method": "GeCo2_global",
+      "native_count": 40,
+      "saved_detection_count": 51,
+      "uncovered_native_points": 3,
+      "boxes_containing_multiple_native_points": 15,
+      "boxes_containing_no_native_point": 10,
+      "excess_single_point_boxes_for_same_native_point": 3,
+      "native_points_sha256": "4dcbbf23e3a20663ded7d0d62740162c070075ce65f49557cd0642a25db1f5a0"
+    },
+    {
+      "query_id": "2875.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 60,
+      "saved_detection_count": 88,
+      "uncovered_native_points": 13,
+      "boxes_containing_multiple_native_points": 10,
+      "boxes_containing_no_native_point": 37,
+      "excess_single_point_boxes_for_same_native_point": 6,
+      "native_points_sha256": "cfdd678d7e39240696d2676206e5f84f866bade8c46929e3b885c6f4447947cd"
+    },
+    {
+      "query_id": "2875.jpg",
+      "method": "GeCo2_global",
+      "native_count": 60,
+      "saved_detection_count": 76,
+      "uncovered_native_points": 22,
+      "boxes_containing_multiple_native_points": 7,
+      "boxes_containing_no_native_point": 32,
+      "excess_single_point_boxes_for_same_native_point": 7,
+      "native_points_sha256": "cfdd678d7e39240696d2676206e5f84f866bade8c46929e3b885c6f4447947cd"
+    },
+    {
+      "query_id": "2903.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 69,
+      "saved_detection_count": 21,
+      "uncovered_native_points": 69,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 21,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "afdd0942fb0aa5cc263df122125fde960c348e1d0b4d531a028579a49fabd46e"
+    },
+    {
+      "query_id": "2903.jpg",
+      "method": "GeCo2_global",
+      "native_count": 69,
+      "saved_detection_count": 46,
+      "uncovered_native_points": 17,
+      "boxes_containing_multiple_native_points": 31,
+      "boxes_containing_no_native_point": 12,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "afdd0942fb0aa5cc263df122125fde960c348e1d0b4d531a028579a49fabd46e"
+    },
+    {
+      "query_id": "3483.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 261,
+      "saved_detection_count": 127,
+      "uncovered_native_points": 128,
+      "boxes_containing_multiple_native_points": 11,
+      "boxes_containing_no_native_point": 3,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "a52cafa3f9c21314ba75e284658f4986eb8f559120284950b3c86ddc6d7c8e45"
+    },
+    {
+      "query_id": "3483.jpg",
+      "method": "GeCo2_global",
+      "native_count": 261,
+      "saved_detection_count": 121,
+      "uncovered_native_points": 135,
+      "boxes_containing_multiple_native_points": 20,
+      "boxes_containing_no_native_point": 3,
+      "excess_single_point_boxes_for_same_native_point": 1,
+      "native_points_sha256": "a52cafa3f9c21314ba75e284658f4986eb8f559120284950b3c86ddc6d7c8e45"
+    },
+    {
+      "query_id": "5151.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 32,
+      "saved_detection_count": 50,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 12,
+      "boxes_containing_no_native_point": 29,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "d7c39cd71d2ca23cddbdde84e02193da9b8e2a4dd4a7235b8c55c64113ef5815"
+    },
+    {
+      "query_id": "5151.jpg",
+      "method": "GeCo2_global",
+      "native_count": 32,
+      "saved_detection_count": 110,
+      "uncovered_native_points": 2,
+      "boxes_containing_multiple_native_points": 2,
+      "boxes_containing_no_native_point": 82,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "d7c39cd71d2ca23cddbdde84e02193da9b8e2a4dd4a7235b8c55c64113ef5815"
+    },
+    {
+      "query_id": "5157.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 31,
+      "saved_detection_count": 54,
+      "uncovered_native_points": 3,
+      "boxes_containing_multiple_native_points": 11,
+      "boxes_containing_no_native_point": 28,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "e0c3543173f4d0209a34c56adca67d6d178a379c6740a8e418aa29cfd62de4a8"
+    },
+    {
+      "query_id": "5157.jpg",
+      "method": "GeCo2_global",
+      "native_count": 31,
+      "saved_detection_count": 53,
+      "uncovered_native_points": 6,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 28,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "e0c3543173f4d0209a34c56adca67d6d178a379c6740a8e418aa29cfd62de4a8"
+    },
+    {
+      "query_id": "5736.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 239,
+      "saved_detection_count": 302,
+      "uncovered_native_points": 2,
+      "boxes_containing_multiple_native_points": 6,
+      "boxes_containing_no_native_point": 55,
+      "excess_single_point_boxes_for_same_native_point": 8,
+      "native_points_sha256": "0e845366b5523db2eda40fb90af5e78230ee366ba410c2beedf1d15bdc332d35"
+    },
+    {
+      "query_id": "5736.jpg",
+      "method": "GeCo2_global",
+      "native_count": 239,
+      "saved_detection_count": 171,
+      "uncovered_native_points": 68,
+      "boxes_containing_multiple_native_points": 1,
+      "boxes_containing_no_native_point": 1,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "0e845366b5523db2eda40fb90af5e78230ee366ba410c2beedf1d15bdc332d35"
+    },
+    {
+      "query_id": "5952.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 48,
+      "saved_detection_count": 73,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 8,
+      "boxes_containing_no_native_point": 19,
+      "excess_single_point_boxes_for_same_native_point": 6,
+      "native_points_sha256": "9163ebe32deb95106c5888c37f9fc5ae52c73402794b25896fd3d2a00383c946"
+    },
+    {
+      "query_id": "5952.jpg",
+      "method": "GeCo2_global",
+      "native_count": 48,
+      "saved_detection_count": 38,
+      "uncovered_native_points": 7,
+      "boxes_containing_multiple_native_points": 9,
+      "boxes_containing_no_native_point": 6,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "9163ebe32deb95106c5888c37f9fc5ae52c73402794b25896fd3d2a00383c946"
+    },
+    {
+      "query_id": "6305.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 32,
+      "saved_detection_count": 22,
+      "uncovered_native_points": 10,
+      "boxes_containing_multiple_native_points": 3,
+      "boxes_containing_no_native_point": 0,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "e0e6c4839fb6cb523a74ec6ada53ba8372e93137edac2d93619497ad3bf75666"
+    },
+    {
+      "query_id": "6305.jpg",
+      "method": "GeCo2_global",
+      "native_count": 32,
+      "saved_detection_count": 20,
+      "uncovered_native_points": 12,
+      "boxes_containing_multiple_native_points": 2,
+      "boxes_containing_no_native_point": 0,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "e0e6c4839fb6cb523a74ec6ada53ba8372e93137edac2d93619497ad3bf75666"
+    },
+    {
+      "query_id": "7169.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 34,
+      "saved_detection_count": 50,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 16,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "502f4db0c35d194f4c85b5e3b36bad33f662582761454d12c4aa3c8b1887aec1"
+    },
+    {
+      "query_id": "7169.jpg",
+      "method": "GeCo2_global",
+      "native_count": 34,
+      "saved_detection_count": 51,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 1,
+      "boxes_containing_no_native_point": 17,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "502f4db0c35d194f4c85b5e3b36bad33f662582761454d12c4aa3c8b1887aec1"
+    },
+    {
+      "query_id": "7601.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 142,
+      "saved_detection_count": 210,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 68,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "a8b560c8003a520ec71aa038a8a470b0a2592dd9e7c6d5929f4d7c88018e82c1"
+    },
+    {
+      "query_id": "7601.jpg",
+      "method": "GeCo2_global",
+      "native_count": 142,
+      "saved_detection_count": 209,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 0,
+      "boxes_containing_no_native_point": 67,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "a8b560c8003a520ec71aa038a8a470b0a2592dd9e7c6d5929f4d7c88018e82c1"
+    },
+    {
+      "query_id": "7434.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 169,
+      "saved_detection_count": 209,
+      "uncovered_native_points": 2,
+      "boxes_containing_multiple_native_points": 87,
+      "boxes_containing_no_native_point": 9,
+      "excess_single_point_boxes_for_same_native_point": 21,
+      "native_points_sha256": "8869044594cba80039cf054360a9bbab38741e8e232e553d979e9104d4314dc6"
+    },
+    {
+      "query_id": "7434.jpg",
+      "method": "GeCo2_global",
+      "native_count": 169,
+      "saved_detection_count": 37,
+      "uncovered_native_points": 12,
+      "boxes_containing_multiple_native_points": 31,
+      "boxes_containing_no_native_point": 5,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "8869044594cba80039cf054360a9bbab38741e8e232e553d979e9104d4314dc6"
+    },
+    {
+      "query_id": "6939.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 62,
+      "saved_detection_count": 143,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 12,
+      "boxes_containing_no_native_point": 25,
+      "excess_single_point_boxes_for_same_native_point": 46,
+      "native_points_sha256": "aa0712d2fda742a536a73523a31a961813c72e573d167d34930a85603fae07bd"
+    },
+    {
+      "query_id": "6939.jpg",
+      "method": "GeCo2_global",
+      "native_count": 62,
+      "saved_detection_count": 78,
+      "uncovered_native_points": 3,
+      "boxes_containing_multiple_native_points": 44,
+      "boxes_containing_no_native_point": 21,
+      "excess_single_point_boxes_for_same_native_point": 5,
+      "native_points_sha256": "aa0712d2fda742a536a73523a31a961813c72e573d167d34930a85603fae07bd"
+    },
+    {
+      "query_id": "6729.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 251,
+      "saved_detection_count": 316,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 103,
+      "boxes_containing_no_native_point": 41,
+      "excess_single_point_boxes_for_same_native_point": 14,
+      "native_points_sha256": "6bc66d6d5622dae28473952f3d76f3145da4fdd10a1cf903b988e52ef9c878a8"
+    },
+    {
+      "query_id": "6729.jpg",
+      "method": "GeCo2_global",
+      "native_count": 251,
+      "saved_detection_count": 144,
+      "uncovered_native_points": 16,
+      "boxes_containing_multiple_native_points": 116,
+      "boxes_containing_no_native_point": 11,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "6bc66d6d5622dae28473952f3d76f3145da4fdd10a1cf903b988e52ef9c878a8"
+    },
+    {
+      "query_id": "7656.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 1231,
+      "saved_detection_count": 900,
+      "uncovered_native_points": 34,
+      "boxes_containing_multiple_native_points": 862,
+      "boxes_containing_no_native_point": 1,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "70145d56ec0ae875e52360f868541d85f052f7c43a1d5603c7509a90cea4373b"
+    },
+    {
+      "query_id": "7656.jpg",
+      "method": "GeCo2_global",
+      "native_count": 1231,
+      "saved_detection_count": 634,
+      "uncovered_native_points": 209,
+      "boxes_containing_multiple_native_points": 388,
+      "boxes_containing_no_native_point": 145,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "70145d56ec0ae875e52360f868541d85f052f7c43a1d5603c7509a90cea4373b"
+    },
+    {
+      "query_id": "7223.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 105,
+      "saved_detection_count": 131,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 47,
+      "boxes_containing_no_native_point": 12,
+      "excess_single_point_boxes_for_same_native_point": 9,
+      "native_points_sha256": "3a1a8e4c6925b33c4c4f5b7d0375adf28d99f82ba67035322a4f9b6643c2799f"
+    },
+    {
+      "query_id": "7223.jpg",
+      "method": "GeCo2_global",
+      "native_count": 105,
+      "saved_detection_count": 77,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 48,
+      "boxes_containing_no_native_point": 19,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "3a1a8e4c6925b33c4c4f5b7d0375adf28d99f82ba67035322a4f9b6643c2799f"
+    },
+    {
+      "query_id": "7544.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 67,
+      "saved_detection_count": 83,
+      "uncovered_native_points": 1,
+      "boxes_containing_multiple_native_points": 1,
+      "boxes_containing_no_native_point": 12,
+      "excess_single_point_boxes_for_same_native_point": 5,
+      "native_points_sha256": "6034647943e86885d4f411a9c2d9724abdbcca893349dcdbdfccd5e1610e2ae0"
+    },
+    {
+      "query_id": "7544.jpg",
+      "method": "GeCo2_global",
+      "native_count": 67,
+      "saved_detection_count": 92,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 12,
+      "boxes_containing_no_native_point": 22,
+      "excess_single_point_boxes_for_same_native_point": 2,
+      "native_points_sha256": "6034647943e86885d4f411a9c2d9724abdbcca893349dcdbdfccd5e1610e2ae0"
+    },
+    {
+      "query_id": "6983.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 40,
+      "saved_detection_count": 59,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 4,
+      "boxes_containing_no_native_point": 19,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "e408e98509a9d555228e70e1976c540fd93a05fef6188ae503684599bde029b7"
+    },
+    {
+      "query_id": "6983.jpg",
+      "method": "GeCo2_global",
+      "native_count": 40,
+      "saved_detection_count": 57,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 10,
+      "boxes_containing_no_native_point": 16,
+      "excess_single_point_boxes_for_same_native_point": 1,
+      "native_points_sha256": "e408e98509a9d555228e70e1976c540fd93a05fef6188ae503684599bde029b7"
+    },
+    {
+      "query_id": "6853.jpg",
+      "method": "CountGDpp_global",
+      "native_count": 26,
+      "saved_detection_count": 40,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 12,
+      "boxes_containing_no_native_point": 1,
+      "excess_single_point_boxes_for_same_native_point": 6,
+      "native_points_sha256": "72964e27f3745fcd89d2d0e30fb24e7e524abc832b427cc69ff43cf8b81e27eb"
+    },
+    {
+      "query_id": "6853.jpg",
+      "method": "GeCo2_global",
+      "native_count": 26,
+      "saved_detection_count": 13,
+      "uncovered_native_points": 0,
+      "boxes_containing_multiple_native_points": 13,
+      "boxes_containing_no_native_point": 0,
+      "excess_single_point_boxes_for_same_native_point": 0,
+      "native_points_sha256": "72964e27f3745fcd89d2d0e30fb24e7e524abc832b427cc69ff43cf8b81e27eb"
+    }
+  ],
+  "classification_scope": "Geometric REVIEW CANDIDATES only. Boxes can overlap genuine objects; a box without a labeled point can be displaced, a duplicate, wrong-category or incompletely annotated. No semantic wrong-object/merge/duplicate ground truth is claimed.",
+  "author_native_AP_and_FSC_point_count_targets_are_distinct": true,
+  "no_predictions_filtered_by_GT": true,
+  "native_labels_or_splits_changed": false,
+  "new_model_inference": false,
+  "new_training": false
+}

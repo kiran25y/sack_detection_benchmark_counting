@@ -1,0 +1,293 @@
+{
+  "checks": {
+    "local_release": true,
+    "remote_release": true,
+    "metric_helper_frozen": true,
+    "controller_exited": true,
+    "controller_completed": true,
+    "docker_completed": true,
+    "plan": true,
+    "result_hashes": true,
+    "budget": true,
+    "log_calls": true,
+    "finite_logs": true,
+    "presentations": true,
+    "worker_frozen_encoder": true,
+    "source_checkpoint": true,
+    "reference_lr_budget": true,
+    "reference_lr_finite_state": true,
+    "reference_lr_initial_identity": true,
+    "reference_lr_checkpoint_hash": true,
+    "reference_lr_initial_arrays": true,
+    "reference_lr_dynamic_used": true,
+    "reference_lr_loss": true,
+    "reference_lr_schedule": false,
+    "lower_lr_budget": true,
+    "lower_lr_finite_state": true,
+    "lower_lr_initial_identity": true,
+    "lower_lr_checkpoint_hash": true,
+    "lower_lr_initial_arrays": true,
+    "lower_lr_dynamic_used": true,
+    "lower_lr_loss": true,
+    "lower_lr_schedule": false,
+    "dependent_probe_replay": true
+  },
+  "metrics": {
+    "reference_lr": {
+      "per_image": [
+        {
+          "image_id": "T04_09",
+          "group": "ipic_dependency_a8232acfdcec",
+          "truth": 0,
+          "count": 0,
+          "error": 0,
+          "ae": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": null,
+          "game1": 0,
+          "game2": 0,
+          "maximum_confidence": 0.016914913430809975
+        },
+        {
+          "image_id": "003",
+          "group": "ipic_dependency_b778d9b86516",
+          "truth": 1,
+          "count": 1,
+          "error": 0,
+          "ae": 0,
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0,
+          "game1": 0,
+          "game2": 0,
+          "maximum_confidence": 0.793105959892273
+        },
+        {
+          "image_id": "T04_05",
+          "group": "ipic_dependency_a8232acfdcec",
+          "truth": 21,
+          "count": 13,
+          "error": -8,
+          "ae": 8,
+          "tp": 13,
+          "fp": 0,
+          "fn": 8,
+          "f1": 0.7647058823529411,
+          "game1": 8,
+          "game2": 8,
+          "maximum_confidence": 0.5926666259765625
+        },
+        {
+          "image_id": "T24_10",
+          "group": "ipic_dependency_9945d48d4761",
+          "truth": 34,
+          "count": 4,
+          "error": -30,
+          "ae": 30,
+          "tp": 4,
+          "fp": 0,
+          "fn": 30,
+          "f1": 0.21052631578947367,
+          "game1": 30,
+          "game2": 30,
+          "maximum_confidence": 0.5156199336051941
+        }
+      ],
+      "summary": {
+        "mae": 9.5,
+        "rmse": 15.524174696260024,
+        "bias": -9.5,
+        "pooled_f1_at8": 0.4864864864864865,
+        "positive_macro_f1_at8": 0.6584107327141383,
+        "game1": 9.5,
+        "game2": 9.5,
+        "empty_false_positives": 0,
+        "tp": 18,
+        "fp": 0,
+        "fn": 38
+      }
+    },
+    "lower_lr": {
+      "per_image": [
+        {
+          "image_id": "T04_09",
+          "group": "ipic_dependency_a8232acfdcec",
+          "truth": 0,
+          "count": 0,
+          "error": 0,
+          "ae": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": null,
+          "game1": 0,
+          "game2": 0,
+          "maximum_confidence": 0.014503579586744308
+        },
+        {
+          "image_id": "003",
+          "group": "ipic_dependency_b778d9b86516",
+          "truth": 1,
+          "count": 1,
+          "error": 0,
+          "ae": 0,
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0,
+          "game1": 0,
+          "game2": 0,
+          "maximum_confidence": 0.6297746300697327
+        },
+        {
+          "image_id": "T04_05",
+          "group": "ipic_dependency_a8232acfdcec",
+          "truth": 21,
+          "count": 0,
+          "error": -21,
+          "ae": 21,
+          "tp": 0,
+          "fp": 0,
+          "fn": 21,
+          "f1": 0.0,
+          "game1": 21,
+          "game2": 21,
+          "maximum_confidence": 0.4532618522644043
+        },
+        {
+          "image_id": "T24_10",
+          "group": "ipic_dependency_9945d48d4761",
+          "truth": 34,
+          "count": 0,
+          "error": -34,
+          "ae": 34,
+          "tp": 0,
+          "fp": 0,
+          "fn": 34,
+          "f1": 0.0,
+          "game1": 34,
+          "game2": 34,
+          "maximum_confidence": 0.43014734983444214
+        }
+      ],
+      "summary": {
+        "mae": 13.75,
+        "rmse": 19.981241202688086,
+        "bias": -13.75,
+        "pooled_f1_at8": 0.03508771929824561,
+        "positive_macro_f1_at8": 0.3333333333333333,
+        "game1": 13.75,
+        "game2": 13.75,
+        "empty_false_positives": 0,
+        "tp": 1,
+        "fp": 0,
+        "fn": 55
+      }
+    }
+  },
+  "absolute_gate_components": {
+    "reference_lr": {
+      "engineering_complete": false,
+      "mae": false,
+      "pooled_f1": false,
+      "positive_macro_f1": false,
+      "empty_fp": true,
+      "single_sack": true
+    },
+    "lower_lr": {
+      "engineering_complete": false,
+      "mae": false,
+      "pooled_f1": false,
+      "positive_macro_f1": false,
+      "empty_fp": true,
+      "single_sack": true
+    }
+  },
+  "absolute_passed": {
+    "reference_lr": false,
+    "lower_lr": false
+  },
+  "comparison_components": {
+    "mae_gain": false,
+    "positive_f1_gain": false,
+    "all_protections": false,
+    "primary_absolute": false
+  },
+  "comparison_passed": false,
+  "protections": {
+    "T04_09_ae": true,
+    "T04_09_game1": true,
+    "T04_09_game2": true,
+    "003_ae": true,
+    "003_game1": true,
+    "003_game2": true,
+    "003_f1": true,
+    "T04_05_ae": false,
+    "T04_05_game1": false,
+    "T04_05_game2": false,
+    "T24_10_ae": false,
+    "T24_10_game1": false,
+    "T24_10_game2": false
+  },
+  "deltas": [
+    {
+      "image_id": "T04_09",
+      "lower_minus_reference": {
+        "count": 0,
+        "ae": 0,
+        "game1": 0,
+        "game2": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "f1": null
+      }
+    },
+    {
+      "image_id": "003",
+      "lower_minus_reference": {
+        "count": 0,
+        "ae": 0,
+        "game1": 0,
+        "game2": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "f1": 0.0
+      }
+    },
+    {
+      "image_id": "T04_05",
+      "lower_minus_reference": {
+        "count": -13,
+        "ae": 13,
+        "game1": 13,
+        "game2": 13,
+        "tp": -13,
+        "fp": 0,
+        "fn": 13,
+        "f1": -0.7647058823529411
+      }
+    },
+    {
+      "image_id": "T24_10",
+      "lower_minus_reference": {
+        "count": -4,
+        "ae": 4,
+        "game1": 4,
+        "game2": 4,
+        "tp": -4,
+        "fp": 0,
+        "fn": 4,
+        "f1": -0.21052631578947367
+      }
+    }
+  ],
+  "ordinary_pilot_candidate": null,
+  "full_training_started": false,
+  "paper_final_accuracy": null,
+  "limits": "Four repeatedly fitted images, seed1729, no development or reserved scoring. Authentic Adam continuation from same150-step diagnostic. This is a standard LR engineering test, not novelty or generalization."
+}

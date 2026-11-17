@@ -1,0 +1,40 @@
+[
+  {
+    "query_id": "guard_004",
+    "image": "images/guard_004.jpg",
+    "image_sha256": "40bcb1064377a87791ab6569ca51becb5db86a8d0b4461e4cae09e4c5d6c8adb",
+    "width": 2560,
+    "height": 1440,
+    "roi_xyxy": [
+      350,
+      350,
+      1450,
+      1440
+    ],
+    "source_box_xyxy": [
+      952,
+      801,
+      1077,
+      905
+    ]
+  },
+  {
+    "query_id": "guard_017",
+    "image": "images/guard_017.jpg",
+    "image_sha256": "4d6f4b905e24a46db090e0b79266dd40314d9db9b7e4abb2f9fb8084e0d0a6ff",
+    "width": 2560,
+    "height": 1440,
+    "roi_xyxy": [
+      350,
+      350,
+      1450,
+      1440
+    ],
+    "source_box_xyxy": [
+      873,
+      724,
+      992,
+      812
+    ]
+  }
+]

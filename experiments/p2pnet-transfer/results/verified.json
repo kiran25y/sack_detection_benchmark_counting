@@ -1,0 +1,59 @@
+{
+  "report": {
+    "state": "completed",
+    "steps": 756,
+    "checkpoints": {
+      "1729": "5fea855a225eeb3f61f0fa22068b794694dde17389225585cb2c3812c8b2c345",
+      "1730": "3c045a06dfb9ebef700dfdba43b1f4350f0ef82e7a88eaac4bd3e4ace07da6fc",
+      "1731": "94bc130cef09fa05a8ba9dd3a83d15e6b524aee90df43985600321484b10d69c"
+    },
+    "hashes": {
+      "1731.json": "73bf2fdfba0be5b08ff558c7df04f468f70841d3f12abf0dbe1729e3a4b4ae02",
+      "updates.jsonl": "6aba84d39d2f45a26ee48dcdf3f8fd01b35d370fcb32403ee291d1c42f575dd8",
+      "pretrained.json": "f6a9f89977c47583169928c88afd6fed1f76be150a5746a2fd5c686275699070",
+      "1729.json": "73bf2fdfba0be5b08ff558c7df04f468f70841d3f12abf0dbe1729e3a4b4ae02",
+      "1730.json": "73bf2fdfba0be5b08ff558c7df04f468f70841d3f12abf0dbe1729e3a4b4ae02"
+    },
+    "frames_per_endpoint": 74,
+    "methods": [
+      "pretrained",
+      "1729",
+      "1730",
+      "1731"
+    ]
+  },
+  "release": {
+    "worker/detector.py": "82d45d053255f73b9de5b03c40af1e09c7aacc2b0eee130bd1d215f1fc6f4834",
+    "worker/plan.json": "86a934b43345dddef76a21058716df23bcbda6e89a0b14242176815643169331",
+    "worker/models/__init__.py": "dad01c6bd92f1251ed430ad2e7e305da4581da0c05fbae78a3e0bfa66642b4ab",
+    "worker/models/backbone.py": "076375c1f32ffbad6266a435325ef1abc80fb1acea2070a7921506ea3b7c07f2",
+    "worker/models/matcher.py": "4426df389f763510d9879b858ddc15f8d6aae935d0812e5b957b281bcf549bc2",
+    "worker/models/p2pnet.py": "a3705b70b9253f37babe437fc79f1be8a7a05563ac2f2430a4dfbda3f21546a0",
+    "worker/models/vgg_.py": "2e4d08e1b04d549b414fd4fc3034399224f8140cf0d6f628a1a68c92507175e7",
+    "worker/util/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "worker/util/misc.py": "7c11ce66c329e1e59e5ab7b614f12c2ad5f273027b263eb33f64d2a1e74b26d6",
+    "worker/weights/SHTechA.pth": "506047732b128ff09efef18e94bfacbe35fcfef300e5e9eeeece259b0488c63f",
+    "controller.py": "4a9c492b6dfd8d148aaf9b76f4c751a6bb9be2a6d404efd0097d6bfca1685173",
+    "previous_code_hashes.json": "65c28e3c97ab34be70a90d9f2bfa8da61785c9ddb82e79d1fa8b979e099195f0"
+  },
+  "controller": {
+    "state": "completed",
+    "host_time": 1794320101.6512473,
+    "exit_code": 0,
+    "docker_state": {
+      "Status": "exited",
+      "Running": false,
+      "Paused": false,
+      "Restarting": false,
+      "OOMKilled": false,
+      "Dead": false,
+      "Pid": 0,
+      "ExitCode": 0,
+      "Error": "",
+      "StartedAt": "2026-11-10T14:11:16.713224048Z",
+      "FinishedAt": "2026-11-10T14:14:59.346429776Z"
+    },
+    "guard_stop": null,
+    "elapsed_seconds": 225.05098865600303
+  }
+}

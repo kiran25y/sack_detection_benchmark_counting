@@ -1,0 +1,12 @@
+{
+  "time": "2026-11-09T13:37:25.157682+09:00",
+  "release_hashes": {
+    "worker/plan.json": "a204e3c1c0e49d299ec9ab21988d6ab099a0118c5946106e67d491bbcefefb3e",
+    "worker/detector.py": "7c55ab99e1bdc33f81ac6b4851fb2f70e379194c5d3a916a845ace5a20b9c874",
+    "previous_code_hashes.json": "65c28e3c97ab34be70a90d9f2bfa8da61785c9ddb82e79d1fa8b979e099195f0",
+    "controller.py": "6c26507e2a697b270140d6a682b438e51e5c3b081d4a0afb0a90417cf2d630f3"
+  },
+  "manifest": "dfa95f1421e4b3c635e18880d95244ebf7af38c827706cb31b20f32d27c7253d",
+  "controls": "959238cc2195e427099be755a8adfb7c89250f0725a21df5888b2b7f06b344d7",
+  "release": "c209c28d44aa4737dcabea3723ca21ab43a2265ef0ba0b96fadc6f711fd33d00"
+}

@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "client_KST": "2026-10-29T19:38:17.581564+09:00",
+  "question": "Do local responses to exemplar removal support protected instance correction beyond fusion and matched verification?",
+  "authorization": "Owner October29: proceed with next bounded pilot and finish training/experiment; a passing pilot is not automatic full-counter or publication authority.",
+  "query_count": 391,
+  "roles": {
+    "fitting": 192,
+    "calibration": 64,
+    "decision": 128,
+    "consumed_extreme_stress": 7
+  },
+  "group_policy": "Disjoint category components linked by exact-image hashes; source-training base-model exposure disclosed. Earlier diagnostic/selection rows excluded from decision.",
+  "source_manifest_sha256": "a09f098cb75e763d6d1dea4a990f390ff0a8281aa1fddeabe5f0fa84a7618b09",
+  "class_map_sha256": "ba1bc6c6a21875919625adb851eaee1aab0ad1f88ecf64d017bebda891b5815e",
+  "cohort_sha256": "8cee90e1918646f8622395c2da04c118725593bed504e8112f6fecaee0813b93",
+  "preflight_ids": [
+    "3149.jpg",
+    "3151.jpg",
+    "804.jpg"
+  ],
+  "model_forwards_cap": 1580,
+  "preflight_forwards": 16,
+  "bank_forwards": 1564,
+  "variants": [
+    "native_full_three",
+    "omit_0",
+    "omit_1",
+    "omit_2"
+  ],
+  "scale": "All four responses use native full-three image tensor/scale; no new crops or changes to native postprocess.",
+  "pretrained_weights": "Frozen existing verified GeCo2 and SAM2; no new download.",
+  "features": "ROI means from all three native frozen SAM2 FPN levels; fixed unfitted orthogonal projections, exemplar cosines, geometry, native confidence. Correction substitutes 16 response descriptors for 16 local descriptors.",
+  "inference_exclusion": [
+    "gt_count",
+    "points",
+    "class_component",
+    "role",
+    "query_id as model feature",
+    "truth-derived sizes or matches"
+  ],
+  "association": {
+    "anchor": "First response member, never transitive moving centroid",
+    "iou_min": 0.3,
+    "normalized_center_distance_max": 0.5,
+    "method": "Maximum-cardinality then minimum cost assignment, at most one member per response"
+  },
+  "label_semantics": "Per-response one-to-one point-proximity assignments within max(2px, half median supplied-exemplar side); unmatched near-point proposals ignored; far proposals are point-location negatives, not object-mask truth.",
+  "objective": "Same unweighted BCE on valid per-proposal point-assignment targets, mean within each image then across batch. No new V11-loss experiment or inference GT.",
+  "controls": [
+    "native full-three GeCo2",
+    "four-response NMS fusion",
+    "fixed >=3-response consensus",
+    "matched local verifier",
+    "response-aware correction",
+    "within-view shuffled-correspondence replay"
+  ],
+  "seeds": [
+    2027,
+    2028,
+    2029
+  ],
+  "epochs": 10,
+  "batch_size": 8,
+  "steps_per_fit": 240,
+  "learned_arms": 2,
+  "head_parameters": 4161,
+  "training_optimizer_calls": 1440,
+  "engineering_disposable_calls": 8,
+  "backbone_optimizer_calls": 0,
+  "optimizer": {
+    "name": "AdamW",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "clip": 1
+  },
+  "initial_output_probability": 0.9,
+  "threshold": 0.5,
+  "threshold_search": false,
+  "early_stopping": false,
+  "seed_selection": false,
+  "feature_standardization": "Fitting images only; std floor0.05 and clip[-10,10], same procedure both arms.",
+  "endpoint": "Mean absolute error over fixed decision images averaged across three seeds; not a count ensemble.",
+  "gate": {
+    "overall_absolute_gain": 0.5,
+    "overall_relative_gain": 0.05,
+    "dense_150_899_relative_gain": 0.05,
+    "stress_extreme_relative_gain": 0.05,
+    "controls": [
+      "native",
+      "fusion",
+      "consensus",
+      "verifier"
+    ],
+    "protected": [
+      "sparse_MAE",
+      "overall_RMSE",
+      "all_GAME1",
+      "dense_GAME1",
+      "stress_RMSE",
+      "stress_GAME1"
+    ],
+    "absolute_protection_margin": 0.1,
+    "relative_protection_margin": 0.01,
+    "paired_category_bootstrap_samples": 2000,
+    "paired_interval_control": "verifier",
+    "CI_upper_below_zero": true,
+    "shuffled_correspondence_dense_advantage": 0.02,
+    "shuffled_overall_no_regression": true
+  },
+  "calibration": "Report-only group check; no threshold/coefficient/model selection. Does not enter fit statistics.",
+  "limits": "Point proximity is not instance AP; consumed stress is not independent extremes; base may have seen FSC training. No novelty/acceptance established by a pass.",
+  "guards": {
+    "admission_GiB": 48,
+    "admission_checks": 2,
+    "separation_seconds": 30,
+    "stop_GiB": 32,
+    "disk_GiB": 100,
+    "container_GiB": 24,
+    "extra_swap": 0,
+    "cpus": 2,
+    "max_hours": 48,
+    "poll_seconds": 30
+  },
+  "failure_policy": "Stop on incomplete stage, integrity, finite/replay, memory/disk or timeout failure; no retry or extra fit; preserve all outputs."
+}

@@ -1,0 +1,11 @@
+{
+  "time_kst": "2026-11-09T11:10:47.973760+09:00",
+  "predictions_sha256": "959238cc2195e427099be755a8adfb7c89250f0725a21df5888b2b7f06b344d7",
+  "frames": 65,
+  "modes": [
+    "unchanged",
+    "uniform",
+    "confidence_vote",
+    "opposite"
+  ]
+}

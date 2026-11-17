@@ -1,0 +1,21 @@
+{
+  "expected": 1286,
+  "evaluated": 1286,
+  "failed": 0,
+  "missing": 0,
+  "complete": true,
+  "units": "visible target instances per query",
+  "measured": {
+    "MAE": 14.76264149553112,
+    "RMSE": 68.6621541809568,
+    "bias": -6.505951239569562,
+    "exact_accuracy": 0.0,
+    "NAE_positive_only": 0.15789237124038757,
+    "empty_queries": 0,
+    "empty_false_positive_mean": null
+  },
+  "GAME": {
+    "1": 16.512566963219392,
+    "2": 19.475750644947656
+  }
+}

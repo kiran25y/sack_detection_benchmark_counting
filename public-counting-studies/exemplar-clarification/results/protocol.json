@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "client_KST": "2026-10-28T19:05:02.082033+09:00",
+  "question": "Does one extra native exemplar create practical protected counting-repair opportunities?",
+  "query_count": 128,
+  "compatibility_query_ids": [
+    "3725.jpg",
+    "2494.jpg",
+    "6820.jpg",
+    "2360.jpg"
+  ],
+  "population": "Fixed stratified source-training feasibility sample; pretrained counters may have seen these data",
+  "model_forwards_cap": 680,
+  "compatibility_forwards": 40,
+  "bank_forwards": 640,
+  "optimizer_steps": 0,
+  "persistent_steps": 0,
+  "source_manifest_sha256": "a09f098cb75e763d6d1dea4a990f390ff0a8281aa1fddeabe5f0fa84a7618b09",
+  "initial_input_sha256": "c156d70aabd3681c8053cdc748a2714a3c578f919e4b1f645aa525403784569a",
+  "local_truth_sha256": "ccbca6d8bf1889a712987fffab4f2ad8341d82cbbf4d80afce2da08007443e90",
+  "truth_transferred_to_worker": false,
+  "request_rates": [
+    0.25,
+    0.5
+  ],
+  "primary_rate": 0.25,
+  "headroom_gate": {
+    "min_absolute_MAE_gain": 0.5,
+    "min_relative_MAE_gain": 0.05,
+    "min_dense_extreme_relative_gain": 0.02,
+    "min_helped_queries": 8,
+    "protection_absolute_margin": 0.1,
+    "protection_relative_margin": 0.01
+  },
+  "gate_interpretation": "Diagnostic ceiling at up to32 requests: all three comparisons must pass; does not validate predictability, novelty, or unseen accuracy.",
+  "comparisons": [
+    "countgd_two_vs_three",
+    "geco_two_vs_three",
+    "geco_two_vs_three_pair_scale"
+  ],
+  "no_favorable_arm_switch": true,
+  "secondary_rate_cannot_rescue_primary": true,
+  "controls": [
+    "always two",
+    "always three",
+    "uniform random expected at same request rate",
+    "lowest mean native-confidence requests",
+    "truth-based oracle diagnostic only"
+  ],
+  "spatial_metrics": "GAME1/2/3 from unchanged native points and predicted box centers; no GT filtering",
+  "failure_policy": "Any incomplete/native/repeat/hash/finite/resource failure stops; no automatic retry or partial scientific pass",
+  "guards": {
+    "admission_available_GiB": 48,
+    "admission_checks": 2,
+    "admission_separation_seconds": 30,
+    "stop_available_GiB": 32,
+    "disk_reserve_GiB": 100,
+    "container_GiB": 24,
+    "extra_swap": 0,
+    "cpus": 2,
+    "max_hours": 4,
+    "poll_seconds": 30
+  },
+  "repeat_tolerance": {
+    "rtol": 1e-05,
+    "atol": 1e-06
+  },
+  "fixed_weights": {
+    "/research/models/CountGDPlusPlus/countgd_plusplus.pth": "b89395d79711c9b9f13f3ef80cd2e528386fb1d70453f99443be4eccab33592f",
+    "/research/models/GeCo2-FSCD147/geco2_fscd147.pth": "4254ab24415a6030e50b81af77bd25e5df662baa57c51e23f7fe81057fab3a01",
+    "/research/models/SAM2-base-plus/sam2_hiera_base_plus.pt": "d0bb7f236400a49669ffdd1be617959a8b1d1065081789d7bbff88eded3a8071"
+  },
+  "new_downloads": 0,
+  "reserved_data_used": false,
+  "next_if_pass": "Freeze a separate grouped predictability pilot; no full counter training follows automatically"
+}

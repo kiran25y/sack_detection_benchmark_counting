@@ -1,0 +1,201 @@
+{
+  "time": "2026-11-09T14:08:27.251139+09:00",
+  "meaning": "Analyst visual check of real missed reviewed visible centers; no annotation changes, independent severity labels or population estimate.",
+  "sample": [
+    {
+      "id": "T24_10",
+      "index": 19,
+      "point": [
+        1019.0,
+        765.0
+      ],
+      "count": 34,
+      "group": "ipic_dependency_9945d48d4761",
+      "stratum": "higher",
+      "visual_class": "uncertain",
+      "note": "Glare stripe over a pale sack in a touching stack; physical obstruction is difficult to distinguish."
+    },
+    {
+      "id": "T24_03",
+      "index": 9,
+      "point": [
+        730.0,
+        774.0
+      ],
+      "count": 19,
+      "group": "ipic_dependency_9945d48d4761",
+      "stratum": "higher",
+      "visual_class": "uncertain",
+      "note": "Very dark stack, limited separation between sack outlines."
+    },
+    {
+      "id": "T24_01",
+      "index": 7,
+      "point": [
+        850.0,
+        705.0
+      ],
+      "count": 33,
+      "group": "ipic_dependency_9945d48d4761",
+      "stratum": "higher",
+      "visual_class": "uncertain",
+      "note": "Stacked mesh sacks touch; which one is in front is ambiguous at the mark."
+    },
+    {
+      "id": "T24_06",
+      "index": 6,
+      "point": [
+        906.0,
+        665.0
+      ],
+      "count": 7,
+      "group": "ipic_dependency_9945d48d4761",
+      "stratum": "low",
+      "visual_class": "uncertain",
+      "note": "Dark truck body and handling activity. The individual outline is indistinct."
+    },
+    {
+      "id": "T24_07",
+      "index": 1,
+      "point": [
+        914.0,
+        505.0
+      ],
+      "count": 4,
+      "group": "ipic_dependency_9945d48d4761",
+      "stratum": "low",
+      "visual_class": "uncertain",
+      "note": "The marked section lies among workers and several stacked sacks; its full outline is ambiguous."
+    },
+    {
+      "id": "T24_04",
+      "index": 5,
+      "point": [
+        1107.0,
+        582.0
+      ],
+      "count": 7,
+      "group": "ipic_dependency_9945d48d4761",
+      "stratum": "low",
+      "visual_class": "visible_partial_occlusion",
+      "note": "Truck rail and side structure cover part of the reviewed sack at the right side of the load."
+    },
+    {
+      "id": "T04_05",
+      "index": 8,
+      "point": [
+        628.0,
+        832.0
+      ],
+      "count": 21,
+      "group": "ipic_dependency_a8232acfdcec",
+      "stratum": "higher",
+      "visual_class": "visible_partial_occlusion",
+      "note": "The right portion of the marked red sack meets and disappears behind the standing worker."
+    },
+    {
+      "id": "T04_06",
+      "index": 8,
+      "point": [
+        946.0,
+        963.0
+      ],
+      "count": 13,
+      "group": "ipic_dependency_a8232acfdcec",
+      "stratum": "higher",
+      "visual_class": "uncertain",
+      "note": "Red mesh among pale bags and adjacent blue hardware; the exact overlap is ambiguous."
+    },
+    {
+      "id": "T04_02",
+      "index": 8,
+      "point": [
+        785.0,
+        574.0
+      ],
+      "count": 13,
+      "group": "ipic_dependency_a8232acfdcec",
+      "stratum": "higher",
+      "visual_class": "uncertain",
+      "note": "Backlit stack and dark rail; the target boundary is indistinct."
+    },
+    {
+      "id": "T04_00",
+      "index": 0,
+      "point": [
+        858.0,
+        489.0
+      ],
+      "count": 11,
+      "group": "ipic_dependency_a8232acfdcec",
+      "stratum": "low",
+      "visual_class": "uncertain",
+      "note": "A worker stands on a dark stack; contact is apparent but the particular boundary is indistinct."
+    },
+    {
+      "id": "T04_07",
+      "index": 4,
+      "point": [
+        821.0,
+        848.0
+      ],
+      "count": 8,
+      "group": "ipic_dependency_a8232acfdcec",
+      "stratum": "low",
+      "visual_class": "visible_partial_occlusion",
+      "note": "A nearer white mesh sack overlaps the right outline of the marked white sack."
+    },
+    {
+      "id": "T04_04",
+      "index": 3,
+      "point": [
+        1095.0,
+        602.0
+      ],
+      "count": 7,
+      "group": "ipic_dependency_a8232acfdcec",
+      "stratum": "low",
+      "visual_class": "visible_partial_occlusion",
+      "note": "A section of red mesh is visible between the truck rails, with its lower outline obscured."
+    },
+    {
+      "id": "001",
+      "index": 0,
+      "point": [
+        980.0,
+        740.0
+      ],
+      "count": 2,
+      "group": "ipic_dependency_b778d9b86516",
+      "stratum": "low",
+      "visual_class": "no_clear_physical_obstruction",
+      "note": "Pale carried sack crossed by a glare stripe. Glare alone was not classified as physical occlusion."
+    },
+    {
+      "id": "020",
+      "index": 0,
+      "point": [
+        839.0,
+        771.0
+      ],
+      "count": 3,
+      "group": "ipic_dependency_b778d9b86516",
+      "stratum": "low",
+      "visual_class": "no_clear_physical_obstruction",
+      "note": "A carried sack with a visible mesh face."
+    },
+    {
+      "id": "002",
+      "index": 3,
+      "point": [
+        811.0,
+        736.0
+      ],
+      "count": 4,
+      "group": "ipic_dependency_b778d9b86516",
+      "stratum": "low",
+      "visual_class": "uncertain",
+      "note": "Small carried sack near a worker and adjacent load; object boundaries are hard to separate."
+    }
+  ]
+}
